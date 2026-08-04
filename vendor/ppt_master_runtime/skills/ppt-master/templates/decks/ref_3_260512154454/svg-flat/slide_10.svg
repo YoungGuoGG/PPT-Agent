@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#364557"/></marker><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="26.67" stdDeviation="16.67" flood-color="#0070E1" flood-opacity="0.18"/></filter><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><polygon points="775.74,383.02 707.87,484.36 572.13,484.36 504.26,383.02 572.13,281.68 707.87,281.68"/></clipPath><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="26.67" stdDeviation="16.67" flood-color="#0070E1" flood-opacity="0.18"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-3" data-name="矩形 2">
+<rect x="16.06" y="15.1" width="1247.89" height="689.81" fill="#FFFFFF" stroke="#C4D5FC" stroke-width="1"/>
+</g>
+<g id="layout-shape-32" data-name="矩形 31">
+<rect x="70.24" y="57.46" width="43.96" height="43.96" fill="#0A41BB" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-33" data-name="矩形 32">
+<rect x="92.4" y="79.62" width="32.2" height="32.2" fill="none" stroke="#0A41BB" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-5" data-name="组合 4">
+<g id="shape-7" data-name="六边形 6" transform="rotate(270 638.67 383.02)">
+<polygon points="850.68,383.02 744.67,541.3 532.66,541.3 426.65,383.02 532.66,224.73 744.67,224.73" stroke="#364557" stroke-opacity="0.73" marker-end="url(#marrow1)" fill="#0A41BB" stroke-width="1"/>
+</g>
+<g id="shape-8" data-name="六边形 7" transform="rotate(270 638.67 383.02)">
+<polygon points="824.37,383.02 731.52,521.66 545.81,521.66 452.96,383.02 545.81,244.37 731.52,244.37" fill="#FFFFFF" stroke-width="0.667" stroke="#F2F2F2" filter="url(#fx3)"/>
+</g>
+</g>
+<g id="shape-6" data-name="六边形 5" transform="rotate(270 640 383.02)">
+<image clip-path="url(#clip1)" href="../assets/image12.jpeg" x="504.26" y="266" width="271.48" height="234.04" preserveAspectRatio="none"/>
+<polygon points="775.74,383.02 707.87,484.36 572.13,484.36 504.26,383.02 572.13,281.68 707.87,281.68" fill="none" stroke-width="0.667" stroke="#F2F2F2" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="130.58" y="208.8" width="211.68" height="164.79" fill="none"/>
+<text x="236.42" y="322.4" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="128" fill="#0A41BB"><tspan fill="#0A41BB" font-size="128">01</tspan></text>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="937.74" y="208.8" width="211.68" height="164.79" fill="none"/>
+<text x="1043.58" y="322.4" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="128" fill="#0A41BB"><tspan fill="#0A41BB" font-size="128">02</tspan></text>
+</g>
+<g id="shape-11" data-name="组合 10">
+<g id="shape-12" data-name="文本框 11" transform="translate(240.17 391.79) scale(-1 1) translate(-240.17 -391.79)">
+<rect x="109.11" y="367.56" width="262.12" height="48.47" fill="none"/>
+<text x="240.17" y="399.56" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="32" fill="#0A41BB"><tspan fill="#0A41BB" font-size="32">请输入标题文字</tspan></text>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="97.03" y="418.59" width="286.27" height="92.38" fill="none"/>
+<text x="235.37" y="439.26" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">或者大小属性调整文字文本的行</tspan><tspan x="235.37" dy="23.33" fill="#404040" font-size="18.67">间距。点击这里，输入您的文本</tspan><tspan x="235.37" dy="23.33" fill="#404040" font-size="18.67">文字或者大小属性调整文字</tspan></text>
+</g>
+</g>
+<g id="shape-14" data-name="组合 13">
+<g id="shape-15" data-name="文本框 14" transform="translate(1055.29 391.79) scale(-1 1) translate(-1055.29 -391.79)">
+<rect x="924.23" y="367.56" width="262.12" height="48.47" fill="none"/>
+<text x="1055.29" y="399.56" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="32" fill="#0A41BB"><tspan fill="#0A41BB" font-size="32">请输入标题文字</tspan></text>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="912.16" y="418.59" width="286.27" height="92.38" fill="none"/>
+<text x="1050.49" y="439.26" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">或者大小属性调整文字文本的行</tspan><tspan x="1050.49" dy="23.33" fill="#404040" font-size="18.67">间距。点击这里，输入您的文本</tspan><tspan x="1050.49" dy="23.33" fill="#404040" font-size="18.67">文字或者大小属性调整文字</tspan></text>
+</g>
+</g></svg>

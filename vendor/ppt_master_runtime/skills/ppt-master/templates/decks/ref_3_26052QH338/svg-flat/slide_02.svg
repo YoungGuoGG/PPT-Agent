@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="1" y1="1" x2="0" y2="0"><stop offset="0.67" stop-color="#0E8EE7"/><stop offset="0" stop-color="#19DEEE"/></linearGradient><linearGradient id="ggrad2" x1="1" y1="1" x2="0" y2="0"><stop offset="0.67" stop-color="#0E8EE7"/><stop offset="0" stop-color="#19DEEE"/></linearGradient><linearGradient id="ggrad3" x1="1" y1="1" x2="0" y2="0"><stop offset="0.67" stop-color="#0E8EE7"/><stop offset="0" stop-color="#19DEEE"/></linearGradient><linearGradient id="ggrad4" x1="1" y1="1" x2="0" y2="0"><stop offset="0.67" stop-color="#0E8EE7"/><stop offset="0" stop-color="#19DEEE"/></linearGradient><linearGradient id="txtgrad5" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.55" stop-color="#37CEFF"/><stop offset="1" stop-color="#161553" stop-opacity="0"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-37" data-name="图片 36" transform="translate(960.04 359.37) scale(-1 1) translate(-960.04 -359.37)">
+<image href="../assets/image3.png" x="640.04" y="-0.63" width="640" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="图片 3">
+<image href="../assets/image3.png" x="0" y="0" width="640" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-52" data-name="图形">
+<ellipse cx="527.3" cy="360" rx="109.83" ry="37.07" fill="none" stroke-width="2.667" stroke="#37CEFF" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-53" data-name="图形">
+<ellipse cx="1057.33" cy="411.24" rx="109.83" ry="37.07" fill="none" stroke-width="2.667" stroke="#37CEFF" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-54" data-name="图形" transform="translate(241.77 408.24) scale(-1 1) translate(-241.77 -408.24)">
+<ellipse cx="241.77" cy="408.24" rx="109.83" ry="37.07" fill="none" stroke-width="2.667" stroke="#37CEFF" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-55" data-name="图形">
+<ellipse cx="790.2" cy="360.07" rx="109.8" ry="37.07" fill="none" stroke-width="2.667" stroke="#37CEFF" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-46" data-name="图形">
+<ellipse cx="527.97" cy="345.8" rx="97.17" ry="32.8" fill="url(#ggrad1)" stroke-width="2.333" stroke="none"/>
+</g>
+<g id="shape-49" data-name="图形">
+<ellipse cx="1058" cy="397.04" rx="97.17" ry="32.8" fill="url(#ggrad2)" stroke-width="2.333" stroke="none"/>
+</g>
+<g id="shape-50" data-name="图形" transform="translate(242.43 394.04) scale(-1 1) translate(-242.43 -394.04)">
+<ellipse cx="242.43" cy="394.04" rx="97.17" ry="32.8" fill="url(#ggrad3)" stroke-width="2.333" stroke="none"/>
+</g>
+<g id="shape-51" data-name="图形">
+<ellipse cx="790.87" cy="345.87" rx="97.13" ry="32.8" fill="url(#ggrad4)" stroke-width="2.333" stroke="none"/>
+</g>
+<g id="shape-56" data-name="图形">
+<rect x="419.93" y="410.33" width="217.2" height="48.33" fill="none"/>
+<text x="528.53" y="442.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold" letter-spacing="1"><tspan fill="#FFFFFF" font-size="32" font-weight="bold" letter-spacing="1">业绩数据展示</tspan></text>
+</g>
+<g id="shape-57" data-name="图形">
+<rect x="135.2" y="455.24" width="217.2" height="48.33" fill="none"/>
+<text x="243.8" y="487.24" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold" letter-spacing="1"><tspan fill="#FFFFFF" font-size="32" font-weight="bold" letter-spacing="1">工作内容概述</tspan></text>
+</g>
+<g id="shape-58" data-name="图形">
+<rect x="683.87" y="410.33" width="217.2" height="48.33" fill="none"/>
+<text x="792.47" y="442.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold" letter-spacing="1"><tspan fill="#FFFFFF" font-size="32" font-weight="bold" letter-spacing="1">工作经验总结</tspan></text>
+</g>
+<g id="shape-59" data-name="图形">
+<rect x="954.5" y="456.91" width="217.2" height="48.33" fill="none"/>
+<text x="1063.1" y="488.91" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold" letter-spacing="1"><tspan fill="#FFFFFF" font-size="32" font-weight="bold" letter-spacing="1">未来工作计划</tspan></text>
+</g>
+<g id="shape-60" data-name="图形" transform="translate(242.43 525.44) scale(-1 1) translate(-242.43 -525.44)">
+<rect x="133.67" y="502.64" width="217.53" height="45.6" fill="none"/>
+<text x="242.43" y="513.98" text-anchor="middle" xml:space="preserve" font-family="&quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" fill-opacity="0.87"><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add </tspan><tspan x="242.43" dy="20" fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">your text content</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan></text>
+</g>
+<g id="shape-61" data-name="图形" transform="translate(529.7 480.33) scale(-1 1) translate(-529.7 -480.33)">
+<rect x="420.93" y="457.53" width="217.53" height="45.6" fill="none"/>
+<text x="529.7" y="468.87" text-anchor="middle" xml:space="preserve" font-family="&quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" fill-opacity="0.87"><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add </tspan><tspan x="529.7" dy="20" fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">your text content</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan></text>
+</g>
+<g id="shape-62" data-name="图形" transform="translate(791.57 476.93) scale(-1 1) translate(-791.57 -476.93)">
+<rect x="682.8" y="454.13" width="217.53" height="45.6" fill="none"/>
+<text x="791.57" y="465.47" text-anchor="middle" xml:space="preserve" font-family="&quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" fill-opacity="0.87"><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add </tspan><tspan x="791.57" dy="20" fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">your text content</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan></text>
+</g>
+<g id="shape-63" data-name="图形" transform="translate(1067.93 523.51) scale(-1 1) translate(-1067.93 -523.51)">
+<rect x="959.17" y="500.71" width="217.53" height="45.6" fill="none"/>
+<text x="1067.93" y="512.04" text-anchor="middle" xml:space="preserve" font-family="&quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" fill-opacity="0.87"><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">Add </tspan><tspan x="1067.93" dy="20" fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">your text content</tspan><tspan fill="#FFFFFF" font-size="13.33" fill-opacity="0.87">.</tspan></text>
+</g>
+<g id="shape-64" data-name="图形">
+<rect x="457.78" y="326.8" width="140.04" height="42.01" fill="none"/>
+<text x="527.8" y="354.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">PART 02</tspan><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold"> </tspan></text>
+</g>
+<g id="shape-65" data-name="图形">
+<rect x="171.78" y="371.18" width="140.04" height="42.01" fill="none"/>
+<text x="241.8" y="398.64" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">PART 01</tspan><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold"> </tspan></text>
+</g>
+<g id="shape-71" data-name="图形">
+<rect x="719.71" y="325.07" width="140.04" height="42.01" fill="none"/>
+<text x="789.73" y="352.53" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">PART 03</tspan><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold"> </tspan></text>
+</g>
+<g id="shape-72" data-name="图形">
+<rect x="987.28" y="374.18" width="140.04" height="42.01" fill="none"/>
+<text x="1057.3" y="401.64" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">PART 04</tspan><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold"> </tspan></text>
+</g>
+<g id="shape-79" data-name="图形">
+<rect x="521" y="134.68" width="234.93" height="96.8" fill="none"/>
+<text x="638.47" y="200.68" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪综艺体简&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="72" fill="url(#txtgrad5)"><tspan fill="url(#txtgrad5)" font-size="72">目录</tspan></text>
+</g>
+<g id="shape-80" data-name="图形">
+<rect x="504.57" y="206.68" width="267.79" height="54.93" fill="none"/>
+<text x="514.17" y="243.21" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪综艺体简&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">CONTENTS</tspan></text>
+</g></svg>

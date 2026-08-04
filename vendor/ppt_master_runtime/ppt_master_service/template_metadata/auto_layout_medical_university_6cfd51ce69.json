@@ -1,0 +1,14 @@
+{
+  "template_id": "layout_medical_university",
+  "name": "Hospital / Medical University Template (Medical University Style) - Design Specification",
+  "description": "Medical academic reports, case discussions, research presentations, hospital work reports, medical education and training.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Medical academic reports, case discussions, research presentations, hospital work reports, medical education and training."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\layouts\\medical_university",
+  "kind": "layout",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

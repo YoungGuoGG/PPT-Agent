@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient></defs><g id="shape-23" data-name="图形">
+<g id="shape-24" data-name="图形">
+<rect x="223.4" y="257.67" width="131.93" height="132" fill="none" stroke="#999999" stroke-dasharray="4 4"/><text x="289.37" y="323.67" text-anchor="middle" font-size="14" fill="#999999">[chart]</text>
+</g>
+<g id="shape-25" data-name="图形">
+<rect x="248.47" y="201.2" width="82.73" height="51.67" fill="none" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+<text x="289.83" y="234.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="32" font-weight="bold">70%</tspan></text>
+</g>
+<g id="shape-26" data-name="图形">
+<rect x="484.27" y="257.67" width="131.93" height="132" fill="none" stroke="#999999" stroke-dasharray="4 4"/><text x="550.23" y="323.67" text-anchor="middle" font-size="14" fill="#999999">[chart]</text>
+</g>
+<g id="shape-27" data-name="图形">
+<rect x="508" y="201.2" width="82.73" height="51.67" fill="none" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+<text x="549.37" y="234.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="32" font-weight="bold">30%</tspan></text>
+</g>
+<g id="shape-28" data-name="图形">
+<rect x="717.53" y="420.33" width="464.53" height="118.73" rx="5.32" ry="5.32" fill="url(#ggrad1)" stroke-width="6.667" stroke="none"/>
+</g>
+<g id="shape-41" data-name="图形">
+<rect x="717.53" y="235" width="464.53" height="118.73" rx="5.32" ry="5.32" fill="url(#ggrad2)" stroke-width="6.667" stroke="none"/>
+</g>
+<g id="shape-8199" data-name="图形">
+<rect x="185.2" y="420.33" width="209.2" height="45.13" fill="none" stroke="none"/>
+<text x="289.8" y="450.07" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="29.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="29.33">预设标题</tspan></text>
+</g>
+<g id="shape-30" data-name="图形">
+<rect x="173.53" y="465.47" width="232.53" height="106.53" fill="none" stroke="none"/>
+<text x="289.8" y="481.6" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" letter-spacing="2"><tspan fill="#FFFFFF" font-size="13.33" letter-spacing="2">在此输入文本内容在此输入文本内</tspan><tspan x="289.8" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">容在此输入文本内容在此输入文本</tspan><tspan x="289.8" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">内容在此输入文本内容在此输入文</tspan><tspan x="289.8" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">本内容</tspan></text>
+</g>
+<g id="shape-31" data-name="图形">
+<rect x="445.67" y="420.33" width="209.2" height="45.13" fill="none" stroke="none"/>
+<text x="550.27" y="450.07" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="29.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="29.33">预设标题</tspan></text>
+</g>
+<g id="shape-32" data-name="图形">
+<rect x="434" y="465.47" width="232.53" height="106.53" fill="none" stroke="none"/>
+<text x="550.27" y="481.6" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" letter-spacing="2"><tspan fill="#FFFFFF" font-size="13.33" letter-spacing="2">在此输入文本内容在此输入文本内</tspan><tspan x="550.27" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">容在此输入文本内容在此输入文本</tspan><tspan x="550.27" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">内容在此输入文本内容在此输入文</tspan><tspan x="550.27" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">本内容</tspan></text>
+</g>
+<g id="shape-33" data-name="图形">
+<rect x="735.6" y="257.27" width="134.67" height="74.33" fill="none"/>
+<text x="745.2" y="307.4" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="53.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="53.33" font-weight="bold">25%</tspan></text>
+</g>
+<g id="shape-34" data-name="图形">
+<rect x="735.6" y="442.6" width="134.67" height="74.33" fill="none"/>
+<text x="745.2" y="492.73" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="53.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="53.33" font-weight="bold">38%</tspan></text>
+</g>
+<g id="shape-36" data-name="图形">
+<rect x="861.87" y="262.33" width="241.53" height="55.33" fill="none" stroke="none"/>
+<text x="982.63" y="278.47" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" letter-spacing="2"><tspan fill="#FFFFFF" font-size="13.33" letter-spacing="2">在此输入文本内容在此输入文本内容</tspan><tspan x="982.63" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">在此输入文本内容输入文本</tspan></text>
+</g>
+<g id="shape-37" data-name="图形">
+<rect x="861.87" y="447.67" width="241.53" height="55.33" fill="none" stroke="none"/>
+<text x="982.63" y="463.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF" letter-spacing="2"><tspan fill="#FFFFFF" font-size="13.33" letter-spacing="2">在此输入文本内容在此输入文本内容</tspan><tspan x="982.63" dy="20" fill="#FFFFFF" font-size="13.33" letter-spacing="2">在此输入文本内容输入文本</tspan></text>
+</g>
+</g></svg>

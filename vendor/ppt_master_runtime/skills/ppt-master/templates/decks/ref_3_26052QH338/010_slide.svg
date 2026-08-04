@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad5" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad7" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad8" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-18" data-name="图片 17">
+<image href="assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-7" data-name="组合 6">
+<g id="layout-shape-82" data-name="图形">
+<line x1="317" y1="115.6" x2="462.07" y2="115.6" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-83" data-name="图形" transform="rotate(270 311.57 115.53)">
+<ellipse cx="311.57" cy="115.53" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+</g>
+<g id="layout-shape-8" data-name="组合 7" transform="translate(918.7 115.6) scale(-1 1) translate(-918.7 -115.6)">
+<g id="layout-shape-9" data-name="图形">
+<line x1="851.6" y1="115.67" x2="996.67" y2="115.67" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-10" data-name="图形" transform="rotate(270 846.17 115.6)">
+<ellipse cx="846.17" cy="115.6" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+</g>
+<g id="layout-shape-11" data-name="文本框 10">
+<rect x="493.17" y="81.67" width="317.27" height="67.86" fill="none"/>
+<text x="502.77" y="106.87" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">业绩数据展示</tspan></text>
+</g>
+<g id="layout-shape-12" data-name="组合 11">
+<g id="layout-shape-15" data-name="图形">
+<line x1="352.71" y1="134.38" x2="453" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-16" data-name="图形" transform="rotate(270 348.96 134.33)">
+<ellipse cx="348.96" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+</g>
+<g id="layout-shape-17" data-name="组合 16" transform="translate(894.77 134.33) scale(-1 1) translate(-894.77 -134.33)">
+<g id="layout-shape-20" data-name="图形">
+<line x1="848.38" y1="134.38" x2="948.67" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-21" data-name="图形" transform="rotate(270 844.62 134.33)">
+<ellipse cx="844.62" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-16" data-name="AutoShape 5">
+<path d="M 184.3 343.87 L 170.28 364.34 L 143.64 364.34 C 141.7 364.34 140.13 365.87 140.13 367.75 L 140.13 429.19 C 140.13 431.07 141.7 432.6 143.64 432.6 L 384.69 432.6 C 386.63 432.6 388.19 431.07 388.19 429.19 L 388.19 367.75 C 388.2 365.87 386.63 364.34 384.69 364.34 L 198.34 364.34 L 184.3 343.87 Z" fill="url(#ggrad1)" stroke="none"/>
+</g>
+<g id="shape-17" data-name="Group 6">
+<g id="shape-18" data-name="AutoShape 7">
+<path d="M 216.31 243.66 C 234.97 262.32 234.97 292.58 216.31 311.25 C 197.64 329.92 167.39 329.92 148.73 311.25 C 130.07 292.58 130.07 262.32 148.73 243.66 C 167.39 224.99 197.64 224.99 216.31 243.66 Z" fill="url(#ggrad2)" stroke="none"/>
+</g>
+<g id="shape-19" data-name="AutoShape 8">
+<path d="M 134.73 262.57 L 230.3 262.57 L 230.3 292.34 L 134.73 292.34 Z" fill="none" stroke="none"/>
+<text x="182.52" y="288.05" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">20</tspan><tspan fill="#FFFFFF" font-size="26.67">20</tspan></text>
+</g>
+</g>
+<g id="shape-20" data-name="AutoShape 9">
+<path d="M 192.47 388.87 L 348.19 388.87 L 348.19 414.67 L 192.47 414.67 Z" fill="none" stroke="none"/>
+<text x="270.33" y="407" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">请替换文字内容</tspan></text>
+</g>
+<g id="shape-25" data-name="AutoShape 10">
+<path d="M 412.04 364.7 C 410.2 364.7 408.71 366.19 408.71 368.03 L 408.71 428.07 C 408.71 429.92 410.2 431.41 412.04 431.41 L 437.39 431.41 L 450.73 451.42 L 464.08 431.41 L 641.15 431.41 C 642.99 431.41 644.48 429.92 644.48 428.07 L 644.48 368.03 C 644.49 366.19 642.99 364.7 641.15 364.7 L 412.04 364.7 Z" fill="url(#ggrad3)" stroke="none"/>
+</g>
+<g id="shape-26" data-name="Group 11">
+<g id="shape-27" data-name="AutoShape 12">
+<path d="M 496.63 494.57 C 516.23 514.19 516.23 546 496.63 565.61 C 477.04 585.23 445.28 585.23 425.69 565.61 C 406.1 546 406.1 514.19 425.69 494.57 C 445.28 474.96 477.04 474.96 496.63 494.57 Z" fill="url(#ggrad4)" stroke="none"/>
+</g>
+<g id="shape-28" data-name="AutoShape 13">
+<path d="M 411 514.82 L 511.33 514.82 L 511.33 545.38 L 411 545.38 Z" fill="none" stroke="none"/>
+<text x="461.17" y="540.3" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Lato, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">20</tspan><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">21</tspan></text>
+</g>
+</g>
+<g id="shape-29" data-name="AutoShape 14">
+<path d="M 449.6 384.2 L 615.06 384.2 L 615.06 410 L 449.6 410 Z" fill="none" stroke="none"/>
+<text x="532.33" y="402.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">请替换文字内容</tspan></text>
+</g>
+<g id="shape-30" data-name="AutoShape 15">
+<path d="M 720.34 347.8 L 706.98 367.31 L 681.6 367.31 C 679.75 367.31 678.27 368.76 678.27 370.56 L 678.27 429.08 C 678.27 430.88 679.75 432.33 681.6 432.33 L 911.19 432.33 C 913.03 432.33 914.52 430.88 914.52 429.08 L 914.52 370.56 C 914.53 368.76 913.03 367.31 911.19 367.31 L 733.7 367.31 L 720.34 347.8 Z" fill="url(#ggrad5)" stroke="none"/>
+</g>
+<g id="shape-31" data-name="Group 16">
+<g id="shape-32" data-name="AutoShape 17">
+<path d="M 749.17 243.56 C 767.69 262.08 767.69 292.11 749.17 310.64 C 730.64 329.16 700.61 329.16 682.09 310.64 C 663.57 292.11 663.57 262.08 682.09 243.56 C 700.61 225.03 730.64 225.03 749.17 243.56 Z" fill="url(#ggrad6)" stroke="none"/>
+</g>
+<g id="shape-40" data-name="AutoShape 18">
+<path d="M 668.2 262.71 L 763.06 262.71 L 763.06 291.49 L 668.2 291.49 Z" fill="none" stroke="none"/>
+<text x="715.63" y="288.19" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Lato, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">20</tspan><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">22</tspan></text>
+</g>
+</g>
+<g id="shape-41" data-name="AutoShape 19">
+<path d="M 711.27 386.87 L 874.39 386.87 L 874.39 412.67 L 711.27 412.67 Z" fill="none" stroke="none"/>
+<text x="792.83" y="405" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">请替换文字内容</tspan></text>
+</g>
+<g id="shape-42" data-name="AutoShape 20">
+<path d="M 959.93 367.19 C 958.09 367.19 956.6 368.68 956.6 370.53 L 956.6 430.63 C 956.6 432.47 958.09 433.97 959.93 433.97 L 985.3 433.97 L 998.66 454 L 1012.02 433.97 L 1189.27 433.97 C 1191.12 433.97 1192.6 432.47 1192.6 430.63 L 1192.6 370.53 C 1192.61 368.68 1191.12 367.19 1189.27 367.19 L 959.93 367.19 Z" fill="url(#ggrad7)" stroke="none"/>
+</g>
+<g id="shape-43" data-name="Group 21">
+<g id="shape-44" data-name="AutoShape 22">
+<path d="M 1038.97 494.58 C 1058.56 514.22 1058.56 546.04 1038.97 565.67 C 1019.37 585.3 987.62 585.3 968.02 565.67 C 948.43 546.04 948.43 514.22 968.02 494.58 C 987.62 474.96 1019.37 474.96 1038.97 494.58 Z" fill="url(#ggrad8)" stroke="none"/>
+</g>
+<g id="shape-45" data-name="AutoShape 23">
+<path d="M 953.33 514.85 L 1053.66 514.85 L 1053.66 545.42 L 953.33 545.42 Z" fill="none" stroke="none"/>
+<text x="1003.5" y="540.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Lato, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">2023</tspan></text>
+</g>
+</g>
+<g id="shape-46" data-name="AutoShape 24">
+<path d="M 994.87 385.47 L 1170.33 385.47 L 1170.33 411.27 L 994.87 411.27 Z" fill="none" stroke="none"/>
+<text x="1082.6" y="403.6" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">请替换文字内容</tspan></text>
+</g>
+<g id="shape-47" data-name="AutoShape 25">
+<path d="M 140.13 457.47 L 299.8 457.47 L 299.8 480.07 L 140.13 480.07 Z" fill="none" stroke="none"/>
+<text x="140.13" y="473.33" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请替换文字内容</tspan></text>
+</g>
+<g id="shape-48" data-name="AutoShape 26">
+<path d="M 141.33 478.33 L 381.26 478.33 L 381.26 562.16 L 141.33 562.16 Z" fill="none" stroke="none"/>
+<text x="141.33" y="491.93" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">这里输入您的文字这里输入您的</tspan><tspan x="141.33" dy="24" fill="#FFFFFF" font-size="16">文字这里输入您的文字这里输入</tspan><tspan x="141.33" dy="24" fill="#FFFFFF" font-size="16">您的文字这里输入您这里输入您</tspan></text>
+</g>
+<g id="shape-49" data-name="AutoShape 27">
+<path d="M 414.2 253 L 545.8 253 L 545.8 275.6 L 414.2 275.6 Z" fill="none" stroke="none"/>
+<text x="414.2" y="268.87" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请替换文字内容</tspan></text>
+</g>
+<g id="shape-50" data-name="AutoShape 28">
+<path d="M 415.4 271.27 L 653.39 271.27 L 653.39 355.1 L 415.4 355.1 Z" fill="none" stroke="none"/>
+<text x="415.4" y="284.87" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">这里输入您的文字这里输入您的</tspan><tspan x="415.4" dy="24" fill="#FFFFFF" font-size="16">文字这里输入您的文字这里输入</tspan><tspan x="415.4" dy="24" fill="#FFFFFF" font-size="16">您的文字这里输入您这里输入您</tspan></text>
+</g>
+<g id="shape-51" data-name="AutoShape 29">
+<path d="M 678.87 448.8 L 821.6 448.8 L 821.6 471.4 L 678.87 471.4 Z" fill="none" stroke="none"/>
+<text x="678.87" y="464.67" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请替换文字内容</tspan></text>
+</g>
+<g id="shape-52" data-name="AutoShape 30">
+<path d="M 680.07 473.4 L 907.87 473.4 L 907.87 557.23 L 680.07 557.23 Z" fill="none" stroke="none"/>
+<text x="680.07" y="487" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">这里输入您的文字这里输入您的</tspan><tspan x="680.07" dy="24" fill="#FFFFFF" font-size="16">文字这里输入您的文字这里输入</tspan><tspan x="680.07" dy="24" fill="#FFFFFF" font-size="16">您的文字这里输入您这里输入您</tspan></text>
+</g>
+<g id="shape-53" data-name="AutoShape 31">
+<path d="M 962.6 253.67 L 1129.73 253.67 L 1129.73 276.27 L 962.6 276.27 Z" fill="none" stroke="none"/>
+<text x="962.6" y="269.53" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请替换文字内容</tspan></text>
+</g>
+<g id="shape-54" data-name="AutoShape 32">
+<path d="M 962.93 275.53 L 1209.33 275.53 L 1209.33 359.36 L 962.93 359.36 Z" fill="none" stroke="none"/>
+<text x="962.93" y="289.13" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">这里输入您的文字这里输入您的文</tspan><tspan x="962.93" dy="24" fill="#FFFFFF" font-size="16">字这里输入您的文字这里输入您的</tspan><tspan x="962.93" dy="24" fill="#FFFFFF" font-size="16">文字这里输入您这里输入您</tspan></text>
+</g></svg>

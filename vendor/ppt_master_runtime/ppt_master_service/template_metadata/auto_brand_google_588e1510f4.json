@@ -1,0 +1,14 @@
+{
+  "template_id": "brand_google",
+  "name": "Google Brand Specification",
+  "description": "Google brand identity — multi-product corporate decks, developer events (Google I/O style), education and training in the Google ecosystem",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Google brand identity — multi-product corporate decks, developer events (Google I/O style), education and training in the Google ecosystem"
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\brands\\google",
+  "kind": "brand",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

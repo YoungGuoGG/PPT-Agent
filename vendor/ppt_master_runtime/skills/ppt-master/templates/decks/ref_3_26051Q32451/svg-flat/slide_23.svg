@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-8" data-name="矩形 6" transform="translate(640 690.43) scale(-1 1) translate(-640 -690.43)">
+<path d="M 0 671.81 C 625.33 747.07 1041.33 625.2 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#A6D9A1" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<path d="M 0 671.81 C 554.67 725.74 946.67 638.54 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-9" data-name="图片 8">
+<image href="../assets/image1.png" x="13.33" y="16.85" width="66.3" height="59.15" preserveAspectRatio="none"/>
+</g>
+<g id="shape-3" data-name="直接连接符 2" transform="translate(558.07 365.7) scale(-1 -1) translate(-558.07 -365.7)">
+<line x1="0.6" y1="365.67" x2="1115.53" y2="365.73" stroke-width="2.333" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+<g id="shape-11" data-name="文本框 10" transform="translate(1141.47 200.33) scale(-1 1) translate(-1141.47 -200.33)">
+<rect x="1057.6" y="181" width="167.73" height="38.67" fill="none"/>
+<text x="1067.2" y="206.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112"><tspan fill="#008112" font-size="24">20XX</tspan><tspan fill="#008112" font-size="24">年</tspan></text>
+</g>
+<g id="shape-12" data-name="文本框 11" transform="translate(1110.9 263.32) scale(-1 1) translate(-1110.9 -263.32)">
+<rect x="962.2" y="219.67" width="297.4" height="87.3" fill="none"/>
+<text x="971.8" y="239.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#404040"><tspan fill="#404040" font-size="17.33">依靠品牌积淀，使</tspan><tspan fill="#404040" font-size="17.33">“</tspan><tspan fill="#404040" font-size="17.33">XXXX</tspan><tspan fill="#404040" font-size="17.33">”</tspan><tspan fill="#404040" font-size="17.33">享誉全国</tspan><tspan x="971.8" dy="22.53" fill="#404040" font-size="17.33">，成为优质牛肉代名词，年</tspan><tspan fill="#404040" font-size="17.33">销售额</tspan><tspan fill="#404040" font-size="17.33">10</tspan><tspan x="971.8" dy="22.53" fill="#404040" font-size="17.33">亿</tspan><tspan fill="#404040" font-size="17.33">+</tspan><tspan fill="#404040" font-size="17.33">，最终成功上市。</tspan></text>
+</g>
+<g id="shape-14" data-name="直接连接符 13" transform="translate(1110.4 345.3) scale(-1 -1) translate(-1110.4 -345.3)">
+<line x1="1110.4" y1="320.73" x2="1110.4" y2="369.87" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+<g id="shape-15" data-name="椭圆 14" transform="translate(1110.37 365.7) scale(-1 1) translate(-1110.37 -365.7)">
+<ellipse cx="1110.37" cy="365.7" rx="5.17" ry="5.17" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="圆角矩形 15" transform="translate(1110.2 245.97) scale(-1 1) translate(-1110.2 -245.97)">
+<rect x="961.93" y="170.33" width="296.53" height="151.27" rx="25.21" ry="25.21" fill="none" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-18" data-name="文本框 17" transform="translate(661.7 200.33) scale(-1 1) translate(-661.7 -200.33)">
+<rect x="591.2" y="181" width="141" height="38.67" fill="none"/>
+<text x="600.8" y="206.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112"><tspan fill="#008112" font-size="24">20XX</tspan><tspan fill="#008112" font-size="24">年</tspan></text>
+</g>
+<g id="shape-19" data-name="文本框 18" transform="translate(643.43 263.32) scale(-1 1) translate(-643.43 -263.32)">
+<rect x="494.73" y="219.67" width="297.4" height="87.3" fill="none"/>
+<text x="504.33" y="239.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#404040"><tspan fill="#404040" font-size="17.33">品牌销售网络覆盖全国，产业基地不</tspan><tspan x="504.33" dy="22.53" fill="#404040" font-size="17.33">断壮大，增至</tspan><tspan fill="#404040" font-size="17.33">10</tspan><tspan fill="#404040" font-size="17.33">个产业区，</tspan><tspan fill="#404040" font-size="17.33">年销售额</tspan><tspan x="504.33" dy="22.53" fill="#404040" font-size="17.33">达到</tspan><tspan fill="#404040" font-size="17.33">5</tspan><tspan fill="#404040" font-size="17.33">亿。</tspan></text>
+</g>
+<g id="shape-20" data-name="直接连接符 19" transform="translate(644 344.77) scale(-1 -1) translate(-644 -344.77)">
+<line x1="644" y1="323.87" x2="644" y2="365.67" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+<g id="shape-21" data-name="椭圆 20" transform="translate(643.97 365.7) scale(-1 1) translate(-643.97 -365.7)">
+<ellipse cx="643.97" cy="365.7" rx="5.17" ry="5.17" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-22" data-name="圆角矩形 21" transform="translate(643.8 246) scale(-1 1) translate(-643.8 -246)">
+<rect x="495.53" y="170.33" width="296.53" height="151.33" rx="25.22" ry="25.22" fill="none" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-26" data-name="文本框 25" transform="translate(186.87 200.33) scale(-1 1) translate(-186.87 -200.33)">
+<rect x="124.8" y="181" width="124.13" height="38.67" fill="none"/>
+<text x="134.4" y="206.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112"><tspan fill="#008112" font-size="24">20XX</tspan><tspan fill="#008112" font-size="24">年</tspan></text>
+</g>
+<g id="shape-27" data-name="文本框 26" transform="translate(177.03 263.32) scale(-1 1) translate(-177.03 -263.32)">
+<rect x="28.33" y="219.67" width="297.4" height="87.3" fill="none"/>
+<text x="37.93" y="239.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#404040"><tspan fill="#404040" font-size="17.33">坚持数字化营销与线下传统营销结合</tspan><tspan x="37.93" dy="22.53" fill="#404040" font-size="17.33">，专注市场开拓，形成覆盖全国</tspan><tspan fill="#404040" font-size="17.33">20+</tspan><tspan x="37.93" dy="22.53" fill="#404040" font-size="17.33">省市的销售网络，年销售额达到</tspan><tspan fill="#404040" font-size="17.33">2.5</tspan><tspan x="37.93" dy="22.53" fill="#404040" font-size="17.33">亿。</tspan></text>
+</g>
+<g id="shape-28" data-name="直接连接符 27" transform="translate(177.6 344.47) scale(-1 -1) translate(-177.6 -344.47)">
+<line x1="177.6" y1="321.8" x2="177.6" y2="367.13" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+<g id="shape-29" data-name="椭圆 28" transform="translate(177.57 365.7) scale(-1 1) translate(-177.57 -365.7)">
+<ellipse cx="177.57" cy="365.7" rx="5.17" ry="5.17" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-30" data-name="圆角矩形 29" transform="translate(177.4 245.53) scale(-1 1) translate(-177.4 -245.53)">
+<rect x="29.13" y="170.33" width="296.53" height="150.4" rx="25.07" ry="25.07" fill="none" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="824.4" y="424.2" width="160.13" height="38.67" fill="none"/>
+<text x="834" y="449.4" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112"><tspan fill="#008112" font-size="24">20XX</tspan><tspan fill="#008112" font-size="24">年</tspan></text>
+</g>
+<g id="shape-33" data-name="文本框 32">
+<rect x="727.87" y="462.13" width="297.4" height="87.3" fill="none"/>
+<text x="737.47" y="481.67" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#404040"><tspan fill="#404040" font-size="17.33">加强科研投入，荣获国家技术专利超</tspan><tspan x="737.47" dy="22.53" fill="#404040" font-size="17.33">百种，成为行业龙头企业，</tspan><tspan fill="#404040" font-size="17.33">年销售额</tspan><tspan x="737.47" dy="22.53" fill="#404040" font-size="17.33">达到</tspan><tspan fill="#404040" font-size="17.33">5</tspan><tspan fill="#404040" font-size="17.33">亿。</tspan></text>
+</g>
+<g id="shape-34" data-name="直接连接符 33" transform="translate(877.2 388.4) scale(-1 1) translate(-877.2 -388.4)">
+<line x1="877.2" y1="365.73" x2="877.2" y2="411.07" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+<g id="shape-35" data-name="椭圆 34" transform="translate(877.17 365.7) scale(-1 -1) translate(-877.17 -365.7)">
+<ellipse cx="877.17" cy="365.7" rx="5.17" ry="5.17" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-36" data-name="圆角矩形 35" transform="translate(877 486.03) scale(-1 -1) translate(-877 -486.03)">
+<rect x="728.73" y="411" width="296.53" height="150.07" rx="25.01" ry="25.01" fill="none" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-38" data-name="文本框 37">
+<rect x="359.67" y="423.47" width="181.8" height="38.67" fill="none"/>
+<text x="369.27" y="448.67" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112"><tspan fill="#008112" font-size="24">20XX</tspan><tspan fill="#008112" font-size="24">年</tspan></text>
+</g>
+<g id="shape-39" data-name="文本框 38">
+<rect x="259.47" y="462.87" width="297.4" height="87.3" fill="none"/>
+<text x="269.07" y="482.4" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#404040"><tspan fill="#404040" font-size="17.33">加强品牌推广，产品覆盖全国所有一</tspan><tspan x="269.07" dy="22.53" fill="#404040" font-size="17.33">二线城市</tspan><tspan fill="#404040" font-size="17.33">，</tspan><tspan fill="#404040" font-size="17.33">年销售额达到</tspan><tspan fill="#404040" font-size="17.33">5</tspan><tspan fill="#404040" font-size="17.33">亿，形成</tspan><tspan x="269.07" dy="22.53" fill="#404040" font-size="17.33">独具特色网红旅游圣地。</tspan></text>
+</g>
+<g id="shape-40" data-name="直接连接符 39" transform="translate(410.8 388.33) scale(-1 1) translate(-410.8 -388.33)">
+<line x1="410.8" y1="365.67" x2="410.8" y2="411" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+<g id="shape-41" data-name="椭圆 40" transform="translate(410.77 365.63) scale(-1 -1) translate(-410.77 -365.63)">
+<ellipse cx="410.77" cy="365.63" rx="5.17" ry="5.17" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-42" data-name="圆角矩形 41" transform="translate(410.6 486) scale(-1 -1) translate(-410.6 -486)">
+<rect x="262.33" y="411" width="296.53" height="150" rx="25" ry="25" fill="none" stroke-width="1.333" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-31" data-name="文本框 30">
+<rect x="94.14" y="16.37" width="198.93" height="48.47" fill="none"/>
+<text x="103.74" y="48.37" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">发展规划</tspan></text>
+</g>
+<g id="shape-37" data-name="文本框 36">
+<rect x="94.14" y="57.95" width="265.77" height="22.62" fill="none"/>
+<text x="103.74" y="71.82" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="10.67" fill="#808080"><tspan fill="#808080" font-size="10.67">FILL IN THE TEXT OF THE DOCUMENT TITLE HERE</tspan></text>
+</g></svg>

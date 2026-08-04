@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-8" data-name="图片 7">
+<image href="../assets/image2.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-9" data-name="矩形 8">
+<rect x="23.5" y="30.33" width="1233" height="659.33" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-11" data-name="图片 10">
+<image href="../assets/image3.png" x="59.3" y="36.18" width="88.48" height="88.48" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-13" data-name="矩形 12">
+<rect x="147.79" y="57.27" width="234.8" height="61.39" fill="none"/>
+<text x="157.39" y="98.34" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪菱心体简&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#C00000"><tspan fill="#C00000" font-size="42.67">民法典简介</tspan></text>
+</g>
+<g id="shape-14" data-name="文本框 13">
+<rect x="139.95" y="282.15" width="564.54" height="91.75" fill="none"/>
+<text x="149.55" y="307.35" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">《</tspan><tspan fill="#000000" font-size="24">中华人民共和国民法典</tspan><tspan fill="#000000" font-size="24">》</tspan><tspan fill="#000000" font-size="24">被称为“社会生活的百科</tspan><tspan x="149.55" dy="36" fill="#000000" font-size="24">全书”，是新中国第一部以法典命名的法律</tspan></text>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="191.65" y="221.05" width="96.94" height="38.78" fill="none" stroke="none"/>
+<text x="191.65" y="241.45" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#C00000"><tspan fill="#C00000" font-size="24">民法典</tspan></text>
+</g>
+<g id="shape-16" data-name="直接连接符 15" transform="translate(262.54 275.83) scale(1 -1) translate(-262.54 -275.83)">
+<line x1="149.45" y1="275.83" x2="375.64" y2="275.83" stroke-width="6" stroke="#C00000" fill="#C00000"/>
+</g>
+<g id="shape-19" data-name="文本框 18">
+<rect x="139.95" y="505.12" width="564.54" height="91.75" fill="none"/>
+<text x="694.89" y="530.32" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">在法律体系中居于基础性地位，也是市场经济的基</tspan><tspan x="694.89" dy="36" fill="#000000" font-size="24">本法。</tspan></text>
+</g>
+<g id="shape-20" data-name="文本框 19">
+<rect x="529.79" y="449.39" width="96.94" height="38.78" fill="none" stroke="none"/>
+<text x="529.79" y="469.79" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#C00000"><tspan fill="#C00000" font-size="24">民法典</tspan></text>
+</g>
+<g id="shape-27" data-name="直接连接符 26" transform="translate(562.7 505.12) scale(1 -1) translate(-562.7 -505.12)">
+<line x1="449.6" y1="505.12" x2="675.79" y2="505.12" stroke-width="6" stroke="#C00000" fill="#C00000"/>
+</g>
+<g id="shape-5" data-name="图片 4">
+<image href="../assets/image16.png" x="675.79" y="143.52" width="500.48" height="500.48" preserveAspectRatio="none"/>
+</g>
+<g id="shape-3" data-name="图片 2">
+<image href="../assets/image17.png" x="124.27" y="202.44" width="76" height="76" preserveAspectRatio="none"/>
+</g>
+<g id="shape-11" data-name="图片 10">
+<image href="../assets/image17.png" x="617.42" y="429.12" width="76" height="76" preserveAspectRatio="none"/>
+</g></svg>

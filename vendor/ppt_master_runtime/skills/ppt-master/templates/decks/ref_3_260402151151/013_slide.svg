@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-2" data-name="文本框 1">
+<rect x="94.01" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="103.61" y="80.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">玩在南京</tspan></text>
+</g>
+<g id="shape-4" data-name="任意多边形: 形状 3">
+<path d="M 0 42.67 L 59.27 42.67 C 77.03 42.67 91.43 57.06 91.43 74.82 C 91.43 92.58 77.03 106.98 59.27 106.98 L 0 106.98 Z" stroke="none" fill="#477E9A" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="12.19" y="47.24" width="67.86" height="67.86" fill="none"/>
+<text x="21.79" y="92.84" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">贰</tspan></text>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="817.82" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="1234.89" y="80.89" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">LOGO</tspan></text>
+</g>
+<g id="shape-7" data-name="椭圆 6">
+<ellipse cx="794.29" cy="267.65" rx="96" ry="94" fill="#477E9A" fill-opacity="0.5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-8" data-name="椭圆 7">
+<ellipse cx="468.86" cy="589.33" rx="96" ry="94" fill="#477E9A" fill-opacity="0.5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-9" data-name="图片占位符 3">
+<image href="assets/image23.jpeg" x="457.14" y="140.4" width="365.71" height="503.21" preserveAspectRatio="none"/>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="87.04" y="204.29" width="225.22" height="412.86" fill="none"/>
+</g>
+<g id="shape-12-text" data-name="文本框 11 text">
+<text x="199.65" y="220.15" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">夫</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">子</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">庙</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">秦</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">淮</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">风</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">光</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">带</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">（</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">开</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">放</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">时</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">间</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">0</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">9</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">:</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">0</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">0</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">-</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">2</tspan><tspan x="199.65" dy="19.6" fill="#262626" font-size="18.67">1</tspan></text>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="929.29" y="204.29" width="254.62" height="412.86" fill="none"/>
+</g>
+<g id="shape-13-text" data-name="文本框 12 text">
+<text x="1056.6" y="220.15" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">大</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">报</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">恩</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">寺</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">-</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">金</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">陵</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">兵</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">工</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">厂</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">景</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">区</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">、</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">朝</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">天</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">宫</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">-</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">评</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">事</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">街</tspan><tspan x="1056.6" dy="19.6" fill="#262626" font-size="18.67">景</tspan></text>
+</g></svg>

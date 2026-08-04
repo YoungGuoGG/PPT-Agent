@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#C5E0B5"/>
+<g id="layout-shape-3" data-name="日期占位符 2" data-ph-type="dt">
+<rect x="0" y="0" width="0" height="0" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="8" y="18" font-size="12" fill="#64748B">ph dt idx=10</text>
+</g>
+<g id="layout-shape-4" data-name="页脚占位符 3" data-ph-type="ftr">
+<rect x="0" y="0" width="0" height="0" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="8" y="18" font-size="12" fill="#64748B">ph ftr idx=11</text>
+</g>
+<g id="layout-shape-5" data-name="灯片编号占位符 4" data-ph-type="sldNum">
+<rect x="0" y="0" width="0" height="0" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="8" y="18" font-size="12" fill="#64748B">ph sldNum idx=12</text>
+</g>
+<g id="layout-shape-6" data-name="图片占位符 6" data-ph-type="pic">
+<rect x="93.93" y="360" width="223.07" height="224.93" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="101.93" y="378" font-size="12" fill="#64748B">ph pic idx=13</text>
+</g>
+<g id="layout-shape-7" data-name="图片占位符 6" data-ph-type="pic">
+<rect x="390.97" y="369.52" width="223.07" height="224.93" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="398.97" y="387.52" font-size="12" fill="#64748B">ph pic idx=14</text>
+</g>
+<g id="layout-shape-8" data-name="图片占位符 6" data-ph-type="pic">
+<rect x="688" y="360" width="223.07" height="224.93" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="696" y="378" font-size="12" fill="#64748B">ph pic idx=15</text>
+</g>
+<g id="layout-shape-9" data-name="图片占位符 6" data-ph-type="pic">
+<rect x="968.93" y="360" width="223.07" height="224.93" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="976.93" y="378" font-size="12" fill="#64748B">ph pic idx=16</text>
+</g>
+<g id="layout-shape-2" data-name="矩形 1">
+<rect x="88" y="60.8" width="1073.6" height="262.4" fill="#415D2D" stroke="none" stroke-width="1"/>
+</g></svg>

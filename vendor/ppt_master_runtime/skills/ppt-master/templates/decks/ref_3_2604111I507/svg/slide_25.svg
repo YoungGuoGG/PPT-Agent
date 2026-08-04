@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="6.67" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="6.67" flood-color="#000000" flood-opacity="0.2"/></filter><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="0.9" stop-color="#FFFFFF"/></linearGradient></defs><g id="shape-4" data-name="TextBox 17">
+<rect x="516.56" y="431.32" width="611.98" height="54" fill="none"/>
+<text x="526.16" y="448.58" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;Roboto Light&quot;, sans-serif" font-size="14.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="14.67" font-weight="bold">Lorem Ipsum </tspan><tspan fill="#FFFFFF" font-size="14.67">is simply dummy text of the printing and typesetting industry. </tspan><tspan x="526.16" dy="19.07" fill="#FFFFFF" font-size="14.67">Lorem Ipsum has been the industry's standard dummy text ever since</tspan></text>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-6" data-name="组合 5">
+<g id="shape-10" data-name="矩形: 圆角 9">
+<rect x="529.28" y="537.3" width="83.15" height="38.78" rx="19.39" ry="19.39" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="570.85" y="562.02" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#A92C24"><tspan fill="#A92C24" font-size="21.33">演讲</tspan></text>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="615.18" y="537.3" width="113.96" height="35.54" fill="none"/>
+<text x="624.78" y="560.24" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">| </tspan><tspan fill="#FFFFFF" font-size="21.33">第一</tspan><tspan fill="#FFFFFF" font-size="21.33">PPT</tspan></text>
+</g>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-8" data-name="矩形: 圆角 7">
+<rect x="765.43" y="537.3" width="83.15" height="38.78" rx="19.39" ry="19.39" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+<text x="807" y="562.02" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#A92C24"><tspan fill="#A92C24" font-size="21.33">时间</tspan></text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="851.33" y="537.3" width="79.97" height="35.54" fill="none"/>
+<text x="860.93" y="560.24" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">| 202X</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="76.99" y="58.12" width="1126.03" height="25.85" fill="none"/>
+<text x="86.59" y="74.25" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">党政部门工作总结</tspan></text>
+</g>
+<g id="shape-13" data-name="组合 12">
+<g id="shape-14" data-name="文本框 13">
+<rect x="635.23" y="273.47" width="493.3" height="151.87" fill="none" filter="url(#fx1)"/>
+<text x="644.83" y="378.01" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="117.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="117.33">感谢观看</tspan></text>
+</g>
+<g id="shape-15" data-name="椭圆 14" transform="rotate(232.48 1107.45 313.44)">
+<ellipse cx="1107.45" cy="313.44" rx="24.57" ry="24.57" fill="none" stroke-width="2.667" stroke="#FCF3F2" stroke-opacity="0"/>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="513.46" y="145.76" width="493.3" height="151.87" fill="none" filter="url(#fx2)"/>
+<text x="523.06" y="250.3" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="117.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="117.33">演示完毕</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="512.25" y="323" width="132.51" height="67.86" fill="none"/>
+<text x="635.15" y="348.2" text-anchor="end" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">Work </tspan></text>
+<text x="635.15" y="377" text-anchor="end" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">Summary</tspan></text>
+</g>
+<g id="shape-18" data-name="任意多边形: 形状 17" transform="translate(1023.65 185.69) scale(-1 -1) translate(-1023.65 -185.69)">
+<path d="M 1036.84 166.55 L 1044.53 166.55 L 1035.98 184.76 L 1047.25 184.76 L 1047.25 204.83 L 1026.07 204.83 L 1026.07 184.76 Z M 1010.83 166.55 L 1018.51 166.55 L 1009.96 184.76 L 1021.23 184.76 L 1021.23 204.83 L 1000.05 204.83 L 1000.05 184.76 Z" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+</g></svg>

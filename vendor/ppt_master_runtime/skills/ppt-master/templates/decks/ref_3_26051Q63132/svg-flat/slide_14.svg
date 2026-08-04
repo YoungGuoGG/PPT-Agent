@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#404040"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#404040"/></marker><marker id="marrow3" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#404040"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-2" data-name="图片 1">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2">
+<image href="../assets/image5.png" x="1070.88" y="618.55" width="104.74" height="53.87" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-19" data-name="文本框 18">
+<rect x="33.32" y="32.4" width="225.08" height="42.01" fill="none"/>
+<text x="42.92" y="59.87" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">输入您的标题</tspan></text>
+</g>
+<g id="layout-shape-7" data-name="图片 6">
+<image href="../assets/image7.png" x="258.4" y="47.22" width="14.23" height="14.38" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="直接连接符 1">
+<line x1="484.44" y1="205.9" x2="687.28" y2="205.9" stroke="#404040" marker-end="url(#marrow1)" fill="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-3" data-name="直接连接符 2">
+<line x1="484.44" y1="388.72" x2="687.28" y2="388.72" stroke="#404040" marker-end="url(#marrow2)" fill="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-4" data-name="直接连接符 3">
+<line x1="570.26" y1="294.89" x2="687.28" y2="294.89" stroke="#404040" marker-end="url(#marrow3)" fill="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="圆角矩形 11" transform="rotate(315 505.13 296.65) translate(505.13 296.65) scale(1 -1) translate(-505.13 -296.65)">
+<rect x="452.33" y="243.85" width="105.59" height="105.59" rx="6.86" ry="6.86" fill="#31B199" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-6" data-name="圆角矩形 12" transform="rotate(315 414.47 205.99) translate(414.47 205.99) scale(1 -1) translate(-414.47 -205.99)">
+<rect x="361.67" y="153.19" width="105.59" height="105.59" rx="6.86" ry="6.86" fill="#31B199" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-7" data-name="圆角矩形 17" transform="rotate(45 414.47 387.96)">
+<rect x="361.67" y="335.17" width="105.59" height="105.59" rx="6.86" ry="6.86" fill="#31B199" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-8" data-name="任意多边形 6">
+<path d="M 414.56 183.45 C 425.9 183.45 435.1 192.64 435.1 203.98 C 435.1 213.15 429.09 220.92 420.79 223.56 L 422.71 226.88 L 428.78 226.88 L 428.78 228.46 L 400.35 228.46 L 400.35 226.88 L 406.42 226.88 L 408.34 223.56 C 400.04 220.92 394.03 213.15 394.03 203.98 C 394.03 192.64 403.22 183.45 414.56 183.45 Z M 409.92 223.99 L 408.25 226.88 L 420.88 226.88 L 419.21 223.99 C 417.71 224.33 416.16 224.51 414.56 224.51 C 412.97 224.51 411.41 224.33 409.92 223.99 Z M 414.56 195.29 C 409.76 195.29 405.88 199.18 405.88 203.98 C 405.88 208.78 409.76 212.67 414.56 212.67 C 419.37 212.67 423.25 208.78 423.25 203.98 C 423.25 199.18 419.37 195.29 414.56 195.29 Z M 424.44 192.92 C 423.78 192.92 423.25 193.45 423.25 194.11 C 423.25 194.76 423.78 195.29 424.44 195.29 C 425.09 195.29 425.62 194.76 425.62 194.11 C 425.62 193.45 425.09 192.92 424.44 192.92 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-9" data-name="任意多边形 19">
+<path d="M 420.57 389.92 C 421.84 389.92 422.87 390.95 422.87 392.23 L 422.87 407.57 C 422.87 408.85 421.84 409.88 420.57 409.88 L 408.29 409.88 C 407.02 409.88 405.99 408.85 405.99 407.57 L 405.99 392.23 C 405.99 390.95 407.02 389.92 408.29 389.92 L 420.57 389.92 Z M 404.45 376.88 C 404.45 378.52 405.74 379.86 407.37 379.95 L 407.52 379.95 L 421.34 379.95 C 422.98 379.95 424.32 378.66 424.41 377.03 L 424.41 376.88 L 433.62 376.88 C 434.89 376.88 435.92 377.9 435.92 379.18 L 435.92 398.37 C 435.92 399.64 434.89 400.67 433.62 400.67 L 424.41 400.67 L 424.41 391.46 C 424.41 389.82 423.12 388.47 421.49 388.39 L 421.34 388.39 L 407.52 388.39 C 405.88 388.39 404.54 389.68 404.45 391.3 L 404.45 391.46 L 404.45 400.67 L 395.24 400.67 C 393.97 400.67 392.94 399.64 392.94 398.37 L 392.94 383.84 C 392.94 383.07 393.23 382.32 393.77 381.75 L 397.41 377.85 C 397.99 377.23 398.8 376.88 399.65 376.88 L 404.45 376.88 Z M 430.16 381.48 C 429.53 381.48 429.01 382 429.01 382.63 C 429.01 383.27 429.53 383.78 430.16 383.78 C 430.8 383.78 431.31 383.27 431.31 382.63 C 431.31 382 430.8 381.48 430.16 381.48 Z M 420.57 367.67 C 421.84 367.67 422.87 368.7 422.87 369.97 L 422.87 376.11 C 422.87 377.38 421.84 378.41 420.57 378.41 L 408.29 378.41 C 407.02 378.41 405.99 377.38 405.99 376.11 L 405.99 369.97 C 405.99 368.7 407.02 367.67 408.29 367.67 L 420.57 367.67 Z" fill="#FFFFFF" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-10" data-name="任意多边形 23">
+<path d="M 524.51 281.64 C 525.76 281.64 526.77 282.65 526.77 283.9 L 526.77 311.08 C 526.77 312.33 525.76 313.35 524.51 313.35 L 486.76 313.35 C 485.5 313.35 484.49 312.33 484.49 311.08 L 484.49 283.9 C 484.49 282.65 485.5 281.64 486.76 281.64 L 524.51 281.64 Z M 515.47 297.33 C 514.48 296.58 513.06 296.77 512.3 297.77 L 512.3 297.77 L 505.62 306.6 C 505.56 306.69 505.49 306.76 505.42 306.83 C 504.55 307.72 503.11 307.73 502.22 306.85 L 502.22 306.85 L 497.3 301.99 C 497.25 301.95 497.2 301.89 497.15 301.85 C 496.18 301.06 494.75 301.2 493.96 302.16 L 493.96 302.16 L 487.02 310.61 C 486.91 310.74 486.85 310.91 486.85 311.08 C 486.85 311.5 487.19 311.84 487.6 311.84 L 487.6 311.84 L 523.86 311.84 C 524.01 311.84 524.15 311.79 524.28 311.71 C 524.62 311.47 524.71 311.01 524.49 310.66 L 524.49 310.66 L 515.99 297.88 C 515.85 297.67 515.68 297.48 515.47 297.33 Z M 492.04 286.17 C 490.37 286.17 489.02 287.52 489.02 289.19 C 489.02 290.85 490.37 292.21 492.04 292.21 C 493.71 292.21 495.06 290.85 495.06 289.19 C 495.06 287.52 493.71 286.17 492.04 286.17 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-11" data-name="矩形 10">
+<rect x="61.22" y="273.13" width="278.58" height="57.5" fill="none"/>
+<text x="330.21" y="314.62" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-12" data-name="矩形 11">
+<rect x="687.28" y="170.56" width="504.72" height="77.85" fill="none"/>
+<text x="696.88" y="197.74" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明请在此添加文字说明请在此添</tspan><tspan x="696.88" dy="32" fill="#404040" font-size="21.33">熊猫办公说明。</tspan></text>
+</g>
+<g id="shape-13" data-name="矩形 12">
+<rect x="687.28" y="259.08" width="504.72" height="77.85" fill="none"/>
+<text x="696.88" y="286.26" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明请在此添加文字说明请在此添</tspan><tspan x="696.88" dy="32" fill="#404040" font-size="21.33">加文字说明。</tspan></text>
+</g>
+<g id="shape-14" data-name="矩形 13">
+<rect x="687.28" y="348.07" width="504.72" height="77.85" fill="none"/>
+<text x="696.88" y="375.25" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明请在此添加文字说明请在此添</tspan><tspan x="696.88" dy="32" fill="#404040" font-size="21.33">加文字说明。</tspan></text>
+</g>
+<g id="shape-15" data-name="矩形 14">
+<rect x="133.82" y="518.72" width="1036.18" height="73.5" fill="none"/>
+<text x="651.91" y="541.65" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明请在此添加文字说明请在此添加文字说明。请在此添加文字说明请在此添加文字说明请</tspan><tspan x="651.91" dy="42.67" fill="#404040" font-size="21.33">在此添加文字说明。</tspan></text>
+</g></svg>

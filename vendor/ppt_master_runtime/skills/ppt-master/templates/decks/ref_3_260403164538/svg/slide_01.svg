@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#C7EDF8"/>
+<g id="shape-10" data-name="图片 9">
+<image href="../assets/image1.png" x="793.33" y="-74.67" width="513.23" height="249.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-22" data-name="组合 21">
+<g id="shape-13" data-name="矩形 12" transform="rotate(355.77 603.22 372.88)">
+<rect x="135.03" y="130.91" width="936.38" height="483.95" fill="#84A4AD" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="图片 14">
+<image href="../assets/image2.jpeg" x="152.51" y="130.65" width="969.53" height="504.25" preserveAspectRatio="none"/>
+</g>
+<g id="shape-16" data-name="矩形 15" transform="rotate(336.11 175.97 146.19)">
+<rect x="87.42" y="116" width="177.09" height="60.38" fill="#A9D18E" fill-opacity="0.62" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="249.15" y="155.31" width="818.83" height="126.02" fill="none"/>
+<text x="258.75" y="241.71" text-anchor="start" xml:space="preserve" font-family="&quot;三极趣味广告体&quot;, sans-serif" font-size="96" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="96">户外露营旅游攻略</tspan></text>
+</g>
+<g id="shape-23" data-name="文本框 22">
+<rect x="325" y="494.7" width="594.85" height="116.33" fill="none"/>
+<text x="334.6" y="574.3" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="88" fill="#FFFFFF" fill-opacity="0.58" font-weight="bold"><tspan fill="#FFFFFF" font-size="88" fill-opacity="0.58" font-weight="bold">CAMPING</tspan></text>
+</g>
+<g id="shape-29" data-name="图片 28" transform="rotate(30.89 192.02 673.72) translate(192.02 673.72) scale(1 -1) translate(-192.02 -673.72)">
+<image href="../assets/image1.png" x="-64.59" y="549.05" width="513.23" height="249.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-30" data-name="矩形 29" transform="rotate(336.11 1104.09 626.16)">
+<rect x="1015.54" y="595.97" width="177.09" height="60.38" fill="#A9D18E" fill-opacity="0.62" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-32" data-name="图片 31">
+<image href="../assets/image3.png" x="952.36" y="309.09" width="380.54" height="380.54" preserveAspectRatio="none"/>
+</g></svg>

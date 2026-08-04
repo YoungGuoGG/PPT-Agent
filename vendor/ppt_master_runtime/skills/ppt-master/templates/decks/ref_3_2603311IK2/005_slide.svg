@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><path d="M 0.08 169.24 L 666.57 169.24 L 666.57 613.67 L 0.08 613.67 Z"/></clipPath><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="4" dy="0" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="4" dy="0" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><clipPath id="clip2" clipPathUnits="userSpaceOnUse"><path d="M 911.68 468.55 L 1230.46 468.55 L 1230.46 689.19 L 911.68 689.19 Z"/></clipPath></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="rotate(90 640 360)">
+<image href="assets/image1.png" x="280" y="-280" width="720" height="1280" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="图片 4">
+<image href="assets/image3.png" x="717.91" y="0" width="562.09" height="457.92" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="assets/image10.png" x="902.75" y="0" width="377.25" height="292" preserveAspectRatio="none"/>
+</g>
+<g id="shape-15" data-name="任意多边形 14">
+<image clip-path="url(#clip1)" href="assets/image16.jpeg" x="0.08" y="169.24" width="666.49" height="444.43" preserveAspectRatio="none"/>
+<path d="M 0.08 169.24 L 666.57 169.24 L 666.57 613.67 L 0.08 613.67 Z" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-3" data-name="矩形 2">
+<rect x="311.24" y="426.67" width="624.76" height="230.1" fill="#3B3B3B" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-5" data-name="矩形 4">
+<rect x="331.4" y="479.59" width="234.8" height="42.01" fill="none"/>
+<text x="448.81" y="507.06" text-anchor="middle" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;等线&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">点击此处添加标题</tspan></text>
+</g>
+<g id="shape-6" data-name="矩形 5">
+<rect x="325.72" y="521.6" width="585.96" height="72.81" fill="none"/>
+<text x="335.32" y="544.53" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">添加标题此处添加标题此处添加标题此处添加标题添加标题</tspan><tspan x="335.32" dy="27.73" fill="#FFFFFF" font-size="21.33">此处添加标题此处添加标题</tspan></text>
+</g>
+<g id="shape-7" data-name="矩形 6">
+<rect x="681.7" y="180.16" width="51.81" height="51.81" fill="#3B3B3B" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-8" data-name="矩形 7">
+<rect x="748.56" y="184.45" width="234.8" height="42.01" fill="none"/>
+<text x="865.96" y="211.91" text-anchor="middle" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;等线&quot;, sans-serif" font-size="26.67" fill="#3B3B3B" font-weight="bold"><tspan fill="#3B3B3B" font-size="26.67" font-weight="bold">点击此处添加标题</tspan></text>
+</g>
+<g id="shape-9" data-name="矩形 8">
+<rect x="748.56" y="250.18" width="499.44" height="144.11" fill="none"/>
+<text x="758.16" y="273.11" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#000000"><tspan fill="#000000" font-size="21.33">添加标题此处添加标题此处添加标题此处添加标题</tspan><tspan x="758.16" dy="27.73" fill="#000000" font-size="21.33">添加标题此处添加标题此处添加标题添加标题此处</tspan><tspan x="758.16" dy="27.73" fill="#000000" font-size="21.33">添加标题此处添加标题此处添加标题添加标题此处</tspan><tspan x="758.16" dy="27.73" fill="#000000" font-size="21.33">添加标题此处添加标题</tspan></text>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="45.61" y="22.38" width="227.3" height="54.93" fill="none"/>
+<text x="55.21" y="58.91" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="37.33" fill="#000000"><tspan fill="#000000" font-size="37.33">添加标题</tspan></text>
+</g>
+<g id="shape-17" data-name="任意多边形 16">
+<image clip-path="url(#clip2)" href="assets/image17.jpeg" x="911.68" y="468.55" width="318.78" height="220.65" preserveAspectRatio="none"/>
+<path d="M 911.68 468.55 L 1230.46 468.55 L 1230.46 689.19 L 911.68 689.19 Z" fill="none" stroke="none" stroke-width="1"/>
+</g></svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="rotate(90 640 360)">
+<image href="../assets/image1.png" x="280" y="-280" width="720" height="1280" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="图片 4">
+<image href="../assets/image8.png" x="0" y="112" width="804.39" height="608" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="../assets/image5.png" x="0" y="0" width="297.91" height="424.96" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-7" data-name="图片 6">
+<image href="../assets/image9.png" x="107.45" y="187.45" width="532.55" height="532.55" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="854" y="180.67" width="150" height="358.67" fill="none" stroke="#3B3B3B"/>
+<text x="929" y="246.67" text-anchor="middle" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="72" fill="#000000"><tspan fill="#000000" font-size="72">第三章节</tspan></text>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="753.45" y="326.19" width="77.55" height="213.14" fill="none"/>
+</g>
+<g id="shape-6-text" data-name="文本框 5 text">
+<text x="792.22" y="346.59" text-anchor="middle" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">旅</tspan><tspan x="792.22" dy="25.2" fill="#000000" font-size="24">行</tspan><tspan x="792.22" dy="25.2" fill="#000000" font-size="24">方</tspan><tspan x="792.22" dy="25.2" fill="#000000" font-size="24">案</tspan><tspan x="792.22" dy="25.2" fill="#000000" font-size="24">旅</tspan><tspan x="792.22" dy="25.2" fill="#000000" font-size="24">行</tspan><tspan x="792.22" dy="25.2" fill="#000000" font-size="24">足</tspan><tspan x="792.22" dy="25.2" fill="#000000" font-size="24">迹</tspan></text>
+</g></svg>

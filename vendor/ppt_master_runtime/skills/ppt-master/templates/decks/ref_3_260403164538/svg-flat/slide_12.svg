@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#C7EDF8"/>
+<g id="shape-13" data-name="图片 12">
+<image href="../assets/image6.png" x="0" y="-27.43" width="1280" height="747.43" preserveAspectRatio="none"/>
+</g>
+<g id="shape-15" data-name="矩形 14">
+<rect x="201.62" y="172.06" width="876.76" height="298.61" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="矩形 15" transform="rotate(322.81 220.71 184.6)">
+<rect x="132.16" y="154.41" width="177.09" height="60.38" fill="#A9D18E" fill-opacity="0.62" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="377.91" y="185.93" width="524.18" height="96.8" fill="none"/>
+<text x="387.51" y="211.13" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Part.0</tspan><tspan fill="#000000" font-size="24">3</tspan></text>
+</g>
+<g id="shape-18" data-name="文本框 17">
+<rect x="384.83" y="306.68" width="510.33" height="106.53" fill="none"/>
+<text x="394.43" y="331.88" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">露营注意事项</tspan></text>
+</g>
+<g id="shape-19" data-name="图片 18" transform="rotate(21.24 1029.63 447.12)">
+<image href="../assets/image7.png" x="961.88" y="365.29" width="135.51" height="163.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-20" data-name="图片 19" transform="rotate(340.43 831.29 225.69)">
+<image href="../assets/image8.png" x="772.89" y="154.31" width="116.8" height="142.75" preserveAspectRatio="none"/>
+</g>
+<g id="shape-21" data-name="直接连接符 20">
+<line x1="370.21" y1="425.82" x2="953.83" y2="425.82" stroke-width="3.667" stroke="#ECCCE1" fill="#4472C4"/>
+</g>
+<g id="shape-23" data-name="直接连接符 22">
+<line x1="462.12" y1="283.36" x2="817.88" y2="283.36" stroke-width="3.667" stroke="#ECCCE1" fill="#4472C4"/>
+</g></svg>

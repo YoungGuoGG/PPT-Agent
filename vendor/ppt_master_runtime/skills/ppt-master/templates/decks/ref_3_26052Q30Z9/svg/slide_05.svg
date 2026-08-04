@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g id="shape-24" data-name="矩形 23" transform="translate(636.8 380.9) scale(-1 1) translate(-636.8 -380.9)">
+<rect x="-7.47" y="85.87" width="1288.53" height="590.07" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-25" data-name="组合 24">
+<g id="shape-26" data-name="文本框 25">
+<rect x="65.07" y="8.32" width="253.33" height="87.24" fill="none"/>
+<text x="74.67" y="40.32" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">产品介绍  </tspan></text>
+<text x="74.67" y="62.85" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">Short Text Here</tspan></text>
+
+</g>
+<g id="shape-27" data-name="椭圆 26" transform="translate(44.48 33.28) scale(-1 1) translate(-44.48 -33.28)">
+<ellipse cx="44.48" cy="33.28" rx="8.75" ry="8.75" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-4" data-name="文本框 3">
+<rect x="101.01" y="202.26" width="360.6" height="87.13" fill="none"/>
+<text x="110.61" y="243.32" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="42.67" fill="#44546A"><tspan fill="#44546A" font-size="42.67">此处添加标题</tspan></text>
+<text x="110.61" y="276.39" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#44546A"><tspan fill="#44546A" font-size="21.33">Add the title here</tspan></text>
+</g>
+<g id="shape-2" data-name="直接连接符 1">
+<line x1="111.99" y1="314" x2="212.78" y2="314" stroke-width="2" stroke="#44546A" fill="#5B9BD5"/>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="101.01" y="330.18" width="502.94" height="148.93" fill="none"/>
+<text x="110.61" y="348.58" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">在这里添加你的详细小段落文本内容，与标题相关并符合整体语言风</tspan><tspan x="110.61" dy="19.2" fill="#404040" font-size="16">格，内容简洁，尽量生动，将你需要表达的意思表述清楚完整，控制</tspan><tspan x="110.61" dy="19.2" fill="#404040" font-size="16">好字数，与设计排版相符合，保持美观大方。在这里添加你的详细小</tspan><tspan x="110.61" dy="19.2" fill="#404040" font-size="16">段落文本内容，与标题相关并符合整体语言风格内容请简洁，尽量生</tspan><tspan x="110.61" dy="19.2" fill="#404040" font-size="16">动，将你需要表达的意思表述清楚完整，控制好字数，与设计排版相</tspan><tspan x="110.61" dy="19.2" fill="#404040" font-size="16">符合，保持美观大方。</tspan></text>
+</g>
+<g id="shape-34" data-name="组合 33">
+<g id="shape-5" data-name="矩形 4">
+<rect x="1159.64" y="213.89" width="38.73" height="336.27" fill="#44546A" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="图片 5">
+<svg x="651.24" y="213.92" width="508.87" height="333.6" viewBox="0.04683 0 0.95317 1" preserveAspectRatio="none"><image href="../assets/image4.jpeg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-32" data-name="Freeform 127">
+<path d="M 1188.48 380.2 C 1170.58 363.47 1170.58 363.47 1170.58 363.47 C 1170.29 363.2 1170.29 363.2 1170 363.2 C 1170 363.2 1169.7 363.2 1169.7 363.47 C 1169.41 363.75 1169.41 364.02 1169.7 364.3 C 1187.3 380.75 1187.3 380.75 1187.3 380.75 C 1187.01 381.03 1187.01 381.03 1187.01 381.03 C 1169.7 397.21 1169.7 397.21 1169.7 397.21 C 1169.41 397.48 1169.41 398.03 1169.7 398.03 C 1169.7 398.3 1170.29 398.3 1170.58 398.03 C 1188.48 381.3 1188.48 381.3 1188.48 381.3 C 1188.77 381.03 1188.77 380.48 1188.48 380.2 Z" fill="#204B51" stroke-width="0.667" stroke-linecap="butt" stroke="#FFFFFF" stroke-linejoin="miter"/>
+</g>
+</g>
+<g id="shape-38" data-name="组合 37">
+<g id="shape-39" data-name="矩形 38">
+<rect x="111.99" y="495.3" width="64.25" height="64.25" fill="#44546A" stroke="#44546A" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="矩形 39">
+<rect x="176.24" y="495.3" width="428" height="64.25" fill="none" stroke="#44546A" stroke-width="1"/>
+</g>
+<g id="shape-41" data-name="组合 40">
+<g id="shape-42" data-name="Freeform 228">
+<path d="M 144.11 504.69 C 131.68 504.69 121.38 514.99 121.38 527.42 C 121.38 539.85 131.68 550.16 144.11 550.16 C 156.54 550.16 166.84 539.85 166.84 527.42 C 166.84 514.99 156.54 504.69 144.11 504.69 Z M 159.03 542.34 C 157.25 544.12 154.77 545.89 152.28 546.96 C 149.79 548.02 146.95 548.38 144.11 548.38 C 141.27 548.38 138.43 548.02 135.94 546.96 C 133.45 545.89 130.97 544.12 129.19 542.34 C 127.42 540.57 125.64 538.08 124.58 535.59 C 123.51 533.11 123.16 530.26 123.16 527.42 C 123.16 524.58 123.51 521.74 124.58 519.25 C 125.64 516.77 127.42 514.28 129.19 512.51 C 130.97 510.73 133.45 508.95 135.94 507.89 C 141.27 505.76 146.95 505.76 152.28 507.89 C 154.77 508.95 157.25 510.73 159.03 512.51 C 160.8 514.28 162.58 516.77 163.65 519.25 C 164.71 521.74 165.07 524.58 165.07 527.42 C 165.07 530.26 164.71 533.11 163.65 535.59 C 162.58 538.08 161.16 540.57 159.03 542.34 Z" fill="#FFFFFF" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-43" data-name="Oval 229">
+<ellipse cx="144.11" cy="527.42" rx="1.43" ry="1.43" fill="#FFFFFF" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-12" data-name="Freeform 230">
+<path d="M 151.24 527.14 C 151.24 527.14 151.24 527.14 151.24 527.14 C 144.82 512.6 144.82 512.6 144.82 512.6 C 144.47 511.89 143.75 511.89 143.4 512.6 C 136.98 527.14 136.98 527.14 136.98 527.14 C 136.98 527.14 136.98 527.5 136.98 527.5 C 136.98 527.5 136.98 527.85 136.98 527.85 C 136.98 527.85 136.98 527.85 136.98 527.85 C 143.4 542.39 143.4 542.39 143.4 542.39 C 143.75 543.1 144.47 543.1 144.82 542.39 C 151.24 527.85 151.24 527.85 151.24 527.85 C 151.24 527.85 151.24 527.5 151.24 527.5 C 151.24 527.5 151.24 527.5 151.24 527.5 C 151.24 527.5 151.24 527.5 151.24 527.5 C 151.24 527.5 151.24 527.14 151.24 527.14 Z M 144.11 540.26 C 138.41 527.5 138.41 527.5 138.41 527.5 C 144.11 515.08 144.11 515.08 144.11 515.08 C 149.81 527.5 149.81 527.5 149.81 527.5 L 144.11 540.26 Z" fill="#FFFFFF" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+</g>
+</g>
+<g id="shape-45" data-name="文本框 44">
+<rect x="233.83" y="509.65" width="312.8" height="35.4" fill="none"/>
+<text x="390.24" y="532.58" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">添加小段文字 &amp; 添加小段文字</tspan></text>
+</g>
+</g></svg>

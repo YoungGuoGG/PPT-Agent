@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-4" data-name="文本框 3">
+<rect x="94.01" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="103.61" y="80.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">南京简介</tspan></text>
+</g>
+<g id="shape-5" data-name="任意多边形: 形状 4">
+<path d="M 0 42.67 L 59.27 42.67 C 77.03 42.67 91.43 57.06 91.43 74.82 C 91.43 92.58 77.03 106.98 59.27 106.98 L 0 106.98 Z" stroke="none" fill="#477E9A" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="12.19" y="47.24" width="67.86" height="67.86" fill="none"/>
+<text x="21.79" y="92.84" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">壹</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="817.82" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="1234.89" y="80.89" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">LOGO</tspan></text>
+</g>
+<g id="shape-8" data-name="矩形 7">
+<rect x="896" y="182.57" width="384" height="286" fill="#477E9A" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-9" data-name="矩形 8">
+<rect x="0" y="182.57" width="384" height="286" fill="#477E9A" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="44.19" y="498.76" width="1191.62" height="141.78" fill="none"/>
+<text x="640" y="521.7" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="21.33" fill="#262626"><tspan fill="#262626" font-size="21.33">南京是首批国家历史文化名城 ，中华文明的重要发祥地，长期是中国南方的政治、经济、文化中心，历史上曾数次庇佑华夏</tspan><tspan x="640" dy="27.73" fill="#262626" font-size="21.33">之正朔。南京早在100-120万年前就有古人类活动，35-60万年前已有南京猿人在汤山生活，有着7000多年文明史和近500年的</tspan><tspan x="640" dy="27.73" fill="#262626" font-size="21.33">建都史，西街遗址的发掘将南京建城史追溯到3100年前的西周时期。南京是国家重要的科教中心，自古以来就是一座崇文重教</tspan><tspan x="640" dy="27.73" fill="#262626" font-size="21.33">的城市，有“天下文枢”“东南第一学”之称，明清中国一半以上的状元均出自南京江南贡院。</tspan></text>
+</g>
+<g id="shape-11" data-name="矩形 10">
+<rect x="60" y="236.57" width="1160" height="176" fill="none" stroke="#FFFFFF" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="图片占位符 3">
+<image href="../assets/image16.jpeg" x="428.02" y="184.24" width="423.96" height="282.67" preserveAspectRatio="none"/>
+</g></svg>

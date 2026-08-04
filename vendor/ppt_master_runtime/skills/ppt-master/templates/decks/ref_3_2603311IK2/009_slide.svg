@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="rotate(90 640 360)">
+<image href="assets/image1.png" x="280" y="-280" width="720" height="1280" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="图片 4">
+<image href="assets/image3.png" x="717.91" y="0" width="562.09" height="457.92" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="assets/image10.png" x="902.75" y="0" width="377.25" height="292" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-2" data-name="矩形 1">
+<image href="assets/image17.jpeg" x="916.67" y="100.4" width="309.11" height="519.2" preserveAspectRatio="none"/>
+<rect x="916.67" y="100.4" width="309.11" height="519.2" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-3" data-name="矩形 2">
+<image href="assets/image18.jpeg" x="621.87" y="100.4" width="286.87" height="519.2" preserveAspectRatio="none"/>
+<rect x="621.87" y="100.4" width="286.87" height="519.2" fill="none" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-4" data-name="矩形 3">
+<rect x="88.73" y="463.53" width="820" height="82.47" fill="#3B3B3B" fill-opacity="0.7" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="矩形 12">
+<rect x="88.8" y="150.07" width="505.73" height="343.89" fill="none"/>
+<text x="98.4" y="170.73" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">点击添加文本信息点击添加文本信息点击添加文本信息点击</tspan><tspan x="98.4" dy="28" fill="#0D0D0D" font-size="18.67">添加文本信息点击添加文本信息</tspan></text>
+
+<text x="98.4" y="262.73" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">点击添加文本信息点击添加文本信息点击添加文本信息点击</tspan><tspan x="98.4" dy="28" fill="#0D0D0D" font-size="18.67">添加文本信息点击添加文本信息</tspan></text>
+
+<text x="98.4" y="354.73" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">点击添加文本信息点击添加文本信息点击添加文本信息点击</tspan><tspan x="98.4" dy="28" fill="#0D0D0D" font-size="18.67">添加文本信息点击添加文本信息</tspan></text>
+
+
+</g>
+<g id="shape-12" data-name="TextBox 11">
+<rect x="99.61" y="487.08" width="311.73" height="35.4" fill="none"/>
+<text x="109.21" y="510.02" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">点此替换文本</tspan></text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="45.61" y="22.38" width="227.3" height="54.93" fill="none"/>
+<text x="55.21" y="58.91" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="37.33" fill="#000000"><tspan fill="#000000" font-size="37.33">添加标题</tspan></text>
+</g></svg>

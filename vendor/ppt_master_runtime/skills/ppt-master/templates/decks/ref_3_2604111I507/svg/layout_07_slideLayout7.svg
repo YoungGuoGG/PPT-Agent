@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter></defs><g id="layout-shape-10" data-name="图片 9">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-2" data-name="日期占位符 1" data-ph-type="dt">
+<rect x="88" y="667.33" width="288" height="38.33" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="96" y="685.33" font-size="12" fill="#64748B">ph dt idx=10</text>
+</g>
+<g id="layout-shape-3" data-name="页脚占位符 2" data-ph-type="ftr">
+<rect x="424" y="667.33" width="432" height="38.33" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="432" y="685.33" font-size="12" fill="#64748B">ph ftr idx=11</text>
+</g>
+<g id="layout-shape-4" data-name="灯片编号占位符 3" data-ph-type="sldNum">
+<rect x="904" y="667.33" width="288" height="38.33" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="912" y="685.33" font-size="12" fill="#64748B">ph sldNum idx=12</text>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g></svg>

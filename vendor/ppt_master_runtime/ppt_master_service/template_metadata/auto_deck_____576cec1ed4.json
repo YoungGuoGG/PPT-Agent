@@ -1,0 +1,14 @@
+{
+  "template_id": "deck_中汽研_现代",
+  "name": "CATARC (中汽研) Modern Template - Design Specification (v3.0 Future Tech)",
+  "description": "Forward-looking technology showcases, strategic releases, high-end business reporting.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Forward-looking technology showcases, strategic releases, high-end business reporting."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\decks\\中汽研_现代",
+  "kind": "deck",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

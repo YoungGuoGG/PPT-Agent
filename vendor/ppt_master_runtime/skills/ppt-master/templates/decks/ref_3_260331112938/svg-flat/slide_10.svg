@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#EC61EA"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="4" flood-color="#26C6EC" flood-opacity="0.2"/></filter><linearGradient id="ggrad3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="4" flood-color="#26C6EC" flood-opacity="0.2"/></filter><linearGradient id="ggrad4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="4" flood-color="#D34EFC" flood-opacity="0.2"/></filter><linearGradient id="ggrad5" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="4" flood-color="#26C6EC" flood-opacity="0.2"/></filter><linearGradient id="ggrad6" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="4" flood-color="#26C6EC" flood-opacity="0.2"/></filter><linearGradient id="ggrad7" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><filter id="fx6" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="4" flood-color="#D34EFC" flood-opacity="0.2"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="../assets/image1.png" x="-20.87" y="-29.13" width="150.93" height="150.93" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-161" data-name="图形" transform="rotate(270 400.97 72.83)">
+<ellipse cx="400.97" cy="72.83" rx="23.83" ry="23.83" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-160" data-name="图形">
+<rect x="114.87" y="49" width="315.27" height="67.73" fill="none"/>
+<text x="124.47" y="94.6" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="48" fill="#262626"><tspan fill="#262626" font-size="48">作品设计理念</tspan></text>
+</g>
+<g id="shape-17" data-name="图形">
+<g id="shape-9" data-name="图形" transform="translate(1119.27 395.17) scale(-1 1) translate(-1119.27 -395.17)">
+<line x1="1119.27" y1="293.73" x2="1119.27" y2="496.6" stroke-width="2" stroke-linecap="round" stroke="#E6E6E6" stroke-linejoin="round" fill="#26C6EC"/>
+</g>
+<g id="shape-4" data-name="图形">
+<rect x="1049.47" y="496.6" width="139.6" height="43.2" rx="21.6" ry="21.6" fill="url(#ggrad2)" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx1)"/>
+<text x="1119.27" y="523.53" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">Text here</tspan></text>
+</g>
+<g id="shape-5" data-name="图形">
+<rect x="1049.47" y="373.53" width="139.6" height="43.2" rx="21.6" ry="21.6" fill="url(#ggrad3)" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx2)"/>
+<text x="1119.27" y="400.47" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">Text here</tspan></text>
+</g>
+<g id="shape-6" data-name="图形">
+<rect x="1049.47" y="250.53" width="139.6" height="43.2" rx="21.6" ry="21.6" fill="url(#ggrad4)" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx3)"/>
+<text x="1119.27" y="277.13" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="20" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="20" font-weight="bold">Text here</tspan></text>
+</g>
+<g id="shape-7" data-name="图形">
+<rect x="674" y="245.93" width="353.33" height="64.4" fill="none"/>
+<text x="683.6" y="264.33" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan><tspan x="683.6" dy="24" fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-8" data-name="图形">
+<rect x="674" y="369" width="346.8" height="64.4" fill="none"/>
+<text x="683.6" y="387.4" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan><tspan x="683.6" dy="24" fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-10" data-name="图形">
+<rect x="674" y="492.07" width="346.8" height="64.4" fill="none"/>
+<text x="683.6" y="510.47" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan><tspan x="683.6" dy="24" fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-16" data-name="图形" transform="translate(387.27 401.2) scale(-1 1) translate(-387.27 -401.2)">
+<g id="shape-2" data-name="图形" transform="translate(575 395.17) scale(-1 1) translate(-575 -395.17)">
+<line x1="575" y1="293.73" x2="575" y2="496.6" stroke-width="2" stroke-linecap="round" stroke="#E6E6E6" stroke-linejoin="round" fill="#26C6EC"/>
+</g>
+<g id="shape-3" data-name="图形">
+<rect x="505.2" y="496.6" width="139.6" height="43.2" rx="21.6" ry="21.6" fill="url(#ggrad5)" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx4)"/>
+<text x="575" y="523.53" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">Text here</tspan></text>
+</g>
+<g id="shape-11" data-name="图形">
+<rect x="505.2" y="373.53" width="139.6" height="43.2" rx="21.6" ry="21.6" fill="url(#ggrad6)" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx5)"/>
+<text x="575" y="400.47" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">Text here</tspan></text>
+</g>
+<g id="shape-12" data-name="图形">
+<rect x="505.2" y="250.53" width="139.6" height="43.2" rx="21.6" ry="21.6" fill="url(#ggrad7)" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx6)"/>
+<text x="575" y="277.13" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="20" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="20" font-weight="bold">Text here</tspan></text>
+</g>
+<g id="shape-13" data-name="图形">
+<rect x="129.73" y="245.93" width="353.33" height="64.4" fill="none"/>
+<text x="139.33" y="264.33" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan><tspan x="139.33" dy="24" fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-14" data-name="图形">
+<rect x="129.73" y="369" width="346.8" height="64.4" fill="none"/>
+<text x="139.33" y="387.4" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan><tspan x="139.33" dy="24" fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-15" data-name="图形">
+<rect x="129.73" y="492.07" width="346.8" height="64.4" fill="none"/>
+<text x="139.33" y="510.47" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan><tspan x="139.33" dy="24" fill="#262626" font-size="16">此处添加您的文本内容此处添加您的文本内容</tspan></text>
+</g>
+</g>
+</g></svg>

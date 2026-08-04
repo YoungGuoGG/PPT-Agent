@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-4" data-name="矩形 3" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="../assets/image3.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-2" data-name="矩形 1">
+<rect x="34.6" y="30.26" width="1210.8" height="659.48" fill="#FFFFFF" stroke="#0A41BB" stroke-width="1"/>
+</g>
+<g id="shape-28" data-name="文本框 27">
+<rect x="541.45" y="87.7" width="197.11" height="116.33" fill="none"/>
+<text x="640" y="167.3" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="88" fill="#0A41BB"><tspan fill="#0A41BB" font-size="88">目录</tspan></text>
+</g>
+<g id="shape-29" data-name="图形">
+<rect x="302.76" y="153.76" width="674.48" height="42.01" fill="none"/>
+<text x="312.36" y="181.23" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="26.67" fill="#BFBFBF"><tspan fill="#BFBFBF" font-size="26.67">CONTENTS</tspan></text>
+</g>
+<g id="shape-31" data-name="组合 30">
+<g id="shape-33" data-name="Rectangle 44">
+<rect x="115.05" y="102.08" width="21.55" height="21.55" stroke="none" fill="none"/>
+</g>
+<g id="shape-38" data-name="Rectangle 45">
+<rect x="147.19" y="102.08" width="21.55" height="21.55" stroke="none" fill="none"/>
+</g>
+<g id="shape-39" data-name="Rectangle 46">
+<rect x="178.96" y="102.08" width="21.92" height="21.55" stroke="none" fill="none"/>
+</g>
+</g>
+<g id="shape-56" data-name="组合 55">
+<g id="shape-55" data-name="组合 54">
+<g id="shape-47" data-name="íSḷíḋe">
+<rect x="87.31" y="245.05" width="227.4" height="310.2" fill="none"/>
+<text x="96.91" y="460.65" text-anchor="start" xml:space="preserve" font-family="&quot;Bahnschrift SemiBold&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="248" fill="#000000" letter-spacing="-6.67"><tspan fill="#000000" font-size="248" letter-spacing="-6.67">01</tspan></text>
+</g>
+<g id="shape-48" data-name="îŝľïḓè" transform="translate(209.18 460.66) scale(-1 1) translate(-209.18 -460.66)">
+<rect x="107.98" y="440.34" width="202.39" height="40.65" fill="none" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="117.43" y="458.85" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">Lorem Ipsum is simply </tspan><tspan x="117.43" dy="20.8" fill="#808080" font-size="16">dummy text of the </tspan></text>
+</g>
+<g id="shape-49" data-name="î$líḓè">
+<rect x="105.07" y="333.01" width="233.49" height="67.86" fill="none"/>
+<text x="114.67" y="378.61" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="48" fill="#0A41BB"><tspan fill="#0A41BB" font-size="48">添加标题</tspan></text>
+</g>
+<g id="shape-50" data-name="iṩlíḍé">
+<rect x="118.46" y="401.42" width="23.32" height="23.32" rx="1.52" ry="1.52" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-54" data-name="组合 53">
+<g id="shape-43" data-name="iṡliḍê">
+<rect x="344.82" y="245.05" width="273.51" height="310.2" fill="none"/>
+<text x="354.42" y="460.65" text-anchor="start" xml:space="preserve" font-family="&quot;Bahnschrift SemiBold&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="248" fill="#000000" letter-spacing="-6.67"><tspan fill="#000000" font-size="248" letter-spacing="-6.67">02</tspan></text>
+</g>
+<g id="shape-44" data-name="iṧḷïḍê" transform="translate(475.42 460.66) scale(-1 1) translate(-475.42 -460.66)">
+<rect x="376.98" y="440.34" width="196.89" height="40.65" fill="none" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="386.43" y="458.85" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">Lorem Ipsum is simply </tspan><tspan x="386.43" dy="20.8" fill="#808080" font-size="16">dummy text of the </tspan></text>
+</g>
+<g id="shape-45" data-name="iṥḻíḋè">
+<rect x="374.07" y="333.01" width="233.49" height="67.86" fill="none"/>
+<text x="383.67" y="378.61" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="48" fill="#0A41BB"><tspan fill="#0A41BB" font-size="48">添加标题</tspan></text>
+</g>
+<g id="shape-46" data-name="ïŝľiḓè">
+<rect x="387.46" y="401.42" width="23.32" height="23.32" rx="1.52" ry="1.52" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-53" data-name="组合 52">
+<g id="shape-37" data-name="îŝlïďè">
+<rect x="624.6" y="245.05" width="275.36" height="310.2" fill="none"/>
+<text x="634.2" y="460.65" text-anchor="start" xml:space="preserve" font-family="&quot;Bahnschrift SemiBold&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="248" fill="#000000" letter-spacing="-6.67"><tspan fill="#000000" font-size="248" letter-spacing="-6.67">03</tspan></text>
+</g>
+<g id="shape-40" data-name="iśḻíḋê" transform="translate(757.81 460.66) scale(-1 1) translate(-757.81 -460.66)">
+<rect x="654.12" y="440.34" width="207.38" height="40.65" fill="none" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="663.57" y="458.85" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">Lorem Ipsum is simply </tspan><tspan x="663.57" dy="20.8" fill="#808080" font-size="16">dummy text of the </tspan></text>
+</g>
+<g id="shape-41" data-name="îṩḻíḋê">
+<rect x="651.21" y="333.01" width="233.49" height="67.86" fill="none"/>
+<text x="660.81" y="378.61" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="48" fill="#0A41BB"><tspan fill="#0A41BB" font-size="48">添加标题</tspan></text>
+</g>
+<g id="shape-42" data-name="ïş1idé">
+<rect x="664.6" y="401.42" width="23.32" height="23.32" rx="1.52" ry="1.52" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-52" data-name="组合 51">
+<g id="shape-32" data-name="işḷïdé">
+<rect x="906.22" y="245.05" width="286.47" height="310.2" fill="none"/>
+<text x="915.82" y="460.65" text-anchor="start" xml:space="preserve" font-family="&quot;Bahnschrift SemiBold&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="248" fill="#000000" letter-spacing="-6.67"><tspan fill="#000000" font-size="248" letter-spacing="-6.67">04</tspan></text>
+</g>
+<g id="shape-34" data-name="îṡļíḋê" transform="translate(1030.58 460.66) scale(-1 1) translate(-1030.58 -460.66)">
+<rect x="926.9" y="440.34" width="207.38" height="40.65" fill="none" stroke-width="6" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="936.35" y="458.85" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">Lorem Ipsum is simply </tspan><tspan x="936.35" dy="20.8" fill="#808080" font-size="16">dummy text of the </tspan></text>
+</g>
+<g id="shape-35" data-name="íśľíḍè">
+<rect x="923.99" y="333.01" width="233.49" height="67.86" fill="none"/>
+<text x="933.59" y="378.61" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="48" fill="#0A41BB"><tspan fill="#0A41BB" font-size="48">添加标题</tspan></text>
+</g>
+<g id="shape-36" data-name="íşļïḋe">
+<rect x="937.38" y="401.42" width="23.32" height="23.32" rx="1.52" ry="1.52" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+</g>
+</g>
+<g id="shape-51" data-name="图形">
+<line x1="167.56" y1="624.07" x2="1112.44" y2="624.07" stroke="#0A41BB" stroke-dasharray="4 4" fill="#FFFFFF" stroke-width="1"/>
+</g></svg>

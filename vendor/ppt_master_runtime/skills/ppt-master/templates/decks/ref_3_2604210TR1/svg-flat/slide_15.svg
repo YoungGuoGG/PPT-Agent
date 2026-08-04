@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-2" data-name="矩形 1">
+<rect x="681.6" y="0" width="598.4" height="720" fill="#415D2D" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="图片占位符 9" data-ph-type="pic">
+<image href="../assets/image25.png" x="754.27" y="144.06" width="453.07" height="431.87" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="椭圆 3">
+<ellipse cx="350.28" cy="361.79" rx="240.03" ry="240.03" fill="#C5E0B5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-6" data-name="文本框 5">
+<rect x="63.66" y="293.85" width="504.07" height="241.77" fill="none"/>
+</g>
+<g id="shape-6-text" data-name="文本框 5 text">
+<text x="315.7" y="316.52" text-anchor="middle" xml:space="preserve" font-family="&quot;华文中宋&quot;, sans-serif" font-size="26.67" fill="#415D2D" letter-spacing="4"><tspan fill="#415D2D" font-size="26.67" letter-spacing="4">一</tspan><tspan x="315.7" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">张</tspan><tspan x="315.7" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">褪</tspan><tspan x="315.7" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">色</tspan><tspan x="315.7" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">的</tspan><tspan x="315.7" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">照</tspan><tspan x="315.7" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">片</tspan><tspan x="315.7" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">好</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="590.31" y="37.16" width="71.09" height="321.05" fill="none"/>
+</g>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="193.81" y="195" width="350.06" height="113.09" fill="none"/>
+<text x="203.41" y="236.07" text-anchor="start" xml:space="preserve" font-family="&quot;华文中宋&quot;, sans-serif" font-size="42.67" fill="#415D2D" letter-spacing="4"><tspan fill="#415D2D" font-size="42.67" letter-spacing="4">厦门</tspan><tspan fill="#415D2D" font-size="42.67" letter-spacing="4">·</tspan><tspan fill="#415D2D" font-size="42.67" letter-spacing="4">旧时光</tspan></text>
+
+</g></svg>

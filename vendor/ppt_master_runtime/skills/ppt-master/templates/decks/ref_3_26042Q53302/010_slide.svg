@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.16" stop-color="#E2A36A"/><stop offset="0.55" stop-color="#E2A36A" stop-opacity="0.78"/><stop offset="0.9" stop-color="#E2A36A" stop-opacity="0"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6">
+<image href="assets/image1.jpeg" x="0.34" y="-0.5" width="1279.66" height="720.5" preserveAspectRatio="none"/>
+</g>
+<g id="shape-3" data-name="矩形 2">
+<rect x="0" y="243.91" width="1280" height="59.44" fill="#D9B693" fill-opacity="0.7" stroke="#DCC2A4"/>
+</g>
+<g id="shape-20" data-name="组合 19">
+<g id="shape-4" data-name="直接连接符 3" transform="translate(248.71 375.63) scale(-1 1) translate(-248.71 -375.63)">
+<line x1="248.71" y1="228.71" x2="248.71" y2="522.55" stroke-width="3" stroke="#674527" fill="#4472C4"/>
+</g>
+<g id="shape-8" data-name="直接连接符 7" transform="translate(1032.63 375.63) scale(-1 1) translate(-1032.63 -375.63)">
+<line x1="1032.63" y1="228.71" x2="1032.63" y2="522.55" stroke-width="3" stroke="#674527" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-30" data-name="组合 29">
+<g id="shape-9" data-name="文本框 8">
+<rect x="46.92" y="240.79" width="163" height="61.03" fill="none"/>
+<text x="56.52" y="272.79" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#5E432C" font-weight="bold"><tspan fill="#5E432C" font-size="32" font-weight="bold">关键字</tspan></text>
+</g>
+<g id="shape-21" data-name="文本框 20">
+<rect x="46.92" y="321.9" width="178.17" height="170.27" fill="none"/>
+<text x="56.52" y="342.57" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#000000" letter-spacing="4"><tspan fill="#000000" font-size="18.67" letter-spacing="4">您的内容打在这里</tspan><tspan x="56.52" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">，或者通过复制您</tspan><tspan x="56.52" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">的文本后，在此框</tspan><tspan x="56.52" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">中选择粘贴，并选</tspan><tspan x="56.52" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">择只保留文字</tspan></text>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-5" data-name="椭圆 4">
+<ellipse cx="642.23" cy="329.2" rx="169.74" ry="169.74" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="图片 5">
+<image href="assets/image13.png" x="476.29" y="186.31" width="315.87" height="374.23" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-11" data-name="文本框 10">
+<rect x="119.56" y="20.89" width="513.07" height="54.93" fill="none"/>
+<text x="129.16" y="57.42" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#5E432C"><tspan fill="#5E432C" font-size="37.33">点击添加标题</tspan></text>
+</g>
+<g id="shape-12" data-name="组合 11">
+<g id="shape-13" data-name="任意多边形: 形状 12" transform="rotate(90 51.83 48.35)">
+<path d="M 18.72 48.35 C 18.72 42.3 21.17 36.83 25.14 32.86 L 31.83 28.35 L 36.34 21.66 C 40.3 17.7 45.78 15.24 51.83 15.24 C 57.88 15.24 63.36 17.7 67.32 21.66 L 71.83 28.35 L 78.52 32.86 C 82.49 36.83 84.94 42.3 84.94 48.35 C 84.94 54.41 82.49 59.88 78.52 63.85 L 71.83 68.36 L 67.32 75.05 C 63.36 79.01 57.88 81.46 51.83 81.46 C 45.78 81.46 40.3 79.01 36.34 75.05 L 31.83 68.36 L 25.14 63.85 C 21.17 59.88 18.72 54.41 18.72 48.35 Z" fill="#962117" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="任意多边形: 形状 17" transform="rotate(90 69.14 48.35)">
+<path d="M 36.03 48.35 C 36.03 42.3 38.48 36.83 42.45 32.86 L 49.14 28.35 L 53.65 21.66 C 57.61 17.7 63.09 15.24 69.14 15.24 C 75.19 15.24 80.67 17.7 84.63 21.66 L 89.14 28.35 L 95.83 32.86 C 99.8 36.83 102.25 42.3 102.25 48.35 C 102.25 54.41 99.8 59.88 95.83 63.85 L 89.14 68.36 L 84.63 75.05 C 80.67 79.01 75.19 81.46 69.14 81.46 C 63.09 81.46 57.61 79.01 53.65 75.05 L 49.14 68.36 L 42.45 63.85 C 38.48 59.88 36.03 54.41 36.03 48.35 Z" fill="none" stroke="#962117" stroke-width="1"/>
+</g>
+</g>
+</g>
+<g id="shape-31" data-name="组合 30">
+<g id="shape-19" data-name="文本框 18">
+<rect x="279.02" y="240.79" width="163" height="61.03" fill="none"/>
+<text x="288.62" y="272.79" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#5E432C" font-weight="bold"><tspan fill="#5E432C" font-size="32" font-weight="bold">关键字</tspan></text>
+</g>
+<g id="shape-22" data-name="文本框 21">
+<rect x="279.02" y="321.9" width="178.17" height="170.27" fill="none"/>
+<text x="288.62" y="342.57" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#000000" letter-spacing="4"><tspan fill="#000000" font-size="18.67" letter-spacing="4">您的内容打在这里</tspan><tspan x="288.62" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">，或者通过复制您</tspan><tspan x="288.62" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">的文本后，在此框</tspan><tspan x="288.62" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">中选择粘贴，并选</tspan><tspan x="288.62" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">择只保留文字</tspan></text>
+</g>
+</g>
+<g id="shape-32" data-name="组合 31">
+<g id="shape-24" data-name="文本框 23">
+<rect x="828.28" y="240.79" width="163" height="61.03" fill="none"/>
+<text x="837.88" y="272.79" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#5E432C" font-weight="bold"><tspan fill="#5E432C" font-size="32" font-weight="bold">关键字</tspan></text>
+</g>
+<g id="shape-25" data-name="文本框 24">
+<rect x="828.28" y="321.9" width="178.17" height="170.27" fill="none"/>
+<text x="837.88" y="342.57" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#000000" letter-spacing="4"><tspan fill="#000000" font-size="18.67" letter-spacing="4">您的内容打在这里</tspan><tspan x="837.88" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">，或者通过复制您</tspan><tspan x="837.88" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">的文本后，在此框</tspan><tspan x="837.88" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">中选择粘贴，并选</tspan><tspan x="837.88" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">择只保留文字</tspan></text>
+</g>
+</g>
+<g id="shape-33" data-name="组合 32">
+<g id="shape-28" data-name="文本框 27">
+<rect x="1060.38" y="240.79" width="163" height="61.03" fill="none"/>
+<text x="1069.98" y="272.79" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#5E432C" font-weight="bold"><tspan fill="#5E432C" font-size="32" font-weight="bold">关键字</tspan></text>
+</g>
+<g id="shape-29" data-name="文本框 28">
+<rect x="1060.38" y="321.9" width="178.17" height="170.27" fill="none"/>
+<text x="1069.98" y="342.57" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#000000" letter-spacing="4"><tspan fill="#000000" font-size="18.67" letter-spacing="4">您的内容打在这里</tspan><tspan x="1069.98" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">，或者通过复制您</tspan><tspan x="1069.98" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">的文本后，在此框</tspan><tspan x="1069.98" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">中选择粘贴，并选</tspan><tspan x="1069.98" dy="22.4" fill="#000000" font-size="18.67" letter-spacing="4">择只保留文字</tspan></text>
+</g>
+</g></svg>

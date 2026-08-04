@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="13.33" dy="0" stdDeviation="13.33" flood-color="#A6A6A6" flood-opacity="0.2"/></filter><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0.02" stop-color="#C0C8A0"/><stop offset="1" stop-color="#8C9857"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="13.33" dy="0" stdDeviation="13.33" flood-color="#8C9857" flood-opacity="0.32"/></filter><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0.02" stop-color="#A3E3FF"/><stop offset="1" stop-color="#00A0E9"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="13.33" dy="0" stdDeviation="13.33" flood-color="#A5A5A5" flood-opacity="0.32"/></filter></defs><image href="../assets/image9.emf" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="矩形 3">
+<rect x="41.62" y="32.06" width="1201.05" height="650.61" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="PA-ïṧľiḍê">
+<rect x="527.53" y="133.5" width="647.95" height="74.32" fill="none"/>
+<text x="537.13" y="183.63" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="53.33" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="53.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-8" data-name="íṧ1íḍe">
+<rect x="535.5" y="220.08" width="611.93" height="73.48" fill="none"/>
+<text x="545.1" y="240.74" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击在此输入说明文本点击在此输入说明文本点击在此输入说明文本点</tspan><tspan x="545.1" dy="28" fill="#404040" font-size="18.67">击在此输入说明文本点击在此输入说明文本</tspan></text>
+</g>
+<g id="shape-9" data-name="PA-组合 18">
+<g id="shape-10" data-name="PA-î$ļidé">
+<rect x="513.47" y="338.95" width="262.33" height="273.3" fill="#FFFFFF" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx1)"/>
+</g>
+<g id="shape-11" data-name="ísḻîdé">
+<g id="shape-14" data-name="PA-íśḷíḑê">
+<rect x="546.15" y="385.01" width="46.64" height="46.64" fill="url(#ggrad1)" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx2)"/>
+</g>
+<g id="shape-15" data-name="PA-ïṡlîdê">
+<path d="M 562.59 404.89 L 563.75 411.05 L 575.31 411.05 L 576.46 404.89 L 580.32 404.89 L 579.55 414.91 L 577.23 414.91 L 577.23 417.22 L 576.46 417.22 L 576.46 414.91 L 562.59 414.91 L 562.59 417.22 L 561.82 417.22 L 561.82 414.91 L 559.51 414.91 L 558.74 404.89 L 562.59 404.89 Z M 578.39 399.49 L 578.39 404.12 L 575.89 404.12 L 574.73 410.28 L 564.32 410.28 L 563.17 404.12 L 561.05 404.12 L 561.05 399.49 L 578.39 399.49 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+<g id="shape-12" data-name="PA-íṣļiďé">
+<rect x="527.53" y="466.02" width="219" height="48.47" fill="none"/>
+<text x="537.13" y="498.02" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-13" data-name="PA-íŝlïḋê">
+<rect x="535.14" y="514.37" width="240.94" height="73.48" fill="none"/>
+<text x="544.74" y="535.04" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击在此输入说明文本点</tspan><tspan x="544.74" dy="28" fill="#404040" font-size="18.67">击在此输入说明文本</tspan></text>
+</g>
+</g>
+<g id="shape-16" data-name="PA-组合 1">
+<g id="shape-17" data-name="PA-ïṣľiḍe">
+<rect x="850.87" y="465.9" width="219" height="48.47" fill="none"/>
+<text x="860.47" y="497.9" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-18" data-name="PA-ïṡḷíḓê">
+<rect x="851.14" y="514.37" width="240.94" height="73.48" fill="none"/>
+<text x="860.74" y="535.04" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击在此输入说明文本点</tspan><tspan x="860.74" dy="28" fill="#404040" font-size="18.67">击在此输入说明文本</tspan></text>
+</g>
+<g id="shape-19" data-name="ïś1ïḑê">
+<g id="shape-20" data-name="PA-ïṧḻïḋê">
+<rect x="862.15" y="385.01" width="46.64" height="46.64" fill="url(#ggrad2)" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx3)"/>
+</g>
+<g id="shape-21" data-name="PA-ïśļîďé">
+<path d="M 879.75 407.78 L 879.75 409.7 L 880.52 409.7 L 880.52 407.78 L 890.54 407.78 L 890.54 409.7 L 891.31 409.7 L 891.31 407.78 L 896.32 407.78 L 896.32 418.18 L 874.74 418.18 L 874.74 407.78 L 879.75 407.78 Z M 891.31 398.53 L 891.31 403.15 L 896.32 403.15 L 896.32 407.01 L 874.74 407.01 L 874.74 403.15 L 879.75 403.15 L 879.75 398.53 L 891.31 398.53 Z M 890.54 399.3 L 880.52 399.3 L 880.52 403.15 L 890.54 403.15 L 890.54 399.3 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+</g>
+<g id="shape-22" data-name="图片 21" transform="translate(306.86 399.99) scale(-1 1) translate(-306.86 -399.99)">
+<image href="../assets/image3.png" x="116.59" y="209.72" width="380.54" height="380.54" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="图片 2" transform="rotate(352.59 115.6 83.93)">
+<image href="../assets/image10.png" x="66.2" y="23.53" width="98.8" height="120.8" preserveAspectRatio="none"/>
+</g>
+<g id="shape-23" data-name="文本框 22">
+<rect x="150.13" y="55.93" width="307.2" height="61.4" fill="none"/>
+<text x="159.73" y="81.13" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">露营地点选择</tspan></text>
+</g>
+</g></svg>

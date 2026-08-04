@@ -1,0 +1,139 @@
+{
+  "workflow_id": "template_guided_svg",
+  "contract_version": "pptmaster.workflow-registry.v1",
+  "fixture_version": "v1",
+  "layers": {
+    "contract": true,
+    "adapter": true,
+    "offline_e2e": true,
+    "provider": true
+  },
+  "artifacts": [
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\ppt_master_service\\fixtures\\workflows\\template_guided_svg\\request.json",
+      "checksum": "sha256:97021fde318e846f7062df472326788eca1374e5b563cd91b28f37eb584e2b9c"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\ppt_master_service\\fixtures\\workflows\\template_guided_svg\\source.md",
+      "checksum": "sha256:eca9ea76cec5e09b39fd1d698c16c03c75b7057dda0105fc14f2d7cfda6178d1"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\ppt_master_service\\fixtures\\workflows\\template_guided_svg\\template_spec.json",
+      "checksum": "sha256:2f17958906681464a4d261e900a96ece32046a0290de8cb362d5b050e73e7af7"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\input\\template.pptx",
+      "checksum": "sha256:cf7cf6378883890ad6530f07e50ba4ff9e47461475115ae8115593a88d372ecf"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\jobs\\d76e75821ee24c4590922a26da701f74\\interactions\\int_c5f7da0543b3466ebf4f0ab841c509e0.receipt.json",
+      "checksum": "sha256:d70dad1c2eaa3683f6a04f81fc83c73e7d276506344cba2783b2344f569ae80c"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\templates\\source_import\\manifest.json",
+      "checksum": "sha256:3671c52fb65aca0923dda1fa70af8c373c66d9102d8d70ac2b6175f716f8b028"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\templates\\template_context.json",
+      "checksum": "sha256:952b8c2327fca2810e6b88138655c713185db764eef15e79642ed7c592fa0cb8"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\templates\\template_bindings.json",
+      "checksum": "sha256:ce8a0b18171832ded42c5518723c418f334c8174175e40d84122a406271ed6f7"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\design_spec.md",
+      "checksum": "sha256:c656f7f297f6a76b7c8cc6f2014ceef2962366d8221ef1ce2f1498b836885dec"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\spec_lock.md",
+      "checksum": "sha256:d695261ed65150b380788170b3391651a2f4e92ac3bbdb2559cca5777d4834a8"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\.service_strategy.json",
+      "checksum": "sha256:f30985d882801fdd718c37738a188456a6b947ab34dd67881113ebb42035cb34"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\svg_output\\slide_01.svg",
+      "checksum": "sha256:3704bddb3b7ce74064606d67c1e4c8709912db548bcf32dc90d9be095d9cb03b"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\svg_output\\slide_02.svg",
+      "checksum": "sha256:39dd7c9f2e5a93bb3a32b40c56efbb23e5b54f74fd9c3cfa7656c362fb142070"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\svg_output\\slide_03.svg",
+      "checksum": "sha256:8511e3555c8240fd2d8ab45b525e7de54c752a4669bf2fb10176a034c362db86"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\notes\\total.md",
+      "checksum": "sha256:6547402611fc09db63ac4116ffedcff6d02b1bd9821118e75d47a6914d1274cd"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\quality_report.json",
+      "checksum": "sha256:c08b393fb7a3864ad920abd8856fd0ed2dfb8cb1970289ee46b4dd177dc78db2"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\exports\\project_20260803_000440.pptx",
+      "checksum": "sha256:f3d18d22974e15548e4a6b5f213f0559be54edc1d854af19982c7eaf9ab9ee0a"
+    },
+    {
+      "path": "E:\\OfficeAgent\\backend\\ppt-master\\.scratch\\workflow-acceptance\\template_guided_svg-6c9ea7d0\\project\\acceptance_event_digest.json",
+      "checksum": "sha256:8fbcdc97bdf08f39f3498f2926a09a93ac5ecfed1ce5452f79e576527db83213"
+    }
+  ],
+  "verified_at": "2026-08-02T16:04:41.513661+00:00",
+  "provider": {
+    "name": "openai-compatible",
+    "model": "qwen3.7-plus",
+    "base_url_host": "dashscope.aliyuncs.com",
+    "image_provider": "qwen",
+    "image_model": "qwen-image-2.0-pro"
+  },
+  "fixture_path": "ppt_master_service/fixtures/workflows/template_guided_svg",
+  "fixture_checksum": "sha256:c0847e0277e2a931a17ce4256c456bbc7f3b01c76d5c017a80783a9e11788f00",
+  "gates": {
+    "source_ready": true,
+    "template_pptx_valid": true,
+    "template_import_complete": true,
+    "template_context_valid": true,
+    "design_confirmed": true,
+    "design_spec_canonical": true,
+    "spec_lock_parseable": true,
+    "template_design_locked": true,
+    "template_role_mapping": true,
+    "preview_healthy": true,
+    "template_references_preloaded": true,
+    "sequential_pages": true,
+    "spec_lock_read_per_page": true,
+    "template_chrome_preserved": true,
+    "template_sample_content_replaced": true,
+    "svg_quality": true,
+    "notes_after_quality": true,
+    "postprocess_order": true,
+    "pptx_readable": true,
+    "pptx_page_count": true
+  },
+  "implementation_checksums": {
+    "ppt_master_service/provider_config.py": "sha256:40e80bfef2d2af2113410e3a66a58db5ee91ad22bc233577687a4e98f0a63c01",
+    "ppt_master_service/runtime.py": "sha256:0cba0091b167b3c2ca37ea37212dc0c39f10221b551c1addbb0b578044b046e9",
+    "ppt_master_service/phase_runner_router.py": "sha256:175a206a6faae34e619a01c6865ec324c60e4be56a429e268250cd02f185986d",
+    "ppt_master_service/template_guided_phase_runner.py": "sha256:5e40cf0dec973651b664be4bbc42f7488202954c0d1e64c7b871d71ed8144233",
+    "ppt_master_service/agent_phase_runner.py": "sha256:ef3792d6db534a190d26e37ca6aada4c1d5a26f958860c5b561a9ef4f1fffd0f",
+    "ppt_master_service/interaction_coordinator.py": "sha256:251049ca2391637851ebe59618403dcaf496fc82d79b8ee4587277116a939191",
+    "ppt_master_service/preview_runtime.py": "sha256:b97bab8ac2644bd7694a1d22a7c091c1bd889029b843042b912919538ddd1656",
+    "ppt_master_service/llm_runtime.py": "sha256:7b7df4afb7571bb025bd90e6c6bd1f0cf42d2ff0f79b57371fdc1f70abb64e16",
+    "ppt_master_service/workflows/document_to_ppt.py": "sha256:ac1adfb2d90bfe5714464e08fcbcece41f1be412aa4154bed6e90aaa87413d82",
+    "ppt_master_service/workflows/template_guided_svg.py": "sha256:7d184dbb38bfe43b8fe13838b878ac95cc7dd161349fc333ad2343be2a8fbd78",
+    "ppt_master_service/tools/quality_tools.py": "sha256:3810b57b5cf8b2a1eae6f35282c6ab25614bc150036ec8680b17b4b0a932fe6d",
+    "ppt_master_service/tools/template_tools.py": "sha256:8363dbe46ab3fe9b59ba58a598acee1771ce0ee579d0f82e386fb4c8b5afac05",
+    "ppt_master_service/tools/template_guidance.py": "sha256:007ef7612cdd12a2b4290788b1a5b1f8fde25831310e961916768010cb8f2314",
+    "ppt_master_service/tools/template_guided_policy.py": "sha256:cc4a11d7e403053f2ebf7096800ac87d649aff42f59a17c6b95c891f29eb70e4",
+    "ppt_master_service/conformance/acceptance.py": "sha256:0b05e4f80843743b42bdfd97d902d15f112191e80de01b01ec284113998792b0",
+    "ppt_master_service/conformance/acceptance_case_runner.py": "sha256:d36762a46e98171c2267a7c060af5ffcc8cb08e87eb4843a4c2eac1223c1cf3b",
+    "ppt_master_service/conformance/acceptance_cases/template_guided_svg.py": "sha256:21ba571def4814df754de61d372d52d940f78a2801448e431939930b710148be"
+  },
+  "started_at": "2026-08-02T15:59:06.740204+00:00",
+  "duration_seconds": 334.773457,
+  "schema": "pptmaster.workflow-acceptance.v1"
+}

@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="1" y1="0" x2="0" y2="1"><stop offset="0.5" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000" stop-opacity="0.82"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-2" data-name="Rectangle 1">
+<rect x="525.95" y="0.05" width="754.05" height="510.3" fill="#FF8627" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="Rectangle 14">
+<rect x="66.94" y="567.87" width="362.47" height="106.53" fill="none"/>
+<text x="76.54" y="584.01" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;字魂95号-手刻宋&quot;, sans-serif" font-size="13.33" fill="#262626"><tspan fill="#262626" font-size="13.33">A presentation template created with attentive </tspan><tspan x="76.54" dy="20" fill="#262626" font-size="13.33">detail to provide a new experience for users. </tspan><tspan x="76.54" dy="20" fill="#262626" font-size="13.33">Hopefully this presentation can help you and bring </tspan><tspan x="76.54" dy="20" fill="#262626" font-size="13.33">good luck to you. </tspan></text>
+</g>
+<g id="shape-8" data-name="图片占位符 7" data-ph-type="pic">
+<image href="../assets/image11.jpeg" x="726.67" y="131.4" width="553.4" height="497.27" preserveAspectRatio="none"/>
+</g>
+<g id="shape-19" data-name="图片占位符 18" data-ph-type="pic">
+<image href="../assets/image12.jpeg" x="448.87" y="131.47" width="260.87" height="232.53" preserveAspectRatio="none"/>
+</g>
+<g id="shape-23" data-name="矩形 22" transform="translate(643.48 339.91) scale(-1 1) translate(-643.48 -339.91)">
+<rect x="577.18" y="306.51" width="132.6" height="66.81" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-4" data-name="矩形 3">
+<rect x="58.32" y="116.25" width="450.69" height="164.79" fill="none"/>
+<text x="67.92" y="175.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;汉仪大宋简&quot;, sans-serif" font-size="64" fill="#FF8627"><tspan fill="#FF8627" font-size="64">Work Experience</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 20" transform="translate(177.84 366.49) scale(-1 1) translate(-177.84 -366.49)">
+<rect x="73.09" y="341.95" width="209.5" height="49.07" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+<text x="73.09" y="369.15" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">单击键入标题 </tspan></text>
+</g>
+<g id="shape-5" data-name="文本框 22" transform="translate(248.17 484.77) scale(-1 1) translate(-248.17 -484.77)">
+<rect x="73.09" y="419.56" width="350.16" height="130.41" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx2)"/>
+<text x="73.09" y="435.43" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">本模板精心设计，模板所有素材均可自由</tspan><tspan x="73.09" dy="28" fill="#262626" font-size="18.67">编辑替换移动。单击此处添加本章节的简</tspan><tspan x="73.09" dy="28" fill="#262626" font-size="18.67">要内容。本模板精心设计，模板所有素材</tspan><tspan x="73.09" dy="28" fill="#262626" font-size="18.67">均可自由编辑替换移动</tspan></text>
+</g>
+<g id="shape-6" data-name="直接连接符 5">
+<line x1="73.09" y1="406.73" x2="394.35" y2="406.73" stroke-width="1.667" stroke="#BFBFBF" fill="#0B46A7"/>
+</g></svg>

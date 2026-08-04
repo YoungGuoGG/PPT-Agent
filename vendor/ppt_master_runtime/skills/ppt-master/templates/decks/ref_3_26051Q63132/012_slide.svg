@@ -1,0 +1,114 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-2" data-name="图片 1">
+<image href="assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2">
+<image href="assets/image5.png" x="1070.88" y="618.55" width="104.74" height="53.87" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-19" data-name="文本框 18">
+<rect x="33.32" y="32.4" width="225.08" height="42.01" fill="none"/>
+<text x="42.92" y="59.87" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">输入您的标题</tspan></text>
+</g>
+<g id="layout-shape-7" data-name="图片 6">
+<image href="assets/image7.png" x="258.4" y="47.22" width="14.23" height="14.38" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="组合 2">
+<g id="shape-9" data-name="Group 5">
+<g id="shape-16" data-name="Freeform 5">
+<rect x="124.55" y="279.53" width="22.41" height="22.41" fill="#31B199" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-17" data-name="Freeform 9">
+<path d="M 140.05 286.06 C 133.26 292.89 133.26 292.89 133.26 292.89 C 130.9 290.44 130.9 290.44 130.9 290.44 C 130.47 290 129.68 290 129.25 290.44 C 128.81 290.87 128.81 291.66 129.25 292.1 C 132.47 295.33 132.47 295.33 132.47 295.33 C 132.47 295.33 132.56 295.42 132.56 295.42 C 132.73 295.6 132.99 295.68 133.26 295.68 C 133.6 295.68 133.87 295.6 134.13 295.33 C 141.71 287.73 141.71 287.73 141.71 287.73 C 142.14 287.2 142.14 286.5 141.71 286.06 C 141.27 285.54 140.57 285.63 140.05 286.06 Z M 140.05 286.06 C 140.05 286.06 140.05 286.06 140.05 286.06" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+<g id="shape-10" data-name="Group 6">
+<g id="shape-14" data-name="Freeform 5">
+<rect x="124.55" y="386.27" width="22.41" height="22.41" fill="#31B199" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="Freeform 9">
+<path d="M 140.05 392.56 C 133.26 399.38 133.26 399.38 133.26 399.38 C 130.9 396.93 130.9 396.93 130.9 396.93 C 130.47 396.49 129.68 396.49 129.25 396.93 C 128.81 397.37 128.81 398.16 129.25 398.59 C 132.47 401.83 132.47 401.83 132.47 401.83 C 132.47 401.83 132.56 401.92 132.56 401.92 C 132.73 402.09 132.99 402.18 133.26 402.18 C 133.6 402.18 133.86 402.09 134.13 401.83 C 141.71 394.22 141.71 394.22 141.71 394.22 C 142.14 393.7 142.14 393 141.71 392.56 C 141.27 392.03 140.57 392.12 140.05 392.56 Z M 140.05 392.56 C 140.05 392.56 140.05 392.56 140.05 392.56" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+<g id="shape-11" data-name="Group 7">
+<g id="shape-12" data-name="Freeform 5">
+<rect x="124.55" y="494.54" width="22.41" height="22.41" fill="#31B199" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="Freeform 9">
+<path d="M 140.05 500.91 C 133.25 507.73 133.25 507.73 133.25 507.73 C 130.9 505.28 130.9 505.28 130.9 505.28 C 130.47 504.84 129.68 504.84 129.25 505.28 C 128.81 505.72 128.81 506.5 129.25 506.94 C 132.47 510.18 132.47 510.18 132.47 510.18 C 132.47 510.18 132.56 510.26 132.56 510.26 C 132.73 510.44 132.99 510.53 133.25 510.53 C 133.6 510.53 133.86 510.44 134.13 510.18 C 141.71 502.57 141.71 502.57 141.71 502.57 C 142.14 502.04 142.14 501.34 141.71 500.91 C 141.27 500.38 140.57 500.47 140.05 500.91 Z M 140.05 500.91 C 140.05 500.91 140.05 500.91 140.05 500.91" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-5" data-name="矩形 3">
+<rect x="174.82" y="204.92" width="111.48" height="46.04" fill="none" stroke="none"/>
+<text x="182.02" y="235.72" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;OPPOSans B&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">小标题</tspan></text>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="168.63" y="260.83" width="424.4" height="82.68" fill="none"/>
+<text x="178.23" y="283.76" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Open Sans&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">可根据实际情况调整文本框大小，或者字</tspan><tspan x="178.23" dy="32" fill="#404040" font-size="21.33">体的大小。</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="168.63" y="377.16" width="424.4" height="82.68" fill="none"/>
+<text x="178.23" y="400.09" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Open Sans&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">语言尽可能精炼，可根据实际情况调整文</tspan><tspan x="178.23" dy="32" fill="#404040" font-size="21.33">本框大小，或者字体的大小。</tspan></text>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="168.63" y="488.82" width="424.4" height="82.68" fill="none"/>
+<text x="178.23" y="511.76" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Open Sans&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">可根据实际情况调整文本框大小，或者字</tspan><tspan x="178.23" dy="32" fill="#404040" font-size="21.33">体的大小。</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-18" data-name="矩形: 圆角 17">
+<rect x="304.63" y="218.94" width="119.79" height="34.46" rx="17.23" ry="17.23" fill="#31B199" stroke="none" stroke-width="1"/>
+<text x="364.53" y="244.14" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-style="italic"><tspan fill="#FFFFFF" font-size="24" font-style="italic">NO-01</tspan></text>
+</g>
+<g id="shape-19" data-name="组合 18">
+<g id="shape-20" data-name="组合 19">
+<g id="shape-26" data-name="Group 5">
+<g id="shape-33" data-name="Freeform 5">
+<rect x="706.65" y="279.53" width="22.41" height="22.41" fill="#31B199" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-34" data-name="Freeform 9">
+<path d="M 722.15 286.06 C 715.35 292.89 715.35 292.89 715.35 292.89 C 713 290.44 713 290.44 713 290.44 C 712.56 290 711.78 290 711.34 290.44 C 710.91 290.87 710.91 291.66 711.34 292.1 C 714.57 295.33 714.57 295.33 714.57 295.33 C 714.57 295.33 714.65 295.42 714.65 295.42 C 714.83 295.6 715.09 295.68 715.35 295.68 C 715.7 295.68 715.96 295.6 716.22 295.33 C 723.8 287.73 723.8 287.73 723.8 287.73 C 724.24 287.2 724.24 286.5 723.8 286.06 C 723.37 285.54 722.67 285.63 722.15 286.06 Z M 722.15 286.06 C 722.15 286.06 722.15 286.06 722.15 286.06" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+<g id="shape-27" data-name="Group 6">
+<g id="shape-31" data-name="Freeform 5">
+<rect x="706.65" y="386.27" width="22.41" height="22.41" fill="#31B199" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-32" data-name="Freeform 9">
+<path d="M 722.15 392.56 C 715.35 399.38 715.35 399.38 715.35 399.38 C 713 396.93 713 396.93 713 396.93 C 712.56 396.49 711.78 396.49 711.34 396.93 C 710.91 397.37 710.91 398.16 711.34 398.59 C 714.57 401.83 714.57 401.83 714.57 401.83 C 714.57 401.83 714.65 401.92 714.65 401.92 C 714.83 402.09 715.09 402.18 715.35 402.18 C 715.7 402.18 715.96 402.09 716.22 401.83 C 723.8 394.22 723.8 394.22 723.8 394.22 C 724.24 393.7 724.24 393 723.8 392.56 C 723.37 392.03 722.67 392.12 722.15 392.56 Z M 722.15 392.56 C 722.15 392.56 722.15 392.56 722.15 392.56" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+<g id="shape-28" data-name="Group 7">
+<g id="shape-29" data-name="Freeform 5">
+<rect x="706.65" y="494.54" width="22.41" height="22.41" fill="#31B199" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-30" data-name="Freeform 9">
+<path d="M 722.15 500.91 C 715.35 507.73 715.35 507.73 715.35 507.73 C 713 505.28 713 505.28 713 505.28 C 712.56 504.84 711.78 504.84 711.34 505.28 C 710.91 505.72 710.91 506.5 711.34 506.94 C 714.57 510.18 714.57 510.18 714.57 510.18 C 714.57 510.18 714.65 510.26 714.65 510.26 C 714.83 510.44 715.09 510.53 715.35 510.53 C 715.7 510.53 715.96 510.44 716.22 510.18 C 723.8 502.57 723.8 502.57 723.8 502.57 C 724.24 502.04 724.24 501.34 723.8 500.91 C 723.37 500.38 722.67 500.47 722.15 500.91 Z M 722.15 500.91 C 722.15 500.91 722.15 500.91 722.15 500.91" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+</g>
+<g id="shape-21" data-name="组合 20">
+<g id="shape-22" data-name="矩形 3">
+<rect x="756.92" y="204.92" width="111.48" height="46.04" fill="none" stroke="none"/>
+<text x="764.12" y="235.72" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;OPPOSans B&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">小标题</tspan></text>
+</g>
+<g id="shape-23" data-name="文本框 22">
+<rect x="750.72" y="260.83" width="424.4" height="82.68" fill="none"/>
+<text x="760.32" y="283.76" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Open Sans&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">可根据实际情况调整文本框大小，或者字</tspan><tspan x="760.32" dy="32" fill="#404040" font-size="21.33">体的大小。</tspan></text>
+</g>
+<g id="shape-24" data-name="文本框 23">
+<rect x="750.72" y="377.16" width="424.4" height="82.68" fill="none"/>
+<text x="760.32" y="400.09" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Open Sans&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">语言尽可能精炼，可根据实际情况调整文</tspan><tspan x="760.32" dy="32" fill="#404040" font-size="21.33">本框大小，或者字体的大小。</tspan></text>
+</g>
+<g id="shape-25" data-name="文本框 24">
+<rect x="750.72" y="488.82" width="424.4" height="82.68" fill="none"/>
+<text x="760.32" y="511.76" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Open Sans&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">可根据实际情况调整文本框大小，或者字</tspan><tspan x="760.32" dy="32" fill="#404040" font-size="21.33">体的大小。</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-35" data-name="矩形: 圆角 34">
+<rect x="886.73" y="218.94" width="119.79" height="34.46" rx="17.23" ry="17.23" fill="#31B199" stroke="none" stroke-width="1"/>
+<text x="946.62" y="244.14" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-style="italic"><tspan fill="#FFFFFF" font-size="24" font-style="italic">NO-02</tspan></text>
+</g></svg>

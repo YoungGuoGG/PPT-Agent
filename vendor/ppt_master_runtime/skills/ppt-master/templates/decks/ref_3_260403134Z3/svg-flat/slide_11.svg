@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-20" data-name="组合 19">
+<g id="shape-11" data-name="任意多边形: 形状 10" transform="translate(1035.71 360) scale(-1 1) translate(-1035.71 -360)">
+<path d="M 1280 0 L 791.43 0 L 791.43 720 L 1280 720 Z" fill="#DBDBDB" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="图片 6" transform="rotate(90 729.04 360) translate(729.04 360) scale(1 -1) translate(-729.04 -360)">
+<image href="../assets/image23.png" x="369.04" y="296.75" width="720" height="126.5" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-21" data-name="文本框 20">
+<rect x="99.57" y="471.11" width="605.84" height="77.52" fill="none"/>
+<text x="109.17" y="489.51" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16"> 忙碌的都市生活让我疲惫不堪，我渴望一个属于自己的冒险，于是决定一个人踏上</tspan><tspan x="109.17" dy="19.2" fill="#808080" font-size="16">旅行的征程。如果你也厌倦了繁忙的生活，不妨放下一切，勇敢踏上属于自己的旅</tspan><tspan x="109.17" dy="19.2" fill="#808080" font-size="16">行。旅行不仅是一种体验，更是一种心灵的疗愈和成长！</tspan></text>
+</g>
+<g id="shape-22" data-name="文本框 21">
+<rect x="99.57" y="409.04" width="387.39" height="51.7" fill="none"/>
+<text x="99.57" y="445.3" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="42.67">四季变换 拥抱自然 </tspan></text>
+</g>
+<g id="shape-10" data-name="组合 9">
+<g id="shape-16" data-name="平行四边形 15">
+<polygon points="62.62,82.06 67.82,82.06 66.08,112.36 60.88,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="平行四边形 17">
+<polygon points="78.49,82.06 83.69,82.06 81.96,112.36 76.76,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-23" data-name="平行四边形 22">
+<polygon points="94.37,82.06 99.57,82.06 97.84,112.36 92.64,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-25" data-name="平行四边形 24">
+<polygon points="110.25,82.06 115.45,82.06 113.72,112.36 108.52,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-12" data-name="组合 11">
+<g id="shape-14" data-name="直接连接符 13">
+<line x1="1087.7" y1="88.06" x2="1114.44" y2="88.06" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="直接连接符 14">
+<line x1="1124.51" y1="88.06" x2="1191" y2="88.06" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-13" data-name="图片 12">
+<image href="../assets/image24.jpeg" x="114.21" y="171.37" width="252.02" height="81" preserveAspectRatio="none"/>
+</g>
+<g id="shape-17" data-name="图片 16">
+<image href="../assets/image25.jpeg" x="407.42" y="171.37" width="256.97" height="81" preserveAspectRatio="none"/>
+</g>
+<g id="shape-24" data-name="图片 23">
+<image href="../assets/image26.jpeg" x="115.6" y="269.02" width="252.02" height="81" preserveAspectRatio="none"/>
+</g>
+<g id="shape-29" data-name="图片 28">
+<image href="../assets/image27.jpeg" x="408.82" y="269.02" width="256.97" height="81" preserveAspectRatio="none"/>
+</g>
+<g id="shape-19" data-name="图片 18">
+<image href="../assets/image28.jpeg" x="851.59" y="137" width="340.24" height="451.85" preserveAspectRatio="none"/>
+</g>
+<g id="shape-33" data-name="文本框 32">
+<rect x="96.11" y="621.34" width="515.83" height="58.16" fill="none"/>
+<text x="96.11" y="641.74" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, sans-serif" font-size="24" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="24">A journey through time, my encounter with </tspan><tspan x="96.11" dy="28.8" fill="#9AAFC2" font-size="24">beautiful scenery</tspan></text>
+</g>
+<g id="shape-27" data-name="组合 26">
+<g id="shape-28" data-name="Rectangle 35">
+<rect x="940.75" y="608.43" width="251.09" height="51.33" fill="none" stroke-width="0.333" stroke="#9AAFC2"/>
+</g>
+<g id="shape-30" data-name="TextBox 36">
+<rect x="967.72" y="625.7" width="212.35" height="22.62" fill="none"/>
+<text x="977.32" y="639.68" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="10.67" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="10.67">THE SIGNIFICANCE OF TRAVEL</tspan></text>
+</g>
+</g></svg>

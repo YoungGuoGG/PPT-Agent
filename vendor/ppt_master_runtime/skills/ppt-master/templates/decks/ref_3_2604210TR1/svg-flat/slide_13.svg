@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-6" data-name="矩形 5">
+<rect x="560" y="0" width="720" height="720" fill="#C5E0B5" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-4" data-name="图片占位符 3" data-ph-type="pic">
+<image href="../assets/image20.png" x="108.83" y="114.67" width="531.17" height="550.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-6" data-name="文本框 5">
+<rect x="659.93" y="270" width="455.61" height="297.44" fill="none"/>
+</g>
+<g id="shape-6-text" data-name="文本框 5 text">
+<text x="887.74" y="292.67" text-anchor="middle" xml:space="preserve" font-family="&quot;华文中宋&quot;, sans-serif" font-size="26.67" fill="#415D2D" letter-spacing="4"><tspan fill="#415D2D" font-size="26.67" letter-spacing="4">一</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">张</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">褪</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">色</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">的</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">照</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">片</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">好</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">像</tspan><tspan x="887.74" dy="28" fill="#415D2D" font-size="26.67" letter-spacing="4">带</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="1085.62" y="152.56" width="122.79" height="394.94" fill="none"/>
+</g>
+<g id="shape-7-text" data-name="文本框 6 text">
+<text x="1147.02" y="251.9" text-anchor="middle" xml:space="preserve" font-family="&quot;华文中宋&quot;, sans-serif" font-size="42.67" fill="#415D2D" letter-spacing="4"><tspan fill="#415D2D" font-size="42.67" letter-spacing="4">厦</tspan><tspan x="1147.02" dy="44.8" fill="#415D2D" font-size="42.67" letter-spacing="4">门</tspan><tspan x="1147.02" dy="44.8" fill="#415D2D" font-size="42.67" letter-spacing="4">·</tspan><tspan x="1147.02" dy="44.8" fill="#415D2D" font-size="42.67" letter-spacing="4">旧</tspan><tspan x="1147.02" dy="44.8" fill="#415D2D" font-size="42.67" letter-spacing="4">时</tspan><tspan x="1147.02" dy="44.8" fill="#415D2D" font-size="42.67" letter-spacing="4">光</tspan></text>
+</g>
+</g></svg>

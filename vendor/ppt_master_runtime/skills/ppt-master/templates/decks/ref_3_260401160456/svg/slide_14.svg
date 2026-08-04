@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2560" height="1440" viewBox="0 0 2560 1440"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="9.89" stdDeviation="14" flood-color="#000000" flood-opacity="0.5769"/></filter><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="0.7552" stop-color="#000000"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="21.5" stdDeviation="22.67" flood-color="#000000" flood-opacity="0.6664"/></filter></defs><g id="shape-1140" data-name="effective">
+<rect x="648.65" y="617.59" width="1267.87" height="304.67" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="653.98" y="775.92" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="24" font-weight="bold">effective</tspan></text>
+</g>
+<g id="shape-1141" data-name="设计师如何与前端工程师">
+<rect x="729.96" y="480.36" width="1100.07" height="111.04" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)" fill="none"/>
+<text x="735.3" y="541.88" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">设计师如何与前端工程师</tspan></text>
+</g>
+<g id="shape-1142" data-name="矩形" transform="rotate(90 1212.22 545.97)">
+<rect x="1174.65" y="-203.77" width="75.14" height="1499.47" fill="url(#ggrad1)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-1143" data-name="矩形" transform="rotate(270 1333.36 729.23)">
+<rect x="1244.71" y="-20.5" width="177.3" height="1499.47" fill="url(#ggrad2)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-1144" data-name="Photo by - timeshifters - on January 15, 2018..jpg">
+<image href="../assets/image18.jpeg" x="1467.85" y="305.59" width="1092.15" height="847.28" preserveAspectRatio="none"/>
+</g>
+<g id="shape-1145" data-name="Photo by - timeshifters - on January 15, 2018..jpg" transform="translate(545.64 730.81) scale(-1 1) translate(-545.64 -730.81)">
+<image href="../assets/image19.jpeg" x="0" y="312.73" width="1091.29" height="836.16" preserveAspectRatio="none"/>
+</g>
+<g id="shape-1146" data-name="矩形">
+<rect x="2156.82" y="35.7" width="403.18" height="1011.42" fill="url(#ggrad3)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-1147" data-name="矩形" transform="translate(201.59 621.56) scale(-1 1) translate(-201.59 -621.56)">
+<rect x="0" y="115.85" width="403.18" height="1011.42" fill="url(#ggrad4)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-1148" data-name="有效沟通">
+<rect x="887.33" y="536.02" width="785.33" height="276" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx2)" fill="none"/>
+<text x="892.67" y="680.02" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">有效沟通</tspan></text>
+</g>
+<g id="shape-8" data-name="TextBox 4">
+<rect x="0" y="0" width="127.01" height="18.27" fill="none"/>
+<text x="9.6" y="7.8" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="3.53" fill="#5E5E5E" fill-opacity="0"><tspan fill="#5E5E5E" font-size="3.53" fill-opacity="0">行业</tspan><tspan fill="#5E5E5E" font-size="3.53" fill-opacity="0">PPT</tspan><tspan fill="#5E5E5E" font-size="3.53" fill-opacity="0">模板</tspan><tspan fill="#5E5E5E" font-size="3.53" fill-opacity="0">http://www.1ppt.com/hangye/</tspan></text>
+</g></svg>

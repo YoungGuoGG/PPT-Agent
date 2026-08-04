@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#273334"/>
+<g id="shape-9" data-name="矩形 8">
+<rect x="0" y="332" width="1280" height="56" fill="#3D5051" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-4" data-name="图片占位符 3" data-ph-type="pic">
+<image href="assets/image4.jpeg" x="352" y="75" width="576" height="570" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="258" y="0" width="286" height="348.98" fill="none"/>
+<text x="267.6" y="242.8" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪行楷简&quot;, sans-serif" font-size="280" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="280">壹</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="928" y="75" width="312" height="136.92" fill="none"/>
+<text x="937.6" y="100.2" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="4"><tspan fill="#FFFFFF" font-size="24" letter-spacing="4">漫步南浔老街，脚边不远便</tspan><tspan x="937.6" dy="36" fill="#FFFFFF" font-size="24" letter-spacing="4">河水。既是水乡，便一定有</tspan><tspan x="937.6" dy="36" fill="#FFFFFF" font-size="24" letter-spacing="4">风了。</tspan></text>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="56" y="508.08" width="304" height="136.92" fill="none"/>
+<text x="65.6" y="533.28" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="4"><tspan fill="#FFFFFF" font-size="24" letter-spacing="4">丝丝细风掠过水面，便让</tspan><tspan x="65.6" dy="36" fill="#FFFFFF" font-size="24" letter-spacing="4">河水泛起鱼尾纹，甚是有</tspan><tspan x="65.6" dy="36" fill="#FFFFFF" font-size="24" letter-spacing="4">趣。</tspan></text>
+</g></svg>

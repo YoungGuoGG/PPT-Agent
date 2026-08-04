@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><path d="M 332.63 0 L 1280 0 L 1280 539.33 C 1009.51 213.47 308.04 558.33 332.63 0 Z"/></clipPath></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-4" data-name="文本框 3">
+<rect x="49.33" y="437.54" width="342.51" height="203.57" fill="none"/>
+<text x="58.93" y="510.34" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="80" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="80" font-weight="bold">汇报结束</tspan></text>
+<text x="58.93" y="606.34" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="80" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="80" font-weight="bold">感谢聆听</tspan></text>
+</g>
+<g id="shape-13" data-name="圆角矩形 12">
+<rect x="57.33" y="371.78" width="324" height="50.67" rx="25.33" ry="25.33" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="80.67" y="376.11" width="277.33" height="42.01" fill="none"/>
+<text x="90.27" y="403.57" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">农业发展有限公司</tspan></text>
+</g>
+<g id="shape-14" data-name="矩形 13">
+<path d="M 304 0 L 1280 0 L 1280 581.33 C 1001.33 230.1 278.67 601.82 304 0 Z" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="矩形 13">
+<image clip-path="url(#clip1)" href="assets/image3.jpeg" x="332" y="0" width="948" height="539.33" preserveAspectRatio="none"/>
+<path d="M 332.63 0 L 1280 0 L 1280 539.33 C 1009.51 213.47 308.04 558.33 332.63 0 Z" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="文本框 18">
+<rect x="55.29" y="46.29" width="161.09" height="67.86" fill="none"/>
+<text x="64.89" y="91.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="48" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="48" font-weight="bold">LOGO</tspan></text>
+</g>
+<g id="shape-20" data-name="文本框 19">
+<rect x="57.33" y="107.4" width="154.67" height="25.85" fill="none"/>
+<text x="66.93" y="123.53" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="13.33" fill="#404040"><tspan fill="#404040" font-size="13.33">COMPANY</tspan><tspan fill="#404040" font-size="13.33"> </tspan><tspan fill="#404040" font-size="13.33">NAME</tspan></text>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="487.62" y="454.19" width="411.04" height="111.79" fill="none"/>
+<text x="497.22" y="471.46" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="14.67" fill="#404040"><tspan fill="#404040" font-size="14.67">your content is entered here, or by copying your </tspan><tspan x="497.22" dy="22" fill="#404040" font-size="14.67">text, select paste in this box and choose to retain </tspan><tspan x="497.22" dy="22" fill="#404040" font-size="14.67">only text. your content is typed here, or by copying </tspan><tspan x="497.22" dy="22" fill="#404040" font-size="14.67">your text, select paste in this box.</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="487.62" y="580" width="423.29" height="42.01" fill="none"/>
+<text x="497.22" y="607.47" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="26.67" font-weight="bold">绿色生态 </tspan><tspan fill="#404040" font-size="26.67" font-weight="bold">|</tspan><tspan fill="#404040" font-size="26.67" font-weight="bold"> 农业方案 </tspan><tspan fill="#404040" font-size="26.67" font-weight="bold">|</tspan><tspan fill="#404040" font-size="26.67" font-weight="bold"> 养殖技术</tspan></text>
+</g></svg>

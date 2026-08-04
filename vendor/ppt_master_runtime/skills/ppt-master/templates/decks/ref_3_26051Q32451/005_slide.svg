@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><ellipse cx="537.6" cy="302.53" rx="94.87" ry="94.87"/></clipPath><clipPath id="clip2" clipPathUnits="userSpaceOnUse"><ellipse cx="596.9" cy="480.5" rx="35.57" ry="35.57"/></clipPath><clipPath id="clip3" clipPathUnits="userSpaceOnUse"><ellipse cx="730.23" cy="492.3" rx="47.43" ry="47.43"/></clipPath><clipPath id="clip4" clipPathUnits="userSpaceOnUse"><ellipse cx="753.93" cy="326.27" rx="71.13" ry="71.13"/></clipPath></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-8" data-name="矩形 6" transform="translate(640 690.43) scale(-1 1) translate(-640 -690.43)">
+<path d="M 0 671.81 C 625.33 747.07 1041.33 625.2 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#A6D9A1" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<path d="M 0 671.81 C 554.67 725.74 946.67 638.54 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-9" data-name="图片 8">
+<image href="assets/image1.png" x="13.33" y="16.85" width="66.3" height="59.15" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="X">
+<ellipse cx="730.3" cy="492.3" rx="86.17" ry="86.17" fill="none" stroke-width="2" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-6" data-name="X">
+<ellipse cx="596.87" cy="480.47" rx="74.53" ry="74.53" fill="none" stroke-width="2" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-7" data-name="X">
+<ellipse cx="754" cy="326.27" rx="95.53" ry="95.53" fill="none" stroke-width="2" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-10" data-name="X">
+<ellipse cx="537.6" cy="302.53" rx="140.87" ry="140.87" fill="none" stroke-width="2" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-17" data-name="X">
+<image clip-path="url(#clip1)" href="assets/image8.jpeg" x="442.73" y="207.67" width="189.73" height="189.73" preserveAspectRatio="none"/>
+<ellipse cx="537.6" cy="302.53" rx="94.87" ry="94.87" fill="none" stroke-width="4" stroke-linecap="butt" stroke="#F2F2F2" stroke-linejoin="miter"/>
+</g>
+<g id="shape-18" data-name="X">
+<image clip-path="url(#clip2)" href="assets/image9.jpeg" x="561.33" y="444.93" width="71.13" height="71.13" preserveAspectRatio="none"/>
+<ellipse cx="596.9" cy="480.5" rx="35.57" ry="35.57" fill="none" stroke-width="4" stroke-linecap="butt" stroke="#F2F2F2" stroke-linejoin="miter"/>
+</g>
+<g id="shape-19" data-name="X">
+<image clip-path="url(#clip3)" href="assets/image10.jpeg" x="682.8" y="444.87" width="94.87" height="94.87" preserveAspectRatio="none"/>
+<ellipse cx="730.23" cy="492.3" rx="47.43" ry="47.43" fill="none" stroke-width="4" stroke-linecap="butt" stroke="#F2F2F2" stroke-linejoin="miter"/>
+</g>
+<g id="shape-20" data-name="X">
+<image clip-path="url(#clip4)" href="assets/image11.jpeg" x="682.8" y="255.13" width="142.27" height="142.27" preserveAspectRatio="none"/>
+<ellipse cx="753.93" cy="326.27" rx="71.13" ry="71.13" fill="none" stroke-width="4" stroke-linecap="butt" stroke="#F2F2F2" stroke-linejoin="miter"/>
+</g>
+<g id="shape-21" data-name="X">
+<rect x="70.8" y="181.8" width="292.13" height="39.87" fill="none"/>
+<text x="353.33" y="209.27" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="26.67" fill="#008112" font-weight="bold"><tspan fill="#008112" font-size="26.67" font-weight="bold">国家及地方政策支持引领</tspan></text>
+</g>
+<g id="shape-22" data-name="X">
+<rect x="70.8" y="221.67" width="292.13" height="73.33" fill="none"/>
+<text x="80.4" y="241.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">该项目符合国家十三五规划发展现</tspan><tspan x="80.4" dy="22.53" fill="#000000" font-size="17.33">代化农业的决策，在实施和发展上</tspan><tspan x="80.4" dy="22.53" fill="#000000" font-size="17.33">得到国家及当地政府的大力支持，</tspan></text>
+</g>
+<g id="shape-24" data-name="X">
+<ellipse cx="417.97" cy="217.5" rx="25.63" ry="25.63" fill="#008112" stroke-width="3" stroke-linecap="butt" stroke="#FFFFFF" stroke-linejoin="miter"/>
+</g>
+<g id="shape-25" data-name="X">
+<path d="M 423.47 223.7 C 423.06 223.7 422.75 224.01 422.75 224.43 C 422.75 224.75 423.06 225.06 423.47 225.06 C 423.9 225.06 424.21 224.75 424.21 224.43 C 424.21 224.01 423.9 223.7 423.47 223.7 Z M 415.55 219.17 L 416.29 219.9 L 413.04 223.13 L 413.24 223.34 L 412.51 224.27 L 409.89 225.94 L 409.47 225.53 L 411.15 222.93 L 412.09 222.19 L 412.3 222.4 Z M 411.46 208.35 C 412.49 208.34 413.51 208.77 414.3 209.55 C 415.33 210.61 415.76 212.07 415.33 213.44 L 424.62 222.76 C 425.36 223.48 425.36 224.63 424.62 225.37 C 424.31 225.79 423.79 226 423.37 226 C 422.85 226 422.32 225.79 422.01 225.37 C 422.01 225.37 422.01 225.37 412.72 216.15 C 411.36 216.57 409.8 216.27 408.65 215.11 C 407.6 214.06 407.29 212.6 407.72 211.23 C 407.72 211.23 407.72 211.23 409.91 213.54 C 409.91 213.54 409.91 213.54 412.1 212.91 C 412.1 212.91 412.1 212.91 412.72 210.71 C 412.72 210.71 412.72 210.71 410.43 208.51 C 410.77 208.41 411.11 208.35 411.46 208.35 Z M 424.61 207.87 C 424.61 207.87 424.61 207.87 427.53 210.68 C 427.53 210.68 427.53 210.68 422.41 215.81 C 421.99 215.81 421.47 215.91 421.16 216.13 L 419.17 214.25 C 419.48 213.94 419.58 213.41 419.58 212.99 C 419.58 212.99 419.58 212.99 424.61 207.87 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-27" data-name="X">
+<ellipse cx="841.33" cy="277.67" rx="22.53" ry="22.53" fill="#008112" stroke-width="3" stroke-linecap="butt" stroke="#FFFFFF" stroke-linejoin="miter"/>
+</g>
+<g id="shape-28" data-name="X">
+<path d="M 846.23 283.11 C 845.86 283.11 845.59 283.38 845.59 283.76 C 845.59 284.03 845.86 284.31 846.23 284.31 C 846.6 284.31 846.88 284.03 846.88 283.76 C 846.88 283.38 846.6 283.11 846.23 283.11 Z M 839.25 279.13 L 839.91 279.77 L 837.05 282.61 L 837.22 282.79 L 836.58 283.62 L 834.28 285.08 L 833.9 284.72 L 835.38 282.43 L 836.21 281.79 L 836.4 281.97 Z M 835.65 269.62 C 836.56 269.61 837.46 270 838.15 270.68 C 839.06 271.61 839.44 272.89 839.06 274.09 L 847.24 282.28 C 847.89 282.92 847.89 283.93 847.24 284.58 C 846.96 284.95 846.5 285.13 846.14 285.13 C 845.68 285.13 845.22 284.95 844.94 284.58 C 844.94 284.58 844.94 284.58 836.77 276.48 C 835.57 276.85 834.2 276.58 833.19 275.57 C 832.26 274.64 831.99 273.36 832.36 272.16 C 832.36 272.16 832.36 272.16 834.3 274.18 C 834.3 274.18 834.3 274.18 836.22 273.63 C 836.22 273.63 836.22 273.63 836.77 271.69 C 836.77 271.69 836.77 271.69 834.75 269.77 C 835.05 269.67 835.35 269.63 835.65 269.62 Z M 847.23 269.2 C 847.23 269.2 847.23 269.2 849.8 271.67 C 849.8 271.67 849.8 271.67 845.29 276.18 C 844.93 276.18 844.46 276.27 844.19 276.46 L 842.44 274.81 C 842.71 274.53 842.8 274.07 842.8 273.7 C 842.8 273.7 842.8 273.7 847.23 269.2 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-31" data-name="X">
+<rect x="875.47" y="230.73" width="333.67" height="39.87" fill="none"/>
+<text x="885.07" y="255.93" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112" font-weight="bold"><tspan fill="#008112" font-size="24" font-weight="bold">地理位置优越，适宜项目开展</tspan></text>
+</g>
+<g id="shape-32" data-name="X">
+<rect x="875.47" y="270.6" width="333.73" height="90.4" fill="none"/>
+<text x="885.07" y="290.13" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">项目地区气候条件极佳，适宜饲料种植。</tspan><tspan x="885.07" dy="22.53" fill="#000000" font-size="17.33">比邻XXXX水库，水质优良，交通便利，</tspan><tspan x="885.07" dy="22.53" fill="#000000" font-size="17.33">对于发展农业养殖具有得天独厚的条件。</tspan></text>
+</g>
+<g id="shape-34" data-name="X">
+<ellipse cx="819.6" cy="492.27" rx="22.53" ry="22.53" fill="#008112" stroke-width="3" stroke-linecap="butt" stroke="#FFFFFF" stroke-linejoin="miter"/>
+</g>
+<g id="shape-35" data-name="X">
+<path d="M 824.49 497.71 C 824.13 497.71 823.86 497.98 823.86 498.36 C 823.86 498.63 824.13 498.91 824.49 498.91 C 824.87 498.91 825.14 498.63 825.14 498.36 C 825.14 497.98 824.87 497.71 824.49 497.71 Z M 817.52 493.73 L 818.17 494.37 L 815.31 497.21 L 815.49 497.39 L 814.85 498.22 L 812.54 499.68 L 812.17 499.32 L 813.65 497.03 L 814.47 496.39 L 814.66 496.57 Z M 813.92 484.22 C 814.83 484.21 815.73 484.6 816.42 485.28 C 817.33 486.21 817.7 487.49 817.33 488.69 L 825.5 496.88 C 826.15 497.52 826.15 498.53 825.5 499.18 C 825.23 499.55 824.77 499.73 824.41 499.73 C 823.94 499.73 823.48 499.55 823.21 499.18 C 823.21 499.18 823.21 499.18 815.03 491.08 C 813.84 491.45 812.46 491.18 811.45 490.17 C 810.53 489.24 810.25 487.96 810.63 486.76 C 810.63 486.76 810.63 486.76 812.56 488.78 C 812.56 488.78 812.56 488.78 814.48 488.23 C 814.48 488.23 814.48 488.23 815.03 486.29 C 815.03 486.29 815.03 486.29 813.01 484.37 C 813.31 484.27 813.62 484.23 813.92 484.22 Z M 825.49 483.8 C 825.49 483.8 825.49 483.8 828.07 486.27 C 828.07 486.27 828.07 486.27 823.56 490.78 C 823.19 490.78 822.73 490.87 822.45 491.06 L 820.71 489.41 C 820.98 489.13 821.07 488.67 821.07 488.3 C 821.07 488.3 821.07 488.3 825.49 483.8 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-37" data-name="X">
+<rect x="845.13" y="441.93" width="292.13" height="39.87" fill="none"/>
+<text x="854.73" y="467.13" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112" font-weight="bold"><tspan fill="#008112" font-size="24" font-weight="bold">科技支撑带动产业发展</tspan></text>
+</g>
+<g id="shape-38" data-name="X">
+<rect x="845.13" y="481.8" width="354.6" height="96.73" fill="none"/>
+<text x="854.73" y="501.33" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">在项目建设中，重视科技创新，以科技成果</tspan><tspan x="854.73" dy="20.8" fill="#000000" font-size="17.33">在种、养、加中的转化应用为着力点，实现</tspan><tspan x="854.73" dy="20.8" fill="#000000" font-size="17.33">了农业科技创、转、推广一体化发展。</tspan></text>
+</g>
+<g id="shape-40" data-name="X">
+<rect x="160.13" y="453.53" width="330.47" height="39.87" fill="none"/>
+<text x="481" y="478.73" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#008112" font-weight="bold"><tspan fill="#008112" font-size="24" font-weight="bold">农业新业态，关联产业发展</tspan></text>
+</g>
+<g id="shape-41" data-name="X">
+<rect x="180.4" y="493.4" width="310.2" height="73.33" fill="none"/>
+<text x="190" y="512.93" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">全面带动周边农业经济发展，促进农</tspan><tspan x="190" dy="22.53" fill="#000000" font-size="17.33">业增效，帮助农民增收，符合供给侧</tspan><tspan x="190" dy="22.53" fill="#000000" font-size="17.33">改革要求，在产业业态上具有创新性</tspan></text>
+</g>
+<g id="shape-43" data-name="X">
+<ellipse cx="521.67" cy="492.27" rx="22.53" ry="22.53" fill="#008112" stroke-width="3" stroke-linecap="butt" stroke="#FFFFFF" stroke-linejoin="miter"/>
+</g>
+<g id="shape-44" data-name="X">
+<path d="M 526.56 497.71 C 526.2 497.71 525.92 497.98 525.92 498.36 C 525.92 498.63 526.2 498.91 526.56 498.91 C 526.93 498.91 527.21 498.63 527.21 498.36 C 527.21 497.98 526.93 497.71 526.56 497.71 Z M 519.59 493.73 L 520.24 494.37 L 517.38 497.21 L 517.56 497.39 L 516.92 498.22 L 514.61 499.68 L 514.24 499.32 L 515.71 497.03 L 516.54 496.39 L 516.73 496.57 Z M 515.99 484.22 C 516.9 484.21 517.79 484.6 518.48 485.28 C 519.4 486.21 519.77 487.49 519.4 488.69 L 527.57 496.88 C 528.22 497.52 528.22 498.53 527.57 499.18 C 527.3 499.55 526.84 499.73 526.47 499.73 C 526.01 499.73 525.55 499.55 525.27 499.18 C 525.27 499.18 525.27 499.18 517.1 491.08 C 515.9 491.45 514.53 491.18 513.52 490.17 C 512.6 489.24 512.32 487.96 512.69 486.76 C 512.69 486.76 512.69 486.76 514.63 488.78 C 514.63 488.78 514.63 488.78 516.55 488.23 C 516.55 488.23 516.55 488.23 517.1 486.29 C 517.1 486.29 517.1 486.29 515.08 484.37 C 515.38 484.27 515.68 484.23 515.99 484.22 Z M 527.56 483.8 C 527.56 483.8 527.56 483.8 530.13 486.27 C 530.13 486.27 530.13 486.27 525.62 490.78 C 525.26 490.78 524.8 490.87 524.52 491.06 L 522.77 489.41 C 523.05 489.13 523.13 488.67 523.13 488.3 C 523.13 488.3 523.13 488.3 527.56 483.8 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-29" data-name="文本框 28">
+<rect x="94.14" y="16.37" width="198.93" height="48.47" fill="none"/>
+<text x="103.74" y="48.37" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">项目介绍</tspan></text>
+</g>
+<g id="shape-30" data-name="文本框 29">
+<rect x="94.14" y="57.95" width="265.77" height="22.62" fill="none"/>
+<text x="103.74" y="71.82" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="10.67" fill="#808080"><tspan fill="#808080" font-size="10.67">FILL IN THE TEXT OF THE DOCUMENT TITLE HERE</tspan></text>
+</g></svg>

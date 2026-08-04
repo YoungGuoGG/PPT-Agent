@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-23" data-name="图片 22">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-24" data-name="矩形 23">
+<rect x="0.53" y="0" width="1286.93" height="725.47" fill="#0D0D0D" fill-opacity="0.8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-44" data-name="图片 43">
+<image href="../assets/image3.jpeg" x="61.67" y="57.13" width="1156.73" height="605.67" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-11" data-name="直接连接符 10">
+<line x1="183.57" y1="298.05" x2="1098.47" y2="298.05" stroke="#080A12" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="直接连接符 12" transform="translate(183.57 218.2) scale(-1 -1) translate(-183.57 -218.2)">
+<line x1="183.57" y1="140.75" x2="183.57" y2="295.64" stroke="#080A12" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-14" data-name="直接连接符 13" transform="translate(1098.47 219.4) scale(-1 -1) translate(-1098.47 -219.4)">
+<line x1="1098.47" y1="140.75" x2="1098.47" y2="298.05" stroke="#080A12" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="直接连接符 14">
+<line x1="183.57" y1="140.75" x2="495.84" y2="140.75" stroke="#080A12" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="直接连接符 15" transform="translate(942.34 140.75) scale(-1 1) translate(-942.34 -140.75)">
+<line x1="786.2" y1="140.75" x2="1098.47" y2="140.75" stroke="#080A12" fill="#6096E6" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-17" data-name="矩形 16">
+<rect x="292.93" y="171.67" width="745.93" height="111.33" fill="none"/>
+<text x="665.9" y="192.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, Arial, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">I walked through many mountains, walked through many waters, </tspan></text>
+<text x="665.9" y="220.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, Arial, sans-serif" font-size="18.67" fill="#080A12"><tspan fill="#080A12" font-size="18.67">and knew many people. The only thing that really makes me tempted is that you </tspan><tspan x="665.9" dy="28" fill="#080A12" font-size="18.67">see me at the moment. </tspan></text>
+</g>
+<g id="shape-29" data-name="矩形 28">
+<rect x="495.89" y="112.28" width="325.61" height="100.07" stroke="none" fill="none"/>
+<text x="505.49" y="148.82" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, sans-serif" font-size="37.33" fill="#422600" font-weight="bold"><tspan fill="#422600" font-size="37.33" font-weight="bold">-</tspan><tspan fill="#422600" font-size="37.33" font-weight="bold">点击</tspan><tspan fill="#422600" font-size="37.33" font-weight="bold" letter-spacing="4">添加标题</tspan><tspan fill="#422600" font-size="37.33" font-weight="bold">-</tspan></text>
+
+</g>
+<g id="shape-37" data-name="图片 36">
+<image href="../assets/image21.jpeg" x="187.73" y="340.47" width="914.87" height="321.67" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="图片 40">
+<image href="../assets/image9.png" x="0.53" y="26.8" width="418.13" height="313.67" preserveAspectRatio="none"/>
+</g></svg>

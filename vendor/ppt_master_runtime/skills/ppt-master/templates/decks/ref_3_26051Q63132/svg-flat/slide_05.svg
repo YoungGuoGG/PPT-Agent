@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-2" data-name="图片 1">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2">
+<image href="../assets/image5.png" x="1070.88" y="618.55" width="104.74" height="53.87" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-19" data-name="文本框 18">
+<rect x="33.32" y="32.4" width="225.08" height="42.01" fill="none"/>
+<text x="42.92" y="59.87" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">输入您的标题</tspan></text>
+</g>
+<g id="layout-shape-7" data-name="图片 6">
+<image href="../assets/image7.png" x="258.4" y="47.22" width="14.23" height="14.38" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="任意多边形: 形状 39">
+<path d="M 83.54 569.26 C 289.02 578.57 492.93 583.98 682.42 553.46 C 871.91 522.94 1050.13 464.32 1220.46 386.14" fill="none" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-4" data-name="流程图: 接点 48">
+<rect x="128.71" y="566.81" width="9.08" height="9.45" fill="#31B199" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="流程图: 接点 49">
+<rect x="401.64" y="572.14" width="9.08" height="9.45" fill="#31B199" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="流程图: 接点 50">
+<rect x="675.14" y="548.67" width="9.08" height="9.45" fill="#31B199" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="流程图: 接点 51">
+<rect x="983.57" y="474.89" width="9.08" height="9.45" fill="#31B199" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-8" data-name="矩形 7">
+<rect x="122.72" y="476.38" width="148.64" height="48.47" fill="none"/>
+<text x="132.32" y="508.38" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;OPPOSans B&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">输入标题</tspan></text>
+</g>
+<g id="shape-9" data-name="矩形 8">
+<rect x="122.72" y="521.04" width="191.72" height="35.54" fill="none"/>
+<text x="132.32" y="543.97" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">输入你的内容文字</tspan></text>
+</g>
+<g id="shape-10" data-name="矩形 9">
+<rect x="398.85" y="446.65" width="148.64" height="48.47" fill="none"/>
+<text x="408.45" y="478.65" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;OPPOSans B&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">输入标题</tspan></text>
+</g>
+<g id="shape-11" data-name="矩形 10">
+<rect x="398.85" y="487.16" width="234.8" height="69.11" fill="none"/>
+<text x="408.45" y="510.09" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">输入你的内容文字，</tspan></text>
+<text x="408.45" y="535.69" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">注意段落顺序语句通顺</tspan></text>
+</g>
+<g id="shape-12" data-name="矩形 11">
+<rect x="667.75" y="378.02" width="148.64" height="48.47" fill="none"/>
+<text x="677.35" y="410.02" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;OPPOSans B&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">输入标题</tspan></text>
+</g>
+<g id="shape-13" data-name="矩形 12">
+<rect x="667.75" y="417.73" width="234.8" height="69.11" fill="none"/>
+<text x="677.35" y="440.67" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">输入你的内容文字，</tspan></text>
+<text x="677.35" y="466.27" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">注意段落顺序语句通顺</tspan></text>
+</g>
+<g id="shape-14" data-name="矩形 13">
+<rect x="976.49" y="283.04" width="148.64" height="48.47" fill="none"/>
+<text x="986.09" y="315.04" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;OPPOSans B&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">输入标题</tspan></text>
+</g>
+<g id="shape-15" data-name="矩形 14">
+<rect x="975.73" y="324.63" width="234.8" height="69.11" fill="none"/>
+<text x="985.33" y="347.56" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">输入你的内容文字，</tspan></text>
+<text x="985.33" y="373.16" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">注意段落顺序语句通顺</tspan></text>
+</g>
+</g>
+<g id="shape-16" data-name="组合 15">
+<g id="shape-17" data-name="矩形 16">
+<rect x="105.98" y="194.02" width="213.26" height="48.47" fill="none"/>
+<text x="115.58" y="226.02" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加您的标题</tspan></text>
+</g>
+<g id="shape-18" data-name="矩形 17">
+<rect x="107.78" y="258.22" width="601.9" height="121.45" fill="none"/>
+<text x="117.38" y="281.16" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">输入你的内容文字，注意段落顺序语句通顺，双击即可编辑文</tspan><tspan x="117.38" dy="32" fill="#404040" font-size="21.33">字输入你的内容文字。输入你的内容文字，注意段落顺序语句</tspan><tspan x="117.38" dy="32" fill="#404040" font-size="21.33">通顺，双击即可编辑文字输入你</tspan></text>
+</g>
+<g id="shape-19" data-name="直接连接符 26">
+<line x1="118.08" y1="246.24" x2="180.95" y2="246.24" stroke-width="3.667" stroke="#31B199" fill="#31B199"/>
+</g>
+</g></svg>

@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.05" stop-color="#0E8EE7"/><stop offset="0.84" stop-color="#1EE8F5" stop-opacity="0"/></linearGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.05" stop-color="#0E8EE7"/><stop offset="0.84" stop-color="#1EE8F5" stop-opacity="0"/></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="0.69" stop-color="#1EE8F5"/></linearGradient><linearGradient id="ggrad4" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="0.69" stop-color="#1EE8F5"/></linearGradient><linearGradient id="txtgrad5" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#0E8EE7"/><stop offset="0.82" stop-color="#1EE8F5"/></linearGradient></defs><g id="shape-3" data-name="图形">
+<g id="shape-33" data-name="图形" transform="rotate(270 308.4 305.77)">
+<rect x="222.33" y="119.13" width="172.13" height="373.27" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-34" data-name="图形" transform="rotate(90 966.8 315.9) translate(966.8 315.9) scale(-1 1) translate(-966.8 -315.9)">
+<rect x="880.73" y="129.27" width="172.13" height="373.27" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-37" data-name="图形">
+<path d="M 452.11 353.53 L 447.29 353.53 L 447.29 358.37 L 442.47 358.37 L 442.47 363.2 L 447.29 363.2 L 447.29 367.87 L 452.11 367.87 L 452.11 363.2 L 456.93 363.2 L 456.93 358.37 L 452.11 358.37 L 452.11 353.53 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-38" data-name="图形">
+<path d="M 470.67 376.81 C 463.98 370.12 463.98 370.12 463.98 370.12 C 465.81 367.69 467.02 364.66 467.02 361.01 C 467.02 351.9 459.12 344 450.01 344 C 440.29 344 433 351.9 433 361.01 C 433 370.12 440.29 378.02 450.01 378.02 C 453.05 378.02 456.69 376.81 459.12 375.59 C 465.81 382.27 465.81 382.27 465.81 382.27 C 466.41 382.27 467.02 382.27 467.63 382.27 C 470.67 378.63 470.67 378.63 470.67 378.63 C 471.27 378.02 471.27 377.41 470.67 376.81 Z M 450.01 373.16 C 443.33 373.16 437.86 367.69 437.86 361.01 C 437.86 354.33 443.33 348.86 450.01 348.86 C 456.69 348.86 462.16 354.33 462.16 361.01 C 462.16 367.69 456.69 373.16 450.01 373.16 Z" fill="url(#ggrad3)" stroke="none"/>
+</g>
+<g id="shape-40" data-name="图形">
+<path d="M 815.71 363.67 L 810.89 363.67 L 810.89 368.5 L 806.07 368.5 L 806.07 373.33 L 810.89 373.33 L 810.89 378 L 815.71 378 L 815.71 373.33 L 820.53 373.33 L 820.53 368.5 L 815.71 368.5 L 815.71 363.67 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-41" data-name="图形">
+<path d="M 834.27 386.94 C 827.58 380.26 827.58 380.26 827.58 380.26 C 829.41 377.83 830.62 374.79 830.62 371.14 C 830.62 362.03 822.72 354.13 813.61 354.13 C 803.89 354.13 796.6 362.03 796.6 371.14 C 796.6 380.26 803.89 388.15 813.61 388.15 C 816.65 388.15 820.29 386.94 822.72 385.72 C 829.41 392.41 829.41 392.41 829.41 392.41 C 830.01 392.41 830.62 392.41 831.23 392.41 C 834.27 388.76 834.27 388.76 834.27 388.76 C 834.87 388.15 834.87 387.55 834.27 386.94 Z M 813.61 383.29 C 806.93 383.29 801.46 377.83 801.46 371.14 C 801.46 364.46 806.93 358.99 813.61 358.99 C 820.29 358.99 825.76 364.46 825.76 371.14 C 825.76 377.83 820.29 383.29 813.61 383.29 Z" fill="url(#ggrad4)" stroke="none"/>
+</g>
+<g id="shape-54" data-name="图形">
+<rect x="780.2" y="426.87" width="211.2" height="48.33" fill="none"/>
+<text x="789.8" y="458.87" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">预设标题文本</tspan></text>
+</g>
+<g id="shape-55" data-name="图形">
+<rect x="780.2" y="465.33" width="322.4" height="93.53" fill="none"/>
+<text x="789.8" y="483.73" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="2.67"><tspan fill="#FFFFFF" font-size="16" letter-spacing="2.67">在此输入文本内容在此输入文本内容在此</tspan><tspan x="789.8" dy="24" fill="#FFFFFF" font-size="16" letter-spacing="2.67">输入文本内容在此输入文本内容在此输入</tspan><tspan x="789.8" dy="24" fill="#FFFFFF" font-size="16" letter-spacing="2.67">文本内容在此输入文本内容</tspan></text>
+</g>
+<g id="shape-56" data-name="图形">
+<rect x="293.47" y="426.87" width="211.2" height="48.33" fill="none"/>
+<text x="303.07" y="458.87" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">预设标题文本</tspan></text>
+</g>
+<g id="shape-57" data-name="图形">
+<rect x="182.33" y="465.33" width="322.4" height="93.53" fill="none"/>
+<text x="495.13" y="483.73" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="16" fill="#FFFFFF" letter-spacing="2.67"><tspan fill="#FFFFFF" font-size="16" letter-spacing="2.67">在此输入文本内容在此输入文本内容在此</tspan><tspan x="495.13" dy="24" fill="#FFFFFF" font-size="16" letter-spacing="2.67">输入文本内容在此输入文本内容在此输入</tspan><tspan x="495.13" dy="24" fill="#FFFFFF" font-size="16" letter-spacing="2.67">文本内容在此输入文本内容</tspan></text>
+</g>
+<g id="shape-58" data-name="图形">
+<rect x="333.53" y="221.4" width="622.07" height="73.6" fill="none"/>
+<text x="644.57" y="242.07" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF" letter-spacing="2.67"><tspan fill="#FFFFFF" font-size="18.67" letter-spacing="2.67">在此输入文本内容在此输入文本内容在此输入文本内容在此输入文本内容</tspan><tspan x="644.57" dy="28" fill="#FFFFFF" font-size="18.67" letter-spacing="2.67">在此输入文本内容在此输入文本内容</tspan></text>
+</g>
+<g id="shape-2" data-name="图形">
+<rect x="577.2" y="363.67" width="141.73" height="126" fill="none"/>
+<text x="586.8" y="450.07" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="96" fill="url(#txtgrad5)"><tspan fill="url(#txtgrad5)" font-size="96">VS</tspan></text>
+</g>
+</g></svg>

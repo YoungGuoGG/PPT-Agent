@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2560" height="1440" viewBox="0 0 2560 1440"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="66.67" flood-color="#01FBCE" flood-opacity="1"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx6" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx7" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx8" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx9" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><filter id="fx10" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15"/></filter><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#02DFB6" stop-opacity="0"/><stop offset="1" stop-color="#02E0B8"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#02DFB6" stop-opacity="0"/><stop offset="1" stop-color="#02E0B8"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#02DFB6" stop-opacity="0"/><stop offset="1" stop-color="#02E0B8"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#02DFB6" stop-opacity="0"/><stop offset="1" stop-color="#02E0B8"/></linearGradient><linearGradient id="ggrad5" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#02DFB6" stop-opacity="0"/><stop offset="1" stop-color="#02E0B8"/></linearGradient><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#02DFB6" stop-opacity="0"/><stop offset="1" stop-color="#02E0B8"/></linearGradient></defs><rect x="0" y="0" width="2560" height="1440" fill="#101010"/>
+<g id="shape-619" data-name="任.jpg">
+<image href="../assets/image6.jpeg" x="1103.26" y="0.75" width="1462.67" height="1440" preserveAspectRatio="none"/>
+</g>
+<g id="shape-620" data-name="PortFolio">
+<rect x="137.96" y="69.75" width="1806.32" height="583.24" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)" fill="none"/>
+<text x="143.29" y="367.36" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">PortFolio</tspan></text>
+</g>
+<g id="shape-621" data-name="圆形">
+<ellipse cx="2137.11" cy="577.52" rx="44.57" ry="44.57" fill="#01FBCE" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx2)"/>
+</g>
+<g id="shape-623" data-name="线条" transform="translate(157.92 842.34) scale(1 -1) translate(-157.92 -842.34)">
+<line x1="157.92" y1="771.85" x2="157.92" y2="912.83" stroke-width="5.333" stroke="#FFFFFF" stroke-linejoin="miter" fill="none"/>
+</g>
+<g id="shape-624" data-name="Hello, I’m Chuspee">
+<rect x="179.39" y="742.91" width="706.53" height="107.71" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx3)" fill="none"/>
+<text x="184.72" y="802.76" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Hello, I’m </tspan><tspan fill="#000000" font-size="24">Chuspee</tspan></text>
+</g>
+<g id="shape-625" data-name="This is my favorite tool set, I mainly work in 2D/2.5D and use 3D if the idea, that counts, makes it necessary.">
+<rect x="178.82" y="851.81" width="701.04" height="70.95" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx4)" fill="none"/>
+<text x="184.15" y="877.54" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">This is my favorite tool set, I mainly work in 2D/2.5D and </tspan><tspan x="184.15" dy="31.2" fill="#000000" font-size="24">use 3D if the idea, that counts, makes it necessary.</tspan></text>
+</g>
+<g id="shape-626" data-name="After Effect">
+<rect x="633.4" y="980.6" width="373.73" height="67.2" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx5)" fill="none"/>
+<text x="638.73" y="1020.2" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">After Effect</tspan></text>
+</g>
+<g id="shape-627" data-name="Cinema 4D">
+<rect x="1076.67" y="980.6" width="484.8" height="67.2" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx6)" fill="none"/>
+<text x="1082" y="1020.2" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Cinema 4D</tspan></text>
+</g>
+<g id="shape-628" data-name="PhotoShop">
+<rect x="190.18" y="978.87" width="278.76" height="70.65" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx7)" fill="none"/>
+<text x="195.52" y="1020.19" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">PhotoShop</tspan></text>
+</g>
+<g id="shape-629" data-name="Illustrator">
+<rect x="190.18" y="1121.57" width="278.76" height="70.65" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx8)" fill="none"/>
+<text x="195.52" y="1162.9" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Illustrator</tspan></text>
+</g>
+<g id="shape-630" data-name="Element 3D">
+<rect x="633.4" y="1123.33" width="365.4" height="67.2" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx9)" fill="none"/>
+<text x="638.73" y="1162.93" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Element 3D</tspan></text>
+</g>
+<g id="shape-631" data-name="Cretivity">
+<rect x="1076.68" y="1121.57" width="278.76" height="70.65" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx10)" fill="none"/>
+<text x="1082.02" y="1162.9" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Cretivity</tspan></text>
+</g>
+<g id="shape-632" data-name="数据总轴.png">
+<image href="../assets/image7.png" x="1061.38" y="1049.57" width="397.33" height="49.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-633" data-name="数据总轴.png">
+<image href="../assets/image7.png" x="618.13" y="1049.57" width="397.33" height="49.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-634" data-name="数据总轴.png">
+<image href="../assets/image7.png" x="174.88" y="1049.57" width="397.33" height="49.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-635" data-name="数据总轴.png">
+<image href="../assets/image7.png" x="1061.38" y="1197.32" width="397.33" height="49.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-636" data-name="数据总轴.png">
+<image href="../assets/image7.png" x="618.13" y="1197.32" width="397.33" height="49.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-637" data-name="数据总轴.png">
+<image href="../assets/image7.png" x="174.88" y="1197.32" width="397.33" height="49.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-638" data-name="圆角矩形">
+<rect x="1078.59" y="1202.25" width="129.32" height="21.79" rx="10.9" ry="10.9" fill="url(#ggrad1)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-639" data-name="圆角矩形">
+<rect x="1074.06" y="1054.25" width="346.29" height="21.79" rx="10.9" ry="10.9" fill="url(#ggrad2)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-640" data-name="圆角矩形">
+<rect x="644.69" y="1054.25" width="181.15" height="21.79" rx="10.9" ry="10.9" fill="url(#ggrad3)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-641" data-name="圆角矩形">
+<rect x="639.2" y="1202.25" width="192.12" height="21.79" rx="10.9" ry="10.9" fill="url(#ggrad4)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-642" data-name="圆角矩形">
+<rect x="194.98" y="1054.25" width="295.56" height="21.79" rx="10.9" ry="10.9" fill="url(#ggrad5)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-643" data-name="圆角矩形">
+<rect x="194.98" y="1202.25" width="359.35" height="21.79" rx="10.9" ry="10.9" fill="url(#ggrad6)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g></svg>

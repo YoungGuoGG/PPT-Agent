@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="13.33" dy="0" stdDeviation="13.33" flood-color="#A6A6A6" flood-opacity="0.2"/></filter><linearGradient id="ggrad1" x1="1" y1="0" x2="0" y2="1"><stop offset="0.03" stop-color="#C0C8A0"/><stop offset="1" stop-color="#8C9857"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="13.33" dy="0" stdDeviation="13.33" flood-color="#8C9857" flood-opacity="0.32"/></filter><linearGradient id="ggrad2" x1="1" y1="0" x2="0" y2="1"><stop offset="0.03" stop-color="#A3E3FF"/><stop offset="1" stop-color="#00A0E9"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="13.33" dy="0" stdDeviation="13.33" flood-color="#00A0E9" flood-opacity="0.32"/></filter><linearGradient id="ggrad3" x1="1" y1="0" x2="0" y2="1"><stop offset="0.03" stop-color="#C0C8A0"/><stop offset="1" stop-color="#8C9857"/></linearGradient><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="13.33" dy="0" stdDeviation="13.33" flood-color="#8C9857" flood-opacity="0.32"/></filter></defs><image href="../assets/image9.emf" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="矩形 3">
+<rect x="41.62" y="32.06" width="1201.05" height="650.61" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="íṥľïdé">
+<rect x="69.33" y="118.67" width="1140.67" height="54.93" fill="none"/>
+<text x="639.67" y="155.2" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="37.33" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="37.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-8" data-name="íṣḷîďe">
+<rect x="69.67" y="174.4" width="1140" height="39.55" fill="none"/>
+<text x="639.67" y="195.06" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击在此输入说明文本点击在此输入说明文本点击在此输入说明文本点击在此输入说明文本</tspan></text>
+</g>
+<g id="shape-9" data-name="îṧḷîďé">
+<g id="shape-10" data-name="ïšļidè" transform="translate(616.7 224.76) scale(1 -1) translate(-616.7 -224.76)">
+<ellipse cx="616.7" cy="224.76" rx="3.87" ry="3.87" stroke="none" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="iŝļiďé" transform="translate(639.67 224.76) scale(1 -1) translate(-639.67 -224.76)">
+<ellipse cx="639.67" cy="224.76" rx="3.87" ry="3.87" stroke="none" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="ísľiḓê" transform="translate(662.63 224.76) scale(1 -1) translate(-662.63 -224.76)">
+<ellipse cx="662.63" cy="224.76" rx="3.87" ry="3.87" stroke="none" fill="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-13" data-name="组合 12">
+<g id="shape-14" data-name="iṣḻiḋé">
+<ellipse cx="210.07" cy="458.76" rx="15.6" ry="15.6" fill="#808080" fill-opacity="0.1" stroke="none" stroke-width="1"/>
+<text x="210.07" y="462.76" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#595959"><tspan fill="#595959" font-size="16">O</tspan><tspan fill="#595959" font-size="2.67"> </tspan><tspan fill="#595959" font-size="16">1</tspan></text>
+</g>
+<g id="shape-15" data-name="iṩľiďè">
+<ellipse cx="640" cy="458.76" rx="15.6" ry="15.6" fill="#808080" fill-opacity="0.1" stroke="none" stroke-width="1"/>
+<text x="640" y="462.76" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#595959"><tspan fill="#595959" font-size="16">O</tspan><tspan fill="#595959" font-size="2.67"> </tspan><tspan fill="#595959" font-size="16">2</tspan></text>
+</g>
+<g id="shape-16" data-name="íşliďe">
+<ellipse cx="1069.93" cy="458.76" rx="15.6" ry="15.6" fill="#808080" fill-opacity="0.1" stroke="none" stroke-width="1"/>
+<text x="1069.93" y="462.76" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#595959"><tspan fill="#595959" font-size="16">O</tspan><tspan fill="#595959" font-size="2.67"> </tspan><tspan fill="#595959" font-size="16">3</tspan></text>
+</g>
+<g id="shape-17" data-name="直接连接符 16">
+<line x1="225.67" y1="458.76" x2="624.4" y2="458.76" stroke="#808080" stroke-opacity="0.2" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="直接连接符 17">
+<line x1="655.6" y1="458.76" x2="1054.33" y2="458.76" stroke="#808080" stroke-opacity="0.2" fill="#000000" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-19" data-name="组合 18">
+<g id="shape-20" data-name="ïSļíďè">
+<rect x="106.45" y="497.7" width="207.25" height="48.47" fill="none"/>
+<text x="210.07" y="529.7" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-21" data-name="ïṡļîḑê">
+<rect x="97.6" y="536.47" width="226.17" height="73.48" fill="none"/>
+<text x="210.68" y="557.14" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击在此输入说明文本点</tspan><tspan x="210.68" dy="28" fill="#404040" font-size="18.67">击在此输入说明文本</tspan></text>
+</g>
+</g>
+<g id="shape-22" data-name="组合 21">
+<g id="shape-23" data-name="íṩḷïḍè">
+<rect x="536.38" y="497.7" width="207.25" height="48.47" fill="none"/>
+<text x="640" y="529.7" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-24" data-name="išļïdé">
+<rect x="526.92" y="535.96" width="226.17" height="73.48" fill="none"/>
+<text x="640" y="556.62" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击在此输入说明文本点</tspan><tspan x="640" dy="28" fill="#404040" font-size="18.67">击在此输入说明文本</tspan></text>
+</g>
+</g>
+<g id="shape-25" data-name="组合 24">
+<g id="shape-26" data-name="组合 25">
+<g id="shape-28" data-name="íṥḻiḋè">
+<rect x="947.39" y="485.27" width="245.08" height="130.58" rx="21.76" ry="21.76" fill="#A5A5A5" fill-opacity="0.05" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx1)"/>
+</g>
+<g id="shape-29" data-name="ïSḷiďê">
+<rect x="966.31" y="497.7" width="207.25" height="48.47" fill="none"/>
+<text x="1069.93" y="529.7" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+</g>
+<g id="shape-27" data-name="íslídê">
+<rect x="956.23" y="537.49" width="226.17" height="73.48" fill="none"/>
+<text x="1069.32" y="558.15" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击在此输入说明文本点</tspan><tspan x="1069.32" dy="28" fill="#404040" font-size="18.67">击在此输入说明文本</tspan></text>
+</g>
+</g>
+<g id="shape-30" data-name="ïṩ1íḍè">
+<g id="shape-31" data-name="íṧḷíḋê">
+<ellipse cx="210.07" cy="339.95" rx="55.34" ry="55.34" fill="url(#ggrad1)" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx2)"/>
+</g>
+<g id="shape-32" data-name="iṩḻîďé">
+<path d="M 224.03 328.29 C 224.96 328.29 225.7 329.04 225.7 329.96 L 225.7 350.02 C 225.7 350.94 224.96 351.69 224.03 351.69 L 196.18 351.69 C 195.26 351.69 194.51 350.94 194.51 350.02 L 194.51 329.96 C 194.51 329.04 195.26 328.29 196.18 328.29 L 224.03 328.29 Z M 217.36 339.87 C 216.63 339.32 215.58 339.46 215.02 340.2 L 215.02 340.2 L 210.1 346.71 C 210.05 346.77 210 346.82 209.95 346.88 C 209.3 347.54 208.25 347.54 207.59 346.9 L 207.59 346.9 L 203.96 343.31 C 203.92 343.28 203.88 343.24 203.85 343.21 C 203.13 342.62 202.08 342.72 201.49 343.44 L 201.49 343.44 L 196.38 349.66 C 196.29 349.76 196.25 349.89 196.25 350.02 C 196.25 350.32 196.5 350.57 196.8 350.57 L 196.8 350.57 L 223.55 350.57 C 223.66 350.57 223.77 350.54 223.86 350.48 C 224.11 350.3 224.18 349.96 224.01 349.7 L 224.01 349.7 L 217.75 340.27 C 217.64 340.12 217.51 339.98 217.36 339.87 Z M 200.08 331.63 C 198.85 331.63 197.85 332.63 197.85 333.86 C 197.85 335.09 198.85 336.09 200.08 336.09 C 201.31 336.09 202.31 335.09 202.31 333.86 C 202.31 332.63 201.31 331.63 200.08 331.63 Z" stroke="none" fill="none"/>
+</g>
+</g>
+<g id="shape-33" data-name="íṩ1íḓe">
+<g id="shape-34" data-name="îṩļïdê">
+<ellipse cx="640" cy="339.95" rx="55.34" ry="55.34" fill="url(#ggrad2)" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx3)"/>
+</g>
+<g id="shape-35" data-name="îşḻïḍê">
+<path d="M 653.06 334.91 C 654.51 334.91 655.68 336.08 655.68 337.52 C 655.68 337.59 655.68 337.66 655.67 337.73 L 654.88 348.02 C 654.81 348.9 654.08 349.59 653.19 349.59 L 651.37 349.59 L 651.37 352.97 L 650.24 352.97 L 650.24 349.59 L 629.92 349.59 L 629.92 352.97 L 628.79 352.97 L 628.79 349.59 L 626.97 349.59 C 626.09 349.59 625.35 348.9 625.28 348.02 L 624.49 337.73 C 624.38 336.29 625.46 335.03 626.9 334.92 C 626.97 334.91 627.03 334.91 627.1 334.91 C 628.74 334.91 630.14 336.08 630.44 337.69 L 631.61 343.94 L 648.55 343.94 L 649.72 337.68 C 650.02 336.07 651.43 334.91 653.06 334.91 Z M 649.11 327.01 C 651.3 327.01 653.06 328.77 653.06 330.96 L 653.06 333.81 C 652.92 333.79 652.78 333.78 652.64 333.78 C 650.81 333.78 649.23 335.06 648.82 336.83 L 648.8 336.97 L 647.7 342.81 L 632.46 342.81 L 631.36 336.97 C 631.02 335.12 629.4 333.78 627.52 333.78 L 627.66 330.96 C 627.66 328.77 629.43 327.01 631.61 327.01 L 649.11 327.01 Z" stroke="none" fill="none"/>
+</g>
+</g>
+<g id="shape-36" data-name="ïṥľïḓè">
+<g id="shape-37" data-name="îṧľîḋè">
+<ellipse cx="1069.93" cy="339.95" rx="55.34" ry="55.34" fill="url(#ggrad3)" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round" filter="url(#fx4)"/>
+</g>
+<g id="shape-38" data-name="îşliḍé">
+<path d="M 1061.66 339.15 L 1061.66 341.94 L 1062.78 341.94 L 1062.78 339.15 L 1077.26 339.15 L 1077.26 341.94 L 1078.37 341.94 L 1078.37 339.15 L 1085.61 339.15 L 1085.61 352.52 C 1085.61 353.45 1084.87 354.19 1083.94 354.19 L 1056.09 354.19 C 1055.17 354.19 1054.42 353.45 1054.42 352.52 L 1054.42 339.15 L 1061.66 339.15 Z M 1076.14 325.79 C 1077.34 325.79 1078.31 326.72 1078.37 327.9 L 1078.37 328.01 L 1078.37 332.47 L 1083.94 332.47 C 1084.87 332.47 1085.61 333.22 1085.61 334.14 L 1085.61 338.04 L 1054.42 338.04 L 1054.42 334.14 C 1054.42 333.22 1055.17 332.47 1056.09 332.47 L 1061.66 332.47 L 1061.66 328.01 C 1061.66 326.82 1062.6 325.85 1063.78 325.79 L 1063.89 325.79 L 1076.14 325.79 Z M 1076.14 326.9 L 1063.89 326.9 C 1063.31 326.9 1062.82 327.36 1062.78 327.93 L 1062.78 328.01 L 1062.78 332.47 L 1077.26 332.47 L 1077.26 328.01 C 1077.26 327.46 1076.85 326.99 1076.31 326.91 L 1076.23 326.9 L 1076.14 326.9 Z" stroke="none" fill="none"/>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="图片 2" transform="rotate(352.59 115.6 83.93)">
+<image href="../assets/image10.png" x="66.2" y="23.53" width="98.8" height="120.8" preserveAspectRatio="none"/>
+</g>
+<g id="shape-39" data-name="文本框 38">
+<rect x="150.13" y="55.93" width="307.2" height="61.4" fill="none"/>
+<text x="159.73" y="81.13" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">露营携带装备</tspan></text>
+</g>
+</g></svg>

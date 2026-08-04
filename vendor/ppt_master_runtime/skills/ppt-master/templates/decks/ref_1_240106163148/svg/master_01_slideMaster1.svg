@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1209.67" height="907.17" viewBox="0 0 1209.67 907.17"><rect x="0" y="0" width="1209.67" height="907.17" fill="#FFFFFF"/>
+<g id="master-shape-2050" data-name="标题占位符 1" data-ph-type="title">
+<rect x="60.48" y="36.33" width="1088.7" height="151.19" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="68.48" y="54.33" font-size="12" fill="#64748B">ph title</text>
+</g>
+<g id="master-shape-2051" data-name="文本占位符 2" data-ph-type="body">
+<rect x="60.48" y="211.67" width="1088.7" height="598.69" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="68.48" y="229.67" font-size="12" fill="#64748B">ph body idx=1</text>
+</g>
+<g id="master-shape-4" data-name="日期占位符 3" data-ph-type="dt">
+<rect x="60.48" y="840.81" width="282.26" height="48.3" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="68.48" y="858.81" font-size="12" fill="#64748B">ph dt idx=2</text>
+</g>
+<g id="master-shape-5" data-name="页脚占位符 4" data-ph-type="ftr">
+<rect x="413.3" y="840.81" width="383.06" height="48.3" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="421.3" y="858.81" font-size="12" fill="#64748B">ph ftr idx=3</text>
+</g>
+<g id="master-shape-6" data-name="灯片编号占位符 5" data-ph-type="sldNum">
+<rect x="866.93" y="840.81" width="282.26" height="48.3" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="874.93" y="858.81" font-size="12" fill="#64748B">ph sldNum idx=4</text>
+</g></svg>

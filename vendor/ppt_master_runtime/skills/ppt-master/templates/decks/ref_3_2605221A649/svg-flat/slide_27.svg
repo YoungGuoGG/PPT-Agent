@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="txtgrad1" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4C0000"/><stop offset="0.5" stop-color="#AC0000"/><stop offset="1" stop-color="#FF0000"/></linearGradient><linearGradient id="txtgrad2" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4C0000"/><stop offset="0.5" stop-color="#AC0000"/><stop offset="1" stop-color="#FF0000"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-15" data-name="图片 14">
+<image href="../assets/image5.png" x="892.95" y="534.86" width="342.86" height="185.14" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="图片 4">
+<image href="../assets/image38.png" x="0" y="-2.32" width="584.52" height="175.09" preserveAspectRatio="none"/>
+</g>
+<g id="shape-9" data-name="图片 8" transform="translate(640 656.19) scale(-1 1) translate(-640 -656.19)">
+<image href="../assets/image7.png" x="0" y="585.33" width="1280" height="141.71" preserveAspectRatio="none"/>
+</g>
+<g id="shape-7" data-name="图片 6">
+<image href="../assets/image39.png" x="15.17" y="453.79" width="304.09" height="263.08" preserveAspectRatio="none"/>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="230.01" y="284.34" width="804.68" height="138.94" fill="none"/>
+<text x="632.35" y="379.81" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪菱心体简&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="106.67" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="106.67">法律保驾护航</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="350.94" y="421.06" width="573.57" height="48.47" fill="none"/>
+<text x="360.54" y="453.06" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="32" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="32" font-weight="bold">Civil code into the campus</tspan></text>
+</g>
+<g id="shape-18" data-name="直接连接符 17">
+<line x1="350.94" y1="485.44" x2="924.51" y2="485.44" stroke-width="3" stroke="#000000" fill="#C00000"/>
+</g>
+<g id="shape-22" data-name="Group 15">
+<g id="shape-23" data-name="矩形 22">
+<rect x="416.94" y="552.29" width="233.12" height="42.01" fill="none"/>
+<text x="426.54" y="579.75" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="26.67" font-weight="bold">汇报人：第一</tspan><tspan fill="#262626" font-size="26.67" font-weight="bold">PPT</tspan></text>
+</g>
+<g id="shape-24" data-name="delivery-package_45936">
+<path d="M 385.53 590.87 L 415.68 590.87 C 416.37 590.87 416.94 591.43 416.94 592.12 C 416.94 592.81 416.37 593.37 415.68 593.37 L 385.53 593.37 Z M 368.61 590.87 L 380.69 590.87 L 380.69 593.37 L 368.61 593.37 C 367.92 593.37 367.36 592.81 367.36 592.12 C 367.36 591.43 367.92 590.87 368.61 590.87 Z M 383.1 589.56 C 383.94 589.56 384.61 590.23 384.61 591.06 L 384.61 593.18 C 384.61 594.01 383.94 594.68 383.1 594.68 C 382.28 594.68 381.6 594.01 381.6 593.18 L 381.6 591.06 C 381.6 590.23 382.28 589.56 383.1 589.56 Z M 389.51 570.77 L 392 573.24 L 390.93 580.43 C 390.93 580.45 390.93 580.48 390.95 580.49 L 392.07 582.03 C 392.09 582.06 392.12 582.07 392.15 582.07 C 392.18 582.07 392.21 582.06 392.22 582.03 L 393.35 580.49 C 393.36 580.48 393.37 580.45 393.37 580.43 L 392.29 573.24 L 394.78 570.77 L 396.34 572.08 L 399.57 573.56 C 400.04 573.76 400.54 574.07 400.76 574.56 C 400.76 574.56 404.26 582.92 402.36 582.92 L 381.93 582.92 C 380.03 582.92 383.54 574.56 383.54 574.56 C 383.78 574.06 384.25 573.76 384.73 573.56 L 387.96 572.08 Z M 389.97 562.5 C 388.86 562.4 387.54 562.99 387.72 564.52 C 388.06 567.35 389.73 570.18 392.15 570.18 C 394.45 570.18 396.55 566.77 396.57 564.52 C 396.61 560.76 393.99 564.97 390.98 564.64 C 391.99 563.4 391.09 562.6 389.97 562.5 Z M 392.15 557.49 C 396.31 557.49 398.01 559.63 397.98 563.21 C 397.92 568.36 394.61 571.43 392.15 571.43 C 389.27 571.43 386.38 568.36 386.33 563.21 C 386.29 559.63 388 557.49 392.15 557.49 Z M 370.76 555.29 L 370.76 585.12 L 413.53 585.12 L 413.53 555.29 Z M 369.63 551.89 L 414.66 551.89 C 415.92 551.89 416.94 552.9 416.94 554.15 L 416.94 586.26 C 416.94 587.51 415.92 588.52 414.66 588.52 L 369.63 588.52 C 368.37 588.52 367.36 587.51 367.36 586.26 L 367.36 554.15 C 367.36 552.9 368.37 551.89 369.63 551.89 Z" fill="#C00000" stroke="none"/>
+</g>
+</g>
+<g id="shape-25" data-name="Group 18">
+<g id="shape-26" data-name="矩形 25">
+<rect x="698.92" y="550.39" width="231.42" height="42.01" fill="none"/>
+<text x="708.52" y="577.86" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="26.67" font-weight="bold">汇报时间：</tspan><tspan fill="#262626" font-size="26.67" font-weight="bold">202X</tspan></text>
+</g>
+<g id="shape-27" data-name="24-hours-phone-service_45765">
+<path d="M 680.79 583.82 C 677.98 583.82 675.34 582.72 673.36 580.73 C 671.37 578.75 670.27 576.11 670.27 573.3 C 670.27 570.49 671.37 567.84 673.36 565.86 C 675.34 563.87 677.98 562.77 680.79 562.77 C 683.61 562.77 686.25 563.87 688.23 565.86 C 690.22 567.84 691.32 570.49 691.32 573.3 C 691.32 576.11 690.22 578.75 688.23 580.73 C 686.25 582.72 683.61 583.82 680.79 583.82 Z M 680.79 564.48 C 675.93 564.48 671.98 568.44 671.98 573.3 C 671.98 578.16 675.93 582.11 680.79 582.11 C 685.66 582.11 689.61 578.16 689.61 573.3 C 689.61 568.44 685.66 564.48 680.79 564.48 Z M 679.99 565.8 L 681.6 565.8 L 681.6 573.3 L 679.99 573.3 L 679.99 565.8 Z M 679.99 572.49 L 685.61 572.49 L 685.61 574.1 L 679.99 574.1 L 679.99 572.49 Z M 695.3 553.22 L 690.36 553.22 C 690.32 551.22 688.72 549.61 686.73 549.57 C 686.54 547.72 684.96 546.27 683.05 546.27 L 678.53 546.27 C 676.63 546.27 675.05 547.72 674.86 549.57 C 672.87 549.61 671.27 551.22 671.23 553.22 L 666.29 553.22 C 664.29 553.22 662.67 554.84 662.67 556.84 L 662.67 586.3 C 662.67 588.3 664.29 589.92 666.29 589.92 L 695.3 589.92 C 697.3 589.92 698.92 588.3 698.92 586.3 L 698.92 556.84 C 698.92 554.84 697.3 553.22 695.3 553.22 Z M 673.79 555.77 L 673.79 553.27 C 673.79 553.25 673.79 553.23 673.79 553.22 C 673.82 552.61 674.32 552.13 674.93 552.13 L 676.12 552.13 C 676.82 552.13 677.4 551.56 677.4 550.85 L 677.4 549.96 C 677.4 549.33 677.91 548.82 678.53 548.82 L 683.05 548.82 C 683.68 548.82 684.19 549.33 684.19 549.96 L 684.19 550.85 C 684.19 551.56 684.76 552.13 685.47 552.13 L 686.66 552.13 C 687.27 552.13 687.77 552.61 687.8 553.22 C 687.8 553.23 687.8 553.25 687.8 553.27 L 687.8 556.21 C 687.8 556.84 687.29 557.35 686.66 557.35 L 674.93 557.35 C 674.3 557.35 673.79 556.84 673.79 556.21 L 673.79 555.77 Z M 696.36 586.3 C 696.36 586.89 695.89 587.37 695.3 587.37 L 666.29 587.37 C 665.7 587.37 665.23 586.89 665.23 586.3 L 665.23 556.84 C 665.23 556.25 665.7 555.77 666.29 555.77 L 671.23 555.77 L 671.23 556.21 C 671.23 558.25 672.89 559.91 674.93 559.91 L 686.66 559.91 C 688.7 559.91 690.36 558.25 690.36 556.21 L 690.36 555.77 L 695.3 555.77 C 695.89 555.77 696.36 556.25 696.36 556.84 L 696.36 586.3 Z" fill="#C00000" stroke="none"/>
+</g>
+</g>
+<g id="shape-28" data-name="文本框 27">
+<rect x="243.98" y="126.6" width="804.68" height="164.79" fill="none"/>
+<text x="646.32" y="240.2" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪菱心体简&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="128" fill="url(#txtgrad2)"><tspan fill="url(#txtgrad2)" font-size="128">民法典进校园</tspan></text>
+</g>
+<g id="shape-33" data-name="图片 32">
+<image href="../assets/image9.png" x="962.56" y="220.31" width="252.62" height="208.27" preserveAspectRatio="none"/>
+</g>
+<g id="shape-35" data-name="图片 34">
+<image href="../assets/image10.png" x="91.89" y="281.57" width="114.34" height="116.9" preserveAspectRatio="none"/>
+</g>
+<g id="shape-36" data-name="图片 35">
+<image href="../assets/image11.png" x="1121.47" y="157.06" width="64.05" height="65.49" preserveAspectRatio="none"/>
+</g></svg>

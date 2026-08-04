@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-6" data-name="图片 5">
+<image href="../assets/image27.jpeg" x="0" y="0" width="1083.63" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-13" data-name="矩形 12">
+<rect x="868.67" y="522.5" width="340.67" height="121.5" fill="#FD8525" stroke="none" stroke-width="1"/>
+<text x="1039" y="598.18" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂95号-手刻宋&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold" letter-spacing="8"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold" letter-spacing="8">PHOTO</tspan></text>
+</g>
+<g id="shape-3" data-name="矩形 2">
+<rect x="58.32" y="116.25" width="374.8" height="138.94" fill="none"/>
+<text x="67.92" y="166.39" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;汉仪大宋简&quot;, sans-serif" font-size="53.33" fill="#FD8525"><tspan fill="#FD8525" font-size="53.33">Work Experience</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 20" transform="translate(978.88 303.82) scale(-1 1) translate(-978.88 -303.82)">
+<rect x="874.13" y="279.28" width="209.5" height="49.07" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+<text x="874.13" y="306.48" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">单击键入标题 </tspan></text>
+</g>
+<g id="shape-8" data-name="文本框 22" transform="translate(1049.21 422.11) scale(-1 1) translate(-1049.21 -422.11)">
+<rect x="874.13" y="356.9" width="350.16" height="130.41" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx2)"/>
+<text x="874.13" y="372.76" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">本模板精心设计，模板所有素材均可自由</tspan><tspan x="874.13" dy="28" fill="#262626" font-size="18.67">编辑替换移动。单击此处添加本章节的简</tspan><tspan x="874.13" dy="28" fill="#262626" font-size="18.67">要内容。本模板精心设计，模板所有素材</tspan><tspan x="874.13" dy="28" fill="#262626" font-size="18.67">均可自由编辑替换移动</tspan></text>
+</g>
+<g id="shape-9" data-name="直接连接符 8">
+<line x1="874.13" y1="344.06" x2="1195.39" y2="344.06" stroke-width="1.667" stroke="#BFBFBF" fill="#0B46A7"/>
+</g></svg>

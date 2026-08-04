@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="12.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-3" data-name="组合 2">
+<g id="shape-19" data-name="Oval 23">
+<rect x="67.61" y="389.55" width="76.21" height="76.21" rx="12.7" ry="12.7" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+<text x="105.72" y="436.06" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">案例一</tspan></text>
+</g>
+<g id="shape-25" data-name="矩形 24">
+<rect x="161.07" y="376.65" width="535.41" height="123.29" fill="none"/>
+<text x="170.67" y="404.12" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">小明和妻子因为琐事一气之下到婚姻登记机</tspan><tspan x="170.67" dy="32" fill="#404040" font-size="26.67">关协议离婚，民政部门告知二人并不能当天</tspan><tspan x="170.67" dy="32" fill="#404040" font-size="26.67">拿到离婚证。</tspan></text>
+</g>
+</g>
+<g id="shape-6" data-name="组合 5">
+<g id="shape-7" data-name="Oval 7">
+<ellipse cx="105.72" cy="540.09" rx="38.11" ry="38.11" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-8" data-name="Freeform: Shape 9">
+<path d="M 114.06 532.39 C 110.61 531.76 107.17 531.45 103.73 531.45 C 100.28 531.45 96.84 531.76 93.39 532.39 C 93.08 532.39 92.77 532.7 92.46 533.33 C 90.89 538.69 90.89 544.36 92.46 549.71 C 92.77 550.34 93.08 550.65 93.39 550.65 C 96.84 551.28 100.28 551.6 103.73 551.6 C 107.17 551.6 110.61 551.28 114.06 550.65 C 114.37 550.65 114.68 550.34 115 549.71 C 116.87 544.36 116.87 538.69 115 533.33 C 114.68 532.7 114.37 532.39 114.06 532.39 Z M 113.74 549.39 C 107.17 550.65 100.59 550.65 93.71 549.39 C 92.14 544.04 92.14 539 93.71 533.65 C 100.59 532.08 107.17 532.08 113.74 533.65 C 115.62 539 115.62 544.04 113.74 549.39 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-9" data-name="Freeform: Shape 10">
+<path d="M 125.07 529.55 C 124.75 528.29 123.81 527.66 122.87 527.66 C 117.23 526.72 111.89 526.41 106.24 526.41 C 100.91 526.41 95.26 526.72 89.93 527.66 C 88.68 527.66 88.05 528.29 87.73 529.55 C 85.85 537.4 85.85 545.57 87.73 553.74 C 88.05 554.69 88.68 555.63 89.93 555.63 C 92.44 555.94 94.95 556.26 97.77 556.57 C 97.46 556.57 97.46 556.57 97.46 556.57 C 97.46 557.51 101.54 557.83 106.24 557.83 C 111.26 557.83 115.03 557.51 115.03 556.57 C 115.03 556.57 115.03 556.57 114.72 556.57 C 117.54 556.26 120.05 555.94 122.87 555.63 C 123.81 555.63 124.75 554.69 125.07 553.74 C 126.95 545.57 126.95 537.4 125.07 529.55 Z M 122.56 553.12 C 111.58 554.37 100.91 554.37 90.24 553.12 C 88.36 545.57 88.36 537.72 90.24 530.18 C 100.91 528.61 111.58 528.61 122.56 530.18 C 124.44 537.72 124.44 545.57 122.56 553.12 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-10" data-name="Freeform: Shape 11">
+<path d="M 119.39 536.48 C 120.32 536.48 121.25 535.84 121.25 534.56 C 121.25 533.6 120.32 532.64 119.39 532.64 C 118.47 532.64 117.54 533.6 117.54 534.56 C 117.54 535.84 118.47 536.48 119.39 536.48 Z M 119.39 533.92 C 119.7 533.92 120.01 534.24 120.01 534.56 C 120.01 535.2 119.7 535.2 119.39 535.2 C 119.08 535.2 118.78 535.2 118.78 534.56 C 118.78 534.24 119.08 533.92 119.39 533.92 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-11" data-name="Freeform: Shape 12">
+<path d="M 120.62 549.08 C 116.84 549.08 116.84 549.08 116.84 549.08 C 116.53 549.08 116.21 549.38 116.21 549.67 C 116.21 550.27 116.53 550.27 116.84 550.27 C 120.62 550.27 120.62 550.27 120.62 550.27 C 120.94 550.27 121.25 550.27 121.25 549.67 C 121.25 549.38 120.94 549.08 120.62 549.08 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-12" data-name="Freeform: Shape 13">
+<path d="M 121.95 545.23 C 118.17 545.23 118.17 545.23 118.17 545.23 C 117.85 545.23 117.54 545.56 117.54 545.9 C 117.54 546.56 117.85 546.56 118.17 546.56 C 121.95 546.56 121.95 546.56 121.95 546.56 C 122.26 546.56 122.58 546.56 122.58 545.9 C 122.58 545.56 122.26 545.23 121.95 545.23 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-13" data-name="Freeform: Shape 14">
+<path d="M 121.95 541.52 C 118.17 541.52 118.17 541.52 118.17 541.52 C 117.85 541.52 117.54 541.82 117.54 542.12 C 117.54 542.71 117.85 542.71 118.17 542.71 C 121.95 542.71 121.95 542.71 121.95 542.71 C 122.26 542.71 122.58 542.71 122.58 542.12 C 122.58 541.82 122.26 541.52 121.95 541.52 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-14" data-name="Freeform: Shape 15">
+<path d="M 103.12 536.48 C 97.45 536.8 97.45 536.8 97.45 536.8 C 97.14 536.8 96.82 537.11 96.51 537.43 C 96.19 540.89 96.19 540.89 96.19 540.89 C 96.19 541.52 96.51 541.52 96.82 541.52 C 97.14 541.52 97.45 541.52 97.45 540.89 C 97.77 538.69 97.77 538.69 97.77 538.69 C 97.77 538.37 98.08 538.06 98.4 538.06 C 103.12 537.74 103.12 537.74 103.12 537.74 C 103.43 537.74 103.75 537.43 103.75 537.11 C 103.75 536.48 103.43 536.48 103.12 536.48 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-29" data-name="组合 28">
+<g id="shape-31" data-name="矩形 30">
+<rect x="143.83" y="555.63" width="1068.56" height="123.29" fill="none"/>
+<text x="153.43" y="583.1" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">《</tspan><tspan fill="#404040" font-size="26.67">民法典</tspan><tspan fill="#404040" font-size="26.67">》</tspan><tspan fill="#404040" font-size="26.67">婚姻家庭编：自婚姻登记机关收到离婚登记申请之日起三十日内</tspan><tspan fill="#404040" font-size="26.67">,</tspan><tspan fill="#404040" font-size="26.67">任何一方不</tspan><tspan x="153.43" dy="32" fill="#404040" font-size="26.67">愿意离婚的</tspan><tspan fill="#404040" font-size="26.67">,</tspan><tspan fill="#404040" font-size="26.67">可以向婚姻登记机关撤回离婚登记申请。前款规定期限届满后三十日内</tspan><tspan fill="#404040" font-size="26.67">,</tspan><tspan fill="#404040" font-size="26.67">双方</tspan><tspan x="153.43" dy="32" fill="#404040" font-size="26.67">应当亲自到婚姻登记机关申请发给离婚证</tspan><tspan fill="#404040" font-size="26.67">;</tspan><tspan fill="#404040" font-size="26.67">未申请的</tspan><tspan fill="#404040" font-size="26.67">,</tspan><tspan fill="#404040" font-size="26.67">视为撤回离婚登记申请。</tspan></text>
+</g>
+<g id="shape-32" data-name="矩形 31">
+<rect x="152.27" y="499.94" width="372.25" height="52.94" fill="none"/>
+<text x="161.87" y="531.94" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">《</tspan><tspan fill="#404040" font-size="32" font-weight="bold">民法典</tspan><tspan fill="#404040" font-size="32" font-weight="bold">》</tspan><tspan fill="#404040" font-size="32" font-weight="bold">婚姻家庭编：</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-5" data-name="Rectangle: Rounded Corners 5">
+<polygon points="67.61,147.72 643.68,147.72 679.85,183.89 643.68,220.06 67.61,220.06" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-33" data-name="矩形 32">
+<polygon points="67.61,147.36 646.17,147.36 679.85,181.04 646.17,214.72 67.61,214.72" fill="none"/>
+<text x="373.73" y="188.43" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">成家置业</tspan></text>
+</g>
+</g>
+<g id="shape-35" data-name="图片 34">
+<image href="../assets/image32.png" x="688.75" y="82.02" width="447.42" height="503.93" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="矩形 3">
+<rect x="67.61" y="239.8" width="612.23" height="123.29" fill="none"/>
+<text x="77.21" y="267.26" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#C00000" font-weight="bold"><tspan fill="#C00000" font-size="26.67" font-weight="bold">年岁渐长，此时的我们更加成熟，拥有自己的事业</tspan><tspan x="77.21" dy="32" fill="#C00000" font-size="26.67" font-weight="bold">，有了更多财产，结婚、生子、买房都是人生大事</tspan><tspan x="77.21" dy="32" fill="#C00000" font-size="26.67" font-weight="bold">，而</tspan><tspan fill="#C00000" font-size="26.67" font-weight="bold">《</tspan><tspan fill="#C00000" font-size="26.67" font-weight="bold">民法典</tspan><tspan fill="#C00000" font-size="26.67" font-weight="bold">》</tspan><tspan fill="#C00000" font-size="26.67" font-weight="bold">是如何保障我们安居乐业呢？</tspan></text>
+</g></svg>

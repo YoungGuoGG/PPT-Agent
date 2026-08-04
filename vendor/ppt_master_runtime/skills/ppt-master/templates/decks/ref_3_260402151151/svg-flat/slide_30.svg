@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="图片 2" transform="rotate(90 684 360) translate(684 360) scale(1 -1) translate(-684 -360)">
+<image href="../assets/image11.png" x="324" y="-236" width="720" height="1192" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="图片 3" transform="rotate(90 83.55 360) translate(83.55 360) scale(1 -1) translate(-83.55 -360)">
+<image href="../assets/image12.png" x="-276.45" y="276.45" width="720" height="167.1" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-6" data-name="图片 5">
+<image href="../assets/image13.png" x="665.5" y="80.59" width="526.5" height="639.41" preserveAspectRatio="none"/>
+</g>
+<g id="shape-7" data-name="图片 6">
+<image href="../assets/image9.png" x="0" y="514" width="688" height="206" preserveAspectRatio="none"/>
+</g>
+<g id="shape-8" data-name="图片 7">
+<svg x="546" y="403.36" width="734" height="316.64" viewBox="0 -0.667 1 1.667" preserveAspectRatio="none"><image href="../assets/image10.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-9" data-name="图片 8">
+<image href="../assets/image6.png" x="0" y="472" width="1280" height="248" preserveAspectRatio="none"/>
+</g>
+<g id="shape-10" data-name="图片 9">
+<image href="../assets/image7.png" x="1017.22" y="84.49" width="194.78" height="192.31" preserveAspectRatio="none"/>
+</g>
+<g id="shape-11" data-name="图片 10">
+<image href="../assets/image8.png" x="38.88" y="462.62" width="159.5" height="156.95" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="105.27" y="92.99" width="531" height="345.74" fill="none"/>
+<text x="114.87" y="333.53" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪行楷简&quot;, sans-serif" font-size="277.33" fill="#000000" letter-spacing="-24"><tspan fill="#000000" font-size="277.33" letter-spacing="-24">南京</tspan></text>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="105.27" y="92.99" width="531" height="345.74" fill="none"/>
+<text x="114.87" y="333.53" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪行楷简&quot;, sans-serif" font-size="277.33" fill="#355E73" letter-spacing="-24"><tspan fill="#355E73" font-size="277.33" letter-spacing="-24">南京</tspan></text>
+</g>
+<g id="shape-14" data-name="文本框 13">
+<rect x="190.83" y="224.04" width="324.31" height="87.24" fill="none"/>
+<text x="200.43" y="283.24" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="64" fill="#B60100" font-weight="bold" letter-spacing="-24"><tspan fill="#B60100" font-size="64" font-weight="bold" letter-spacing="-24">NANJING</tspan></text>
+</g>
+<g id="shape-15" data-name="矩形: 圆角 14">
+<rect x="138" y="393.81" width="465.52" height="35.05" rx="17.52" ry="17.52" fill="#FFFFFF" fill-opacity="0.62" stroke="none" stroke-width="1"/>
+<text x="370.77" y="419.01" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="24" fill="#355E73" font-weight="bold"><tspan fill="#355E73" font-size="24" font-weight="bold">南京</tspan><tspan fill="#355E73" font-size="24">地处中国东部、长江下游、濒江近海</tspan></text>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="40" y="44.17" width="182.2" height="74.32" fill="none"/>
+<text x="49.6" y="94.3" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="53.33" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="53.33" font-weight="bold">LOGO</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="199.75" y="441.4" width="342.03" height="62.78" fill="none"/>
+<text x="370.77" y="457.54" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="13.33" fill="#262626"><tspan fill="#262626" font-size="13.33">南京地处中国东部、长江下游、濒江近海，是中国人民</tspan><tspan x="370.77" dy="17.33" fill="#262626" font-size="13.33">解放军东部战区司令部驻地</tspan></text>
+</g></svg>

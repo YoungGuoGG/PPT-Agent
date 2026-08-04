@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0.03" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0.03" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad3" x1="0" y1="0" x2="1" y2="1"><stop offset="0.03" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><radialGradient id="ggrad4" cx="0.5" cy="0.5" r="0.5"><stop offset="0.03" stop-color="#14BDFC"/><stop offset="1" stop-color="#37CEFF" stop-opacity="0.01"/></radialGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-22" data-name="图片 21">
+<image href="assets/image4.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-59" data-name="图形">
+<rect x="27.83" y="275.16" width="708.2" height="116.2" fill="none"/>
+<text x="37.43" y="300.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">工作内容概述</tspan></text>
+</g>
+<g id="shape-60" data-name="图形">
+<rect x="109.5" y="391.36" width="557.33" height="64.47" fill="none" stroke-width="1" stroke="none"/>
+<text x="119.1" y="409.76" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="16">.</tspan><tspan fill="#FFFFFF" font-size="16">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="16">.</tspan><tspan fill="#FFFFFF" font-size="16">Add your </tspan><tspan x="119.1" dy="24" fill="#FFFFFF" font-size="16">content</tspan><tspan fill="#FFFFFF" font-size="16"> </tspan><tspan fill="#FFFFFF" font-size="16">text </tspan><tspan fill="#FFFFFF" font-size="16">.</tspan><tspan fill="#FFFFFF" font-size="16">Add your text content</tspan><tspan fill="#FFFFFF" font-size="16">.</tspan><tspan fill="#FFFFFF" font-size="16">Add your text content</tspan><tspan fill="#FFFFFF" font-size="16">.</tspan></text>
+</g>
+<g id="shape-29" data-name="图形">
+<rect x="104.37" y="113.43" width="295.05" height="277.89" fill="none"/>
+<text x="113.97" y="138.63" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">03</tspan></text>
+</g>
+<g id="shape-42" data-name="图形">
+<g id="shape-43" data-name="图形">
+<ellipse cx="516.81" cy="516.75" rx="16.18" ry="16.19" fill="url(#ggrad1)" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-44" data-name="图形">
+<path d="M 523.58 514.74 L 523.31 514.74 C 523.18 514.32 523 513.92 522.79 513.54 L 523 513.33 C 523.75 512.59 523.75 511.37 523 510.63 L 522.95 510.57 C 522.19 509.82 520.98 509.82 520.23 510.57 L 519.99 510.8 C 519.61 510.6 519.2 510.43 518.78 510.31 L 518.78 509.97 C 518.78 508.92 517.91 508.06 516.85 508.06 L 516.77 508.06 C 515.71 508.06 514.85 508.92 514.85 509.97 L 514.85 510.33 C 514.44 510.46 514.05 510.62 513.68 510.82 L 513.43 510.57 C 512.68 509.82 511.46 509.82 510.71 510.57 L 510.65 510.63 C 509.9 511.37 509.9 512.59 510.65 513.33 L 510.9 513.57 C 510.69 513.94 510.52 514.34 510.4 514.74 L 510.05 514.74 C 508.98 514.74 508.12 515.6 508.12 516.66 L 508.12 516.74 C 508.12 517.8 508.98 518.65 510.05 518.65 L 510.35 518.65 C 510.48 519.09 510.65 519.5 510.86 519.89 L 510.62 520.12 C 509.87 520.87 509.87 522.08 510.62 522.83 L 510.68 522.89 C 511.43 523.64 512.65 523.64 513.4 522.89 L 513.61 522.68 C 514 522.89 514.41 523.07 514.85 523.21 L 514.85 523.49 C 514.85 524.55 515.71 525.4 516.77 525.4 L 516.85 525.4 C 517.91 525.4 518.78 524.55 518.78 523.49 L 518.78 523.23 C 519.23 523.1 519.66 522.92 520.06 522.7 L 520.26 522.89 C 521.01 523.64 522.23 523.64 522.98 522.89 L 523.03 522.83 C 523.79 522.08 523.79 520.87 523.03 520.12 L 522.83 519.92 C 523.05 519.52 523.22 519.1 523.35 518.65 L 523.57 518.65 C 524.64 518.65 525.5 517.8 525.5 516.74 L 525.5 516.66 C 525.5 515.6 524.64 514.74 523.58 514.74 Z M 516.86 519.76 C 515.19 519.76 513.85 518.42 513.85 516.77 C 513.85 515.11 515.19 513.77 516.86 513.77 C 518.52 513.77 519.87 515.11 519.87 516.77 C 519.87 518.42 518.52 519.76 516.86 519.76 Z M 516.86 519.76 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-18" data-name="图形">
+<ellipse cx="568.78" cy="516.75" rx="16.18" ry="16.19" fill="url(#ggrad2)" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-19" data-name="图形">
+<path d="M 569.2 508.92 L 560.17 508.92 C 560.13 508.92 560.1 508.96 560.1 509.03 L 560.1 524.46 C 560.1 524.5 560.13 524.54 560.17 524.54 L 563.27 524.54 L 563.27 521.56 L 566.1 521.56 L 566.1 524.54 L 569.2 524.54 C 569.24 524.54 569.27 524.5 569.27 524.46 L 569.27 509.03 C 569.27 508.96 569.24 508.92 569.2 508.92 Z M 564.02 519.3 L 561.83 519.3 L 561.83 517.15 L 564.02 517.15 L 564.02 519.3 Z M 564.02 516.09 L 561.83 516.09 L 561.83 513.94 L 564.02 513.94 L 564.02 516.09 Z M 564.02 512.88 L 561.83 512.88 L 561.83 510.73 L 564.02 510.73 L 564.02 512.88 Z M 567.5 519.3 L 565.31 519.3 L 565.31 517.15 L 567.5 517.15 L 567.5 519.3 Z M 567.5 516.09 L 565.31 516.09 L 565.31 513.94 L 567.5 513.94 L 567.5 516.09 Z M 567.5 512.88 L 565.31 512.88 L 565.31 510.73 L 567.5 510.73 L 567.5 512.88 Z M 577.02 513.94 L 571.09 513.94 C 570.82 513.94 570.63 514.13 570.63 514.39 L 570.63 524.46 C 570.63 524.5 570.67 524.5 570.67 524.5 L 573.05 524.5 L 573.05 522.54 L 575.05 522.54 L 575.05 524.5 L 577.4 524.5 C 577.43 524.5 577.43 524.46 577.43 524.46 L 577.43 514.39 C 577.47 514.17 577.24 513.94 577.02 513.94 Z M 576.53 520.88 L 571.5 520.88 L 571.5 519.82 L 576.53 519.82 L 576.53 520.88 Z M 576.53 518.77 L 571.5 518.77 L 571.5 517.71 L 576.53 517.71 L 576.53 518.77 Z M 576.53 516.62 L 571.5 516.62 L 571.5 515.56 L 576.53 515.56 L 576.53 516.62 Z M 576.53 516.62 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-47" data-name="图形">
+<ellipse cx="620.76" cy="516.75" rx="16.18" ry="16.19" fill="url(#ggrad3)" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-48" data-name="图形">
+<path d="M 628.8 512.57 L 627.51 512.57 L 627.51 513.85 C 627.51 514.21 627.23 514.5 626.87 514.5 C 626.52 514.5 626.23 514.21 626.23 513.85 L 626.23 512.57 L 624.94 512.57 C 624.58 512.57 624.3 512.28 624.3 511.93 C 624.3 511.57 624.58 511.28 624.94 511.28 L 626.23 511.28 L 626.23 510 C 626.23 509.64 626.52 509.35 626.87 509.35 C 627.23 509.35 627.51 509.64 627.51 510 L 627.51 511.28 L 628.8 511.28 C 629.16 511.28 629.44 511.57 629.44 511.93 C 629.44 512.28 629.16 512.57 628.8 512.57 Z M 624.94 514.82 C 624.94 515.35 624.51 515.78 623.97 515.78 C 623.44 515.78 623.01 515.35 623.01 514.82 C 623.01 514.29 623.44 513.85 623.97 513.85 C 624.51 513.85 624.94 514.29 624.94 514.82 Z M 622.37 512.57 L 613.35 512.57 L 613.35 521.53 C 613.36 521.53 614.76 515.22 617.18 515.22 C 618.77 515.22 620.38 520.1 621.39 521.57 C 621.39 521.57 622.18 518.38 623.54 518.36 C 624.89 518.34 625.58 521.53 625.58 521.53 L 626.23 521.53 L 626.23 517.71 C 626.23 517.36 626.52 517.07 626.87 517.07 C 627.23 517.07 627.51 517.36 627.51 517.71 L 627.51 522.86 C 627.51 523.57 626.94 524.15 626.23 524.15 L 613.35 524.15 C 612.64 524.15 612.07 523.57 612.07 522.86 L 612.07 512.57 C 612.07 511.86 612.64 511.28 613.35 511.28 L 622.37 511.28 C 622.72 511.28 623.01 511.57 623.01 511.93 C 623.01 512.28 622.72 512.57 622.37 512.57 Z M 622.37 512.57 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+<g id="shape-3" data-name="组合 2">
+<g id="shape-82" data-name="图形">
+<line x1="135.83" y1="516.7" x2="448.76" y2="516.7" stroke-width="1.667" stroke="#0E8EE7" stroke-opacity="0" fill="#0E8EE7"/>
+</g>
+<g id="shape-83" data-name="图形" transform="rotate(270 130.4 516.63)">
+<ellipse cx="130.4" cy="516.63" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-76" data-name="图形">
+<rect x="73.8" y="88.03" width="92.93" height="12.87" fill="url(#ggrad4)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-74" data-name="图形">
+<rect x="68.46" y="54.63" width="123.93" height="48.33" fill="none"/>
+<text x="78.06" y="86.63" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">LOGO </tspan></text>
+</g>
+</g>
+<g id="shape-5" data-name="图形">
+<rect x="228.83" y="644.1" width="821" height="25.67" fill="none"/>
+<text x="238.43" y="659.1" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Normal&quot;, sans-serif" font-size="12" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="12">科技只能</tspan><tspan fill="#FFFFFF" font-size="12">|</tspan><tspan fill="#FFFFFF" font-size="12">工作汇报</tspan><tspan fill="#FFFFFF" font-size="12">|</tspan><tspan fill="#FFFFFF" font-size="12">企业汇报</tspan><tspan fill="#FFFFFF" font-size="12">|</tspan><tspan fill="#FFFFFF" font-size="12">互联网</tspan><tspan fill="#FFFFFF" font-size="12">|</tspan><tspan fill="#FFFFFF" font-size="12">工作报告</tspan></text>
+</g></svg>

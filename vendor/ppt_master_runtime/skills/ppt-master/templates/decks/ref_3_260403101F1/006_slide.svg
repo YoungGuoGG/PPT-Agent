@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g transform="scale(0.5 0.5)"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="33.33" dy="57.74" stdDeviation="66.67" flood-color="#000000" flood-opacity="0.25" /></filter></defs><rect x="0" y="0" width="2560" height="1440" fill="#FFFFFF" />
+<g id="shape-2" data-name="图片占位符 1" data-ph-type="pic">
+<image href="assets/image7.jpeg" x="66.67" y="66.67" width="2426.67" height="1306.67" preserveAspectRatio="none" />
+<rect x="66.67" y="66.67" width="2426.67" height="1306.67" fill="none" />
+</g>
+<g id="shape-2293" data-name="Shape">
+<path d="M 66.67 66.67 L 66.67 1373.33 L 1485.87 1373.33 L 1485.87 1224.94 L 940.27 1224.94 L 940.27 1061.12 L 1229.89 764.52 C 1288.24 705.18 1329.89 657.87 1354.86 622.54 C 1379.83 587.22 1392.31 553.1 1392.31 520.13 C 1392.31 487.16 1381.47 459.63 1359.79 437.49 C 1338.11 415.41 1310.38 404.28 1276.48 404.28 C 1214.32 404.28 1155.45 448.56 1099.93 537.07 L 923.32 432.53 C 969.44 360.97 1020.1 306.83 1075.22 270.11 C 1130.28 233.39 1200.46 215.06 1285.67 215.06 C 1360.38 215.06 1427.07 235.87 1485.87 277.49 L 1485.87 66.67 L 66.67 66.67 Z M 1485.87 775.35 C 1467.74 796.28 1447.57 818.42 1424.77 842.14 L 1246.78 1027.19 L 1485.87 1027.19 L 1485.87 775.35 Z" fill="#FFFFFF" fill-opacity="0.8" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)" />
+</g>
+<g id="shape-2289" data-name="gathering all the ideas">
+<rect x="193.73" y="323.06" width="625.15" height="106.53" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="199.07" y="403.19" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="88" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="88" font-weight="bold">编号作品展示</tspan></text>
+</g>
+<g id="shape-22" data-name="Rectangle 7">
+<rect x="193.73" y="654.53" width="625.2" height="358.53" fill="none" />
+<text x="203.33" y="677.47" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#000000"><tspan fill="#000000" font-size="21.33">Lorem ipsum dolor sit amet, consectetuer adipiscing </tspan><tspan x="203.33" dy="32" fill="#000000" font-size="21.33">elit, sed diam nonummy nibh euismod tincidunt ut laoreet </tspan><tspan x="203.33" dy="32" fill="#000000" font-size="21.33">dolore magna aliquam erat volutpat. Ut wisi enim ad minim </tspan><tspan x="203.33" dy="32" fill="#000000" font-size="21.33">veniam, quis nostrud exerci tation ullamcorper suscipit </tspan><tspan x="203.33" dy="32" fill="#000000" font-size="21.33">lobortis nisl ut aliquip ex ea commodo consequat. </tspan><tspan fill="#000000" font-size="21.33"> </tspan><tspan fill="#000000" font-size="21.33">Ut wisi </tspan><tspan x="203.33" dy="32" fill="#000000" font-size="21.33">enim ad minim veniam, quis nostrud exerci tation.</tspan></text>
+</g>
+<g id="shape-952" data-name="Rectangle">
+<rect x="193.73" y="469.9" width="100" height="13.33" fill="#A6AAA9" stroke-width="1.333" stroke-linejoin="miter" />
+</g>
+<g id="shape-21" data-name="Subtitle 2">
+<rect x="193.73" y="531.53" width="596.27" height="52.47" fill="none" />
+<text x="203.33" y="581.67" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="53.33" fill="#000000"><tspan fill="#000000" font-size="53.33">值得描述的小标题</tspan></text>
+</g></g></svg>

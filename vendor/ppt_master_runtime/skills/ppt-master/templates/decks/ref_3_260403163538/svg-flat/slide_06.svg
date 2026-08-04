@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-23" data-name="图片 22">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-24" data-name="矩形 23">
+<rect x="0" y="-2.73" width="1286.93" height="725.47" fill="#0D0D0D" fill-opacity="0.8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-44" data-name="图片 43">
+<image href="../assets/image3.jpeg" x="61.67" y="57.13" width="1156.73" height="605.67" preserveAspectRatio="none"/>
+</g>
+<g id="shape-12" data-name="矩形 11">
+<rect x="61.67" y="57.67" width="578.7" height="604.52" fill="none" stroke-width="0" stroke="#080A12"/>
+</g>
+<g id="shape-26" data-name="文本框 25">
+<rect x="117.13" y="90.8" width="511.47" height="227.67" fill="none"/>
+<text x="619" y="112.6" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, Arial, sans-serif" font-size="20" fill="#101114"><tspan fill="#101114" font-size="20">I walked through many mountains, </tspan></text>
+<text x="619" y="142.6" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, Arial, sans-serif" font-size="20" fill="#101114"><tspan fill="#101114" font-size="20">walked through many waters,</tspan></text>
+<text x="619" y="172.6" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, Arial, sans-serif" font-size="20" fill="#101114"><tspan fill="#101114" font-size="20"> and knew many people. </tspan></text>
+<text x="619" y="202.6" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, Arial, sans-serif" font-size="20" fill="#101114"><tspan fill="#101114" font-size="20">The only thing that really makes me tempted is </tspan><tspan x="619" dy="30" fill="#101114" font-size="20">that you see me at the moment. </tspan></text>
+
+</g>
+<g id="shape-16" data-name="图片 15">
+<image href="../assets/image8.jpeg" x="640.93" y="55.93" width="578.47" height="606.87" preserveAspectRatio="none"/>
+</g>
+<g id="shape-51" data-name="矩形 50" transform="rotate(270 219.57 432.17)">
+<rect x="215.6" y="323.53" width="7.93" height="217.27" fill="#422600" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-28" data-name="文本框 27">
+<rect x="110.93" y="360" width="354.13" height="53.2" fill="none"/>
+<text x="120.53" y="398.8" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="40" fill="#422600"><tspan fill="#422600" font-size="40">-</tspan><tspan fill="#422600" font-size="40">点击添加标题</tspan><tspan fill="#422600" font-size="40">-</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="117.13" y="464.73" width="475.4" height="155" fill="none"/>
+<text x="126.73" y="486.53" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, Arial, sans-serif" font-size="20" fill="#101114"><tspan fill="#101114" font-size="20">I walked through many mountains, walked </tspan><tspan x="126.73" dy="30" fill="#101114" font-size="20">through many waters, and knew many people. </tspan><tspan x="126.73" dy="30" fill="#101114" font-size="20">The only thing that really makes me tempted </tspan><tspan x="126.73" dy="30" fill="#101114" font-size="20">is that you see me at the moment. </tspan></text>
+</g>
+<g id="shape-41" data-name="图片 40">
+<image href="../assets/image9.png" x="0" y="25.73" width="350.27" height="262.8" preserveAspectRatio="none"/>
+</g></svg>

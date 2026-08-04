@@ -1,0 +1,189 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#F7F6FA"/><stop offset="0.98" stop-color="#FFFFFF"/></linearGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.08" stop-color="#6B55A7"/><stop offset="0.97" stop-color="#4C3C76"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="0" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="0.1" result="blurred"/><feFlood flood-color="#000000" flood-opacity="1" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.08" stop-color="#6B55A7"/><stop offset="0.97" stop-color="#4C3C76"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="0" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="0.1" result="blurred"/><feFlood flood-color="#000000" flood-opacity="1" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><pattern id="gpatt4" patternUnits="userSpaceOnUse" width="8" height="8" data-pptx-pattern="ltUpDiag" data-pptx-fg="#F2F2F2" data-pptx-bg="#FFFFFF"><rect width="8" height="8" fill="#FFFFFF"/><path d="M -2 8 L 8 -2 M 0 10 L 10 0" stroke="#F2F2F2" stroke-width="1" fill="none"/></pattern><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="13.33" stdDeviation="10" flood-color="#404040" flood-opacity="0.2"/></filter><radialGradient id="ggrad5" cx="0.5" cy="0.5" r="0.5"><stop offset="0.54" stop-color="#E0DBED" stop-opacity="0"/><stop offset="1" stop-color="#E0DBED" stop-opacity="0.74"/></radialGradient><pattern id="gpatt6" patternUnits="userSpaceOnUse" width="8" height="8" data-pptx-pattern="ltUpDiag" data-pptx-fg="#F2F2F2" data-pptx-bg="#FFFFFF"><rect width="8" height="8" fill="#FFFFFF"/><path d="M -2 8 L 8 -2 M 0 10 L 10 0" stroke="#F2F2F2" stroke-width="1" fill="none"/></pattern><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="13.33" stdDeviation="10" flood-color="#404040" flood-opacity="0.2"/></filter><radialGradient id="ggrad7" cx="0.5" cy="0.5" r="0.5"><stop offset="0.54" stop-color="#E0DBED" stop-opacity="0"/><stop offset="1" stop-color="#E0DBED" stop-opacity="0.74"/></radialGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#E0DBED" fill-opacity="0.1"/>
+<g id="shape-2" data-name="公众号：康帅PPT1">
+<rect x="-1.17" y="0" width="1280" height="720" rx="0" ry="0" fill="url(#ggrad1)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-3" data-name="公众号：康帅PPT2">
+<image href="../assets/image24.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="公众号：康帅PPT3">
+<image href="../assets/image10.png" x="0" y="295.49" width="1280" height="424.94" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="公众号：康帅PPT4" transform="translate(147.83 60.16) scale(-1 1) translate(-147.83 -60.16)">
+<path d="M 256.6 31.33 L 53.77 31.33 L 53.77 60.06 C 53.77 76.04 42.75 88.99 29.17 88.99 L 266.5 88.99 L 266.5 42.97 C 266.5 36.54 262.07 31.33 256.6 31.33 Z" fill="#E2C68C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="公众号：康帅PPT5">
+<rect x="305.6" y="40.03" width="196.33" height="42.01" fill="none"/>
+<text x="403.77" y="67.49" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#BFBFBF"><tspan fill="#BFBFBF" font-size="26.67">整体教学设计</tspan></text>
+</g>
+<g id="shape-7" data-name="公众号：康帅PPT6">
+<rect x="576.9" y="40.03" width="286.07" height="42.01" fill="none"/>
+<text x="719.94" y="67.49" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#65509E"><tspan fill="#65509E" font-size="26.67">课堂教学实施与成效</tspan></text>
+</g>
+<g id="shape-8" data-name="公众号：康帅PPT7">
+<rect x="937.94" y="40.03" width="219.71" height="42.01" fill="none"/>
+<text x="1047.79" y="67.49" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#BFBFBF"><tspan fill="#BFBFBF" font-size="26.67">教学反思与</tspan><tspan fill="#BFBFBF" font-size="26.67">整</tspan><tspan fill="#BFBFBF" font-size="26.67">改</tspan></text>
+</g>
+<g id="shape-9" data-name="公众号：康帅PPT8" transform="translate(159.92 60.16) scale(-1 1) translate(-159.92 -60.16)">
+<path d="M 274.26 31.33 L 61.03 31.33 L 61.03 60.06 C 61.03 76.04 49.45 88.99 35.17 88.99 L 284.67 88.99 L 284.67 42.97 C 284.67 36.54 280.01 31.33 274.26 31.33 Z" fill="#65509E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="公众号：康帅PPT9">
+<rect x="0" y="88.49" width="1280" height="15" fill="#65509E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="公众号：康帅PPT10">
+<rect x="22.34" y="43.15" width="235.1" height="42.01" fill="none"/>
+<text x="139.89" y="70.62" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Times New Roman&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">（一）师资安排</tspan></text>
+</g>
+<g id="shape-12" data-name="公众号：康帅PPT11">
+<image href="../assets/image15.png" x="1161.98" y="20.42" width="101.13" height="67.21" preserveAspectRatio="none"/>
+</g>
+<g id="shape-13" data-name="公众号：康帅PPT12">
+<g id="shape-14" data-name="公众号：康帅PPT12-1" transform="translate(956.6 684.79) scale(-1 1) translate(-956.6 -684.79)">
+<path d="M 635.71 647.17 L 637.03 647.76 C 716.05 678.37 945.16 704.65 1260.74 721.55 L 1277.49 722.4 L 635.71 722.4 L 635.71 647.17 Z" fill="#65509E" fill-opacity="0.04" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="公众号：康帅PPT12-2" transform="translate(1051.04 696.18) scale(-1 1) translate(-1051.04 -696.18)">
+<path d="M 822.08 669.35 L 823.03 669.76 C 879.41 691.61 1042.88 710.35 1268.05 722.41 L 1280 723.02 L 822.08 723.02 L 822.08 669.35 Z" fill="#65509E" fill-opacity="0.1" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="公众号：康帅PPT12-3">
+<path d="M 1280 688.83 L 1280 722.25 L 996.96 722.25 L 1004.33 721.88 C 1143.14 714.44 1243.91 702.89 1278.67 689.42 L 1280 688.83 Z" fill="url(#ggrad2)" stroke="none" filter="url(#fx1)"/>
+</g>
+<g id="shape-17" data-name="公众号：康帅PPT12-4">
+<path d="M 0.99 647.17 L 2.31 647.76 C 81.33 678.37 310.44 704.65 626.02 721.55 L 642.77 722.4 L 0.99 722.4 L 0.99 647.17 Z" fill="#65509E" fill-opacity="0.04" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="公众号：康帅PPT12-5">
+<path d="M -1.52 669.35 L -0.58 669.76 C 55.8 691.61 219.27 710.35 444.44 722.41 L 456.39 723.02 L -1.52 723.02 L -1.52 669.35 Z" fill="#65509E" fill-opacity="0.1" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="公众号：康帅PPT12-6" transform="translate(141.52 705.54) scale(-1 1) translate(-141.52 -705.54)">
+<path d="M 283.04 688.83 L 283.04 722.25 L 0 722.25 L 7.37 721.88 C 146.18 714.44 246.95 702.89 281.7 689.42 L 283.04 688.83 Z" fill="url(#ggrad3)" stroke="none" filter="url(#fx2)"/>
+</g>
+</g>
+<g id="shape-20" data-name="公众号：康帅PPT13">
+<g id="shape-21" data-name="公众号：康帅PPT13-1">
+<rect x="136.16" y="143.82" width="1005.33" height="50.6" fill="none"/>
+<text x="638.83" y="176.99" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32.47" fill="#404040"><tspan fill="#404040" font-size="32.47">本课程教学团队由两位负责教学汽车电子方向的专业青年教师组成</tspan></text>
+</g>
+<g id="shape-22" data-name="公众号：康帅PPT13-2" transform="translate(142.34 169.12) scale(-1 1) translate(-142.34 -169.12)">
+<path d="M 79.71 170 L 151 170 L 154.67 159.49 L 159.3 178.76 L 162.97 168.5 L 204.96 168.5" fill="none" stroke-width="1.16" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-23" data-name="公众号：康帅PPT13-3">
+<path d="M 1077.4 170 L 1155.7 170 L 1159.72 159.49 L 1164.82 178.76 L 1168.84 168.5 L 1214.96 168.5" fill="none" stroke-width="1.16" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+</g>
+<g id="shape-24" data-name="公众号：康帅PPT14">
+<rect x="54.78" y="238.2" width="1170.44" height="202.8" rx="8.05" ry="8.05" fill="url(#gpatt4)" stroke-width="1" stroke="#65509E" stroke-opacity="0.5" filter="url(#fx3)"/>
+</g>
+<g id="shape-25" data-name="公众号：康帅PPT15">
+<g id="shape-26" data-name="组合 25">
+<g id="shape-29" data-name="公众号：康帅PPT15-1">
+<ellipse cx="181.14" cy="335.74" rx="90.52" ry="90.52" fill="url(#ggrad5)" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-30" data-name="公众号：康帅PPT15-2">
+<path d="M 233.27 245.32 A 104.37 104.37 0 1 1 211.78 235.97" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-31" data-name="公众号：康帅PPT15-3">
+<path d="M 83.36 299.22 A 104.37 104.37 0 0 1 284.95 324.96" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-dasharray="4 4" stroke-linejoin="miter"/>
+</g>
+<g id="shape-32" data-name="公众号：康帅PPT15-4" transform="translate(181.14 335.74) scale(1 -1) translate(-181.14 -335.74)">
+<path d="M 253.26 411.19 A 104.37 104.37 0 1 1 276.81 377.47" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-33" data-name="公众号：康帅PPT15-5" transform="translate(181.14 335.74) scale(-1 1) translate(-181.14 -335.74)">
+<path d="M 140.38 239.65 A 104.37 104.37 0 0 1 208.43 235" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-dasharray="4 4" stroke-linejoin="miter"/>
+</g>
+<g id="shape-34" data-name="公众号：康帅PPT15-6">
+<ellipse cx="264.3" cy="273.15" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-35" data-name="公众号：康帅PPT15-7">
+<ellipse cx="98.07" cy="273.15" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-36" data-name="公众号：康帅PPT15-8">
+<ellipse cx="264.3" cy="399.27" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-37" data-name="公众号：康帅PPT15-9">
+<ellipse cx="98.07" cy="399.27" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+</g>
+<g id="shape-27" data-name="公众号：康帅PPT15-10">
+<image href="../assets/image25.png" x="90.62" y="245.22" width="181.04" height="181.04" preserveAspectRatio="none"/>
+</g>
+<g id="shape-28" data-name="公众号：康帅PPT15-11">
+<image href="../assets/image26.png" x="84.59" y="191.98" width="193.09" height="214.6" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-38" data-name="公众号：康帅PPT16">
+<rect x="54.78" y="470.15" width="1170.44" height="202.8" rx="8.05" ry="8.05" fill="url(#gpatt6)" stroke-width="1" stroke="#65509E" stroke-opacity="0.5" filter="url(#fx4)"/>
+</g>
+<g id="shape-39" data-name="公众号：康帅PPT17" transform="translate(181.14 556.31) scale(-1 1) translate(-181.14 -556.31)">
+<g id="shape-40" data-name="组合 39">
+<g id="shape-44" data-name="公众号：康帅PPT17-1">
+<ellipse cx="181.14" cy="568.57" rx="90.52" ry="90.52" fill="url(#ggrad7)" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-45" data-name="公众号：康帅PPT17-2">
+<path d="M 233.27 478.15 A 104.37 104.37 0 1 1 211.78 468.79" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-46" data-name="公众号：康帅PPT17-3">
+<path d="M 83.36 532.05 A 104.37 104.37 0 0 1 284.95 557.79" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-dasharray="4 4" stroke-linejoin="miter"/>
+</g>
+<g id="shape-47" data-name="公众号：康帅PPT17-4" transform="translate(181.14 568.57) scale(1 -1) translate(-181.14 -568.57)">
+<path d="M 253.26 644.01 A 104.37 104.37 0 1 1 276.81 610.3" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-48" data-name="公众号：康帅PPT17-5" transform="translate(181.14 568.57) scale(-1 1) translate(-181.14 -568.57)">
+<path d="M 140.38 472.48 A 104.37 104.37 0 0 1 208.43 467.82" fill="none" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-dasharray="4 4" stroke-linejoin="miter"/>
+</g>
+<g id="shape-49" data-name="公众号：康帅PPT17-6">
+<ellipse cx="264.3" cy="505.98" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-50" data-name="公众号：康帅PPT17-7">
+<ellipse cx="98.07" cy="505.98" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-51" data-name="公众号：康帅PPT17-8">
+<ellipse cx="264.3" cy="632.1" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+<g id="shape-52" data-name="公众号：康帅PPT17-9">
+<ellipse cx="98.07" cy="632.1" rx="2.61" ry="2.61" fill="#E0DBED" stroke-width="0.333" stroke-linecap="butt" stroke="#65509E" stroke-linejoin="miter"/>
+</g>
+</g>
+<g id="shape-41" data-name="组合 40">
+<g id="shape-42" data-name="公众号：康帅PPT17-10">
+<image href="../assets/image27.png" x="90.62" y="478.05" width="181.04" height="181.04" preserveAspectRatio="none"/>
+</g>
+<g id="shape-43" data-name="公众号：康帅PPT17-11">
+<svg x="52.25" y="439.69" width="257.77" height="167.86" viewBox="-0.02999 -0.01278 1.21008 1.01278" preserveAspectRatio="none"><image href="../assets/image28.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+</g>
+</g>
+<g id="shape-53" data-name="公众号：康帅PPT18">
+<g id="shape-54" data-name="公众号：康帅PPT18-1">
+<rect x="293.42" y="253.86" width="166.25" height="54.93" fill="none"/>
+<text x="376.55" y="290.4" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#65509E"><tspan fill="#65509E" font-size="37.33">刘战旗</tspan></text>
+</g>
+<g id="shape-55" data-name="公众号：康帅PPT18-2">
+<rect x="316.15" y="303.49" width="529.85" height="133.16" fill="none"/>
+<text x="325.75" y="325.29" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">1 </tspan><tspan fill="#000000" font-size="20">2018</tspan><tspan fill="#000000" font-size="20">年至今完成相关毕业论文 </tspan><tspan fill="#000000" font-size="20">21</tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+<text x="325.75" y="351.29" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">2 </tspan><tspan fill="#000000" font-size="20">获省优秀本科毕业论文三等奖 </tspan><tspan fill="#000000" font-size="20">1 </tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+<text x="325.75" y="377.29" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">3 </tspan><tspan fill="#000000" font-size="20">获园冶杯大学生国际竞赛（毕业论文类）二等奖 </tspan><tspan fill="#000000" font-size="20">2 </tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+<text x="325.75" y="403.29" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">4 </tspan><tspan fill="#000000" font-size="20">获校级优秀本科毕业论文 </tspan><tspan fill="#000000" font-size="20">2 </tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+</g>
+</g>
+<g id="shape-59" data-name="公众号：康帅PPT20">
+<g id="shape-60" data-name="公众号：康帅PPT20-1">
+<rect x="293.42" y="481.82" width="166.25" height="54.93" fill="none"/>
+<text x="376.55" y="518.35" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#65509E"><tspan fill="#65509E" font-size="37.33">卢璐颖</tspan></text>
+</g>
+<g id="shape-61" data-name="公众号：康帅PPT20-2">
+<rect x="316.15" y="531.45" width="533.74" height="133.16" fill="none"/>
+<text x="325.75" y="553.25" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">1 </tspan><tspan fill="#000000" font-size="20">2018</tspan><tspan fill="#000000" font-size="20">年至今完成相关毕业论文 </tspan><tspan fill="#000000" font-size="20">21</tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+<text x="325.75" y="579.25" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">2 </tspan><tspan fill="#000000" font-size="20">获省优秀本科毕业论文三等奖 </tspan><tspan fill="#000000" font-size="20">1 </tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+<text x="325.75" y="605.25" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">3 </tspan><tspan fill="#000000" font-size="20">获园冶杯大学生国际竞赛（毕业论文类）二等奖 </tspan><tspan fill="#000000" font-size="20">2 </tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+<text x="325.75" y="631.25" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="20" fill="#000000"><tspan fill="#000000" font-size="20">4 </tspan><tspan fill="#000000" font-size="20">获校级优秀本科毕业论文 </tspan><tspan fill="#000000" font-size="20">2 </tspan><tspan fill="#000000" font-size="20">项</tspan></text>
+</g>
+</g>
+<g id="shape-62" data-name="公众号：康帅PPT21">
+<g id="shape-63" data-name="公众号：康帅PPT21-1">
+<image href="../assets/image29.jpeg" x="873.25" y="452.23" width="155.43" height="208.75" preserveAspectRatio="none"/>
+</g>
+<g id="shape-64" data-name="公众号：康帅PPT21-2">
+<image href="../assets/image31.jpeg" x="1032.57" y="452.23" width="152.06" height="208.75" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-68" data-name="图片 67">
+<image href="../assets/image33.png" x="873.25" y="212.48" width="312.99" height="222.1" preserveAspectRatio="none"/>
+</g></svg>

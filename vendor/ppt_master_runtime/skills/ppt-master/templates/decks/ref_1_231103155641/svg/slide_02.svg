@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1209.67" height="907.17" viewBox="0 0 1209.67 907.17"><defs><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><path d="M 598.15 359.12 C 640.41 359.12 674.67 393.39 674.67 435.67 C 674.67 477.94 640.41 512.21 598.15 512.21 C 555.88 512.21 521.63 477.94 521.63 435.67 C 521.63 393.39 555.88 359.12 598.15 359.12 Z"/></clipPath><clipPath id="clip2" clipPathUnits="userSpaceOnUse"><path d="M 598.09 304.6 C 670.42 304.6 729.06 363.29 729.06 435.66 C 729.06 508.05 670.42 566.73 598.09 566.73 L 598.09 525.99 L 598.15 525.99 C 648.02 525.99 688.44 485.55 688.44 435.67 C 688.44 385.78 648.02 345.34 598.15 345.34 L 598.09 345.34 Z"/></clipPath><clipPath id="clip3" clipPathUnits="userSpaceOnUse"><path d="M 598.09 304.6 L 598.09 345.34 L 588.91 345.81 C 543.38 350.43 507.85 388.9 507.85 435.67 C 507.85 482.44 543.38 520.9 588.91 525.53 L 598.09 525.99 L 598.09 566.73 C 525.83 566.73 467.23 508.05 467.23 435.66 C 467.23 363.29 525.83 304.6 598.09 304.6 Z"/></clipPath></defs><g id="shape-20" data-name="组合 19">
+<g id="shape-21" data-name="任意多边形: 形状 20">
+<image clip-path="url(#clip1)" href="../assets/image6.jpeg" x="521.63" y="359.12" width="153.04" height="153.09" preserveAspectRatio="none"/>
+<path d="M 598.15 359.12 C 640.41 359.12 674.67 393.39 674.67 435.67 C 674.67 477.94 640.41 512.21 598.15 512.21 C 555.88 512.21 521.63 477.94 521.63 435.67 C 521.63 393.39 555.88 359.12 598.15 359.12 Z" fill="none" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+</g>
+<g id="shape-22" data-name="56191337-588c-4417-b5b6-50e637eb3ae0">
+<g id="shape-23" data-name="ïSḻïḍé">
+<g id="shape-28" data-name="îṩḷiḓê">
+<image clip-path="url(#clip2)" href="../assets/image5.png" x="598.09" y="304.6" width="130.97" height="262.13" preserveAspectRatio="none"/>
+<path d="M 598.09 304.6 C 670.42 304.6 729.06 363.29 729.06 435.66 C 729.06 508.05 670.42 566.73 598.09 566.73 L 598.09 525.99 L 598.15 525.99 C 648.02 525.99 688.44 485.55 688.44 435.67 C 688.44 385.78 648.02 345.34 598.15 345.34 L 598.09 345.34 Z" fill="none" stroke-width="2.667" stroke-linecap="butt" stroke="none"/>
+</g>
+<g id="shape-29" data-name="iṥliďé">
+<image clip-path="url(#clip3)" href="../assets/image5.png" x="467.23" y="304.6" width="130.86" height="262.13" preserveAspectRatio="none"/>
+<path d="M 598.09 304.6 L 598.09 345.34 L 588.91 345.81 C 543.38 350.43 507.85 388.9 507.85 435.67 C 507.85 482.44 543.38 520.9 588.91 525.53 L 598.09 525.99 L 598.09 566.73 C 525.83 566.73 467.23 508.05 467.23 435.66 C 467.23 363.29 525.83 304.6 598.09 304.6 Z" fill="none" stroke-width="2.667" stroke-linecap="butt" stroke="none"/>
+</g>
+</g>
+<g id="shape-24" data-name="íşlïḓé">
+<ellipse cx="487.54" cy="344.97" rx="34.22" ry="34.23" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="487.54" y="351.64" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="26.67" fill="#000000"><tspan fill="#000000" font-size="26.67">Q1</tspan></text>
+</g>
+<g id="shape-25" data-name="îṡlïḍé">
+<ellipse cx="487.54" cy="525.29" rx="34.22" ry="34.23" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="487.54" y="531.96" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="26.67" fill="#000000"><tspan fill="#000000" font-size="26.67">Q3</tspan></text>
+</g>
+<g id="shape-26" data-name="îṧlíḍê">
+<ellipse cx="706.97" cy="344.97" rx="34.22" ry="34.23" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="706.97" y="351.64" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="26.67" fill="#000000"><tspan fill="#000000" font-size="26.67">Q2</tspan></text>
+</g>
+<g id="shape-27" data-name="îṥľïḋè">
+<ellipse cx="706.97" cy="525.29" rx="34.22" ry="34.23" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="706.97" y="531.96" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="26.67" fill="#000000"><tspan fill="#000000" font-size="26.67">Q4</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-30" data-name="TextBox 23">
+<rect x="772.88" y="288.02" width="185.11" height="35.62" fill="none"/>
+<text x="780.08" y="309.75" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="21.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-31" data-name="TextBox 24">
+<rect x="772.88" y="326.81" width="253.14" height="63.76" fill="none"/>
+<text x="780.08" y="341.74" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="13.33">的内容打在这里，或者通过复制您的文</tspan><tspan x="780.08" dy="16" fill="#EDD5A5" font-size="13.33">本后，在此框中选择粘贴，并选择只保</tspan><tspan x="780.08" dy="16" fill="#EDD5A5" font-size="13.33">留文字。</tspan></text>
+</g>
+<g id="shape-32" data-name="TextBox 23">
+<rect x="777.48" y="479.42" width="185.11" height="35.62" fill="none"/>
+<text x="784.68" y="501.15" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="21.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-33" data-name="TextBox 24">
+<rect x="777.48" y="518.21" width="253.14" height="63.76" fill="none"/>
+<text x="784.68" y="533.14" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="13.33">的内容打在这里，或者通过复制您的文</tspan><tspan x="784.68" dy="16" fill="#EDD5A5" font-size="13.33">本后，在此框中选择粘贴，并选择只保</tspan><tspan x="784.68" dy="16" fill="#EDD5A5" font-size="13.33">留文字。</tspan></text>
+</g>
+<g id="shape-34" data-name="TextBox 23">
+<rect x="243.75" y="277.88" width="185.11" height="35.62" fill="none"/>
+<text x="421.65" y="299.62" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="21.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-35" data-name="TextBox 24">
+<rect x="181.48" y="316.74" width="253.14" height="63.76" fill="none"/>
+<text x="427.43" y="331.67" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="13.33">的内容打在这里，或者通过复制您的文</tspan><tspan x="427.43" dy="16" fill="#EDD5A5" font-size="13.33">本后，在此框中选择粘贴，并选择只保</tspan><tspan x="427.43" dy="16" fill="#EDD5A5" font-size="13.33">留文字。</tspan></text>
+</g>
+<g id="shape-36" data-name="TextBox 23">
+<rect x="249.61" y="479.48" width="185.11" height="35.62" fill="none"/>
+<text x="427.52" y="501.22" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="21.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-37" data-name="TextBox 24">
+<rect x="187.35" y="518.34" width="253.14" height="63.76" fill="none"/>
+<text x="433.29" y="533.27" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="13.33">的内容打在这里，或者通过复制您的文</tspan><tspan x="433.29" dy="16" fill="#EDD5A5" font-size="13.33">本后，在此框中选择粘贴，并选择只保</tspan><tspan x="433.29" dy="16" fill="#EDD5A5" font-size="13.33">留文字。</tspan></text>
+</g></svg>

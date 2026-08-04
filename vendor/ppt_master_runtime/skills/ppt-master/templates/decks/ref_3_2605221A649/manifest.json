@@ -1,0 +1,1315 @@
+{
+  "source": {
+    "pptx": "E:\\OfficeAgent\\Reference\\classified\\09-校园科普与法治教育\\3-2605221A649__校园科普__民法典校园课程.pptx",
+    "name": "3-2605221A649__校园科普__民法典校园课程.pptx"
+  },
+  "slideSize": {
+    "width_emu": 12192000,
+    "height_emu": 6858000,
+    "width_px": 1280,
+    "height_px": 720
+  },
+  "theme": {
+    "colors": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#44546A",
+      "lt2": "#E7E6E6",
+      "accent1": "#C00000",
+      "accent2": "#ED7D31",
+      "accent3": "#A5A5A5",
+      "accent4": "#FFC000",
+      "accent5": "#5B9BD5",
+      "accent6": "#70AD47",
+      "hlink": "#0563C1",
+      "folHlink": "#954F72"
+    },
+    "fonts": {
+      "majorLatin": "思源黑体 CN",
+      "minorLatin": "思源黑体 CN",
+      "minorEastAsia": "思源黑体 CN"
+    }
+  },
+  "assets": {
+    "exportDir": "assets",
+    "commonAssets": [
+      "image1.png",
+      "image10.png",
+      "image11.png",
+      "image14.png",
+      "image15.png",
+      "image2.png",
+      "image3.png",
+      "image4.png",
+      "image5.png",
+      "image7.png",
+      "image9.png"
+    ],
+    "allAssets": [
+      "image1.png",
+      "image10.png",
+      "image11.png",
+      "image12.png",
+      "image13.png",
+      "image14.png",
+      "image15.png",
+      "image16.png",
+      "image17.png",
+      "image18.png",
+      "image19.png",
+      "image2.png",
+      "image20.png",
+      "image21.png",
+      "image22.png",
+      "image23.png",
+      "image24.png",
+      "image25.png",
+      "image26.png",
+      "image27.png",
+      "image28.png",
+      "image29.png",
+      "image3.png",
+      "image30.png",
+      "image31.png",
+      "image32.png",
+      "image33.png",
+      "image34.png",
+      "image35.png",
+      "image36.png",
+      "image37.png",
+      "image38.png",
+      "image39.png",
+      "image4.png",
+      "image40.png",
+      "image41.png",
+      "image5.png",
+      "image6.png",
+      "image7.png",
+      "image8.png",
+      "image9.png"
+    ],
+    "assetMap": {
+      "ppt/media/image31.png": "image31.png",
+      "ppt/media/image34.png": "image34.png",
+      "ppt/media/image21.png": "image21.png",
+      "ppt/media/image30.png": "image30.png",
+      "ppt/media/image2.png": "image2.png",
+      "ppt/media/image3.png": "image3.png",
+      "ppt/media/image4.png": "image4.png",
+      "ppt/media/image5.png": "image5.png",
+      "ppt/media/image6.png": "image6.png",
+      "ppt/media/image7.png": "image7.png",
+      "ppt/media/image8.png": "image8.png",
+      "ppt/media/image9.png": "image9.png",
+      "ppt/media/image10.png": "image10.png",
+      "ppt/media/image11.png": "image11.png",
+      "ppt/media/image12.png": "image12.png",
+      "ppt/media/image13.png": "image13.png",
+      "ppt/media/image14.png": "image14.png",
+      "ppt/media/image15.png": "image15.png",
+      "ppt/media/image35.png": "image35.png",
+      "ppt/media/image16.png": "image16.png",
+      "ppt/media/image17.png": "image17.png",
+      "ppt/media/image18.png": "image18.png",
+      "ppt/media/image19.png": "image19.png",
+      "ppt/media/image20.png": "image20.png",
+      "ppt/media/image22.png": "image22.png",
+      "ppt/media/image23.png": "image23.png",
+      "ppt/media/image24.png": "image24.png",
+      "ppt/media/image25.png": "image25.png",
+      "ppt/media/image26.png": "image26.png",
+      "ppt/media/image28.png": "image28.png",
+      "ppt/media/image32.png": "image32.png",
+      "ppt/media/image36.png": "image36.png",
+      "ppt/media/image29.png": "image29.png",
+      "ppt/media/image37.png": "image37.png",
+      "ppt/media/image38.png": "image38.png",
+      "ppt/media/image39.png": "image39.png",
+      "ppt/media/image40.png": "image40.png",
+      "ppt/media/image1.png": "image1.png",
+      "ppt/media/image41.png": "image41.png",
+      "ppt/media/image27.png": "image27.png",
+      "ppt/media/image33.png": "image33.png"
+    }
+  },
+  "pageTypeCandidates": {
+    "chapter_candidate": [
+      3,
+      6,
+      13,
+      23
+    ],
+    "content_candidate": [
+      1,
+      2,
+      4,
+      5,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      21,
+      22,
+      24,
+      25,
+      26,
+      27
+    ],
+    "ending_candidate": [
+      19,
+      28
+    ]
+  },
+  "layouts": [
+    {
+      "path": "ppt/slideLayouts/slideLayout1.xml",
+      "name": "slideLayout1.xml",
+      "svgFile": "layout_01_slideLayout1.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [
+        "image1.png"
+      ],
+      "placeholders": [],
+      "textSamples": [],
+      "textCount": 0,
+      "shapeCount": 3,
+      "usedBySlides": [
+        1,
+        2,
+        3,
+        6,
+        13,
+        27
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout2.xml",
+      "name": "slideLayout2.xml",
+      "svgFile": "layout_02_slideLayout2.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [
+        "image2.png",
+        "image3.png"
+      ],
+      "placeholders": [],
+      "textSamples": [
+        "民法典简介"
+      ],
+      "textCount": 1,
+      "shapeCount": 6,
+      "usedBySlides": [
+        4,
+        5
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout3.xml",
+      "name": "slideLayout3.xml",
+      "svgFile": "layout_03_slideLayout3.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [
+        "image2.png",
+        "image4.png"
+      ],
+      "placeholders": [],
+      "textSamples": [
+        "在法律上你属于什么人",
+        "?"
+      ],
+      "textCount": 2,
+      "shapeCount": 6,
+      "usedBySlides": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout4.xml",
+      "name": "slideLayout4.xml",
+      "svgFile": "layout_04_slideLayout4.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "dt",
+          "idx": null,
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2026/5/22"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "1",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "2",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "3",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 648,
+            "y": 177,
+            "width": 544,
+            "height": 86
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "4",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 648,
+            "y": 263,
+            "width": 544,
+            "height": 387
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "二级"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 424,
+            "y": 667,
+            "width": 432,
+            "height": 38
+          },
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 904,
+            "y": 667,
+            "width": 288,
+            "height": 38
+          },
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "2026/5/22",
+        "‹#›",
+        "行业",
+        "PPT",
+        "模板",
+        "http://www.1ppt.com/hangye/"
+      ],
+      "textCount": 24,
+      "shapeCount": 14,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout5.xml",
+      "name": "slideLayout5.xml",
+      "svgFile": "layout_05_slideLayout5.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [
+        "image2.png",
+        "image4.png"
+      ],
+      "placeholders": [],
+      "textSamples": [
+        "《",
+        "民法典",
+        "》",
+        "是如何守护我们的一生"
+      ],
+      "textCount": 4,
+      "shapeCount": 6,
+      "usedBySlides": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout6.xml",
+      "name": "slideLayout6.xml",
+      "svgFile": "layout_06_slideLayout6.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [],
+      "textSamples": [],
+      "textCount": 0,
+      "shapeCount": 2,
+      "usedBySlides": [
+        28
+      ]
+    }
+  ],
+  "masters": [
+    {
+      "path": "ppt/slideMasters/slideMaster1.xml",
+      "name": "slideMaster1.xml",
+      "svgFile": "master_01_slideMaster1.svg",
+      "parentPath": null,
+      "themePath": "ppt/theme/theme1.xml",
+      "theme": {
+        "colors": {
+          "dk1": "#000000",
+          "lt1": "#FFFFFF",
+          "dk2": "#44546A",
+          "lt2": "#E7E6E6",
+          "accent1": "#C00000",
+          "accent2": "#ED7D31",
+          "accent3": "#A5A5A5",
+          "accent4": "#FFC000",
+          "accent5": "#5B9BD5",
+          "accent6": "#70AD47",
+          "hlink": "#0563C1",
+          "folHlink": "#954F72"
+        },
+        "fonts": {
+          "majorLatin": "思源黑体 CN",
+          "minorLatin": "思源黑体 CN",
+          "minorEastAsia": "思源黑体 CN"
+        }
+      },
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 88,
+            "y": 38,
+            "width": 1104,
+            "height": 139
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 88,
+            "y": 192,
+            "width": 1104,
+            "height": 457
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 88,
+            "y": 667,
+            "width": 288,
+            "height": 38
+          },
+          "textSamples": [
+            "2026/5/22"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "3",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 424,
+            "y": 667,
+            "width": 432,
+            "height": 38
+          },
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "4",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 904,
+            "y": 667,
+            "width": 288,
+            "height": 38
+          },
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "二级",
+        "三级",
+        "四级",
+        "五级"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "path": "ppt/slideMasters/slideMaster2.xml",
+      "name": "slideMaster2.xml",
+      "svgFile": "master_02_slideMaster2.svg",
+      "parentPath": null,
+      "themePath": "ppt/theme/theme2.xml",
+      "theme": {
+        "colors": {
+          "dk1": "#000000",
+          "lt1": "#FFFFFF",
+          "dk2": "#1F497D",
+          "lt2": "#EEECE1",
+          "accent1": "#4F81BD",
+          "accent2": "#C0504D",
+          "accent3": "#9BBB59",
+          "accent4": "#8064A2",
+          "accent5": "#4BACC6",
+          "accent6": "#F79646",
+          "hlink": "#0000FF",
+          "folHlink": "#800080"
+        },
+        "fonts": {
+          "majorLatin": "Calibri",
+          "minorLatin": "Calibri",
+          "minorEastAsia": "宋体"
+        }
+      },
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [],
+      "textSamples": [],
+      "textCount": 0,
+      "shapeCount": 2,
+      "usedBySlides": [
+        28
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "name": "slide1.xml",
+      "svgFile": "slide_01.svg",
+      "flatSvgFile": "slide_01.svg",
+      "slidePath": "ppt/slides/slide1.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image5.png",
+        "image6.png",
+        "image7.png",
+        "image8.png",
+        "image9.png",
+        "image10.png",
+        "image11.png"
+      ],
+      "textSamples": [
+        "法律保驾护航",
+        "Civil code into the campus",
+        "汇报人：第一",
+        "PPT",
+        "汇报时间：",
+        "202X"
+      ],
+      "textCount": 6,
+      "shapeCount": 15,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 2,
+      "name": "slide2.xml",
+      "svgFile": "slide_02.svg",
+      "flatSvgFile": "slide_02.svg",
+      "slidePath": "ppt/slides/slide2.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image7.png",
+        "image12.png",
+        "image13.png"
+      ],
+      "textSamples": [
+        "1",
+        "2",
+        "3",
+        "《",
+        "民法典",
+        "》"
+      ],
+      "textCount": 6,
+      "shapeCount": 13,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 3,
+      "name": "slide3.xml",
+      "svgFile": "slide_03.svg",
+      "flatSvgFile": "slide_03.svg",
+      "slidePath": "ppt/slides/slide3.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image7.png",
+        "image14.png",
+        "image15.png"
+      ],
+      "textSamples": [
+        "PART 01",
+        "民法典简介",
+        "请在此处输入您的文字内容，请在此处输入您的文字内容"
+      ],
+      "textCount": 3,
+      "shapeCount": 9,
+      "pageType": "chapter_candidate"
+    },
+    {
+      "index": 4,
+      "name": "slide4.xml",
+      "svgFile": "slide_04.svg",
+      "flatSvgFile": "slide_04.svg",
+      "slidePath": "ppt/slides/slide4.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout2.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image16.png",
+        "image17.png"
+      ],
+      "textSamples": [
+        "《",
+        "中华人民共和国民法典",
+        "》",
+        "被称为“社会生活的百科全书”，是新中国第一部以法典命名的法律",
+        "民法典",
+        "在法律体系中居于基础性地位，也是市场经济的基本法。"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 5,
+      "name": "slide5.xml",
+      "svgFile": "slide_05.svg",
+      "flatSvgFile": "slide_05.svg",
+      "slidePath": "ppt/slides/slide5.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout2.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image18.png"
+      ],
+      "textSamples": [
+        "民法典",
+        "《",
+        "中华人民共和国民法典",
+        "》",
+        "共",
+        "7"
+      ],
+      "textCount": 6,
+      "shapeCount": 9,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 6,
+      "name": "slide6.xml",
+      "svgFile": "slide_06.svg",
+      "flatSvgFile": "slide_06.svg",
+      "slidePath": "ppt/slides/slide6.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image7.png",
+        "image14.png",
+        "image15.png"
+      ],
+      "textSamples": [
+        "PART 02",
+        "在法律上你属于什么人",
+        "?",
+        "请在此处输入您的文字内容，请在此处输入您的文字内容"
+      ],
+      "textCount": 4,
+      "shapeCount": 9,
+      "pageType": "chapter_candidate"
+    },
+    {
+      "index": 7,
+      "name": "slide7.xml",
+      "svgFile": "slide_07.svg",
+      "flatSvgFile": "slide_07.svg",
+      "slidePath": "ppt/slides/slide7.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image19.png"
+      ],
+      "textSamples": [
+        "18",
+        "周岁以上",
+        "完人",
+        "(",
+        "完全民事行为能力人",
+        ")"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 8,
+      "name": "slide8.xml",
+      "svgFile": "slide_08.svg",
+      "flatSvgFile": "slide_08.svg",
+      "slidePath": "ppt/slides/slide8.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image20.png"
+      ],
+      "textSamples": [
+        "关于",
+        "0",
+        "至",
+        "8",
+        "周岁的无人",
+        "?"
+      ],
+      "textCount": 6,
+      "shapeCount": 7,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 9,
+      "name": "slide9.xml",
+      "svgFile": "slide_09.svg",
+      "flatSvgFile": "slide_09.svg",
+      "slidePath": "ppt/slides/slide9.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image21.png"
+      ],
+      "textSamples": [
+        "01",
+        "关于",
+        "8",
+        "至",
+        "16",
+        "周岁的限人"
+      ],
+      "textCount": 6,
+      "shapeCount": 7,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 10,
+      "name": "slide10.xml",
+      "svgFile": "slide_10.svg",
+      "flatSvgFile": "slide_10.svg",
+      "slidePath": "ppt/slides/slide10.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image22.png"
+      ],
+      "textSamples": [
+        "02",
+        "关于",
+        "18",
+        "周岁以上的完人",
+        "?",
+        "《"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 11,
+      "name": "slide11.xml",
+      "svgFile": "slide_11.svg",
+      "flatSvgFile": "slide_11.svg",
+      "slidePath": "ppt/slides/slide11.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image23.png"
+      ],
+      "textSamples": [
+        "未成年人的监护人",
+        ":",
+        "父母。",
+        "父母对子女间的法律义务",
+        ":",
+        "若父母已死亡或没有监护能力的，由下列有监护能力的人按顺序担任监护人"
+      ],
+      "textCount": 6,
+      "shapeCount": 13,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 12,
+      "name": "slide12.xml",
+      "svgFile": "slide_12.svg",
+      "flatSvgFile": "slide_12.svg",
+      "slidePath": "ppt/slides/slide12.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image24.png"
+      ],
+      "textSamples": [
+        "五、人格权",
+        "1",
+        "、生命权、身体权和健康权",
+        "2",
+        "、姓名权和名称权",
+        "3"
+      ],
+      "textCount": 6,
+      "shapeCount": 5,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 13,
+      "name": "slide13.xml",
+      "svgFile": "slide_13.svg",
+      "flatSvgFile": "slide_13.svg",
+      "slidePath": "ppt/slides/slide13.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image7.png",
+        "image14.png",
+        "image15.png"
+      ],
+      "textSamples": [
+        "PART 03",
+        "《",
+        "民法典",
+        "》",
+        "是如何守护我们的一生",
+        "请在此处输入您的文字内容，请在此处输入您的文字内容"
+      ],
+      "textCount": 6,
+      "shapeCount": 9,
+      "pageType": "chapter_candidate"
+    },
+    {
+      "index": 14,
+      "name": "slide14.xml",
+      "svgFile": "slide_14.svg",
+      "flatSvgFile": "slide_14.svg",
+      "slidePath": "ppt/slides/slide14.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image25.png"
+      ],
+      "textSamples": [
+        "民法典",
+        "不管是衣食住行、生老病死还是婚丧嫁娶、生产经营，我们每天都在与民法打交道。",
+        "1",
+        "2",
+        "民法典",
+        "从个人到家庭再到社会，"
+      ],
+      "textCount": 6,
+      "shapeCount": 4,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 15,
+      "name": "slide15.xml",
+      "svgFile": "slide_15.svg",
+      "flatSvgFile": "slide_15.svg",
+      "slidePath": "ppt/slides/slide15.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image26.png"
+      ],
+      "textSamples": [
+        "案例一",
+        "当小明仍是胎儿时，姥姥姥爷把祖传手镯送给他，而他也有继承、接受赠与等权利",
+        "涉及遗产继承、接受赠与等胎儿利益保护的，胎儿视为具有民事权利能力。但是胎儿娩出时为死体的，其民事权利能力自始不存在。",
+        "《",
+        "民法典",
+        "》"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 16,
+      "name": "slide16.xml",
+      "svgFile": "slide_16.svg",
+      "flatSvgFile": "slide_16.svg",
+      "slidePath": "ppt/slides/slide16.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image27.png"
+      ],
+      "textSamples": [
+        "案例二",
+        "7",
+        "岁的小明用手机看直播，一时冲动用妈妈的手机给主播打赏",
+        "8",
+        "万元，父母知道后，便追回了打赏。",
+        "不满"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 17,
+      "name": "slide17.xml",
+      "svgFile": "slide_17.svg",
+      "flatSvgFile": "slide_17.svg",
+      "slidePath": "ppt/slides/slide17.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image28.png"
+      ],
+      "textSamples": [
+        "案例三",
+        "小明和家人出门旅游，在高铁上遇到有人霸座，而霸座的人却嚣张地撕毁了他的车票，乘务员和乘警责令该霸座者离开该座位并补缴票款。",
+        "旅客应当按照有效客票记载的时间、班次和座位号乘坐。旅客无票乘坐、超程乘坐、越级乘坐或者持不符合减价条件的优惠客票乘坐的，应当补交票款，承运人可以按照规定加收票款；旅客不支付票款的，承运人可以拒绝运输。",
+        "《",
+        "民法典",
+        "》"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 18,
+      "name": "slide18.xml",
+      "svgFile": "slide_18.svg",
+      "flatSvgFile": "slide_18.svg",
+      "slidePath": "ppt/slides/slide18.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image29.png"
+      ],
+      "textSamples": [
+        "案例一",
+        "在网贷之风盛行之时，小明在某网贷平台上借了一万元用于玩乐消费，一个月后却发现欠了十万元，于是他向有关部门举报了该平台。",
+        "《",
+        "民法典",
+        "》",
+        "合同编：禁止放高利贷，借款的利率不得违反国家有关规定。"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 19,
+      "name": "slide19.xml",
+      "svgFile": "slide_19.svg",
+      "flatSvgFile": "slide_19.svg",
+      "slidePath": "ppt/slides/slide19.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image30.png"
+      ],
+      "textSamples": [
+        "案例二",
+        "小明在帮助落水儿童的过程中造成其局部挫伤，孩童父母表示不需要小明赔偿，并对其表示感谢",
+        "《",
+        "民法典",
+        "》",
+        "侵权责任编：因自愿实施紧急救助行为造成受助人损害的，救助人不承担民事责任。"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "ending_candidate"
+    },
+    {
+      "index": 20,
+      "name": "slide20.xml",
+      "svgFile": "slide_20.svg",
+      "flatSvgFile": "slide_20.svg",
+      "slidePath": "ppt/slides/slide20.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image31.png"
+      ],
+      "textSamples": [
+        "案例三",
+        "小明的同事说自己经常收到上司发来的“露骨”短信和图片，这让她感到十分困扰，小明和同事一起联名举报了该上司。",
+        "违背他人意愿，以言语、文字、图像、肢体行为等方式对他人实施性骚扰的，受害人有权依法请求行为人承担民事责任。机关、企业、学校等单位应当采取合理的预防、受理投诉、调查处置等措施，防止和制止利用职权、从属关系等实施性骚扰。",
+        "《",
+        "民法典",
+        "》"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 21,
+      "name": "slide21.xml",
+      "svgFile": "slide_21.svg",
+      "flatSvgFile": "slide_21.svg",
+      "slidePath": "ppt/slides/slide21.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image32.png"
+      ],
+      "textSamples": [
+        "案例一",
+        "小明和妻子因为琐事一气之下到婚姻登记机关协议离婚，民政部门告知二人并不能当天拿到离婚证。",
+        "《",
+        "民法典",
+        "》",
+        "婚姻家庭编：自婚姻登记机关收到离婚登记申请之日起三十日内"
+      ],
+      "textCount": 6,
+      "shapeCount": 7,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 22,
+      "name": "slide22.xml",
+      "svgFile": "slide_22.svg",
+      "flatSvgFile": "slide_22.svg",
+      "slidePath": "ppt/slides/slide22.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image33.png"
+      ],
+      "textSamples": [
+        "案例二",
+        "小明下载了一款母婴",
+        "APP",
+        "后，发现开始收到了各类贷款、推销的骚扰短信、电话，于是便举报了该款",
+        "APP",
+        "。"
+      ],
+      "textCount": 6,
+      "shapeCount": 7,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 23,
+      "name": "slide23.xml",
+      "svgFile": "slide_23.svg",
+      "flatSvgFile": "slide_23.svg",
+      "slidePath": "ppt/slides/slide23.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image34.png"
+      ],
+      "textSamples": [
+        "案例三",
+        "小明买了一套房，但电梯广告收益却全被物业收走，小明和其他业主共同向物业主张权利，拿回了属于自己的收益。",
+        "建设单位、物业服务企业或者其他管理人等利用业主的共有部分产生的收入，在扣除合理成本之后，属于业主共有。",
+        "《",
+        "民法典",
+        "》"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "chapter_candidate"
+    },
+    {
+      "index": 24,
+      "name": "slide24.xml",
+      "svgFile": "slide_24.svg",
+      "flatSvgFile": "slide_24.svg",
+      "slidePath": "ppt/slides/slide24.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image35.png"
+      ],
+      "textSamples": [
+        "案例四",
+        "小明在小区楼下锻炼时，被一个高空坠下的烟头烫伤，小明大怒报警，警方查明了责任人，小明获得了赔偿",
+        "禁止从建筑物中抛掷物品。从建筑物中抛掷物品或者从建筑物上坠落的物品造成他人损害的，由侵权人依法承担侵权责任；经调查难以确定具体侵权人的，除能够证明自己不是侵权人的外，由可能加害的建筑物使用人给予补偿。可能加害的建筑物使用人补偿后，有权向侵权人追偿。",
+        "《",
+        "民法典",
+        "》"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 25,
+      "name": "slide25.xml",
+      "svgFile": "slide_25.svg",
+      "flatSvgFile": "slide_25.svg",
+      "slidePath": "ppt/slides/slide25.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image36.png"
+      ],
+      "textSamples": [
+        "案例一",
+        "小明年近",
+        "80",
+        "，身体每况愈下，他决定立下遗嘱，打印遗嘱时，他需要邀请两名医护人员来当见证人。",
+        "《",
+        "民法典"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 26,
+      "name": "slide26.xml",
+      "svgFile": "slide_26.svg",
+      "flatSvgFile": "slide_26.svg",
+      "slidePath": "ppt/slides/slide26.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image37.png"
+      ],
+      "textSamples": [
+        "案例二",
+        "小明立下遗嘱，房子由儿子继承，但希望照顾他多年、无子女无房产的保姆继续居住，因此为保姆设立了居住权",
+        "居住权人有权按照合同约定，对他人的住宅享有占有、使用的用益物权，以满足生活居住的需要。",
+        "我们相信，在",
+        "《",
+        "民法典"
+      ],
+      "textCount": 6,
+      "shapeCount": 7,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 27,
+      "name": "slide27.xml",
+      "svgFile": "slide_27.svg",
+      "flatSvgFile": "slide_27.svg",
+      "slidePath": "ppt/slides/slide27.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout1.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image5.png",
+        "image38.png",
+        "image7.png",
+        "image39.png",
+        "image9.png",
+        "image10.png",
+        "image11.png"
+      ],
+      "textSamples": [
+        "法律保驾护航",
+        "Civil code into the campus",
+        "汇报人：第一",
+        "PPT",
+        "汇报时间：",
+        "202X"
+      ],
+      "textCount": 6,
+      "shapeCount": 15,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 28,
+      "name": "slide28.xml",
+      "svgFile": "slide_28.svg",
+      "flatSvgFile": "slide_28.svg",
+      "slidePath": "ppt/slides/slide28.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout6.xml",
+      "masterPath": "ppt/slideMasters/slideMaster2.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image40.png",
+        "image41.png"
+      ],
+      "textSamples": [
+        "PPT",
+        "模板：",
+        "www.1ppt.com/moban/",
+        "行业",
+        "PPT",
+        "模板："
+      ],
+      "textCount": 6,
+      "shapeCount": 8,
+      "pageType": "ending_candidate"
+    }
+  ]
+}

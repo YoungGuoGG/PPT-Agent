@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g id="shape-6" data-name="组合 5">
+<g id="shape-7" data-name="圆角矩形 14">
+<rect x="748.98" y="110.42" width="356.21" height="513.47" rx="59.37" ry="59.37" stroke-width="3" stroke="#DCC2A4" fill="#4472C4"/>
+</g>
+<g id="shape-8" data-name="圆角矩形 15">
+<rect x="1031.54" y="209.2" width="201.87" height="376.08" rx="33.65" ry="33.65" stroke-width="3" stroke="#DCC2A4" fill="#4472C4"/>
+</g>
+<g id="shape-9" data-name="圆角矩形 16">
+<rect x="575.4" y="174.84" width="219.14" height="424.43" rx="36.52" ry="36.52" stroke-width="3" stroke="#DCC2A4" fill="#4472C4"/>
+</g>
+<g id="shape-10" data-name="圆角矩形 17">
+<rect x="482.7" y="271.47" width="192.06" height="299.95" rx="32.01" ry="32.01" stroke-width="3" stroke="#DCC2A4" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-5" data-name="文本框 4">
+<rect x="119.56" y="20.89" width="513.07" height="54.93" fill="none"/>
+<text x="129.16" y="57.42" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#5E432C"><tspan fill="#5E432C" font-size="37.33">点击添加标题</tspan></text>
+</g>
+<g id="shape-11" data-name="组合 10">
+<g id="shape-13" data-name="任意多边形: 形状 12" transform="rotate(90 51.83 48.35)">
+<path d="M 18.72 48.35 C 18.72 42.3 21.17 36.83 25.14 32.86 L 31.83 28.35 L 36.34 21.66 C 40.3 17.7 45.78 15.24 51.83 15.24 C 57.88 15.24 63.36 17.7 67.32 21.66 L 71.83 28.35 L 78.52 32.86 C 82.49 36.83 84.94 42.3 84.94 48.35 C 84.94 54.41 82.49 59.88 78.52 63.85 L 71.83 68.36 L 67.32 75.05 C 63.36 79.01 57.88 81.46 51.83 81.46 C 45.78 81.46 40.3 79.01 36.34 75.05 L 31.83 68.36 L 25.14 63.85 C 21.17 59.88 18.72 54.41 18.72 48.35 Z" fill="#962117" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="任意多边形: 形状 14" transform="rotate(90 69.14 48.35)">
+<path d="M 36.03 48.35 C 36.03 42.3 38.48 36.83 42.45 32.86 L 49.14 28.35 L 53.65 21.66 C 57.61 17.7 63.09 15.24 69.14 15.24 C 75.19 15.24 80.67 17.7 84.63 21.66 L 89.14 28.35 L 95.83 32.86 C 99.8 36.83 102.25 42.3 102.25 48.35 C 102.25 54.41 99.8 59.88 95.83 63.85 L 89.14 68.36 L 84.63 75.05 C 80.67 79.01 75.19 81.46 69.14 81.46 C 63.09 81.46 57.61 79.01 53.65 75.05 L 49.14 68.36 L 42.45 63.85 C 38.48 59.88 36.03 54.41 36.03 48.35 Z" fill="none" stroke="#962117" stroke-width="1"/>
+</g>
+</g>
+</g>
+<g id="shape-23" data-name="组合 22">
+<g id="shape-12" data-name="Google Shape;1747;p43">
+<rect x="122.08" y="277.12" width="360.62" height="197.88" fill="none"/>
+<text x="131.68" y="304.58" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#5E432C"><tspan fill="#5E432C" font-size="26.67">您的内容打在这里，或者通</tspan><tspan x="131.68" dy="40" fill="#5E432C" font-size="26.67">过复制您的文本后，在此框</tspan><tspan x="131.68" dy="40" fill="#5E432C" font-size="26.67">中选择粘贴，并选择只保留</tspan><tspan x="131.68" dy="40" fill="#5E432C" font-size="26.67">文字</tspan></text>
+</g>
+<g id="shape-16" data-name="Google Shape;1747;p43">
+<rect x="122.08" y="216.09" width="310.24" height="61.03" fill="none"/>
+<text x="131.68" y="248.09" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#5E432C" font-weight="bold"><tspan fill="#5E432C" font-size="32" font-weight="bold">关键字</tspan></text>
+</g>
+<g id="shape-22" data-name="任意多边形: 形状 21" transform="rotate(90 104.25 254.91)">
+<path d="M 86.41 254.91 C 86.41 251.65 87.73 248.7 89.87 246.57 L 93.47 244.14 L 95.9 240.53 C 98.04 238.4 100.99 237.08 104.25 237.08 C 107.5 237.08 110.45 238.4 112.59 240.53 L 115.02 244.14 L 118.62 246.57 C 120.76 248.7 122.08 251.65 122.08 254.91 C 122.08 258.17 120.76 261.12 118.62 263.25 L 115.02 265.68 L 112.59 269.29 C 110.45 271.42 107.5 272.74 104.25 272.74 C 100.99 272.74 98.04 271.42 95.9 269.29 L 93.47 265.68 L 89.87 263.25 C 87.73 261.12 86.41 258.17 86.41 254.91 Z" fill="#962117" stroke="none" stroke-width="1"/>
+</g>
+</g></svg>

@@ -1,0 +1,69 @@
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+
+# PPT Agent runtime data and local acceptance artifacts
+/.data/
+/.scratch/
+/deploy/windows/smoke-data-v2/
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+*-shm
+*-wal
+*.log
+
+# Keep the vendored runtime directories, but not generated contents
+/vendor/ppt_master_runtime/ppt_master_service/logs/*
+!/vendor/ppt_master_runtime/ppt_master_service/logs/.gitkeep
+/vendor/ppt_master_runtime/ppt_master_service/outputs/*
+!/vendor/ppt_master_runtime/ppt_master_service/outputs/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+*.egg-info/
+.venv/
+venv/
+
+# Node.js and frontend builds
+node_modules/
+/apps/ppt-agent-ui/dist/
+*.tsbuildinfo
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Rust and Tauri generated files
+/apps/ppt-agent-desktop/src-tauri/target/
+/apps/ppt-agent-desktop/src-tauri/gen/
+
+# PyInstaller and Windows packaging outputs
+/deploy/windows/build/
+/deploy/windows/dist/
+
+# Editors and operating systems
+.idea/
+.vscode/
+*.swp
+*.swo
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+Desktop.ini

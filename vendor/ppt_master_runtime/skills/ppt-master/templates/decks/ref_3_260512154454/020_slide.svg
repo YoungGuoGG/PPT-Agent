@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-3" data-name="矩形 2">
+<rect x="16.06" y="15.1" width="1247.89" height="689.81" fill="#FFFFFF" stroke="#C4D5FC" stroke-width="1"/>
+</g>
+<g id="layout-shape-32" data-name="矩形 31">
+<rect x="70.24" y="57.46" width="43.96" height="43.96" fill="#0A41BB" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-33" data-name="矩形 32">
+<rect x="92.4" y="79.62" width="32.2" height="32.2" fill="none" stroke="#0A41BB" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-3" data-name="图片 2">
+<image href="assets/image26.jpeg" x="692.93" y="200.01" width="442.77" height="383.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-14" data-name="TextBox 76">
+<rect x="143.53" y="219.9" width="157.39" height="42.01" fill="none"/>
+<text x="153.13" y="247.37" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#0A41BB" font-weight="bold"><tspan fill="#0A41BB" font-size="26.67" font-weight="bold">输入小标题</tspan></text>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="143.53" y="281.94" width="496.47" height="277.57" fill="none"/>
+<text x="153.13" y="302.6" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击输入标题点击输入相关标题。点击输入标题点击输入</tspan><tspan x="153.13" dy="28" fill="#404040" font-size="18.67">标题。</tspan><tspan fill="#404040" font-size="18.67">点击输入标题点击输入相关标题。</tspan></text>
+
+<text x="153.13" y="394.6" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击输入标题点击输入相关标题。点击输入标题点击输入</tspan><tspan x="153.13" dy="28" fill="#404040" font-size="18.67">标题。点击输入标题点击输入相关标题。</tspan></text>
+
+<text x="153.13" y="486.6" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点击输入标题点击输入相关标题。点击输入标题点击输入</tspan><tspan x="153.13" dy="28" fill="#404040" font-size="18.67">标题。点击输入标题点击输入相关标题。</tspan></text>
+</g>
+<g id="shape-16" data-name="Oval 74">
+<ellipse cx="397.95" cy="612.11" rx="34.32" ry="34.32" fill="#0A41BB" stroke="none"/>
+</g>
+<g id="shape-17" data-name="Oval 74">
+<ellipse cx="289.53" cy="612.11" rx="34.32" ry="34.32" fill="#0A41BB" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="Oval 74">
+<ellipse cx="181.1" cy="612.11" rx="34.32" ry="34.32" fill="#0A41BB" stroke="none"/>
+</g>
+<g id="shape-19" data-name="矩形 18">
+<rect x="1007.66" y="504.92" width="128.04" height="128.04" fill="#0A41BB" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="矩形 19">
+<rect x="466.43" y="148.99" width="669.27" height="96" fill="#0A41BB" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-21" data-name="iconfont-11420-3513168">
+<path d="M 300.06 602.87 L 300.06 606.38 L 279 606.38 L 279 602.87 L 300.06 602.87 Z M 300.06 601.12 L 279 601.12 C 277.95 601.12 277.25 601.82 277.25 602.87 L 277.25 606.38 C 277.25 607.43 277.95 608.14 279 608.14 L 300.06 608.14 C 301.11 608.14 301.81 607.43 301.81 606.38 L 301.81 602.87 C 301.81 601.82 301.11 601.12 300.06 601.12 Z M 300.06 611.65 L 300.06 615.16 L 279 615.16 L 279 611.65 L 300.06 611.65 Z M 300.06 609.89 L 279 609.89 C 277.95 609.89 277.25 610.59 277.25 611.65 L 277.25 615.16 C 277.25 616.21 277.95 616.91 279 616.91 L 300.06 616.91 C 301.11 616.91 301.81 616.21 301.81 615.16 L 301.81 611.65 C 301.81 610.59 301.11 609.89 300.06 609.89 Z M 300.06 620.42 L 300.06 623.93 L 279 623.93 L 279 620.42 L 300.06 620.42 Z M 300.06 618.67 L 279 618.67 C 277.95 618.67 277.25 619.37 277.25 620.42 L 277.25 623.93 C 277.25 624.98 277.95 625.68 279 625.68 L 300.06 625.68 C 301.11 625.68 301.81 624.98 301.81 623.93 L 301.81 620.42 C 301.81 619.37 301.11 618.67 300.06 618.67 Z M 281.63 603.75 C 282.16 603.75 282.51 604.1 282.51 604.63 C 282.51 605.15 282.16 605.51 281.63 605.51 C 281.11 605.51 280.76 605.15 280.76 604.63 C 280.76 604.1 281.11 603.75 281.63 603.75 Z M 281.63 612.52 C 282.16 612.52 282.51 612.88 282.51 613.4 C 282.51 613.93 282.16 614.28 281.63 614.28 C 281.11 614.28 280.76 613.93 280.76 613.4 C 280.76 612.88 281.11 612.52 281.63 612.52 Z M 281.63 621.3 L 285.14 621.3 C 285.67 621.3 286.02 621.65 286.02 622.17 C 286.02 622.7 285.67 623.05 285.14 623.05 L 281.63 623.05 C 281.11 623.05 280.76 622.7 280.76 622.17 C 280.76 621.65 281.11 621.3 281.63 621.3 Z" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-22" data-name="iconfont-10499-5121525">
+<path d="M 190.55 611.85 L 177.57 611.85 C 177.19 611.85 176.86 612.17 176.86 612.56 C 176.86 612.94 177.19 613.27 177.57 613.27 L 190.55 613.27 C 190.93 613.27 191.26 612.94 191.26 612.56 C 191.26 612.12 190.93 611.85 190.55 611.85 Z M 190.55 617.82 L 177.57 617.82 C 177.19 617.82 176.86 618.15 176.86 618.53 C 176.86 618.91 177.19 619.24 177.57 619.24 L 190.55 619.24 C 190.93 619.24 191.26 618.91 191.26 618.53 C 191.26 618.15 190.93 617.82 190.55 617.82 Z M 194.28 604.02 L 184.96 604.02 L 184.8 603.58 C 183.7 600.51 181.57 599.74 179.98 599.68 L 167.93 599.68 C 166.89 599.68 166.07 600.51 166.07 601.49 L 166.07 624.34 C 166.07 625.32 166.89 626.14 167.93 626.14 L 194.28 626.14 C 195.32 626.14 196.14 625.32 196.14 624.34 L 196.14 605.82 C 196.14 604.84 195.32 604.02 194.28 604.02 Z M 167.93 602.32 C 167.93 600.89 168.42 601.11 170.5 601.11 L 177.95 601.11 C 181.13 601.11 181.95 601.82 182.55 602.87 L 182.99 603.96 L 167.93 603.96 L 167.93 602.32 Z M 194.38 622.36 C 194.38 624.45 193.67 624.5 191.92 624.5 L 170.39 624.5 C 168.26 624.5 167.93 624.34 167.93 622.03 L 167.93 605.71 L 192.36 605.71 C 194.66 605.71 194.38 606.59 194.38 608.18 L 194.38 622.36 Z M 170.94 611.3 L 173.24 611.3 L 173.24 613.6 L 170.94 613.6 L 170.94 611.3 Z M 170.94 617.38 L 173.24 617.38 L 173.24 619.68 L 170.94 619.68 L 170.94 617.38 Z M 170.94 617.38 Z" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-23" data-name="list-menu_16051">
+<path d="M 396.78 619.69 L 406.24 619.69 C 406.7 619.69 407.08 620.07 407.08 620.53 C 407.08 621 406.7 621.37 406.24 621.37 L 396.78 621.37 C 396.32 621.37 395.94 621 395.94 620.53 C 395.94 620.07 396.32 619.69 396.78 619.69 Z M 390.27 618.78 L 393.78 618.78 L 393.78 622.28 L 390.27 622.28 Z M 396.78 612.93 L 406.24 612.93 C 406.7 612.93 407.08 613.32 407.08 613.78 C 407.08 614.25 406.7 614.62 406.24 614.62 L 396.78 614.62 C 396.32 614.62 395.94 614.25 395.94 613.78 C 395.94 613.32 396.32 612.93 396.78 612.93 Z M 390.27 612.03 L 393.78 612.03 L 393.78 615.53 L 390.27 615.53 Z M 396.78 606.18 L 406.24 606.18 C 406.7 606.18 407.08 606.56 407.08 607.03 C 407.08 607.5 406.7 607.87 406.24 607.87 L 396.78 607.87 C 396.32 607.87 395.94 607.5 395.94 607.03 C 395.94 606.56 396.32 606.18 396.78 606.18 Z M 390.27 605.28 L 393.78 605.28 L 393.78 608.78 L 390.27 608.78 Z M 388.67 602.7 L 388.67 624.09 L 410.1 624.09 L 410.1 602.7 Z M 387.4 600.17 L 411.36 600.17 C 412.06 600.17 412.63 600.74 412.63 601.44 L 412.63 625.35 C 412.63 626.06 412.06 626.62 411.36 626.62 L 387.4 626.62 C 386.71 626.62 386.14 626.06 386.14 625.35 L 386.14 601.44 C 386.14 600.74 386.71 600.17 387.4 600.17 Z" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-24" data-name="文本框 23">
+<rect x="539.55" y="177.35" width="506.34" height="42.01" fill="none"/>
+<text x="792.72" y="204.82" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">请您在此处输入相关小标题</tspan></text>
+</g></svg>

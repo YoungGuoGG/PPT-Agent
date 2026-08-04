@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#EC61EA"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><marker id="marrow1" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker><linearGradient id="ggrad3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><marker id="marrow3" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker><marker id="marrow4" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker><linearGradient id="ggrad4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><marker id="marrow5" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker><marker id="marrow6" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#D9D9D9"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="../assets/image1.png" x="-20.87" y="-29.13" width="150.93" height="150.93" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-161" data-name="图形" transform="rotate(270 400.97 72.83)">
+<ellipse cx="400.97" cy="72.83" rx="23.83" ry="23.83" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-160" data-name="图形">
+<rect x="114.87" y="49" width="315.27" height="67.73" fill="none"/>
+<text x="124.47" y="94.6" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="48" fill="#262626"><tspan fill="#262626" font-size="48">作品系列展示</tspan></text>
+</g>
+<g id="shape-16" data-name="图形">
+<g id="shape-5" data-name="图形">
+<g id="shape-2" data-name="3">
+<g id="shape-3" data-name="图形">
+<path d="M 504.66 282.99 C 523.93 282.73 543.21 282.99 562.49 282.99 C 566.66 282.99 568.48 281.95 569 277.27 C 571.61 250.49 594.53 230.73 617.97 229.95 C 621.88 229.69 621.88 227.61 621.88 224.75 C 621.88 204.73 621.88 184.72 621.88 164.44 C 621.88 163.14 621.62 161.84 621.36 160.02 C 606.51 160.28 592.71 162.62 579.16 167.56 C 533.31 184.2 500.75 228.91 498.93 277.01 C 498.67 281.95 500.23 282.99 504.66 282.99 Z" fill="url(#ggrad2)" stroke="none"/>
+</g>
+<g id="shape-9" data-name="图形">
+<line x1="600.61" y1="173.56" x2="695.2" y2="173.56" stroke="#D9D9D9" marker-start="url(#marrow1)" marker-end="url(#marrow2)" fill="#26C6EC" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="图形">
+<rect x="724.65" y="152.27" width="53.89" height="54.92" fill="none"/>
+<text x="751.59" y="188.8" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="37.33" fill="#262626"><tspan fill="#262626" font-size="37.33">01</tspan></text>
+</g>
+</g>
+<g id="shape-23" data-name="2">
+<g id="shape-4" data-name="图形">
+<path d="M 708.71 367.65 C 730.28 344.8 741.98 318.05 743.8 286.63 C 743.8 283.51 743.02 282.73 740.16 282.73 C 719.37 282.73 698.83 282.73 678.3 282.73 C 675.18 282.73 674.14 283.51 673.62 286.89 C 670.76 313.64 651.52 332.85 624.49 335.19 C 618.51 335.71 612.27 335.71 606.29 336.49 C 577.18 340.38 552.23 352.33 532.21 374.4 C 511.94 396.99 500.5 422.96 498.94 453.35 C 498.68 457.24 499.72 458.8 503.62 458.8 C 513.49 458.54 523.37 458.54 533.25 458.54 C 543.13 458.54 553.01 458.54 562.88 458.54 C 566.52 458.8 568.34 458.02 568.86 453.61 C 570.42 437.25 578.48 424 592 414.39 C 603.17 406.86 615.91 405.56 628.65 404.53 C 659.84 402.45 686.87 390.5 708.71 367.65 Z" fill="url(#ggrad3)" stroke="none"/>
+</g>
+<g id="shape-11" data-name="图形">
+<line x1="465.1" y1="377.76" x2="559.68" y2="377.76" stroke="#D9D9D9" marker-start="url(#marrow3)" marker-end="url(#marrow4)" fill="#26C6EC" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="图形">
+<rect x="375.47" y="356.46" width="58.43" height="54.94" fill="none"/>
+<text x="404.68" y="393" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="37.33" fill="#262626"><tspan fill="#262626" font-size="37.33">02</tspan></text>
+</g>
+</g>
+<g id="shape-22" data-name="1">
+<g id="shape-13" data-name="图形">
+<path d="M 739.65 458.47 C 719.8 458.73 700.22 458.47 680.63 458.47 C 678.8 458.47 677.23 458.73 675.4 458.99 C 675.4 460.03 675.14 460.81 675.14 461.33 C 673.05 489.7 649.02 510.27 625.52 510.79 C 621.86 510.79 621.6 512.61 621.6 515.47 C 621.6 536.04 621.6 556.6 621.6 577.43 C 621.6 578.21 621.86 579.25 622.12 580.55 C 644.06 581.59 669.14 574.3 690.29 559.73 C 723.98 536.82 742.27 504.8 744.88 464.19 C 745.4 459.77 743.83 458.47 739.65 458.47 Z" fill="url(#ggrad4)" stroke="none"/>
+</g>
+<g id="shape-14" data-name="图形">
+<line x1="688.11" y1="519.9" x2="782.7" y2="519.9" stroke="#D9D9D9" marker-start="url(#marrow5)" marker-end="url(#marrow6)" fill="#26C6EC" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="图形">
+<rect x="811.39" y="498.6" width="59.61" height="54.94" fill="none"/>
+<text x="841.2" y="535.13" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="37.33" fill="#262626"><tspan fill="#262626" font-size="37.33">03</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-6" data-name="图形">
+<rect x="144.2" y="372.47" width="231.27" height="151.4" stroke="none" fill="none"/>
+<text x="365.87" y="393.13" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan><tspan x="365.87" dy="28" fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan><tspan x="365.87" dy="28" fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan><tspan x="365.87" dy="28" fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-7" data-name="图形">
+<rect x="167.6" y="331.93" width="207.87" height="45.8" fill="none" stroke="none"/>
+<text x="366.02" y="363.49" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="26.67" font-weight="bold">预设标题文本</tspan></text>
+</g>
+<g id="shape-8" data-name="图形">
+<rect x="778.53" y="188.13" width="231.27" height="151.4" stroke="none" fill="none"/>
+<text x="788.13" y="208.8" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan><tspan x="788.13" dy="28" fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan><tspan x="788.13" dy="28" fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-24" data-name="图形">
+<rect x="778.53" y="147.6" width="207.87" height="45.8" fill="none" stroke="none"/>
+<text x="787.98" y="179.15" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="26.67" font-weight="bold">预设标题文本</tspan></text>
+</g>
+<g id="shape-25" data-name="图形">
+<rect x="871.07" y="499.33" width="231.27" height="151.4" stroke="none" fill="none"/>
+<text x="880.67" y="520" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan><tspan x="880.67" dy="28" fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan><tspan x="880.67" dy="28" fill="#404040" font-size="18.67">在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-26" data-name="图形">
+<rect x="871.07" y="458.8" width="207.87" height="45.8" fill="none" stroke="none"/>
+<text x="880.52" y="490.35" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="26.67" font-weight="bold">预设标题文本</tspan></text>
+</g>
+</g></svg>

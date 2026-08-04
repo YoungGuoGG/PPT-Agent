@@ -1,0 +1,123 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<svg x="0" y="0" width="1280" height="720" viewBox="0 0.05026 1 0.89948" preserveAspectRatio="none"><image href="../assets/image1.jpeg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-41" data-name="矩形 40" transform="translate(636.8 380.9) scale(-1 1) translate(-636.8 -380.9)">
+<rect x="-7.47" y="85.87" width="1288.53" height="590.07" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-42" data-name="组合 41">
+<g id="shape-52" data-name="文本框 51">
+<rect x="66.21" y="8.32" width="253.33" height="87.24" fill="none"/>
+<text x="75.81" y="40.32" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">功能使用</tspan></text>
+<text x="75.81" y="62.85" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">Short Text Here</tspan></text>
+
+</g>
+<g id="shape-55" data-name="椭圆 54" transform="translate(45.62 33.28) scale(-1 1) translate(-45.62 -33.28)">
+<ellipse cx="45.62" cy="33.28" rx="8.75" ry="8.75" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-29" data-name="组合 28">
+<g id="shape-5" data-name="任意多边形: 形状 3">
+<path d="M 283.81 476.95 C 210 400.87 204.52 318.98 267.34 231.29" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+<g id="shape-2" data-name="任意多边形: 形状 4">
+<path d="M 217.88 548.62 C 106.87 436.62 97.05 314.31 188.4 181.69" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+<g id="shape-15" data-name="直接连接符 14">
+<line x1="109.08" y1="223.82" x2="306.28" y2="354.02" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+<g id="shape-3" data-name="直接连接符 2" transform="translate(207.61 415.62) scale(-1 1) translate(-207.61 -415.62)">
+<line x1="108.54" y1="354.42" x2="306.68" y2="476.82" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+<g id="shape-6" data-name="任意多边形: 形状 7" transform="translate(231.04 303.52) scale(-1 1) translate(-231.04 -303.52)">
+<path d="M 230.46 282.35 L 231.63 282.35 C 243 282.35 252.21 291.57 252.21 302.93 L 252.21 304.11 C 252.21 315.47 243 324.69 231.63 324.69 L 230.46 324.69 C 219.09 324.69 209.88 315.47 209.88 304.11 L 209.88 302.93 C 209.88 291.57 219.09 282.35 230.46 282.35 L 230.46 282.35 Z" fill="#44546A" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-18" data-name="任意多边形: 形状 8" transform="translate(231.04 402.99) scale(-1 1) translate(-231.04 -402.99)">
+<path d="M 230.46 381.82 L 231.63 381.82 C 243 381.82 252.21 391.04 252.21 402.4 L 252.21 403.58 C 252.21 414.94 243 424.15 231.63 424.15 L 230.46 424.15 C 219.09 424.15 209.88 414.94 209.88 403.58 L 209.88 402.4 C 209.88 391.04 219.09 381.82 230.46 381.82 L 230.46 381.82 Z" fill="#44546A" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-43" data-name="任意多边形: 形状 9" transform="translate(150.44 250.25) scale(-1 1) translate(-150.44 -250.25)">
+<path d="M 149.86 229.09 L 151.03 229.09 C 162.4 229.09 171.61 238.3 171.61 249.67 L 171.61 250.84 C 171.61 262.21 162.4 271.42 151.03 271.42 L 149.86 271.42 C 138.49 271.42 129.28 262.21 129.28 250.84 L 129.28 249.67 C 129.28 238.3 138.49 229.09 149.86 229.09 L 149.86 229.09 Z" fill="#44546A" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-44" data-name="任意多边形: 形状 10" transform="translate(125.51 352.05) scale(-1 1) translate(-125.51 -352.05)">
+<path d="M 124.92 330.89 L 126.1 330.89 C 137.46 330.89 146.68 340.1 146.68 351.47 L 146.68 352.64 C 146.68 364.01 137.46 373.22 126.1 373.22 L 124.92 373.22 C 113.56 373.22 104.34 364.01 104.34 352.64 L 104.34 351.47 C 104.34 340.1 113.56 330.89 124.92 330.89 L 124.92 330.89 Z" fill="#44546A" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-45" data-name="任意多边形: 形状 11" transform="translate(150.44 453.92) scale(-1 1) translate(-150.44 -453.92)">
+<path d="M 149.86 432.75 L 151.03 432.75 C 162.4 432.75 171.61 441.97 171.61 453.33 L 171.61 454.51 C 171.61 465.87 162.4 475.09 151.03 475.09 L 149.86 475.09 C 138.49 475.09 129.28 465.87 129.28 454.51 L 129.28 453.33 C 129.28 441.97 138.49 432.75 149.86 432.75 L 149.86 432.75 Z" fill="#44546A" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-46" data-name="椭圆 45" transform="translate(400.58 352.05) scale(-1 1) translate(-400.58 -352.05)">
+<ellipse cx="400.58" cy="352.05" rx="97.7" ry="97.7" fill="#44546A" stroke-width="1.333" stroke-linejoin="miter"/>
+<text x="400.58" y="358.05" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="24" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-47" data-name="矩形 46">
+<rect x="214.68" y="291.49" width="32.73" height="24.13" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="231.04" y="312.29" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">A</tspan></text>
+</g>
+<g id="shape-48" data-name="矩形 47">
+<rect x="214.68" y="389.55" width="32.73" height="25.53" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="231.04" y="410.35" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">A</tspan></text>
+</g>
+<g id="shape-49" data-name="矩形 48">
+<rect x="115.28" y="339.95" width="32.73" height="24.13" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="117.94" y="360.75" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">B</tspan></text>
+</g>
+<g id="shape-50" data-name="矩形 49">
+<rect x="140.28" y="238.15" width="32.73" height="24.13" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="142.94" y="258.95" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">B</tspan></text>
+</g>
+<g id="shape-51" data-name="矩形 50">
+<rect x="139.41" y="442.89" width="32.73" height="24.13" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="142.08" y="463.69" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">B</tspan></text>
+</g>
+</g>
+<g id="shape-32" data-name="组合 31">
+<g id="shape-53" data-name="矩形 52">
+<rect x="575.73" y="228.15" width="266.13" height="118.07" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="575.73" y="244.02" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">请替换文字内容复制你的内容到</tspan><tspan x="575.73" dy="22.4" fill="#404040" font-size="18.67">此请替换文字内容复制你的内容</tspan><tspan x="575.73" dy="22.4" fill="#404040" font-size="18.67">到此</tspan></text>
+</g>
+<g id="shape-54" data-name="矩形 53">
+<rect x="575.73" y="163.42" width="266.13" height="47.87" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="575.73" y="194.02" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#44546A"><tspan fill="#44546A" font-size="26.67">添加标题</tspan></text>
+</g>
+<g id="shape-9" data-name="直接连接符 8">
+<line x1="575.73" y1="216.55" x2="811.93" y2="216.55" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+</g>
+<g id="shape-31" data-name="组合 30">
+<g id="shape-12" data-name="矩形 11">
+<rect x="575.73" y="446.62" width="266.13" height="118.07" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="575.73" y="462.49" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">请替换文字内容复制你的内容到</tspan><tspan x="575.73" dy="22.4" fill="#404040" font-size="18.67">此请替换文字内容复制你的内容</tspan><tspan x="575.73" dy="22.4" fill="#404040" font-size="18.67">到此</tspan></text>
+</g>
+<g id="shape-13" data-name="矩形 12">
+<rect x="575.73" y="385.29" width="266.13" height="47.87" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="575.73" y="415.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#44546A"><tspan fill="#44546A" font-size="26.67">添加标题</tspan></text>
+</g>
+<g id="shape-19" data-name="直接连接符 18">
+<line x1="575.73" y1="435.55" x2="811.93" y2="435.55" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+</g>
+<g id="shape-33" data-name="组合 32">
+<g id="shape-21" data-name="矩形 20">
+<rect x="877.87" y="228.15" width="266.13" height="118.07" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="877.87" y="244.02" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">请替换文字内容复制你的内容到</tspan><tspan x="877.87" dy="22.4" fill="#404040" font-size="18.67">此请替换文字内容复制你的内容</tspan><tspan x="877.87" dy="22.4" fill="#404040" font-size="18.67">到此</tspan></text>
+</g>
+<g id="shape-22" data-name="矩形 21">
+<rect x="877.87" y="164.89" width="266.13" height="47.87" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="877.87" y="195.49" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#44546A"><tspan fill="#44546A" font-size="26.67">添加标题</tspan></text>
+</g>
+<g id="shape-23" data-name="直接连接符 22">
+<line x1="877.87" y1="216.55" x2="1114.07" y2="216.55" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+</g>
+<g id="shape-30" data-name="组合 29">
+<g id="shape-25" data-name="矩形 24">
+<rect x="877.87" y="446.62" width="266.13" height="118.07" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="877.87" y="462.49" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">请替换文字内容复制你的内容到</tspan><tspan x="877.87" dy="22.4" fill="#404040" font-size="18.67">此请替换文字内容复制你的内容</tspan><tspan x="877.87" dy="22.4" fill="#404040" font-size="18.67">到此</tspan></text>
+</g>
+<g id="shape-26" data-name="矩形 25">
+<rect x="877.87" y="386.75" width="266.13" height="47.87" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="877.87" y="417.35" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#44546A"><tspan fill="#44546A" font-size="26.67">添加标题</tspan></text>
+</g>
+<g id="shape-27" data-name="直接连接符 26">
+<line x1="877.87" y1="435.55" x2="1114.07" y2="435.55" stroke="#CFCFCF" stroke-linejoin="miter" fill="none"/>
+</g>
+</g></svg>

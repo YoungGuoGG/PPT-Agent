@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient></defs><g id="shape-16" data-name="图片 15">
+<image href="../assets/image3.jpeg" x="0" y="80.36" width="962.22" height="639.64" preserveAspectRatio="none"/>
+</g>
+<g id="shape-13" data-name="组合 12">
+<g id="shape-12" data-name="任意多边形: 形状 11">
+<path d="M 918.03 0 L 1280 0 L 1280 720 L 918.03 720 Z" fill="#DBDBDB" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="图片 9">
+<svg x="0" y="0" width="949" height="720" viewBox="0.43496 0.21091 0.40473 0.47823" preserveAspectRatio="none"><image href="../assets/image2.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+</g>
+<g id="shape-24" data-name="文本框 23">
+<rect x="676" y="68.13" width="515.83" height="58.16" fill="none"/>
+<text x="1191.83" y="88.53" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, sans-serif" font-size="24" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="24">A journey through time, my encounter with </tspan><tspan x="1191.83" dy="28.8" fill="#9AAFC2" font-size="24">beautiful scenery</tspan></text>
+</g>
+<g id="shape-39" data-name="组合 38">
+<g id="shape-33" data-name="平行四边形 32">
+<polygon points="62.62,82.06 67.82,82.06 66.08,112.36 60.88,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-34" data-name="平行四边形 33">
+<polygon points="78.49,82.06 83.69,82.06 81.96,112.36 76.76,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-36" data-name="平行四边形 35">
+<polygon points="94.37,82.06 99.57,82.06 97.84,112.36 92.64,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-37" data-name="平行四边形 36">
+<polygon points="110.25,82.06 115.45,82.06 113.72,112.36 108.52,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-43" data-name="文本框 42">
+<rect x="880.36" y="401.6" width="322.07" height="77.52" fill="none"/>
+<text x="889.96" y="420" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">碌的都市生活让我疲惫不堪，我渴望一个</tspan><tspan x="889.96" dy="19.2" fill="#808080" font-size="16">属于自己的冒险，于是决定一个人踏上旅</tspan><tspan x="889.96" dy="19.2" fill="#808080" font-size="16">行的征程。</tspan></text>
+</g>
+<g id="shape-44" data-name="文本框 43">
+<rect x="881.16" y="338.68" width="322.07" height="54.25" fill="none"/>
+<text x="890.76" y="357.08" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">一个人的旅行，放飞自我，寻找内心的自</tspan><tspan x="890.76" dy="19.2" fill="#808080" font-size="16">由之旅</tspan></text>
+</g>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-45" data-name="直接连接符 44">
+<line x1="893.43" y1="514.59" x2="920.17" y2="514.59" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-46" data-name="直接连接符 45">
+<line x1="930.25" y1="514.59" x2="996.73" y2="514.59" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="890.43" y="278.3" width="322.07" height="51.7" fill="none"/>
+<text x="890.43" y="314.57" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="42.67">一个人的旅行</tspan></text>
+</g>
+<g id="shape-6" data-name="组合 5">
+<g id="shape-3" data-name="Rectangle 35">
+<rect x="971.1" y="613.98" width="219.93" height="51.33" fill="none" stroke-width="0.333" stroke="#9AAFC2"/>
+</g>
+<g id="shape-4" data-name="TextBox 36">
+<rect x="994.73" y="631.25" width="186" height="22.62" fill="none"/>
+<text x="1004.33" y="645.23" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="10.67" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="10.67">THE SIGNIFICANCE OF TRAVEL</tspan></text>
+</g>
+</g></svg>

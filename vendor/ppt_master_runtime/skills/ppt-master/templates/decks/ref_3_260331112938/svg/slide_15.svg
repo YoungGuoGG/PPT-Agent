@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient></defs><g id="shape-2" data-name="图形">
+<image href="../assets/image15.png" x="692.73" y="28" width="559.87" height="611.4" preserveAspectRatio="none"/>
+</g>
+<g id="shape-22" data-name="图形">
+<g id="shape-4" data-name="图形">
+<g id="shape-5" data-name="图形">
+<g id="shape-6" data-name="图形">
+<ellipse cx="234.74" cy="345.69" rx="49.99" ry="49.98" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="图形">
+<path d="M 248.63 336.36 L 257.77 336.36 L 257.77 366.41 L 254.76 366.41 L 254.76 347.09 L 247.8 347.09 Z M 211.72 336.36 L 220.86 336.36 L 221.69 347.09 L 214.72 347.09 L 214.72 366.41 L 211.72 366.41 Z M 222.98 324.84 L 246.5 324.84 L 244.79 347.09 L 236.25 347.09 L 236.25 350.1 L 246.96 350.1 L 246.96 358.95 L 236.25 358.95 L 236.25 361.3 C 238.41 361.77 240.24 363.27 241.13 365.38 L 238.36 366.54 C 237.94 365.56 237.18 364.82 236.25 364.43 L 236.25 366.52 L 233.24 366.52 L 233.24 364.43 C 232.31 364.82 231.54 365.56 231.13 366.54 L 228.36 365.38 C 229.24 363.27 231.08 361.77 233.24 361.3 L 233.24 358.95 L 222.53 358.95 L 222.53 350.1 L 233.24 350.1 L 233.24 347.09 L 224.7 347.09 Z" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-8" data-name="图形">
+<rect x="141.69" y="219.47" width="186.11" height="61.26" fill="none"/>
+<text x="234.74" y="260.53" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="42.67" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="42.67" font-weight="bold">01</tspan></text>
+</g>
+</g>
+<g id="shape-18" data-name="图形">
+<g id="shape-10" data-name="图形" transform="translate(368.64 387.5) scale(-1 1) translate(-368.64 -387.5)">
+<line x1="368.64" y1="237.76" x2="368.64" y2="537.23" stroke-width="1.333" stroke="#D9D9D9" stroke-dasharray="4 4" fill="#26C6EC"/>
+</g>
+<g id="shape-11" data-name="图形" transform="translate(633.4 387.5) scale(-1 1) translate(-633.4 -387.5)">
+<line x1="633.4" y1="237.76" x2="633.4" y2="537.23" stroke-width="1.333" stroke="#D9D9D9" stroke-dasharray="4 4" fill="#26C6EC"/>
+</g>
+</g>
+<g id="shape-13" data-name="图形">
+<g id="shape-14" data-name="图形">
+<ellipse cx="501.08" cy="345.69" rx="49.99" ry="49.98" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="图形">
+<path d="M 514.97 336.36 L 524.11 336.36 L 524.11 366.41 L 521.1 366.41 L 521.1 347.09 L 514.14 347.09 Z M 478.06 336.36 L 487.2 336.36 L 488.03 347.09 L 481.06 347.09 L 481.06 366.41 L 478.06 366.41 Z M 489.32 324.84 L 512.84 324.84 L 511.13 347.09 L 502.58 347.09 L 502.58 350.1 L 513.29 350.1 L 513.29 358.95 L 502.58 358.95 L 502.58 361.3 C 504.75 361.77 506.58 363.27 507.47 365.38 L 504.69 366.54 C 504.28 365.56 503.52 364.82 502.58 364.43 L 502.58 366.52 L 499.58 366.52 L 499.58 364.43 C 498.64 364.82 497.88 365.56 497.46 366.54 L 494.7 365.38 C 495.58 363.27 497.42 361.77 499.58 361.3 L 499.58 358.95 L 488.86 358.95 L 488.86 350.1 L 499.58 350.1 L 499.58 347.09 L 491.04 347.09 Z" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="图形">
+<rect x="408.03" y="219.47" width="186.11" height="61.26" fill="none"/>
+<text x="501.08" y="260.53" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="42.67" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="42.67" font-weight="bold">02</tspan></text>
+</g>
+</g>
+<g id="shape-87" data-name="图形">
+<rect x="129.53" y="458.52" width="210.42" height="95.55" stroke="none" fill="none"/>
+<text x="234.74" y="474.65" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#404040"><tspan fill="#404040" font-size="13.33">在此处添加您的文本内容在此处</tspan><tspan x="234.74" dy="20" fill="#404040" font-size="13.33">添加您的文本内容在此处添加您</tspan><tspan x="234.74" dy="20" fill="#404040" font-size="13.33">的文本内容在此处添加您的文本</tspan></text>
+</g>
+<g id="shape-88" data-name="图形">
+<rect x="160.04" y="416.7" width="149.46" height="41.82" fill="none" stroke="none"/>
+<text x="234.77" y="450.01" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="24" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="24" font-weight="bold">预设标题文本</tspan></text>
+</g>
+<g id="shape-20" data-name="图形">
+<rect x="395.87" y="458.52" width="210.42" height="95.55" stroke="none" fill="none"/>
+<text x="501.08" y="474.65" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#404040"><tspan fill="#404040" font-size="13.33">在此处添加您的文本内容在此处</tspan><tspan x="501.08" dy="20" fill="#404040" font-size="13.33">添加您的文本内容在此处添加您</tspan><tspan x="501.08" dy="20" fill="#404040" font-size="13.33">的文本内容在此处添加您的文本</tspan></text>
+</g>
+<g id="shape-21" data-name="图形">
+<rect x="426.38" y="416.7" width="149.46" height="41.82" fill="none" stroke="none"/>
+<text x="501.11" y="450.01" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="24" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="24" font-weight="bold">预设标题文本</tspan></text>
+</g>
+</g>
+<g id="shape-19" data-name="图形" transform="translate(948.07 364.03) scale(-1 1) translate(-948.07 -364.03)">
+<image href="../assets/image16.png" x="692.73" y="108.73" width="510.67" height="510.6" preserveAspectRatio="none"/>
+</g>
+</g></svg>

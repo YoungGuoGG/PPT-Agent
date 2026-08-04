@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><rect x="155.58" y="480.42" width="249.45" height="162.52" rx="14.35" ry="14.35"/></clipPath><clipPath id="clip2" clipPathUnits="userSpaceOnUse"><rect x="510.41" y="480.54" width="249.45" height="162.47" rx="15.33" ry="15.33"/></clipPath><clipPath id="clip3" clipPathUnits="userSpaceOnUse"><rect x="865.24" y="480.61" width="249.45" height="162.47" rx="14.35" ry="14.35"/></clipPath><clipPath id="clip4" clipPathUnits="userSpaceOnUse"><rect x="155.58" y="252.52" width="249.45" height="162.52" rx="13.37" ry="13.37"/></clipPath><clipPath id="clip5" clipPathUnits="userSpaceOnUse"><rect x="510.41" y="252.52" width="249.45" height="162.52" rx="13.37" ry="13.37"/></clipPath><clipPath id="clip6" clipPathUnits="userSpaceOnUse"><rect x="865.24" y="252.52" width="249.45" height="162.52" rx="13.37" ry="13.37"/></clipPath><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-4" data-name="图片 3">
+<image href="../assets/image34.png" x="124.16" y="437.88" width="1023.84" height="211.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="图片 4">
+<image href="../assets/image34.png" x="124.16" y="210.76" width="1023.84" height="211.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">工艺创新</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="90.15" y="100.89" width="1099.69" height="62.77" fill="none"/>
+<text x="640" y="137.48" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, &quot;微软雅黑&quot;, sans-serif" font-size="34.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="34.67">请输入内容</tspan><tspan fill="url(#txtgrad2)" font-size="37.33">请输入内容</tspan></text>
+</g>
+<g id="shape-20" data-name="矩形: 圆角 19">
+<image clip-path="url(#clip1)" href="../assets/image35.png" x="155.58" y="480.42" width="249.45" height="162.52" preserveAspectRatio="none"/>
+<rect x="155.58" y="480.42" width="249.45" height="162.52" rx="14.35" ry="14.35" fill="none" stroke-width="1.333" stroke-linecap="butt" stroke="#4B64C1" stroke-linejoin="miter"/>
+</g>
+<g id="shape-22" data-name="矩形: 圆角 21">
+<image clip-path="url(#clip2)" href="../assets/image36.png" x="510.41" y="480.54" width="249.45" height="162.47" preserveAspectRatio="none"/>
+<rect x="510.41" y="480.54" width="249.45" height="162.47" rx="15.33" ry="15.33" fill="none" stroke-width="1.333" stroke-linecap="butt" stroke="#4B64C1" stroke-linejoin="miter"/>
+</g>
+<g id="shape-24" data-name="圆角矩形 23">
+<image clip-path="url(#clip3)" href="../assets/image37.jpeg" x="865.24" y="480.61" width="249.45" height="162.47" preserveAspectRatio="none"/>
+<rect x="865.24" y="480.61" width="249.45" height="162.47" rx="14.35" ry="14.35" fill="none" stroke="#4B64C1" stroke-width="1"/>
+</g>
+<g id="shape-27" data-name="矩形: 圆角 26">
+<image clip-path="url(#clip4)" href="../assets/image38.jpeg" x="155.58" y="252.52" width="249.45" height="162.52" preserveAspectRatio="none"/>
+<rect x="155.58" y="252.52" width="249.45" height="162.52" rx="13.37" ry="13.37" fill="none" stroke-width="1.333" stroke-linecap="butt" stroke="#4B64C1" stroke-linejoin="miter"/>
+</g>
+<g id="shape-29" data-name="矩形: 圆角 28">
+<image clip-path="url(#clip5)" href="../assets/image39.png" x="510.41" y="252.52" width="249.45" height="162.52" preserveAspectRatio="none"/>
+<rect x="510.41" y="252.52" width="249.45" height="162.52" rx="13.37" ry="13.37" fill="none" stroke-width="1.333" stroke-linecap="butt" stroke="#4B64C1" stroke-linejoin="miter"/>
+</g>
+<g id="shape-31" data-name="矩形: 圆角 30">
+<image clip-path="url(#clip6)" href="../assets/image40.jpeg" x="865.24" y="252.52" width="249.45" height="162.52" preserveAspectRatio="none"/>
+<rect x="865.24" y="252.52" width="249.45" height="162.52" rx="13.37" ry="13.37" fill="none" stroke-width="1.333" stroke-linecap="butt" stroke="#4B64C1" stroke-linejoin="miter"/>
+</g>
+<g id="shape-37" data-name="文本框 36">
+<rect x="904.14" y="212.35" width="181.25" height="38.67" fill="none" filter="url(#fx1)"/>
+<text x="913.74" y="240.08" text-anchor="start" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">请输入内容</tspan></text>
+</g>
+<g id="shape-39" data-name="文本框 38">
+<rect x="539.34" y="212.35" width="192.94" height="38.67" fill="none"/>
+<text x="635.81" y="240.08" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">请输入内容</tspan></text>
+</g>
+<g id="shape-42" data-name="文本框 41">
+<rect x="185.61" y="212.35" width="186.03" height="38.67" fill="none" filter="url(#fx2)"/>
+<text x="278.63" y="240.08" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">请输入内容</tspan></text>
+</g>
+<g id="shape-43" data-name="文本框 42">
+<rect x="192.27" y="439.9" width="169.76" height="38.67" fill="none"/>
+<text x="277.15" y="467.64" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">请输入内容</tspan></text>
+</g>
+<g id="shape-44" data-name="文本框 43">
+<rect x="549.4" y="439.9" width="169.76" height="38.67" fill="none"/>
+<text x="634.28" y="467.64" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">请输入内容</tspan></text>
+</g>
+<g id="shape-45" data-name="文本框 44">
+<rect x="908.06" y="439.9" width="169.76" height="38.67" fill="none"/>
+<text x="917.66" y="467.64" text-anchor="start" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">请输入内容</tspan></text>
+</g></svg>

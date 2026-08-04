@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-2" data-name="图片 1">
+<image href="assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2">
+<image href="assets/image5.png" x="1070.88" y="618.55" width="104.74" height="53.87" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-19" data-name="文本框 18">
+<rect x="33.32" y="32.4" width="225.08" height="42.01" fill="none"/>
+<text x="42.92" y="59.87" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">输入您的标题</tspan></text>
+</g>
+<g id="layout-shape-7" data-name="图片 6">
+<image href="assets/image7.png" x="258.4" y="47.22" width="14.23" height="14.38" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="矩形 2">
+<rect x="743.76" y="156.51" width="125.23" height="54.93" fill="none"/>
+<text x="806.38" y="193.04" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="37.33" font-weight="bold">02</tspan></text>
+</g>
+<g id="shape-4" data-name="矩形 3">
+<rect x="952.46" y="227.2" width="125.23" height="54.93" fill="none"/>
+<text x="1015.08" y="263.73" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="37.33" font-weight="bold">03</tspan></text>
+</g>
+<g id="shape-5" data-name="矩形 4">
+<rect x="559.77" y="223.63" width="125.23" height="54.93" fill="none"/>
+<text x="622.39" y="260.16" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="37.33" font-weight="bold">01</tspan></text>
+</g>
+<g id="shape-6" data-name="椭圆 5">
+<ellipse cx="623.38" cy="252.28" rx="40.39" ry="40.39" fill="none" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="542.91" y="303.39" width="150.25" height="266.61" fill="none"/>
+</g>
+<g id="shape-7-text" data-name="文本框 6 text">
+<text x="618.04" y="323.79" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">根</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">据</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">您</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">的</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">具</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">体</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">内</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">容</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">酌</tspan><tspan x="618.04" dy="25.2" fill="#404040" font-size="24">情</tspan></text>
+</g>
+<g id="shape-8" data-name="椭圆 7">
+<ellipse cx="808.76" cy="183.66" rx="40.39" ry="40.39" fill="none" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="738.87" y="239.39" width="150.25" height="266.61" fill="none"/>
+</g>
+<g id="shape-9-text" data-name="文本框 8 text">
+<text x="814" y="259.79" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">根</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">据</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">您</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">的</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">具</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">体</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">内</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">容</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">酌</tspan><tspan x="814" dy="25.2" fill="#404040" font-size="24">情</tspan></text>
+</g>
+<g id="shape-10" data-name="椭圆 9">
+<ellipse cx="1016.24" cy="255.53" rx="40.39" ry="40.39" fill="none" stroke="#31B199" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="941.54" y="303.39" width="150.25" height="266.61" fill="none"/>
+</g>
+<g id="shape-11-text" data-name="文本框 10 text">
+<text x="1016.66" y="323.79" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">根</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">据</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">您</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">的</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">具</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">体</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">内</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">容</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">酌</tspan><tspan x="1016.66" dy="25.2" fill="#404040" font-size="24">情</tspan></text>
+</g>
+</g>
+<g id="shape-15" data-name="图片 14">
+<image href="assets/image20.png" x="14.62" y="143.27" width="525.31" height="525.31" preserveAspectRatio="none"/>
+</g></svg>

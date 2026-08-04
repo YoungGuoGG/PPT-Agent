@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="rotate(90 640 360)">
+<image href="../assets/image1.png" x="280" y="-280" width="720" height="1280" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="图片 4">
+<image href="../assets/image3.png" x="717.91" y="0" width="562.09" height="457.92" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="../assets/image10.png" x="902.75" y="0" width="377.25" height="292" preserveAspectRatio="none"/>
+</g>
+<g id="shape-15" data-name="矩形 14">
+<image href="../assets/image23.jpeg" x="160" y="193.82" width="480" height="445.06" preserveAspectRatio="none"/>
+<rect x="160" y="193.82" width="480" height="445.06" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="文本框 19">
+<rect x="744.21" y="193.82" width="349.35" height="106.39" fill="none"/>
+<text x="753.81" y="214.49" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">点击添加文本信息点击添加文本信息点</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">击添加文本信息点击添加文本信息点击</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">添加文本信息</tspan></text>
+</g>
+<g id="shape-21" data-name="直接连接符 20">
+<line x1="692.44" y1="234.78" x2="720.12" y2="234.78" stroke-width="2" stroke="#404040" fill="#3B3B3B"/>
+</g>
+<g id="shape-22" data-name="文本框 21">
+<rect x="744.21" y="317.68" width="349.35" height="106.39" fill="none"/>
+<text x="753.81" y="338.35" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">点击添加文本信息点击添加文本信息点</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">击添加文本信息点击添加文本信息点击</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">添加文本信息</tspan></text>
+</g>
+<g id="shape-23" data-name="直接连接符 22">
+<line x1="692.44" y1="358.64" x2="720.12" y2="358.64" stroke-width="2" stroke="#404040" fill="#3B3B3B"/>
+</g>
+<g id="shape-24" data-name="文本框 23">
+<rect x="744.21" y="440.88" width="349.35" height="106.39" fill="none"/>
+<text x="753.81" y="461.55" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">点击添加文本信息点击添加文本信息点</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">击添加文本信息点击添加文本信息点击</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">添加文本信息</tspan></text>
+</g>
+<g id="shape-25" data-name="直接连接符 24">
+<line x1="692.44" y1="481.84" x2="720.12" y2="481.84" stroke-width="2" stroke="#404040" fill="#3B3B3B"/>
+</g>
+<g id="shape-26" data-name="文本框 25">
+<rect x="744.21" y="564.68" width="349.35" height="106.39" fill="none"/>
+<text x="753.81" y="585.34" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">点击添加文本信息点击添加文本信息点</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">击添加文本信息点击添加文本信息点击</tspan><tspan x="753.81" dy="28" fill="#0D0D0D" font-size="18.67">添加文本信息</tspan></text>
+</g>
+<g id="shape-27" data-name="直接连接符 26">
+<line x1="692.44" y1="605.63" x2="720.12" y2="605.63" stroke-width="2" stroke="#404040" fill="#3B3B3B"/>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="45.61" y="22.38" width="227.3" height="54.93" fill="none"/>
+<text x="55.21" y="58.91" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="37.33" fill="#000000"><tspan fill="#000000" font-size="37.33">添加标题</tspan></text>
+</g></svg>

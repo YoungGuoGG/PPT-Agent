@@ -1,0 +1,130 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#040428" stop-opacity="0.8"/><stop offset="0" stop-color="#020E36" stop-opacity="0.86"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#018ABE"/><stop offset="1" stop-color="#02457A"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="53.33" stdDeviation="57.33" flood-color="#001B48" flood-opacity="0.4"/></filter><linearGradient id="ggrad5" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#018ABE"/><stop offset="1" stop-color="#02457A"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="53.33" stdDeviation="57.33" flood-color="#001B48" flood-opacity="0.4"/></filter><linearGradient id="ggrad6" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#018ABE"/><stop offset="1" stop-color="#02457A"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="53.33" stdDeviation="57.33" flood-color="#001B48" flood-opacity="0.4"/></filter><linearGradient id="ggrad7" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#018ABE"/><stop offset="1" stop-color="#02457A"/></linearGradient><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="53.33" stdDeviation="57.33" flood-color="#001B48" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-4" data-name="图片 3" transform="translate(109.09 410.21) scale(-1 1) translate(-109.09 -410.21)">
+<image href="../assets/image1_fx_865c50a5.png" x="1.28" y="99.92" width="215.61" height="620.58" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2" transform="translate(640 360.96) scale(-1 1) translate(-640 -360.96)">
+<image href="../assets/image2.jpeg" x="0" y="0.96" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-12" data-name="图片 11" transform="translate(87.31 384.43) scale(-1 1) translate(-87.31 -384.43)">
+<image href="../assets/image1_fx_865c50a5.png" x="-13.57" y="94.06" width="201.77" height="580.72" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="0" y="0" width="1280" height="720.96" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-10" data-name="图片 9" transform="rotate(32.44 1200.83 -71.31)">
+<image href="../assets/image3.png" x="671.51" y="-686.57" width="1058.65" height="1230.52" preserveAspectRatio="none"/>
+</g>
+<g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">项目团队</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="28.39" y="97.86" width="1223.23" height="63.28" fill="none"/>
+<text x="640" y="134.39" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="37.33" fill="url(#txtgrad3)"><tspan fill="url(#txtgrad3)" font-size="37.33">请输入内容</tspan></text>
+</g>
+<g id="shape-2" data-name="椭圆 1">
+<ellipse cx="200.32" cy="307.26" rx="111.27" ry="111.27" fill="url(#ggrad4)" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-45" data-name="椭圆 44">
+<ellipse cx="493.44" cy="307.26" rx="111.27" ry="111.27" fill="url(#ggrad5)" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-46" data-name="椭圆 45">
+<ellipse cx="786.56" cy="307.26" rx="111.27" ry="111.27" fill="url(#ggrad6)" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-47" data-name="椭圆 46">
+<ellipse cx="1079.68" cy="307.26" rx="111.27" ry="111.27" fill="url(#ggrad7)" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+<g id="shape-44" data-name="组合 43">
+<g id="shape-6" data-name="文本框 5">
+<rect x="81.04" y="512.89" width="244.3" height="95.53" fill="none"/>
+<text x="90.64" y="540.12" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="90.64" y="564.38" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="90.64" y="588.65" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="169.62" y="467.25" width="127.1" height="35.54" fill="none"/>
+<text x="179.22" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">项目负责人</tspan></text>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="81.04" y="467.25" width="86.71" height="35.54" fill="none"/>
+<text x="90.64" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XXXXX</tspan></text>
+</g>
+<g id="shape-8" data-name="直接连接符 7" transform="translate(165.92 483.43) scale(-1 1) translate(-165.92 -483.43)">
+<line x1="165.92" y1="473.87" x2="165.92" y2="492.98" fill="#4472C4" stroke="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-43" data-name="组合 42">
+<g id="shape-16" data-name="文本框 15">
+<rect x="372.25" y="512.89" width="244.3" height="95.42" fill="none"/>
+<text x="381.85" y="540.06" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="381.85" y="564.33" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="381.85" y="588.6" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+</g>
+<g id="shape-19" data-name="文本框 18">
+<rect x="439.09" y="467.25" width="105.55" height="35.54" fill="none"/>
+<text x="448.69" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">输入内容</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="372.25" y="467.25" width="59.78" height="35.54" fill="none"/>
+<text x="381.85" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XXX</tspan></text>
+</g>
+<g id="shape-21" data-name="直接连接符 20" transform="translate(435.39 483.43) scale(-1 1) translate(-435.39 -483.43)">
+<line x1="435.39" y1="473.87" x2="435.39" y2="492.98" fill="#4472C4" stroke="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-42" data-name="组合 41">
+<g id="shape-18" data-name="文本框 17">
+<rect x="663.46" y="512.89" width="244.3" height="95.42" fill="none"/>
+<text x="673.06" y="540.06" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="673.06" y="564.33" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="673.06" y="588.6" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+</g>
+<g id="shape-23" data-name="文本框 22">
+<rect x="730.3" y="467.25" width="105.55" height="35.54" fill="none"/>
+<text x="739.9" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">输入内容</tspan></text>
+</g>
+<g id="shape-25" data-name="文本框 24">
+<rect x="663.46" y="467.25" width="59.78" height="35.54" fill="none"/>
+<text x="673.06" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XXX</tspan></text>
+</g>
+<g id="shape-27" data-name="直接连接符 26" transform="translate(726.6 483.43) scale(-1 1) translate(-726.6 -483.43)">
+<line x1="726.6" y1="473.87" x2="726.6" y2="492.98" fill="#4472C4" stroke="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-28" data-name="组合 27">
+<g id="shape-29" data-name="文本框 28">
+<rect x="954.67" y="512.89" width="244.3" height="95.42" fill="none"/>
+<text x="964.27" y="540.06" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="964.27" y="564.33" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+<text x="964.27" y="588.6" text-anchor="start" xml:space="preserve" font-family="&quot;Gotham Book&quot;, &quot;思源黑体 CN Regular&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容</tspan></text>
+</g>
+<g id="shape-30" data-name="文本框 29">
+<rect x="1043.25" y="467.25" width="105.55" height="35.54" fill="none"/>
+<text x="1052.85" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">输入内容</tspan></text>
+</g>
+<g id="shape-31" data-name="文本框 30">
+<rect x="954.67" y="467.25" width="86.71" height="35.54" fill="none"/>
+<text x="964.27" y="492.49" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Bold&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XXXXX</tspan></text>
+</g>
+<g id="shape-33" data-name="直接连接符 32" transform="translate(1039.55 483.43) scale(-1 1) translate(-1039.55 -483.43)">
+<line x1="1039.55" y1="473.87" x2="1039.55" y2="492.98" fill="#4472C4" stroke="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-4" data-name="图片 3">
+<image href="../assets/image54.png" x="394.33" y="162.9" width="198.27" height="265.87" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="图片 4">
+<image href="../assets/image54.png" x="98.47" y="162.9" width="198.27" height="265.87" preserveAspectRatio="none"/>
+</g>
+<g id="shape-7" data-name="图片 6">
+<image href="../assets/image54.png" x="687.47" y="162.9" width="198.27" height="265.87" preserveAspectRatio="none"/>
+</g>
+<g id="shape-11" data-name="图片 10">
+<image href="../assets/image54.png" x="980.47" y="162.9" width="198.27" height="265.87" preserveAspectRatio="none"/>
+</g></svg>

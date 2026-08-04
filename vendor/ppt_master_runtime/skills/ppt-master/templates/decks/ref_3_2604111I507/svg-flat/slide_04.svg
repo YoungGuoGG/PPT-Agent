@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter><marker id="marrow1" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="3" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#C5C3C3"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="3" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#C5C3C3"/></marker><marker id="marrow3" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="3" markerHeight="3" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#C5C3C3"/></marker><marker id="marrow4" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="3" markerHeight="3" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#C5C3C3"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-9" data-name="组合 8">
+<g id="shape-10" data-name="组合 9">
+<g id="shape-35" data-name="图形">
+<line x1="586.45" y1="420.31" x2="677.07" y2="420.31" fill="#A9D18E" stroke-width="1" stroke="#C5C3C3" stroke-dasharray="4 4" marker-start="url(#marrow1)" marker-end="url(#marrow2)"/>
+</g>
+<g id="shape-36" data-name="图形">
+<ellipse cx="728.55" cy="419.25" rx="47.96" ry="47.96" fill="none" stroke-width="13.333" stroke="#C5C3C3"/>
+</g>
+<g id="shape-37" data-name="图形">
+<path d="M 776.24 419.21 A 47.73 47.73 0 1 1 730.42 371.52" stroke-width="13.333" stroke-linecap="round" stroke="#A92C24" fill="#A92C24"/>
+</g>
+<g id="shape-38" data-name="图形">
+<rect x="690.8" y="398.28" width="75.49" height="41.66" fill="none"/>
+<text x="728.55" y="425.75" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">82%</tspan></text>
+</g>
+</g>
+<g id="shape-11" data-name="组合 10">
+<g id="shape-25" data-name="图形">
+<line x1="589.3" y1="559.89" x2="679.92" y2="559.89" fill="#A9D18E" stroke-width="1" stroke="#C5C3C3" stroke-dasharray="4 4" marker-start="url(#marrow3)" marker-end="url(#marrow4)"/>
+</g>
+<g id="shape-28" data-name="图形">
+<ellipse cx="731.4" cy="558.83" rx="47.96" ry="47.96" fill="none" stroke-width="13.333" stroke="#C5C3C3"/>
+</g>
+<g id="shape-33" data-name="图形">
+<path d="M 779.1 558 A 47.73 47.73 0 1 1 733.27 510.3" stroke-width="13.333" stroke-linecap="round" stroke="#A92C24" fill="#A92C24"/>
+</g>
+<g id="shape-34" data-name="图形">
+<rect x="693.65" y="537.86" width="75.49" height="41.66" fill="none"/>
+<text x="731.4" y="565.33" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">18%</tspan></text>
+</g>
+</g>
+<g id="shape-12" data-name="图形">
+<rect x="815.12" y="396.96" width="355.25" height="74" fill="none"/>
+<text x="824.72" y="417.62" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此输入文本内容在此输入文本内容在此</tspan><tspan x="824.72" dy="28" fill="#262626" font-size="18.67">输入文本内容在此输入文本内容</tspan></text>
+</g>
+<g id="shape-13" data-name="图形">
+<rect x="815.12" y="357.88" width="226.61" height="41.99" fill="none"/>
+<text x="824.72" y="383.08" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="24" font-weight="bold">输入标题文本</tspan></text>
+</g>
+<g id="shape-14" data-name="图形">
+<rect x="815.12" y="549.54" width="355.25" height="74" fill="none"/>
+<text x="824.72" y="570.2" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此输入文本内容在此输入文本内容在此</tspan><tspan x="824.72" dy="28" fill="#262626" font-size="18.67">输入文本内容在此输入文本内容</tspan></text>
+</g>
+<g id="shape-15" data-name="图形">
+<rect x="815.12" y="510.46" width="226.61" height="41.99" fill="none"/>
+<text x="824.72" y="535.66" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="24" font-weight="bold">输入标题文本</tspan></text>
+</g>
+</g>
+<g id="shape-39" data-name="图形">
+<rect x="174.92" y="201.78" width="961.72" height="74" fill="none"/>
+<text x="184.52" y="222.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此输入文本内容在此输入文本内容在此输入文本内容在此输入文本内容在此输入文本内容在此输入文本内容在此</tspan><tspan x="184.52" dy="28" fill="#262626" font-size="18.67">输入文本内容在此输入文本内容在此输入文本内容在此输入文本内容在此输入文本内容在此输入</tspan></text>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g>
+<g id="shape-7" data-name="图片 6">
+<image href="../assets/image4.png" x="122.37" y="244.07" width="508.56" height="508.56" preserveAspectRatio="none"/>
+</g></svg>

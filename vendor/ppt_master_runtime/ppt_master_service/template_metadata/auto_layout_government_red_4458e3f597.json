@@ -1,0 +1,14 @@
+{
+  "template_id": "layout_government_red",
+  "name": "Government Red Style Template - Design Specification",
+  "description": "Government briefings, policy interpretation, work summaries, project introductions, investment promotion.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Government briefings, policy interpretation, work summaries, project introductions, investment promotion."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\layouts\\government_red",
+  "kind": "layout",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

@@ -1,0 +1,79 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#EC61EA"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#26C6EC"/><stop offset="1" stop-color="#D34EFC"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="assets/image1.png" x="-20.87" y="-29.13" width="150.93" height="150.93" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-161" data-name="图形" transform="rotate(270 400.97 72.83)">
+<ellipse cx="400.97" cy="72.83" rx="23.83" ry="23.83" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-160" data-name="图形">
+<rect x="114.87" y="49" width="315.27" height="67.73" fill="none"/>
+<text x="124.47" y="94.6" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="48" fill="#262626"><tspan fill="#262626" font-size="48">个人情况介绍</tspan></text>
+</g>
+<g id="shape-2" data-name="图形">
+<g id="shape-4" data-name="组合 3">
+<g id="shape-22" data-name="图形">
+<rect x="121.6" y="318.33" width="228.2" height="64.73" fill="none" stroke-width="1" stroke="none"/>
+<text x="235.7" y="336.73" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容添加您</tspan><tspan x="235.7" dy="24" fill="#262626" font-size="16">的文本内容添加您的文本内容</tspan></text>
+</g>
+<g id="shape-23" data-name="图形">
+<rect x="129.13" y="279.67" width="213.2" height="38.67" fill="none"/>
+<text x="235.73" y="304.87" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="24" font-weight="bold">预设标题文本</tspan></text>
+</g>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-20" data-name="图形">
+<rect x="396.93" y="318.33" width="228.2" height="64.73" fill="none" stroke-width="1" stroke="none"/>
+<text x="511.03" y="336.73" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容添加您</tspan><tspan x="511.03" dy="24" fill="#262626" font-size="16">的文本内容添加您的文本内容</tspan></text>
+</g>
+<g id="shape-21" data-name="图形">
+<rect x="404.47" y="279.67" width="213.2" height="38.67" fill="none"/>
+<text x="511.07" y="304.87" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="24" font-weight="bold">预设标题文本</tspan></text>
+</g>
+</g>
+<g id="shape-6" data-name="组合 5">
+<g id="shape-18" data-name="图形">
+<rect x="121.6" y="512.6" width="228.2" height="64.73" fill="none" stroke-width="1" stroke="none"/>
+<text x="235.7" y="531" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容添加您</tspan><tspan x="235.7" dy="24" fill="#262626" font-size="16">的文本内容添加您的文本内容</tspan></text>
+</g>
+<g id="shape-19" data-name="图形">
+<rect x="129.13" y="473.93" width="213.2" height="38.67" fill="none"/>
+<text x="235.73" y="499.13" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="24" font-weight="bold">预设标题文本</tspan></text>
+</g>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-16" data-name="图形">
+<rect x="396.93" y="512.6" width="228.2" height="64.73" fill="none" stroke-width="1" stroke="none"/>
+<text x="511.03" y="531" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="16" fill="#262626"><tspan fill="#262626" font-size="16">此处添加您的文本内容添加您</tspan><tspan x="511.03" dy="24" fill="#262626" font-size="16">的文本内容添加您的文本内容</tspan></text>
+</g>
+<g id="shape-17" data-name="图形">
+<rect x="404.47" y="473.93" width="213.2" height="38.67" fill="none"/>
+<text x="511.07" y="499.13" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="24" font-weight="bold">预设标题文本</tspan></text>
+</g>
+</g>
+<g id="shape-8" data-name="组合 7">
+<g id="shape-12" data-name="图形">
+<path d="M 224.56 243.79 C 226.18 243.79 226.18 243.79 226.18 243.79 C 226.82 242.68 227.31 241.88 227.47 240.76 C 227.63 239.65 226.99 237.89 226.34 237.09 C 225.69 235.34 226.34 233.9 227.15 232.47 C 225.37 232.47 225.37 232.47 225.37 232.47 C 224.88 233.1 224.72 233.74 224.56 234.38 C 224.24 235.98 224.56 237.09 225.05 238.05 C 226.34 240.12 225.69 241.88 224.56 243.79 Z" stroke="none" fill="none"/>
+</g>
+<g id="shape-13" data-name="图形">
+<path d="M 236.58 243.79 C 238.35 243.79 238.35 243.79 238.35 243.79 C 238.67 242.84 239.48 241.88 239.48 240.76 C 239.64 239.65 239.16 238.53 238.51 237.09 C 237.87 235.66 238.35 233.9 239.16 232.47 C 237.39 232.47 237.39 232.47 237.39 232.47 C 237.06 233.1 236.74 233.74 236.58 234.38 C 236.42 235.98 236.58 237.09 237.06 238.05 C 238.51 240.12 237.87 241.88 236.58 243.79 Z" stroke="none" fill="none"/>
+</g>
+<g id="shape-14" data-name="图形">
+<path d="M 230.49 243.79 C 232.26 243.79 232.26 243.79 232.26 243.79 C 232.58 242.84 233.39 241.88 233.39 240.76 C 233.55 239.65 232.91 237.89 232.42 237.09 C 231.78 235.34 232.26 233.9 233.07 232.47 C 231.3 232.47 231.3 232.47 231.3 232.47 C 230.97 233.1 230.65 233.74 230.49 234.38 C 230.33 235.98 230.49 237.09 230.97 238.05 C 232.42 240.12 231.62 241.88 230.49 243.79 Z" stroke="none" fill="none"/>
+</g>
+<g id="shape-15" data-name="图形">
+<path d="M 249.58 246.06 C 216.67 246.06 216.67 246.06 216.67 246.06 C 216.67 257.78 216.67 257.78 216.67 257.78 C 216.67 261.95 218.91 263.4 222.13 263.4 C 240.27 263.4 240.27 263.4 240.27 263.4 C 243.32 263.4 245.09 261.63 245.09 258.74 C 245.25 256.82 245.25 256.82 245.25 256.82 C 245.41 256.66 245.57 256.5 245.73 256.5 C 245.73 256.5 247.17 256.17 248.14 255.85 C 249.1 255.53 250.87 254.89 250.87 253.45 C 250.87 247.5 250.87 247.5 250.87 247.5 C 250.87 246.7 250.22 246.06 249.58 246.06 Z M 247.66 253.12 C 247.17 253.45 245.25 254.25 245.25 253.12 C 245.25 248.95 245.25 248.95 245.25 248.95 C 245.25 248.63 245.41 248.47 245.89 248.47 C 247.66 248.47 247.66 248.47 247.66 248.47 C 247.98 248.47 248.3 248.79 248.3 249.11 C 248.3 252.16 248.3 252.16 248.3 252.16 C 248.3 252.64 247.98 252.8 247.66 253.12 Z" stroke="none" fill="none"/>
+</g>
+</g>
+<g id="shape-9" data-name="图形">
+<path d="M 510.93 265.93 L 490.4 243.06 L 498.08 232.73 L 523.77 232.73 L 531.6 243.06 L 510.93 265.93 Z M 516.69 245.87 L 510.93 246.75 L 505.31 245.87 L 510.93 258.11 L 516.69 245.87 Z M 519.34 245.28 L 513.88 257.67 L 524.95 244.54 L 519.34 245.28 Z M 508.27 257.67 L 502.36 245.28 L 496.9 244.54 L 508.27 257.67 Z M 496.45 241.73 L 505.17 243.21 L 505.31 243.06 L 503.25 243.06 L 500 237.46 L 496.45 241.73 Z M 502.07 236.57 L 505.61 242.62 L 509.74 236.57 L 502.07 236.57 Z M 507.38 243.65 L 510.93 244.24 L 514.47 243.65 L 510.93 238.49 L 507.38 243.65 Z M 512.11 236.57 L 516.24 242.62 L 520.08 236.57 L 512.11 236.57 Z M 521.85 237.46 L 518.61 243.06 L 516.54 243.06 L 516.69 243.21 L 525.4 241.73 L 521.85 237.46 Z" fill="url(#ggrad2)" stroke="none"/>
+</g>
+<g id="shape-10" data-name="图形">
+<path d="M 252.12 459.07 C 250.88 459.07 249.64 458.03 249.64 457 C 249.64 431.34 249.64 431.34 249.64 431.34 C 249.64 430.3 250.88 429.27 252.12 429.27 C 253.36 429.27 254.6 430.3 254.6 431.34 C 254.6 457 254.6 457 254.6 457 C 254.6 458.03 253.36 459.07 252.12 459.07 Z M 241.58 456.17 C 241.58 457.82 240.34 459.07 238.69 459.07 C 225.87 459.07 225.87 459.07 225.87 459.07 C 224.43 459.07 223.19 457.82 223.19 456.17 C 223.19 450.58 223.19 450.58 223.19 450.58 C 217.4 449.34 217.4 449.34 217.4 449.34 C 217.4 438.99 217.4 438.99 217.4 438.99 C 248.81 432.16 248.81 432.16 248.81 432.16 C 248.81 456.38 248.81 456.38 248.81 456.38 C 241.58 454.72 241.58 454.72 241.58 454.72 L 241.58 456.17 Z M 239.72 454.31 C 224.84 451 224.84 451 224.84 451 C 224.84 455.96 224.84 455.96 224.84 455.96 C 224.84 456.79 225.87 457.41 226.49 457.41 C 238.27 457.41 238.27 457.41 238.27 457.41 C 239.1 457.41 239.72 456.79 239.72 455.96 L 239.72 454.31 Z M 214.71 450.58 C 213.89 450.58 213.27 449.96 213.27 449.13 C 213.27 439.2 213.27 439.2 213.27 439.2 C 213.27 438.37 213.89 437.75 214.71 437.75 C 215.33 437.75 216.37 438.37 216.37 439.2 C 216.37 449.13 216.37 449.13 216.37 449.13 C 216.37 449.96 215.33 450.58 214.71 450.58 Z" fill="url(#ggrad3)" stroke="none"/>
+</g>
+<g id="shape-11" data-name="图形">
+<path d="M 495.46 459.07 C 528.92 459.07 528.92 459.07 528.92 459.07 C 531.6 446.43 531.6 446.43 531.6 446.43 C 531.6 446.43 514.46 448.3 509.3 441.25 C 507.85 436.49 509.71 433.38 509.71 433.38 C 509.71 433.38 519.42 433.38 523.55 433.38 C 525.4 429.45 503.51 414.53 492.78 434 C 487.2 450.16 495.46 459.07 495.46 459.07 Z M 517.35 430.07 C 516.52 432.35 509.09 429.45 506.41 430.28 C 490.92 433.38 500.42 454.92 500.42 454.92 C 500.42 454.92 497.73 454.92 497.11 454.92 C 492.98 452.85 487.2 417.23 517.35 430.07 Z M 528.09 444.98 C 530.57 444.98 530.57 444.98 530.57 444.98 C 524.99 434.21 524.99 434.21 524.99 434.21 C 522.51 434.21 522.51 434.21 522.51 434.21 L 528.09 444.98 Z" fill="url(#ggrad4)" stroke="none"/>
+</g>
+<g id="shape-3" data-name="图形" transform="translate(934.77 404.53) scale(-1 1) translate(-934.77 -404.53)">
+<image href="assets/image12.png" x="679.8" y="149.6" width="509.93" height="509.87" preserveAspectRatio="none"/>
+</g>
+</g></svg>

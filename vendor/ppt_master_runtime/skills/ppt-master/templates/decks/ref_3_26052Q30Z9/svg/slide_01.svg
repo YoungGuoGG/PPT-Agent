@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="4" stdDeviation="2.67" flood-color="#FFC000" flood-opacity="0.37"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#132144"/>
+<g id="shape-12" data-name="文本框 11">
+<rect x="445.8" y="262.53" width="755.33" height="151.73" fill="none"/>
+<text x="823.47" y="367.07" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="117.33" fill="#FFFFFF" letter-spacing="2.27"><tspan fill="#FFFFFF" font-size="117.33" letter-spacing="2.27">APP</tspan><tspan fill="#FFFFFF" font-size="117.33" letter-spacing="2.27">产品介绍</tspan></text>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="475.13" y="210.73" width="696.67" height="48.33" fill="none"/>
+<text x="823.47" y="242.73" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, sans-serif" font-size="32" fill="#FFFFFF" letter-spacing="6.67"><tspan fill="#FFFFFF" font-size="32" letter-spacing="6.67">PRODUCT INTRODUCTION</tspan></text>
+</g>
+<g id="shape-14" data-name="圆角矩形 13">
+<rect x="700.7" y="521.33" width="245.53" height="65.6" rx="32.8" ry="32.8" fill="none" stroke="#FFFFFF" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="715.7" y="532" width="215.53" height="38.67" fill="none"/>
+<text x="725.3" y="557.2" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">汇报人：第一</tspan><tspan fill="#FFFFFF" font-size="24">PPT</tspan></text>
+</g>
+<g id="shape-63" data-name="矩形 62">
+<rect x="511.83" y="411.73" width="623.27" height="71.22" fill="none"/>
+<text x="823.47" y="430.13" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">在此处添加详细描述文本，尽量与标题文本语言风格相符，语言描述尽量简洁生动，</tspan><tspan x="823.47" dy="27.2" fill="#FFFFFF" font-size="16">尽可能概括出段落内容。</tspan></text>
+</g>
+<g id="shape-20" data-name="组合 19">
+<g id="shape-21" data-name="文本框 20">
+<rect x="75.07" y="42.2" width="370.73" height="35.4" fill="none"/>
+<text x="84.67" y="65.13" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" letter-spacing="4"><tspan fill="#FFFFFF" font-size="21.33" letter-spacing="4">YOUR/LOGO/NAME</tspan></text>
+</g>
+<g id="shape-22" data-name="矩形 21">
+<rect x="52.2" y="55.27" width="12.53" height="12.53" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g></svg>

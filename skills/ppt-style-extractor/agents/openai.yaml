@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Style Extractor"
+  short_description: "Extract reusable design systems from PPTX files"
+  default_prompt: "Use $ppt-style-extractor to turn this PPTX into a validated design.md and sanitized SVG references."

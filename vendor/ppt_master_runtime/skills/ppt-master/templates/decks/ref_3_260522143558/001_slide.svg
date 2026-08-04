@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-5" data-name="图片 4">
+<image href="assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-9" data-name="图片 8">
+<image href="assets/image2.png" x="415.5" y="511.61" width="780.59" height="181.53" preserveAspectRatio="none"/>
+</g>
+<g id="shape-11" data-name="图片 10">
+<image href="assets/image3.png" x="-27.88" y="331.22" width="492.05" height="293.8" preserveAspectRatio="none"/>
+</g>
+<g id="shape-13" data-name="图片 12">
+<image href="assets/image4.png" x="57.7" y="62.68" width="222.88" height="181.53" preserveAspectRatio="none"/>
+</g>
+<g id="shape-15" data-name="图片 14">
+<image href="assets/image5.png" x="0" y="625.02" width="1280" height="94.98" preserveAspectRatio="none"/>
+</g>
+<g id="shape-7" data-name="图片 6">
+<image href="assets/image6.png" x="42.14" y="484.76" width="380.48" height="235.24" preserveAspectRatio="none"/>
+</g>
+<g id="shape-20" data-name="组合 19">
+<g id="shape-17" data-name="标题 1">
+<rect x="455.38" y="252.09" width="573.42" height="250.67" fill="none"/>
+<text x="742.09" y="370.22" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪大宋简&quot;, &quot;等线&quot;, sans-serif" font-size="133.33" fill="#FFF2CC" font-weight="bold" font-style="italic"><tspan fill="#FFF2CC" font-size="133.33" font-weight="bold" font-style="italic">护航成长</tspan></text>
+</g>
+<g id="shape-19" data-name="图片 18" transform="rotate(25.74 850.67 142.28)">
+<image href="assets/image7.png" x="675.24" y="-33.14" width="350.86" height="350.86" preserveAspectRatio="none"/>
+</g>
+<g id="shape-16" data-name="标题 1">
+<rect x="251.2" y="84.75" width="573.42" height="250.67" fill="none"/>
+<text x="537.91" y="256.75" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪大宋简&quot;, &quot;等线&quot;, sans-serif" font-size="133.33" fill="#FFF2CC" font-weight="bold" font-style="italic"><tspan fill="#FFF2CC" font-size="133.33" font-weight="bold" font-style="italic">典亮青春</tspan></text>
+</g>
+</g>
+<g id="shape-22" data-name="图片 21">
+<image href="assets/image8.png" x="1031.49" y="405.33" width="226.99" height="314.68" preserveAspectRatio="none"/>
+</g>
+<g id="shape-23" data-name="组合 22">
+<g id="shape-24" data-name="平行四边形 23">
+<polygon points="594.99,430.81 1004.36,430.81 889.19,479.27 479.82,479.27" fill="#FFF2CC" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-25" data-name="文本框 24">
+<rect x="490.16" y="431.95" width="495.29" height="48.47" fill="none"/>
+<text x="499.76" y="463.95" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;等线&quot;, sans-serif" font-size="32" fill="#C00000" font-weight="bold"><tspan fill="#C00000" font-size="32" font-weight="bold">“民法典进校园”主题宣讲</tspan></text>
+</g>
+</g></svg>

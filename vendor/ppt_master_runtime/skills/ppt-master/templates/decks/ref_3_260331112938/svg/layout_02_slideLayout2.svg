@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#EC61EA"/></linearGradient></defs><g id="layout-shape-6" data-name="图片 5">
+<image href="../assets/image1.png" x="-20.87" y="-29.13" width="150.93" height="150.93" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-161" data-name="图形" transform="rotate(270 400.97 72.83)">
+<ellipse cx="400.97" cy="72.83" rx="23.83" ry="23.83" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-160" data-name="图形">
+<rect x="114.87" y="49" width="315.27" height="67.73" fill="none"/>
+<text x="124.47" y="94.6" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="48" fill="#262626"><tspan fill="#262626" font-size="48">个人情况介绍</tspan></text>
+</g></svg>

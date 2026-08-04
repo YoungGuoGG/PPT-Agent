@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.525" stop-color="#117DFF" stop-opacity="0.05"/><stop offset="0.05" stop-color="#117DFF" stop-opacity="0.3"/><stop offset="1" stop-color="#117DFF" stop-opacity="0.3"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad5" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="346.89" height="64.25" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">文化创新</tspan><tspan fill="#FFFFFF" font-size="37.33">-</tspan><tspan fill="#FFFFFF" font-size="37.33">文创产品</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="45.08" y="97.86" width="1189.85" height="63.28" fill="none"/>
+<text x="640" y="134.39" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="37.33" fill="url(#txtgrad2)"><tspan fill="url(#txtgrad2)" font-size="37.33">请输入内容</tspan><tspan fill="#FFFFFF" font-size="34.67">请输入内容</tspan></text>
+</g>
+<g id="shape-14" data-name="矩形 13">
+<rect x="0" y="224.12" width="1280" height="427.1" fill="url(#ggrad3)" stroke-width="2.333" stroke="#03B2EF" stroke-opacity="0.1"/>
+</g>
+<g id="shape-27" data-name="文本框 26">
+<rect x="949.21" y="238.56" width="181.25" height="42.01" fill="none" filter="url(#fx1)"/>
+<text x="1039.83" y="266.03" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="26.67" fill="#FFC000"><tspan fill="#FFC000" font-size="26.67">包装盒</tspan></text>
+</g>
+<g id="shape-28" data-name="文本框 27">
+<rect x="633.39" y="238.56" width="192.94" height="42.01" fill="none"/>
+<text x="729.86" y="266.03" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="26.67" fill="#FFC000"><tspan fill="#FFC000" font-size="26.67">外观专利申请</tspan></text>
+</g>
+<g id="shape-29" data-name="文本框 28">
+<rect x="215.39" y="238.63" width="250.31" height="42.01" fill="none" filter="url(#fx2)"/>
+<text x="340.54" y="268.96" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="26.67" fill="#FFC000"><tspan fill="#FFC000" font-size="26.67">IP</tspan><tspan fill="#FFC000" font-size="26.67">形象产品运用</tspan></text>
+</g>
+<g id="shape-30" data-name="图片 29">
+<image href="../assets/image21.png" x="350.93" y="597.32" width="578.14" height="107.76" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="圆角矩形 26">
+<rect x="599.65" y="296.82" width="260.51" height="317.8" rx="16.42" ry="16.42" fill="url(#ggrad4)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx3)"/>
+</g>
+<g id="shape-5" data-name="圆角矩形 26">
+<rect x="109.06" y="296.82" width="463.09" height="317.8" rx="20.03" ry="20.03" fill="url(#ggrad5)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx4)"/>
+</g>
+<g id="shape-2" data-name="圆角矩形 26">
+<rect x="891.17" y="296.82" width="297.31" height="317.8" rx="18.74" ry="18.74" fill="url(#ggrad6)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx5)"/>
+</g></svg>

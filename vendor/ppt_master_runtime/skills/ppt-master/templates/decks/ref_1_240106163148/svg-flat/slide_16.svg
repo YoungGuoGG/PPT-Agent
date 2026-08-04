@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1209.67" height="907.17" viewBox="0 0 1209.67 907.17"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FF6600"/><stop offset="1" stop-color="#FF3300"/></linearGradient><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="7" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#404040"/></marker></defs><rect x="0" y="0" width="1209.67" height="907.17" fill="#FFFFFF"/>
+<g id="layout-shape-5" data-name="矩形 4">
+<image href="../assets/image2.jpeg" x="-0.84" y="-1.89" width="1215.34" height="115.29" preserveAspectRatio="none"/>
+<rect x="-0.84" y="-1.89" width="1215.34" height="115.29" fill="none" stroke-width="0" stroke="none"/>
+</g>
+<g id="layout-shape-2" data-name="矩形 1">
+<rect x="-1.05" y="799.23" width="1215.55" height="107.94" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-4" data-name="Picture 2">
+<image href="../assets/image1.jpeg" x="-1.57" y="104.89" width="1216.07" height="710.65" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-6" data-name="Picture 6" transform="translate(824.07 857.61) scale(-1 1) translate(-824.07 -857.61)">
+<image href="../assets/image3.png" x="438.49" y="839.34" width="771.16" height="36.54" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-7" data-name="图片 11">
+<image href="../assets/image4.png" x="0" y="0.35" width="103.95" height="103.94" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-8" data-name="矩形 7">
+<rect x="623.89" y="44" width="584.74" height="49.37" fill="none"/>
+<text x="916.26" y="76.12" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;Arial Unicode MS&quot;, sans-serif" font-size="30.67" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">『</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">PPT</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">』—</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04"> </tspan><tspan fill="#FFFFFF" font-size="30.67">WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-9" data-name="TextBox 8">
+<rect x="442.89" y="839.58" width="708.58" height="41.3" fill="none"/>
+<text x="454.99" y="866.03" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">PPT HTTP://WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-10" data-name="Freeform 2670">
+<path d="M 393.46 879.29 L 393.46 879.29 L 391.33 881.07 L 388.84 882.49 L 385.99 883.2 L 383.15 883.56 L 373.9 883.56 L 371.77 883.2 L 369.99 881.78 L 368.92 880.36 L 368.57 878.22 L 368.57 868.61 L 368.57 865.76 L 369.64 863.27 L 371.06 860.78 L 372.84 858.28 L 397.02 834.07 L 399.15 832.29 L 401.64 830.87 L 404.49 830.16 L 407.33 829.8 L 410.18 830.16 L 413.02 830.87 L 415.51 832.29 L 417.64 834.07 L 419.78 836.57 L 420.84 839.06 L 421.91 841.55 L 421.91 844.75 L 421.91 847.6 L 420.84 850.45 L 419.78 852.94 L 417.64 855.08 L 393.46 879.29 Z M 376.04 862.91 L 376.04 862.91 L 374.97 864.34 L 374.26 865.76 L 373.9 867.18 L 373.9 868.61 L 373.9 870.39 L 375.33 870.03 L 376.39 870.39 L 377.81 870.74 L 378.88 871.1 L 379.95 872.17 L 380.66 873.24 L 381.37 874.3 L 381.73 875.37 L 381.73 876.8 L 381.73 878.22 L 383.15 878.22 L 384.93 877.86 L 386.35 877.51 L 387.77 877.15 L 389.19 876.08 L 389.91 874.66 L 390.62 873.24 L 390.97 871.81 L 391.33 870.03 L 390.97 868.25 L 390.62 866.47 L 389.55 865.05 L 388.48 863.62 L 387.06 862.2 L 385.28 861.49 L 383.86 860.78 L 381.73 860.78 L 380.3 860.78 L 378.88 861.13 L 377.46 861.84 L 376.04 862.91 Z M 396.66 868.61 L 414.09 851.16 L 415.15 849.74 L 415.87 848.31 L 416.58 846.53 L 416.58 844.75 L 416.58 842.62 L 415.87 841.19 L 415.15 839.41 L 414.09 837.99 L 412.67 836.92 L 410.89 835.85 L 409.11 835.5 L 407.33 835.14 L 405.55 835.5 L 403.78 835.85 L 402 836.92 L 400.57 837.99 L 383.15 855.43 L 385.64 855.79 L 388.13 856.86 L 390.26 857.93 L 392.4 859.71 L 393.82 861.84 L 395.24 863.98 L 395.95 866.12 L 396.66 868.61 Z" fill="url(#ggrad1)" stroke-width="1" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="layout-shape-11" data-name="矩形 10">
+<rect x="366.68" y="1091.77" width="533.46" height="47.63" fill="none" stroke-width="2.667" stroke="none"/>
+<text x="633.41" y="1118.21" text-anchor="middle" xml:space="preserve" font-family="&quot;华文细黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">第一</tspan><tspan fill="#FFFFFF" font-size="24">PPT</tspan><tspan fill="#FFFFFF" font-size="24">模板网</tspan></text>
+<text x="633.41" y="1147.01" text-anchor="middle" xml:space="preserve" font-family="&quot;华文细黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">www.1ppt.com/tubiao/</tspan><tspan fill="#FFFFFF" font-size="24">  </tspan></text>
+</g>
+<g id="shape-23" data-name="任意多边形 53">
+<path d="M 168.6 523.26 L 425.88 405.75 L 628.12 436.5 L 849.56 389.27 L 1088.92 215.59" fill="none" stroke-width="2.667" stroke-linecap="round" stroke="#404040" stroke-linejoin="round" marker-end="url(#marrow1)"/>
+</g>
+<g id="shape-24" data-name="任意多边形 54">
+<path d="M 169.24 539.98 C 167.87 534.23 167.32 530.08 165.36 527.16 C 163.41 524.24 162.21 524.33 157.49 522.47 C 162.13 521.82 164.37 522.67 166.41 520.02 C 168.44 517.36 168.77 506.37 169.7 506.54 C 170.58 511.71 170.92 517.48 172.59 520.27 C 174.26 523.07 177.3 522.63 179.72 523.31 C 176.75 524.32 174.51 524.82 172.77 527.6 C 171.02 530.38 169.59 535.36 169.24 539.98 Z" fill="#FFDE00" stroke-width="2.667" stroke-linecap="round" stroke="#FFDE00" stroke-linejoin="round"/>
+</g>
+<g id="shape-25" data-name="任意多边形 55">
+<path d="M 422.6 420.98 C 421.24 415.23 420.69 411.08 418.73 408.16 C 416.77 405.24 415.58 405.33 410.86 403.47 C 415.49 402.82 417.74 403.67 419.77 401.02 C 421.81 398.36 422.14 387.37 423.07 387.54 C 423.95 392.71 424.29 398.48 425.96 401.27 C 427.63 404.07 430.67 403.63 433.08 404.31 C 430.12 405.32 427.88 405.82 426.14 408.6 C 424.39 411.38 422.96 416.36 422.6 420.98 Z" fill="#FFDE00" stroke-width="2.667" stroke-linecap="round" stroke="#FFDE00" stroke-linejoin="round"/>
+</g>
+<g id="shape-26" data-name="任意多边形 56">
+<path d="M 631.51 445.06 C 630.15 439.3 629.6 435.16 627.64 432.24 C 625.68 429.32 624.49 429.4 619.76 427.55 C 624.4 426.9 626.65 427.75 628.68 425.09 C 630.72 422.44 631.04 411.45 631.98 411.62 C 632.86 416.79 633.2 422.56 634.87 425.35 C 636.53 428.14 639.58 427.7 641.99 428.38 C 639.03 429.4 636.79 429.9 635.04 432.68 C 633.3 435.46 631.87 440.44 631.51 445.06 Z" fill="#FFDE00" stroke-width="2.667" stroke-linecap="round" stroke="#FFDE00" stroke-linejoin="round"/>
+</g>
+<g id="shape-27" data-name="任意多边形 57">
+<path d="M 855.18 396.92 C 853.81 391.17 853.26 387.02 851.3 384.1 C 849.34 381.19 848.15 381.27 843.43 379.42 C 848.07 378.76 850.31 379.61 852.34 376.96 C 854.38 374.3 854.71 363.32 855.64 363.48 C 856.52 368.65 856.86 374.42 858.53 377.21 C 860.2 380.01 863.24 379.57 865.66 380.25 C 862.69 381.26 860.45 381.76 858.71 384.54 C 856.96 387.32 855.53 392.31 855.18 396.92 Z" fill="#FFDE00" stroke-width="2.667" stroke-linecap="round" stroke="#FFDE00" stroke-linejoin="round"/>
+</g>
+<g id="shape-28" data-name="任意多边形 58">
+<path d="M 1016.79 281.38 C 1015.42 275.63 1014.87 271.48 1012.91 268.56 C 1010.95 265.64 1009.76 265.73 1005.04 263.87 C 1009.68 263.22 1011.92 264.07 1013.95 261.42 C 1015.99 258.76 1016.32 247.77 1017.25 247.94 C 1018.13 253.11 1018.47 258.88 1020.14 261.67 C 1021.81 264.47 1024.85 264.03 1027.27 264.71 C 1024.3 265.72 1022.06 266.22 1020.32 269 C 1018.57 271.78 1017.14 276.76 1016.79 281.38 Z" fill="#FFDE00" stroke-width="2.667" stroke-linecap="round" stroke="#FFDE00" stroke-linejoin="round"/>
+</g>
+<g id="shape-29" data-name="文本框 28">
+<rect x="119.92" y="436.01" width="97.37" height="54.37" fill="none"/>
+<text x="168.6" y="468.01" text-anchor="middle" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">20xx</tspan></text>
+</g>
+<g id="shape-30" data-name="文本框 29">
+<rect x="375.84" y="315.87" width="97.37" height="54.37" fill="none"/>
+<text x="424.53" y="347.87" text-anchor="middle" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">20xx</tspan></text>
+</g>
+<g id="shape-31" data-name="文本框 30">
+<rect x="585" y="342.38" width="97.37" height="54.37" fill="none"/>
+<text x="633.69" y="374.38" text-anchor="middle" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">20xx</tspan></text>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="805.85" y="298.4" width="97.37" height="54.37" fill="none"/>
+<text x="854.54" y="330.4" text-anchor="middle" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">20xx</tspan></text>
+</g>
+<g id="shape-33" data-name="文本框 32">
+<rect x="918.78" y="191.88" width="97.37" height="54.37" fill="none"/>
+<text x="967.46" y="223.88" text-anchor="middle" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">20xx</tspan></text>
+</g>
+<g id="shape-34" data-name="文本框 33">
+<rect x="90.76" y="593.8" width="194.32" height="63.9" fill="none"/>
+<text x="100.36" y="614.46" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">请在这里输入文字请在这里输入文字请在</tspan></text>
+</g>
+<g id="shape-35" data-name="文本框 34">
+<rect x="119.92" y="545.33" width="117.33" height="48.47" fill="none"/>
+<text x="129.52" y="577.33" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">小标题</tspan></text>
+</g>
+<g id="shape-36" data-name="文本框 35">
+<rect x="317.87" y="493.53" width="194.32" height="63.9" fill="none"/>
+<text x="327.47" y="514.19" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">请在这里输入文字请在这里输入文字请在</tspan></text>
+</g>
+<g id="shape-37" data-name="文本框 36">
+<rect x="347.03" y="445.06" width="117.33" height="48.47" fill="none"/>
+<text x="356.63" y="477.06" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">小标题</tspan></text>
+</g>
+<g id="shape-38" data-name="文本框 37">
+<rect x="537.16" y="514.38" width="194.32" height="63.9" fill="none"/>
+<text x="546.76" y="535.04" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">请在这里输入文字请在这里输入文字请在</tspan></text>
+</g>
+<g id="shape-39" data-name="文本框 38">
+<rect x="566.31" y="465.91" width="117.33" height="48.47" fill="none"/>
+<text x="575.91" y="497.91" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">小标题</tspan></text>
+</g>
+<g id="shape-40" data-name="文本框 39">
+<rect x="771.53" y="462.53" width="194.32" height="63.9" fill="none"/>
+<text x="781.13" y="483.2" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">请在这里输入文字请在这里输入文字请在</tspan></text>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="800.69" y="414.07" width="117.33" height="48.47" fill="none"/>
+<text x="810.29" y="446.07" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">小标题</tspan></text>
+</g>
+<g id="shape-42" data-name="文本框 41">
+<rect x="941.68" y="352.01" width="194.32" height="63.9" fill="none"/>
+<text x="951.28" y="372.68" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="18.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="18.67">请在这里输入文字请在这里输入文字请在</tspan></text>
+</g>
+<g id="shape-43" data-name="文本框 42">
+<rect x="970.83" y="303.54" width="117.33" height="48.47" fill="none"/>
+<text x="980.43" y="335.54" text-anchor="start" xml:space="preserve" font-family="&quot;仓耳青禾体-谷力 W05&quot;, Calibri, sans-serif" font-size="32" fill="#0D0D0D" font-weight="bold"><tspan fill="#0D0D0D" font-size="32" font-weight="bold">小标题</tspan></text>
+</g></svg>

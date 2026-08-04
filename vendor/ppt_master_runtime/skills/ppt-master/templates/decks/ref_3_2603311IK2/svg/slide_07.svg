@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="4" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-6" data-name="Freeform 12">
+<path d="M 216.65 231.48 L 258.69 231.48 L 258.69 244.84 L 229.38 244.84 L 229.38 273.65 L 216.65 273.65 L 216.65 231.48 Z" fill="#3B3B3B" stroke="none"/>
+</g>
+<g id="shape-8" data-name="矩形 7">
+<image href="../assets/image13.jpeg" x="237.67" y="253.74" width="285.4" height="283.71" preserveAspectRatio="none"/>
+<rect x="237.67" y="253.74" width="285.4" height="283.71" fill="none" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="596.28" y="316.24" width="491.39" height="213.26" fill="none"/>
+<text x="605.88" y="336.91" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;等线&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">您的内容打在这里，或者通过复制您的文本后，在此框中</tspan><tspan x="605.88" dy="28" fill="#262626" font-size="18.67">选择粘贴，并选择只保留文字，在此录入上述图表的描述</tspan><tspan x="605.88" dy="28" fill="#262626" font-size="18.67">说明。您的内容打在这里，或者通过复制您的文本后，在</tspan><tspan x="605.88" dy="28" fill="#262626" font-size="18.67">此框中选择粘贴，并选择只保留文字，在此录入上述图表</tspan><tspan x="605.88" dy="28" fill="#262626" font-size="18.67">的描述说明。您的内容打在这里，或者通过复制您的文本</tspan><tspan x="605.88" dy="28" fill="#262626" font-size="18.67">后，在此框中选择粘贴，并选择只保留文字</tspan></text>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="594.88" y="259.96" width="211.68" height="38.78" fill="none"/>
+<text x="604.48" y="285.16" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;等线&quot;, sans-serif" font-size="24" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="24" font-weight="bold">请输入你的内容</tspan></text>
+</g>
+<g id="shape-12" data-name="Freeform 12" transform="translate(1066.79 513.27) scale(-1 -1) translate(-1066.79 -513.27)">
+<path d="M 1045.77 492.18 L 1087.81 492.18 L 1087.81 505.54 L 1058.51 505.54 L 1058.51 534.35 L 1045.77 534.35 L 1045.77 492.18 Z" fill="#3B3B3B" stroke="none"/>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="45.61" y="22.38" width="227.3" height="54.93" fill="none"/>
+<text x="55.21" y="58.91" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="37.33" fill="#000000"><tspan fill="#000000" font-size="37.33">添加标题</tspan></text>
+</g></svg>

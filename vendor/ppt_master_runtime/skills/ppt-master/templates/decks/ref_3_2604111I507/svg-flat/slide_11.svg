@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-24" data-name="组合 23">
+<g id="shape-25" data-name="Google Shape;1015;p32">
+<path d="M 753.83 298.98 C 751.02 298.98 748.2 300.03 746.04 302.17 L 705.94 342.33 C 702.16 346.04 701.71 352 704.73 356.42 C 722.79 382.81 722.79 417.91 704.73 444.3 C 701.71 448.72 702.16 454.61 705.94 458.39 L 746.04 498.48 C 748.21 500.69 751.03 501.77 753.85 501.77 C 757.08 501.77 760.3 500.33 762.5 497.53 C 807.52 440.84 807.52 359.94 762.5 303.13 C 760.3 300.38 757.07 298.98 753.83 298.98 Z" fill="#A92C24" stroke="none"/>
+</g>
+<g id="shape-26" data-name="Google Shape;1016;p32">
+<path d="M 526.36 299.08 C 523.12 299.08 519.89 300.51 517.7 303.33 C 472.67 360.01 472.67 440.97 517.7 497.65 C 519.9 500.4 523.13 501.8 526.37 501.8 C 529.17 501.8 531.99 500.75 534.16 498.61 L 574.26 458.45 C 578.04 454.74 578.55 448.78 575.54 444.36 C 557.54 417.91 557.54 382.87 575.54 356.55 C 578.48 352.13 578.04 346.24 574.26 342.46 L 534.16 302.36 C 531.99 300.16 529.16 299.08 526.36 299.08 Z" fill="#A92C24" stroke="none"/>
+</g>
+<g id="shape-27" data-name="Google Shape;1017;p32">
+<path d="M 589.85 463.05 C 587.01 463.05 584.2 464.14 582.07 466.26 L 541.98 506.36 C 537.37 510.97 537.75 518.66 542.93 522.76 C 571.28 545.3 605.69 556.57 640.1 556.57 C 674.51 556.57 708.92 545.3 737.26 522.76 C 742.45 518.66 742.97 510.97 738.29 506.36 L 698.19 466.26 C 696.07 464.14 693.27 463.05 690.44 463.05 C 688.25 463.05 686.04 463.7 684.1 465.05 C 670.88 474.05 655.51 478.54 640.13 478.54 C 624.76 478.54 609.39 474.05 596.16 465.05 C 594.26 463.7 592.05 463.05 589.85 463.05 Z" fill="#A92C24" stroke="none"/>
+</g>
+<g id="shape-28" data-name="Google Shape;1018;p32">
+<path d="M 640 244.21 C 605.61 244.21 571.21 255.48 542.87 278.03 C 537.75 282.06 537.24 289.81 541.91 294.42 L 582.01 334.52 C 584.15 336.66 586.98 337.78 589.83 337.78 C 592 337.78 594.19 337.13 596.1 335.8 C 609.29 326.8 624.67 322.3 640.04 322.3 C 655.41 322.3 670.78 326.8 683.98 335.8 C 685.92 337.15 688.15 337.81 690.37 337.81 C 693.2 337.81 696.01 336.73 698.13 334.65 L 738.23 294.49 C 742.97 289.81 742.45 282.19 737.14 278.03 C 708.8 255.48 674.4 244.21 640 244.21 Z" fill="#A92C24" stroke="none"/>
+</g>
+<g id="shape-29" data-name="Google Shape;1031;p32">
+<rect x="457.54" y="336.85" width="136.15" height="114.56" fill="none" stroke="none"/>
+<text x="525.61" y="403.47" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">01</tspan></text>
+</g>
+<g id="shape-30" data-name="Google Shape;1032;p32">
+<rect x="572.02" y="225.12" width="136.15" height="114.56" fill="none" stroke="none"/>
+<text x="640.1" y="291.73" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">02</tspan></text>
+</g>
+<g id="shape-31" data-name="Google Shape;1033;p32">
+<rect x="686.54" y="336.85" width="136.15" height="114.56" fill="none" stroke="none"/>
+<text x="754.62" y="403.47" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">03</tspan></text>
+</g>
+<g id="shape-32" data-name="Google Shape;1034;p32">
+<rect x="572.09" y="461.04" width="136.15" height="114.56" fill="none" stroke="none"/>
+<text x="640.16" y="527.65" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">04</tspan></text>
+</g>
+</g>
+<g id="shape-33" data-name="文本框 32">
+<rect x="814.67" y="258.74" width="332.76" height="73.55" fill="none"/>
+<text x="824.27" y="279.41" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">单击此处添加您的文本或者复制您适</tspan><tspan x="824.27" dy="28" fill="#262626" font-size="18.67">合的内容粘贴到此以填充文本框。</tspan></text>
+</g>
+<g id="shape-34" data-name="文本框 33">
+<rect x="814.67" y="212.67" width="179.73" height="42.01" fill="none"/>
+<text x="824.27" y="240.14" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">请输入标题</tspan></text>
+</g>
+<g id="shape-35" data-name="文本框 34">
+<rect x="814.67" y="537.5" width="332.76" height="73.55" fill="none"/>
+<text x="824.27" y="558.17" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">单击此处添加您的文本或者复制您适</tspan><tspan x="824.27" dy="28" fill="#262626" font-size="18.67">合的内容粘贴到此以填充文本框。</tspan></text>
+</g>
+<g id="shape-36" data-name="文本框 35">
+<rect x="814.67" y="491.43" width="179.73" height="42.01" fill="none"/>
+<text x="824.27" y="518.9" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">请输入标题</tspan></text>
+</g>
+<g id="shape-50" data-name="文本框 49">
+<rect x="146.26" y="258.74" width="332.76" height="73.55" fill="none"/>
+<text x="155.86" y="279.41" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">单击此处添加您的文本或者复制您适</tspan><tspan x="155.86" dy="28" fill="#262626" font-size="18.67">合的内容粘贴到此以填充文本框。</tspan></text>
+</g>
+<g id="shape-51" data-name="文本框 50">
+<rect x="146.26" y="212.67" width="179.73" height="42.01" fill="none"/>
+<text x="155.86" y="240.14" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">请输入标题</tspan></text>
+</g>
+<g id="shape-52" data-name="文本框 51">
+<rect x="146.26" y="537.5" width="332.76" height="73.55" fill="none"/>
+<text x="155.86" y="558.17" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">单击此处添加您的文本或者复制您适</tspan><tspan x="155.86" dy="28" fill="#262626" font-size="18.67">合的内容粘贴到此以填充文本框。</tspan></text>
+</g>
+<g id="shape-53" data-name="文本框 52">
+<rect x="146.26" y="491.43" width="179.73" height="42.01" fill="none"/>
+<text x="155.86" y="518.9" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">请输入标题</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g></svg>

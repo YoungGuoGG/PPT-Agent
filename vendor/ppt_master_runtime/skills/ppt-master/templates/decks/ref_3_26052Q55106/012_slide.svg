@@ -1,0 +1,121 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-12" data-name="图片 11">
+<image href="assets/image1.jpeg" x="0.13" y="0" width="1279.67" height="719.93" preserveAspectRatio="none"/>
+</g>
+<g id="shape-13" data-name="图形">
+<rect x="428.13" y="25.93" width="423.8" height="52.33" fill="none" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="437.73" y="62.47" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">输入标题内容</tspan></text>
+</g>
+<g id="shape-45" data-name="圆角矩形 5">
+<rect x="64.8" y="93.6" width="1156.47" height="571.8" rx="95.3" ry="95.3" fill="#FFFFFF" stroke="#3367E0" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-3" data-name="图形" transform="rotate(90 222.29 275.3)">
+<g id="shape-43" data-name="图形" transform="rotate(90 186.44 275.26) translate(186.44 275.26) scale(1 -1) translate(-186.44 -275.26)">
+<path d="M 186.44 227.18 C 236.42 227.18 277.53 265.17 282.47 313.84 L 282.95 323.34 L 89.94 323.34 L 90.42 313.84 C 95.36 265.17 136.47 227.18 186.44 227.18 Z" fill="#2749D3" stroke-width="4" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-44" data-name="图形">
+<rect x="164.11" y="203.47" width="142.04" height="142.67" rx="71.02" ry="71.02" fill="#FFFFFF" stroke-width="2.333" stroke-linecap="round" stroke="#2749D3" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="shape-7" data-name="图形">
+<rect x="116.82" y="372.7" width="211.87" height="54.93" fill="none" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="222.75" y="409.5" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#2749D3"><tspan fill="#2749D3" font-size="37.33">预设标题</tspan></text>
+</g>
+<g id="shape-8" data-name="图形">
+<rect x="109.29" y="421.04" width="229.33" height="164.67" fill="none"/>
+<text x="223.95" y="443.97" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">在此处添加您的文本</tspan><tspan x="223.95" dy="32" fill="#404040" font-size="21.33">内容在此处添加您的</tspan><tspan x="223.95" dy="32" fill="#404040" font-size="21.33">文本内容在此处添加</tspan><tspan x="223.95" dy="32" fill="#404040" font-size="21.33">您的文本内容</tspan></text>
+</g>
+<g id="shape-24" data-name="图形">
+<g id="shape-35" data-name="图形">
+<path d="M 198.68 281.2 C 200.45 281.2 201.77 282.82 201.77 284.44 C 201.77 286.21 200.3 287.54 198.68 287.54 C 197.06 287.54 195.58 286.07 195.58 284.44 C 195.58 282.82 196.76 281.2 198.68 281.2 Z M 208.25 281.2 C 210.03 281.2 211.35 282.82 211.35 284.44 C 211.35 286.21 209.88 287.54 208.25 287.54 C 206.34 287.54 205.16 286.07 205.16 284.44 C 205.16 282.82 206.34 281.2 208.25 281.2 Z M 217.98 281.2 C 219.89 281.2 221.07 282.82 221.07 284.44 C 221.07 286.21 219.6 287.54 217.98 287.54 C 216.21 287.54 214.88 286.07 214.88 284.44 C 214.74 282.82 216.21 281.2 217.98 281.2 Z M 197.06 268.53 C 192.64 268.53 188.95 272.07 188.95 276.49 L 188.95 292.55 C 188.95 296.38 191.9 299.47 195.58 300.21 L 195.58 308.61 C 195.58 309.2 195.88 309.79 196.47 310.09 C 196.66 310.13 196.88 310.17 197.09 310.17 C 197.5 310.17 197.89 310.04 198.09 309.64 L 207.37 300.51 L 219.45 300.51 C 223.87 300.51 227.41 296.97 227.41 292.55 L 227.41 276.49 C 227.41 272.07 223.87 268.53 219.45 268.53 Z" fill="#2749D3" stroke="none"/>
+</g>
+<g id="shape-36" data-name="图形">
+<path d="M 209.88 255.71 C 205.46 255.71 201.92 259.1 201.92 263.67 L 201.92 265.28 L 219.6 265.28 C 225.94 265.28 230.95 270.15 230.95 276.49 L 230.95 292.55 L 230.95 293.14 L 234.63 296.82 C 234.91 297.1 235.25 297.21 235.61 297.21 C 235.82 297.21 236.03 297.17 236.25 297.12 C 236.84 296.97 237.13 296.23 237.13 295.64 L 237.13 287.54 C 240.82 286.8 243.62 283.56 243.62 279.58 L 243.62 263.67 C 243.62 259.1 239.93 255.71 235.51 255.71 Z" fill="#2749D3" stroke="none"/>
+</g>
+</g>
+</g>
+<g id="shape-10" data-name="组合 9">
+<g id="shape-18" data-name="图形" transform="rotate(90 785.75 275.3)">
+<g id="shape-39" data-name="图形" transform="rotate(90 749.91 275.26) translate(749.91 275.26) scale(1 -1) translate(-749.91 -275.26)">
+<path d="M 749.91 227.18 C 799.89 227.18 840.99 265.17 845.93 313.84 L 846.41 323.34 L 653.41 323.34 L 653.89 313.84 C 658.83 265.17 699.93 227.18 749.91 227.18 Z" fill="#2749D3" stroke-width="4" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-40" data-name="图形">
+<rect x="727.58" y="203.47" width="142.04" height="142.67" rx="71.02" ry="71.02" fill="#FFFFFF" stroke-width="2.333" stroke-linecap="round" stroke="#2749D3" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="shape-19" data-name="图形">
+<rect x="680.29" y="372.7" width="211.87" height="54.93" fill="none" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="786.22" y="409.5" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#2749D3"><tspan fill="#2749D3" font-size="37.33">预设标题</tspan></text>
+</g>
+<g id="shape-20" data-name="图形">
+<rect x="672.75" y="421.04" width="222.2" height="164.67" fill="none"/>
+<text x="783.85" y="443.97" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">在此处添加您的文本</tspan><tspan x="783.85" dy="32" fill="#404040" font-size="21.33">内容在此处添加您的</tspan><tspan x="783.85" dy="32" fill="#404040" font-size="21.33">文本内容在此处添加</tspan><tspan x="783.85" dy="32" fill="#404040" font-size="21.33">您的文本内容</tspan></text>
+</g>
+<g id="shape-25" data-name="图形">
+<g id="shape-30" data-name="图形">
+<path d="M 762.59 255.7 C 759.52 255.7 756.96 257.87 756.96 260.61 L 756.96 266.95 C 756.96 269.4 759.52 271.57 762.59 271.57 L 768.06 271.57 L 768.06 276.32 C 768.06 277.04 768.58 277.47 769.26 277.76 C 769.43 277.81 769.64 277.84 769.86 277.84 C 770.3 277.84 770.8 277.72 771.14 277.33 L 777.98 271.57 L 791.48 271.57 L 798.32 277.33 C 798.66 277.72 799.08 277.84 799.52 277.84 C 799.74 277.84 799.97 277.81 800.19 277.76 C 800.88 277.62 801.22 276.9 801.22 276.32 L 801.22 271.57 L 807.03 271.57 C 810.45 271.57 813.01 269.4 813.01 266.95 L 813.01 260.61 C 813.01 258.16 810.45 255.7 807.37 255.7 Z" fill="#2749D3" stroke="none"/>
+</g>
+<g id="shape-31" data-name="图形">
+<path d="M 770.29 281.72 C 766.42 281.72 763.47 284.82 763.47 288.54 C 763.47 292.26 766.42 295.36 770.29 295.36 C 774.02 295.36 776.96 292.26 776.96 288.54 C 776.96 284.82 774.02 281.72 770.29 281.72 Z" fill="#2749D3" stroke="none"/>
+</g>
+<g id="shape-32" data-name="图形">
+<path d="M 771.69 297.64 C 765.02 297.64 759.28 302.75 758.35 309.11 C 758.2 310.04 758.97 310.97 760.06 310.97 L 783.32 310.97 C 784.41 310.97 785.18 310.04 785.18 309.11 C 784.1 302.44 778.51 297.64 771.69 297.64 Z" fill="#2749D3" stroke="none"/>
+</g>
+<g id="shape-33" data-name="图形">
+<path d="M 798.34 281.72 C 794.62 281.72 791.52 284.82 791.52 288.54 C 791.52 292.26 794.62 295.36 798.34 295.36 C 801.9 295.36 805.01 292.26 805.01 288.54 C 805.01 284.82 801.9 281.72 798.34 281.72 Z" fill="#2749D3" stroke="none"/>
+</g>
+<g id="shape-34" data-name="图形">
+<path d="M 797.11 297.28 C 790.29 297.28 784.7 302.39 783.62 308.75 C 783.46 309.68 784.24 310.61 785.48 310.61 L 808.9 310.61 C 809.83 310.61 810.6 309.68 810.6 308.75 C 809.52 302.08 803.78 297.28 797.11 297.28 Z" fill="#2749D3" stroke="none"/>
+</g>
+</g>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-9" data-name="图形" transform="rotate(90 504.42 275.3)">
+<g id="shape-41" data-name="图形" transform="rotate(90 468.58 275.26) translate(468.58 275.26) scale(1 -1) translate(-468.58 -275.26)">
+<path d="M 468.58 227.18 C 518.55 227.18 559.66 265.17 564.6 313.84 L 565.08 323.34 L 372.07 323.34 L 372.55 313.84 C 377.49 265.17 418.6 227.18 468.58 227.18 Z" fill="#FFC000" stroke-width="4" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-42" data-name="图形">
+<rect x="446.24" y="203.47" width="142.04" height="142.67" rx="71.02" ry="71.02" fill="#FFFFFF" stroke-width="2.333" stroke-linecap="round" stroke="#FFC000" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="shape-16" data-name="图形">
+<rect x="398.95" y="372.7" width="211.87" height="54.93" fill="none" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="504.89" y="409.5" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#FFC000"><tspan fill="#FFC000" font-size="37.33">预设标题</tspan></text>
+</g>
+<g id="shape-17" data-name="图形">
+<rect x="395.82" y="421.04" width="217.2" height="164.67" fill="none"/>
+<text x="504.42" y="443.97" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">在此处添加您的文本</tspan><tspan x="504.42" dy="32" fill="#404040" font-size="21.33">内容在此处添加您的</tspan><tspan x="504.42" dy="32" fill="#404040" font-size="21.33">文本内容在此处添加</tspan><tspan x="504.42" dy="32" fill="#404040" font-size="21.33">您的文本内容</tspan></text>
+</g>
+<g id="shape-26" data-name="图形">
+<path d="M 504.67 263.1 C 510.26 263.1 514.76 267.61 514.76 273.19 C 514.14 276.44 512.58 279.39 510.1 281.26 C 509.02 282.03 507.46 283.58 507.46 285.76 L 507.46 286.69 C 507.46 288.7 505.91 290.1 504.21 290.1 C 502.34 290.1 500.95 288.55 500.95 286.69 L 500.95 285.76 C 500.95 282.03 502.81 278.46 506.38 275.82 C 507.31 275.2 507.77 274.27 507.77 273.19 C 507.77 271.17 506.22 269.93 504.36 269.93 C 502.5 269.93 501.1 271.48 501.1 273.19 C 501.1 275.05 499.55 276.44 497.85 276.44 C 495.99 276.44 494.59 274.89 494.59 273.19 C 494.59 267.61 499.09 263.1 504.67 263.1 Z M 504.05 296.77 C 505.76 296.77 507.31 298.32 507.31 300.18 C 507.31 302.04 505.91 303.44 504.05 303.44 C 502.03 303.44 500.79 301.89 500.79 300.18 C 500.79 298.16 502.34 296.77 504.05 296.77 Z M 504.05 254.57 C 488.39 254.57 475.36 267.45 475.36 283.27 C 475.36 298.94 488.39 311.97 504.05 311.97 C 519.72 311.97 532.75 298.94 532.75 283.27 C 532.75 267.61 519.72 254.57 504.05 254.57 Z" fill="#FFC000" stroke="none"/>
+</g>
+</g>
+<g id="shape-11" data-name="组合 10">
+<g id="shape-21" data-name="图形" transform="rotate(90 1067.95 275.3)">
+<g id="shape-37" data-name="图形" transform="rotate(90 1032.11 275.35) translate(1032.11 275.35) scale(1 -1) translate(-1032.11 -275.35)">
+<path d="M 1032.11 227.27 C 1082.09 227.27 1123.19 265.25 1128.13 313.92 L 1128.61 323.43 L 935.61 323.43 L 936.09 313.92 C 941.03 265.25 982.13 227.27 1032.11 227.27 Z" fill="#FFC000" stroke-width="4" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-38" data-name="图形">
+<rect x="1009.78" y="203.56" width="142.04" height="142.67" rx="71.02" ry="71.02" fill="#FFFFFF" stroke-width="2.333" stroke-linecap="round" stroke="#FFC000" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="shape-22" data-name="图形">
+<rect x="962.42" y="372.7" width="211.87" height="54.93" fill="none" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="1068.35" y="409.5" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#FFC000"><tspan fill="#FFC000" font-size="37.33">预设标题</tspan></text>
+</g>
+<g id="shape-23" data-name="图形">
+<rect x="954.89" y="421.04" width="229.47" height="164.67" fill="none"/>
+<text x="1069.62" y="443.97" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">在此处添加您的文本</tspan><tspan x="1069.62" dy="32" fill="#404040" font-size="21.33">内容在此处添加您的</tspan><tspan x="1069.62" dy="32" fill="#404040" font-size="21.33">文本内容在此处添加</tspan><tspan x="1069.62" dy="32" fill="#404040" font-size="21.33">您的文本内容</tspan></text>
+</g>
+<g id="shape-27" data-name="图形">
+<g id="shape-28" data-name="图形">
+<path d="M 1091.31 289.64 C 1091.73 289.64 1092.16 289.8 1092.47 290.11 C 1092.94 290.57 1092.94 291.5 1092.47 292.42 L 1082.4 302.42 C 1081.94 302.73 1081.63 302.89 1081.16 302.89 C 1080.85 302.89 1080.39 302.73 1080.08 302.42 L 1076.83 299.04 C 1076.21 298.58 1076.21 297.35 1076.83 296.73 C 1077.06 296.5 1077.49 296.38 1077.93 296.38 C 1078.38 296.38 1078.84 296.5 1079.15 296.73 L 1081.16 298.89 L 1090.15 290.11 C 1090.46 289.8 1090.88 289.64 1091.31 289.64 Z M 1074.5 279.48 C 1069.7 279.48 1066.14 283.18 1066.14 287.8 L 1066.14 301.04 C 1066.14 305.66 1069.7 309.35 1074.5 309.35 L 1076.21 309.35 L 1076.21 314.44 C 1076.21 315.2 1076.52 315.82 1077.14 315.98 C 1077.39 316.1 1077.68 316.18 1077.94 316.18 C 1078.32 316.18 1078.66 316.03 1078.84 315.67 L 1085.04 309.35 L 1091.08 309.35 C 1095.73 309.35 1099.6 305.66 1099.6 301.04 L 1099.6 287.8 C 1099.75 283.18 1095.88 279.48 1091.23 279.48 Z" fill="#FFC000" stroke="none"/>
+</g>
+<g id="shape-29" data-name="图形">
+<path d="M 1052.54 263.53 C 1055.18 263.53 1057.5 265.84 1057.5 268.61 C 1057.5 270.15 1056.73 271.68 1055.64 272.61 C 1054.87 273.23 1054.25 274.15 1054.25 275.38 C 1054.25 276.31 1053.47 277.07 1052.54 277.07 C 1051.61 277.07 1050.84 276.31 1050.84 275.38 C 1050.84 273.23 1051.77 271.23 1053.47 269.99 C 1053.94 269.53 1054.09 269.22 1054.09 268.61 C 1054.09 267.68 1053.32 266.92 1052.39 266.92 C 1051.3 266.92 1050.53 267.68 1050.53 268.61 C 1050.53 269.53 1049.75 270.3 1048.82 270.3 C 1047.9 270.3 1047.12 269.53 1047.12 268.61 C 1047.43 265.84 1049.75 263.53 1052.54 263.53 Z M 1052.54 280.15 C 1053.47 280.15 1054.25 280.92 1054.25 281.85 C 1054.25 282.77 1053.47 283.54 1052.54 283.54 C 1051.61 283.54 1050.84 282.77 1050.84 281.85 C 1050.84 280.92 1051.61 280.15 1052.54 280.15 Z M 1042.47 256.91 C 1037.83 256.91 1033.95 260.76 1033.95 265.38 L 1033.95 282 C 1033.95 286.16 1037.05 289.39 1040.92 290.16 L 1040.92 295.24 C 1040.92 296.01 1041.23 296.62 1041.85 296.78 C 1042.11 296.91 1042.39 296.98 1042.66 296.98 C 1043.04 296.98 1043.38 296.83 1043.56 296.47 L 1049.75 290.31 L 1054.09 290.31 L 1054.09 285.23 C 1054.09 278.77 1059.36 273.54 1065.86 273.54 L 1070.97 273.54 L 1070.97 265.38 C 1070.97 260.76 1067.26 256.91 1062.61 256.91 Z" fill="#FFC000" stroke="none"/>
+</g>
+</g>
+</g></svg>

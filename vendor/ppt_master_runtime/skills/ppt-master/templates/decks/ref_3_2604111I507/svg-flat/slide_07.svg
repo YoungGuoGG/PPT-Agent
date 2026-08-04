@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000000" flood-opacity="0.17"/></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000000" flood-opacity="0.17"/></filter><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="4" stdDeviation="10" flood-color="#000000" flood-opacity="0.17"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="103.51" y="329.36" width="468.48" height="66.46" fill="none"/>
+<text x="113.11" y="350.02" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">简单说明即可，不必过于繁琐，注意版面美观度。此处</tspan><tspan x="113.11" dy="22.4" fill="#262626" font-size="18.67">添加具体内容，文字尽量言简意赅</tspan></text>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="103.51" y="422.76" width="469.74" height="66.46" fill="none"/>
+<text x="113.11" y="443.43" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">简单说明即可，不必过于繁琐，注意版面美观度。此处</tspan><tspan x="113.11" dy="22.4" fill="#262626" font-size="18.67">添加具体内容，文字尽量言简意赅</tspan></text>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="103.51" y="514.16" width="469.74" height="66.46" fill="none"/>
+<text x="113.11" y="534.83" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">简单说明即可，不必过于繁琐，注意版面美观度。此处</tspan><tspan x="113.11" dy="22.4" fill="#262626" font-size="18.67">添加具体内容，文字尽量言简意赅</tspan></text>
+</g>
+<g id="shape-13" data-name="直接连接符 12" transform="translate(343.51 410.2) scale(1 -1) translate(-343.51 -410.2)">
+<line x1="103.51" y1="410.19" x2="583.51" y2="410.2" stroke="#8497B0" stroke-dasharray="4 4" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="直接连接符 15" transform="translate(343.51 502.24) scale(1 -1) translate(-343.51 -502.24)">
+<line x1="103.51" y1="502.24" x2="583.51" y2="502.24" stroke="#8497B0" stroke-dasharray="4 4" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="组合 17">
+<g id="shape-21" data-name="矩形 20">
+<rect x="101.16" y="252.73" width="284.16" height="48.47" fill="none"/>
+<text x="110.76" y="284.73" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;等线&quot;, sans-serif" font-size="32" fill="#181717"><tspan fill="#181717" font-size="32">单击添加小标题</tspan></text>
+</g>
+<g id="shape-23" data-name="组合 22">
+<g id="shape-25" data-name="椭圆 24">
+<ellipse cx="118.6" cy="314.36" rx="5.5" ry="5.73" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-27" data-name="椭圆 26">
+<ellipse cx="138" cy="314.36" rx="5.5" ry="5.73" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-28" data-name="椭圆 27">
+<ellipse cx="157.4" cy="314.36" rx="5.5" ry="5.73" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+</g>
+</g>
+<g id="shape-29" data-name="文本框 28">
+<rect x="699" y="336.4" width="306.4" height="26.99" fill="none"/>
+<text x="699" y="352.26" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#181717"><tspan fill="#181717" font-size="18.67">点击输入文本内容</tspan></text>
+</g>
+<g id="shape-30" data-name="组合 29">
+<g id="shape-31" data-name="矩形: 圆角 30">
+<rect x="675.53" y="388.53" width="479.67" height="61.6" rx="6.14" ry="6.14" fill="#A92C24" stroke-width="3" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx3)"/>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="699.01" y="405.23" width="306.4" height="26.99" fill="none"/>
+<text x="699.01" y="421.1" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">点击输入文本内容</tspan></text>
+</g>
+</g>
+<g id="shape-33" data-name="组合 32">
+<g id="shape-34" data-name="矩形: 圆角 33">
+<rect x="675.53" y="253.6" width="479.67" height="61.6" rx="6.14" ry="6.14" fill="#A92C24" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+<g id="shape-35" data-name="文本框 34">
+<rect x="699.01" y="270.3" width="306.4" height="26.99" fill="none"/>
+<text x="699.01" y="286.16" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">点击输入文本内容</tspan></text>
+</g>
+</g>
+<g id="shape-36" data-name="组合 35">
+<g id="shape-37" data-name="矩形: 圆角 36">
+<rect x="675.53" y="523.4" width="479.67" height="61.6" rx="6.14" ry="6.14" fill="#A92C24" stroke-width="3" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx5)"/>
+</g>
+<g id="shape-38" data-name="文本框 37">
+<rect x="699.01" y="540.1" width="306.4" height="26.99" fill="none"/>
+<text x="699.01" y="560.5" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">点击输入文本内容</tspan></text>
+</g>
+</g>
+<g id="shape-39" data-name="文本框 38">
+<rect x="699" y="472.46" width="306.4" height="26.99" fill="none"/>
+<text x="699" y="488.33" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#181717"><tspan fill="#181717" font-size="18.67">点击输入文本内容</tspan></text>
+</g></svg>

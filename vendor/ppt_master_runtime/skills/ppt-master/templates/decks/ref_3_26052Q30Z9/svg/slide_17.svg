@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g id="shape-35" data-name="矩形 34" transform="translate(635.73 380.9) scale(-1 1) translate(-635.73 -380.9)">
+<rect x="-8.53" y="85.87" width="1288.53" height="590.07" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-38" data-name="组合 37">
+<g id="shape-39" data-name="文本框 38">
+<rect x="66.21" y="8.32" width="253.33" height="87.24" fill="none"/>
+<text x="75.81" y="40.32" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">功能使用</tspan></text>
+<text x="75.81" y="62.85" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">Short Text Here</tspan></text>
+
+</g>
+<g id="shape-40" data-name="椭圆 39" transform="translate(45.62 33.28) scale(-1 1) translate(-45.62 -33.28)">
+<ellipse cx="45.62" cy="33.28" rx="8.75" ry="8.75" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-31" data-name="任意多边形: 形状 9">
+<path d="M 106.11 263.88 C 106.11 253.1 114.21 244.36 124.2 244.36 L 307.43 244.36 C 317.43 244.36 325.53 253.1 325.53 263.88 L 325.53 420 C 325.53 430.78 317.43 439.52 307.43 439.52 L 124.2 439.52 C 114.21 439.52 106.11 430.78 106.11 420 L 106.11 263.88 Z" fill="none" stroke="#68D1FF" stroke-width="1"/>
+</g>
+<g id="shape-33" data-name="矩形: 圆角 11">
+<rect x="118.3" y="397.7" width="195.05" height="83.64" rx="13.94" ry="13.94" fill="#44546A" stroke-width="3" stroke="none"/>
+</g>
+<g id="shape-78" data-name="文本框 77">
+<rect x="152.89" y="418.42" width="125.87" height="41.87" fill="none"/>
+<text x="215.82" y="445.88" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">本地市场</tspan></text>
+</g>
+<g id="shape-79" data-name="文本框 78">
+<rect x="117.82" y="266.01" width="196" height="125.67" fill="none"/>
+<text x="127.42" y="284.41" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">请在此输入您的文字内容</tspan><tspan x="127.42" dy="19.2" fill="#404040" font-size="16">或者粘贴复制的文本到此</tspan><tspan x="127.42" dy="19.2" fill="#404040" font-size="16">处，请在此输入您的文字</tspan><tspan x="127.42" dy="19.2" fill="#404040" font-size="16">内容或者粘贴复制的文本</tspan><tspan x="127.42" dy="19.2" fill="#404040" font-size="16">到此处</tspan></text>
+</g>
+</g>
+<g id="shape-45" data-name="组合 44">
+<g id="shape-46" data-name="任意多边形: 形状 9">
+<path d="M 384.63 263.88 C 384.63 253.1 392.73 244.36 402.73 244.36 L 585.96 244.36 C 595.95 244.36 604.05 253.1 604.05 263.88 L 604.05 420 C 604.05 430.78 595.95 439.52 585.96 439.52 L 402.73 439.52 C 392.73 439.52 384.63 430.78 384.63 420 L 384.63 263.88 Z" fill="none" stroke="#68D1FF" stroke-width="1"/>
+</g>
+<g id="shape-47" data-name="矩形: 圆角 11">
+<rect x="396.82" y="397.7" width="195.05" height="83.64" rx="13.94" ry="13.94" fill="#44546A" stroke-width="3" stroke="none"/>
+</g>
+<g id="shape-48" data-name="文本框 47">
+<rect x="431.41" y="418.42" width="125.87" height="41.87" fill="none"/>
+<text x="494.34" y="445.88" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">高端市场</tspan></text>
+</g>
+<g id="shape-49" data-name="文本框 48">
+<rect x="396.34" y="266.01" width="196" height="125.67" fill="none"/>
+<text x="405.94" y="284.41" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">请在此输入您的文字内容</tspan><tspan x="405.94" dy="19.2" fill="#404040" font-size="16">或者粘贴复制的文本到此</tspan><tspan x="405.94" dy="19.2" fill="#404040" font-size="16">处，请在此输入您的文字</tspan><tspan x="405.94" dy="19.2" fill="#404040" font-size="16">内容或者粘贴复制的文本</tspan><tspan x="405.94" dy="19.2" fill="#404040" font-size="16">到此处</tspan></text>
+</g>
+</g>
+<g id="shape-50" data-name="组合 49">
+<g id="shape-51" data-name="任意多边形: 形状 9">
+<path d="M 663.15 263.88 C 663.15 253.1 671.25 244.36 681.25 244.36 L 864.48 244.36 C 874.47 244.36 882.58 253.1 882.58 263.88 L 882.58 420 C 882.58 430.78 874.47 439.52 864.48 439.52 L 681.25 439.52 C 671.25 439.52 663.15 430.78 663.15 420 L 663.15 263.88 Z" fill="none" stroke="#68D1FF" stroke-width="1"/>
+</g>
+<g id="shape-52" data-name="矩形: 圆角 11">
+<rect x="675.34" y="397.7" width="195.05" height="83.64" rx="13.94" ry="13.94" fill="#44546A" stroke-width="3" stroke="none"/>
+</g>
+<g id="shape-53" data-name="文本框 52">
+<rect x="709.93" y="418.42" width="125.87" height="41.87" fill="none"/>
+<text x="772.86" y="445.88" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">细分市场</tspan></text>
+</g>
+<g id="shape-54" data-name="文本框 53">
+<rect x="674.86" y="266.01" width="196" height="125.67" fill="none"/>
+<text x="684.46" y="284.41" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">请在此输入您的文字内容</tspan><tspan x="684.46" dy="19.2" fill="#404040" font-size="16">或者粘贴复制的文本到此</tspan><tspan x="684.46" dy="19.2" fill="#404040" font-size="16">处，请在此输入您的文字</tspan><tspan x="684.46" dy="19.2" fill="#404040" font-size="16">内容或者粘贴复制的文本</tspan><tspan x="684.46" dy="19.2" fill="#404040" font-size="16">到此处</tspan></text>
+</g>
+</g>
+<g id="shape-56" data-name="组合 55">
+<g id="shape-57" data-name="任意多边形: 形状 9">
+<path d="M 941.67 263.88 C 941.67 253.1 949.78 244.36 959.77 244.36 L 1143 244.36 C 1153 244.36 1161.1 253.1 1161.1 263.88 L 1161.1 420 C 1161.1 430.78 1153 439.52 1143 439.52 L 959.77 439.52 C 949.78 439.52 941.67 430.78 941.67 420 L 941.67 263.88 Z" fill="none" stroke="#68D1FF" stroke-width="1"/>
+</g>
+<g id="shape-58" data-name="矩形: 圆角 11">
+<rect x="953.86" y="397.7" width="195.05" height="83.64" rx="13.94" ry="13.94" fill="#44546A" stroke-width="3" stroke="none"/>
+</g>
+<g id="shape-59" data-name="文本框 58">
+<rect x="988.45" y="418.42" width="125.87" height="41.87" fill="none"/>
+<text x="1051.39" y="445.88" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">其他市场</tspan></text>
+</g>
+<g id="shape-60" data-name="文本框 59">
+<rect x="953.39" y="266.01" width="196" height="125.67" fill="none"/>
+<text x="962.99" y="284.41" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">请在此输入您的文字内容</tspan><tspan x="962.99" dy="19.2" fill="#404040" font-size="16">或者粘贴复制的文本到此</tspan><tspan x="962.99" dy="19.2" fill="#404040" font-size="16">处，请在此输入您的文字</tspan><tspan x="962.99" dy="19.2" fill="#404040" font-size="16">内容或者粘贴复制的文本</tspan><tspan x="962.99" dy="19.2" fill="#404040" font-size="16">到此处</tspan></text>
+</g>
+</g></svg>

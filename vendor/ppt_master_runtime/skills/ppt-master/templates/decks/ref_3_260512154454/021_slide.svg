@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-3" data-name="矩形 2">
+<rect x="16.06" y="15.1" width="1247.89" height="689.81" fill="#FFFFFF" stroke="#C4D5FC" stroke-width="1"/>
+</g>
+<g id="layout-shape-32" data-name="矩形 31">
+<rect x="70.24" y="57.46" width="43.96" height="43.96" fill="#0A41BB" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-33" data-name="矩形 32">
+<rect x="92.4" y="79.62" width="32.2" height="32.2" fill="none" stroke="#0A41BB" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-3" data-name="矩形 2">
+<rect x="129.61" y="146.27" width="236.5" height="365.25" fill="none" stroke-width="2" stroke="#0A41BB"/>
+</g>
+<g id="shape-4" data-name="TextBox 76">
+<rect x="160.69" y="192.43" width="175.66" height="42.01" fill="none"/>
+<text x="248.51" y="219.89" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#0A41BB"><tspan fill="#0A41BB" font-size="26.67">输入小标题</tspan></text>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="153.87" y="250.42" width="188.64" height="107.93" fill="none"/>
+<text x="248.19" y="271.08" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">点击输入标题点击输</tspan><tspan x="248.19" dy="28" fill="#262626" font-size="18.67">入标题。点击输入标</tspan><tspan x="248.19" dy="28" fill="#262626" font-size="18.67">题点击输入标题。</tspan></text>
+</g>
+<g id="shape-6" data-name="矩形 5">
+<rect x="391.04" y="233.44" width="236.5" height="365.25" fill="none" stroke-width="2" stroke="#0A41BB"/>
+</g>
+<g id="shape-7" data-name="TextBox 76">
+<rect x="419.99" y="281.26" width="175.66" height="42.01" fill="none"/>
+<text x="507.81" y="308.73" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#0A41BB"><tspan fill="#0A41BB" font-size="26.67">输入小标题</tspan></text>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="413.17" y="339.25" width="188.64" height="107.93" fill="none"/>
+<text x="507.48" y="359.92" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">点击输入标题点击输</tspan><tspan x="507.48" dy="28" fill="#262626" font-size="18.67">入标题。点击输入标</tspan><tspan x="507.48" dy="28" fill="#262626" font-size="18.67">题点击输入标题。</tspan></text>
+</g>
+<g id="shape-9" data-name="矩形 8">
+<rect x="652.46" y="140.71" width="236.5" height="365.25" fill="none" stroke-width="2" stroke="#0A41BB"/>
+</g>
+<g id="shape-10" data-name="TextBox 76">
+<rect x="683.24" y="192.43" width="175.66" height="42.01" fill="none"/>
+<text x="771.07" y="219.89" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#0A41BB"><tspan fill="#0A41BB" font-size="26.67">输入小标题</tspan></text>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="676.42" y="250.42" width="188.64" height="107.93" fill="none"/>
+<text x="770.74" y="271.08" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">点击输入标题点击输</tspan><tspan x="770.74" dy="28" fill="#262626" font-size="18.67">入标题。点击输入标</tspan><tspan x="770.74" dy="28" fill="#262626" font-size="18.67">题点击输入标题。</tspan></text>
+</g>
+<g id="shape-12" data-name="矩形 11">
+<rect x="913.89" y="229.54" width="236.5" height="365.25" fill="none" stroke-width="2" stroke="#0A41BB"/>
+</g>
+<g id="shape-13" data-name="TextBox 76">
+<rect x="940.56" y="281.26" width="175.66" height="42.01" fill="none"/>
+<text x="1028.39" y="308.73" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#0A41BB"><tspan fill="#0A41BB" font-size="26.67">输入小标题</tspan></text>
+</g>
+<g id="shape-14" data-name="文本框 13">
+<rect x="933.74" y="339.25" width="188.64" height="107.93" fill="none"/>
+<text x="1028.06" y="359.92" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">点击输入标题点击输</tspan><tspan x="1028.06" dy="28" fill="#262626" font-size="18.67">入标题。点击输入标</tspan><tspan x="1028.06" dy="28" fill="#262626" font-size="18.67">题点击输入标题。</tspan></text>
+</g>
+<g id="shape-15" data-name="图片 14">
+<image href="assets/image27.jpeg" x="154.76" y="420.34" width="186.19" height="186.19" preserveAspectRatio="none"/>
+</g>
+<g id="shape-16" data-name="图片 15">
+<image href="assets/image28.jpeg" x="416.19" y="507.5" width="186.19" height="186.19" preserveAspectRatio="none"/>
+</g>
+<g id="shape-18" data-name="图片 17">
+<image href="assets/image29.jpeg" x="677.62" y="414.77" width="186.19" height="186.19" preserveAspectRatio="none"/>
+</g>
+<g id="shape-19" data-name="图片 18">
+<image href="assets/image30.jpeg" x="947.38" y="501.94" width="186.19" height="186.19" preserveAspectRatio="none"/>
+</g></svg>

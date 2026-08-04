@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="bggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.36" stop-color="#FFFFFF"/><stop offset="0.56" stop-color="#FFFFFF" stop-opacity="0.5"/><stop offset="0.85" stop-color="#FFFFFF" stop-opacity="0"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="url(#bggrad1)"/>
+<g id="shape-5" data-name="Rectangle 3">
+<rect x="312.78" y="603.81" width="782.91" height="73.59" fill="none" stroke="none"/>
+<text x="322.38" y="624.47" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Regular&quot;, &quot;汉仪大宋简&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">A presentation template created with attentive detail to provide a new experience </tspan><tspan x="322.38" dy="28" fill="#404040" font-size="18.67">for users. Hopefully this presentation can help you and bring good luck to you. </tspan></text>
+</g>
+<g id="shape-8" data-name="Picture 4">
+<image href="assets/image16.jpeg" x="128.9" y="124.06" width="406.9" height="406.9" preserveAspectRatio="none"/>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="97.3" y="514.58" width="116.33" height="126.02" fill="none"/>
+<text x="106.9" y="600.98" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Regular&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;汉仪大宋简&quot;, sans-serif" font-size="96" fill="#FF8627"><tspan fill="#FF8627" font-size="96">作</tspan></text>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="184.31" y="556.49" width="116.33" height="126.02" fill="none"/>
+<text x="193.91" y="642.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Regular&quot;, &quot;思源宋体 CN Heavy&quot;, &quot;汉仪大宋简&quot;, sans-serif" font-size="96" fill="#FF8627"><tspan fill="#FF8627" font-size="96">品</tspan></text>
+</g>
+<g id="shape-11" data-name="文本框 22" transform="translate(897.33 155.99) scale(-1 1) translate(-897.33 -155.99)">
+<rect x="546.45" y="124.06" width="701.78" height="63.86" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+<text x="897.33" y="139.93" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">本模板精心设计，模板所有素材均可自由编辑替换移动。单击此处添加本章节的简要</tspan><tspan x="897.33" dy="28" fill="#262626" font-size="18.67">内容。本模板精心设计，模板所有素材均可自由编辑替换移动</tspan></text>
+</g>
+<g id="shape-13" data-name="图片 12">
+<image href="assets/image17.jpeg" x="567.41" y="201.16" width="352.5" height="317.68" preserveAspectRatio="none"/>
+</g>
+<g id="shape-14" data-name="图片 13">
+<svg x="943.2" y="187.92" width="336.62" height="331.56" viewBox="0 -0.0492 1 1.0492" preserveAspectRatio="none"><image href="assets/image18.jpeg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="10.67" y="2.28" width="1259.45" height="151.87" fill="none"/>
+<text x="20.27" y="106.81" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="117.33" fill="#FF8627"><tspan fill="#FF8627" font-size="117.33">Portfolio</tspan></text>
+</g></svg>

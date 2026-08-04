@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient><linearGradient id="txtgrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient><linearGradient id="ggrad3" x1="1" y1="0.5" x2="0" y2="0.5"><stop offset="0.23" stop-color="#DDDDDD"/><stop offset="0.88" stop-color="#D8D8D8"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-27" data-name="图片 26">
+<image href="assets/image6.jpeg" x="5.75" y="45.52" width="1274.25" height="674.48" preserveAspectRatio="none"/>
+</g>
+<g id="shape-25" data-name="任意多边形: 形状 24" transform="rotate(180 180.98 378.41)">
+<path d="M 361.97 722 L 0 722 L 0 34.81 L 361.97 34.81 Z" fill="#D8D8D8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-23" data-name="图片 22" transform="rotate(180 805.5 378.41)">
+<image href="assets/image7.png" x="331" y="34.81" width="949" height="687.19" preserveAspectRatio="none"/>
+</g>
+<g id="shape-9" data-name="组合 8">
+<g id="shape-5" data-name="文本框 4">
+<rect x="99.57" y="413.49" width="322.07" height="100.78" fill="none"/>
+<text x="109.17" y="431.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">感受阳光的温暖；欣赏日出日落的美景，</tspan><tspan x="109.17" dy="19.2" fill="#808080" font-size="16">让心灵得到深度的滋养。旅行让我学会了</tspan><tspan x="109.17" dy="19.2" fill="#808080" font-size="16">如何照顾自己，让压力飞走，焕发出新的</tspan><tspan x="109.17" dy="19.2" fill="#808080" font-size="16">活力。</tspan></text>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="100.37" y="342.56" width="322.07" height="54.25" fill="none"/>
+<text x="109.97" y="360.96" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">放松身心，放飞压力：在旅行中，我抛开</tspan><tspan x="109.97" dy="19.2" fill="#808080" font-size="16">了烦恼和压力，让自己完全放松。</tspan></text>
+</g>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="108.52" y="222.69" width="357.81" height="103.4" fill="none"/>
+<text x="108.52" y="258.95" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="42.67">放飞自我，</tspan></text>
+<text x="108.52" y="310.15" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad2)"><tspan fill="url(#txtgrad2)" font-size="42.67">寻找内心自由之旅</tspan></text>
+</g>
+<g id="shape-12" data-name="组合 11">
+<g id="shape-13" data-name="平行四边形 12">
+<polygon points="62.62,82.06 67.82,82.06 66.08,112.36 60.88,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-14" data-name="平行四边形 13">
+<polygon points="78.49,82.06 83.69,82.06 81.96,112.36 76.76,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="平行四边形 14">
+<polygon points="94.37,82.06 99.57,82.06 97.84,112.36 92.64,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="平行四边形 15">
+<polygon points="110.25,82.06 115.45,82.06 113.72,112.36 108.52,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="675.13" y="622.68" width="515.83" height="58.16" fill="none"/>
+<text x="1190.97" y="643.08" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, sans-serif" font-size="24" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="24">A journey through time, my encounter with </tspan><tspan x="1190.97" dy="28.8" fill="#9AAFC2" font-size="24">beautiful scenery</tspan></text>
+</g>
+<g id="shape-8" data-name="组合 7">
+<g id="shape-18" data-name="直接连接符 17">
+<line x1="109.43" y1="534.59" x2="136.17" y2="534.59" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="直接连接符 18">
+<line x1="146.25" y1="534.59" x2="212.73" y2="534.59" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-21" data-name="任意多边形: 形状 20">
+<path d="M 0 0 L 1280 0 L 1280 46.78 L 0 46.78 Z" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g></svg>

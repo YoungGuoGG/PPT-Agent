@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-8" data-name="矩形 6" transform="translate(640 690.43) scale(-1 1) translate(-640 -690.43)">
+<path d="M 0 671.81 C 625.33 747.07 1041.33 625.2 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#A6D9A1" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<path d="M 0 671.81 C 554.67 725.74 946.67 638.54 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-9" data-name="图片 8">
+<image href="../assets/image1.png" x="13.33" y="16.85" width="66.3" height="59.15" preserveAspectRatio="none"/>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="67.13" y="238.53" width="554.2" height="273.24" fill="none"/>
+<text x="76.73" y="261.47" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="21.33" fill="#000000"><tspan fill="#000000" font-size="21.33">XX</tspan><tspan fill="#000000" font-size="21.33">自古就是交通要塞、商埠云聚之地，尤其是新中国成</tspan><tspan x="76.73" dy="27.73" fill="#000000" font-size="21.33">立后，随着XXXX水库和亚洲第一人工土坝的建成，使洈</tspan><tspan x="76.73" dy="27.73" fill="#000000" font-size="21.33">河 “野马”成了“良驹”，使得经济发展态势良好，农业产</tspan><tspan x="76.73" dy="27.73" fill="#000000" font-size="21.33">业</tspan><tspan fill="#000000" font-size="21.33">夯实了</tspan><tspan fill="#000000" font-size="21.33">基础。XXXX镇</tspan><tspan fill="#000000" font-size="21.33">是XXXX市面积第一、人口第一的</tspan><tspan x="76.73" dy="27.73" fill="#000000" font-size="21.33">大镇，是荆州市拥有省级度假区和国家森林公园的唯一镇</tspan><tspan x="76.73" dy="27.73" fill="#000000" font-size="21.33">。优越的人文地理条件为发展肉牛养殖及旅游第三产业提</tspan><tspan x="76.73" dy="27.73" fill="#000000" font-size="21.33">供了</tspan><tspan fill="#000000" font-size="21.33">“</tspan><tspan fill="#000000" font-size="21.33">天时地利人和</tspan><tspan fill="#000000" font-size="21.33">”</tspan><tspan fill="#000000" font-size="21.33">，是打造国家级标准化生态养牛场</tspan><tspan x="76.73" dy="27.73" fill="#000000" font-size="21.33">的绝佳基地选址</tspan><tspan fill="#000000" font-size="21.33">。</tspan></text>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="94.14" y="16.37" width="198.93" height="48.47" fill="none"/>
+<text x="103.74" y="48.37" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">品牌故事</tspan></text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="94.14" y="57.95" width="265.77" height="22.62" fill="none"/>
+<text x="103.74" y="71.82" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="10.67" fill="#808080"><tspan fill="#808080" font-size="10.67">FILL IN THE TEXT OF THE DOCUMENT TITLE HERE</tspan></text>
+</g>
+<g id="shape-4" data-name="矩形 3">
+<image href="../assets/image16.jpeg" x="674.67" y="209.33" width="505.33" height="322.67" preserveAspectRatio="none"/>
+<rect x="674.67" y="209.33" width="505.33" height="322.67" fill="none" stroke="none" stroke-width="1"/>
+</g></svg>

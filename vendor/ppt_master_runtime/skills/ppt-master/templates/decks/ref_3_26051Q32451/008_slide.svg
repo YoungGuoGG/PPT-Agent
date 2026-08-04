@@ -1,0 +1,105 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="3" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D9D9D9"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="3" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D9D9D9"/></marker><marker id="marrow3" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="3" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10 z" fill="#D9D9D9"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-8" data-name="矩形 6" transform="translate(640 690.43) scale(-1 1) translate(-640 -690.43)">
+<path d="M 0 671.81 C 625.33 747.07 1041.33 625.2 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#A6D9A1" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<path d="M 0 671.81 C 554.67 725.74 946.67 638.54 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-9" data-name="图片 8">
+<image href="assets/image1.png" x="13.33" y="16.85" width="66.3" height="59.15" preserveAspectRatio="none"/>
+</g>
+<g id="shape-59" data-name="组合 58">
+<g id="shape-55" data-name="组合 54">
+<g id="shape-8" data-name="图表 7">
+<rect x="37.73" y="121.07" width="580.53" height="375.2" fill="none" stroke="#999999" stroke-dasharray="4 4"/><text x="328" y="308.67" text-anchor="middle" font-size="14" fill="#999999">[chart]</text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="353.2" y="510.8" width="253.13" height="29.07" fill="none"/>
+<text x="362.8" y="529.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">*</tspan><tspan fill="#808080" font-size="16">数据来源：中商产业研究院整理</tspan></text>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="46.13" y="549.6" width="572.2" height="60" fill="none"/>
+<text x="55.73" y="569.13" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">从消费量来看：20XX年我国牛肉消费量快速增长，增速为近三年来最大</tspan><tspan x="55.73" dy="22.53" fill="#000000" font-size="17.33">值。数据显示：20XX年我国牛肉消费量为832.93万吨，同比增长</tspan><tspan x="55.73" dy="22.53" fill="#000000" font-size="17.33">11.36%。</tspan></text>
+</g>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="674.07" y="151.73" width="300.6" height="80.8" fill="none"/>
+<text x="683.67" y="206.4" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="58.67" fill="#008112"><tspan fill="#008112" font-size="58.67">80 - 90</tspan><tspan fill="#008112" font-size="37.33">  </tspan><tspan fill="#000000" font-size="16">元</tspan><tspan fill="#000000" font-size="16">/</tspan><tspan fill="#000000" font-size="16">公斤</tspan></text>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="678.67" y="121.13" width="227.33" height="30.6" fill="none"/>
+<text x="688.27" y="140.67" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#808080"><tspan fill="#808080" font-size="17.33">20XX</tspan><tspan fill="#808080" font-size="17.33">年去骨牛肉平均价格</tspan></text>
+</g>
+<g id="shape-58" data-name="组合 57">
+<g id="shape-53" data-name="组合 52">
+<g id="shape-13" data-name="文本框 12">
+<rect x="887.47" y="519.93" width="355.33" height="63.87" fill="none"/>
+<text x="897.07" y="540.6" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">由于受非洲猪瘟等多种因素的影响</tspan><tspan fill="#000000" font-size="18.67">，牛肉</tspan><tspan x="897.07" dy="24.27" fill="#000000" font-size="18.67">价格一路攀升</tspan></text>
+</g>
+<g id="shape-14" data-name="文本框 13">
+<rect x="678.67" y="486.67" width="154.6" height="38.67" fill="none"/>
+<text x="755.97" y="511.87" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">65</tspan><tspan fill="#000000" font-size="24">元</tspan><tspan fill="#000000" font-size="24">/</tspan><tspan fill="#000000" font-size="24">公斤</tspan></text>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="887.47" y="434.33" width="135.33" height="38.67" fill="none"/>
+<text x="897.07" y="459.53" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">70</tspan><tspan fill="#000000" font-size="24">元</tspan><tspan fill="#000000" font-size="24">/</tspan><tspan fill="#000000" font-size="24">公斤</tspan></text>
+</g>
+<g id="shape-18" data-name="文本框 17">
+<rect x="1071.13" y="369" width="135.33" height="38.67" fill="none"/>
+<text x="1080.73" y="394.2" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">90</tspan><tspan fill="#000000" font-size="24">元</tspan><tspan fill="#000000" font-size="24">/</tspan><tspan fill="#000000" font-size="24">公斤</tspan></text>
+</g>
+<g id="shape-19" data-name="文本框 18">
+<rect x="842.53" y="333.6" width="72.73" height="61.4" fill="none"/>
+<text x="852.13" y="356.53" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="21.33" fill="#008112"><tspan fill="#008112" font-size="21.33">7.7% ↑</tspan></text>
+</g>
+<g id="shape-20" data-name="文本框 19">
+<rect x="1030.53" y="279.07" width="69.2" height="61.4" fill="none"/>
+<text x="1040.13" y="302" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="21.33" fill="#008112"><tspan fill="#008112" font-size="21.33">31% ↑</tspan></text>
+</g>
+<g id="shape-26" data-name="直接连接符 25" transform="translate(1055.83 478.63) scale(-1 1) translate(-1055.83 -478.63)">
+<line x1="1047.6" y1="453.4" x2="1064.07" y2="503.87" stroke-width="9.667" stroke-linecap="round" stroke="#D9D9D9" stroke-linejoin="round" fill="#6096E6"/>
+</g>
+<g id="shape-27" data-name="直接连接符 26" transform="translate(871.53 528.33) scale(-1 1) translate(-871.53 -528.33)">
+<line x1="864.2" y1="504.87" x2="878.87" y2="551.8" stroke-width="9.667" stroke-linecap="round" stroke="#D9D9D9" stroke-linejoin="round" fill="#6096E6"/>
+</g>
+<g id="shape-28" data-name="直接连接符 27">
+<line x1="695.67" y1="557.73" x2="864.73" y2="557.73" stroke-width="9.667" stroke-linecap="round" stroke="#D9D9D9" stroke-linejoin="round" marker-end="url(#marrow1)" fill="#6096E6"/>
+</g>
+<g id="shape-29" data-name="直接连接符 28">
+<line x1="878.87" y1="506" x2="1046.07" y2="506" stroke-width="9.667" stroke-linecap="round" stroke="#D9D9D9" stroke-linejoin="round" marker-end="url(#marrow2)" fill="#6096E6"/>
+</g>
+<g id="shape-30" data-name="直接连接符 29">
+<line x1="1064.6" y1="453.4" x2="1242.8" y2="453.4" stroke-width="9.667" stroke-linecap="round" stroke="#D9D9D9" stroke-linejoin="round" marker-end="url(#marrow3)" fill="#6096E6"/>
+</g>
+<g id="shape-48" data-name="圆角矩形 47">
+<rect x="1071.13" y="436.13" width="122.53" height="27.87" rx="13.93" ry="13.93" fill="#008112" stroke-width="2.333" stroke="#FFFFFF"/>
+<text x="1132.4" y="456.8" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">20XX</tspan><tspan fill="#FFFFFF" font-size="18.67">年</tspan><tspan fill="#FFFFFF" font-size="18.67">底</tspan></text>
+</g>
+<g id="shape-49" data-name="圆角矩形 48">
+<rect x="887.47" y="492.07" width="122.53" height="27.87" rx="13.93" ry="13.93" fill="#008112" stroke-width="2.333" stroke="#FFFFFF"/>
+<text x="948.73" y="512.73" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">20XX</tspan><tspan fill="#FFFFFF" font-size="18.67">年</tspan><tspan fill="#FFFFFF" font-size="18.67">2</tspan><tspan fill="#FFFFFF" font-size="18.67">月</tspan></text>
+</g>
+<g id="shape-50" data-name="圆角矩形 49">
+<rect x="694.73" y="543.8" width="122.53" height="27.87" rx="13.93" ry="13.93" fill="#008112" stroke-width="2.333" stroke="#FFFFFF"/>
+<text x="756" y="564.47" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">20XX</tspan><tspan fill="#FFFFFF" font-size="18.67">年</tspan><tspan fill="#FFFFFF" font-size="18.67">7</tspan><tspan fill="#FFFFFF" font-size="18.67">月</tspan></text>
+</g>
+<g id="shape-51" data-name="直接连接符 50">
+<line x1="1064.07" y1="326.4" x2="1064.07" y2="450.2" stroke-width="2" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+<g id="shape-52" data-name="直接连接符 51">
+<line x1="878.87" y1="369" x2="878.87" y2="492.8" stroke-width="2" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6"/>
+</g>
+</g>
+<g id="shape-57" data-name="圆角矩形 56">
+<rect x="674.07" y="260.87" width="573.33" height="345.47" rx="26.07" ry="26.07" fill="none" stroke="#008112" stroke-dasharray="1 3" stroke-width="1"/>
+</g>
+</g>
+</g>
+<g id="shape-31" data-name="文本框 30">
+<rect x="94.14" y="16.37" width="198.93" height="48.47" fill="none"/>
+<text x="103.74" y="48.37" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">市场分析</tspan></text>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="94.14" y="57.95" width="265.77" height="22.62" fill="none"/>
+<text x="103.74" y="71.82" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="10.67" fill="#808080"><tspan fill="#808080" font-size="10.67">FILL IN THE TEXT OF THE DOCUMENT TITLE HERE</tspan></text>
+</g></svg>

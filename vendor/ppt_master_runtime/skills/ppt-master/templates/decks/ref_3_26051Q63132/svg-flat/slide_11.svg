@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-2" data-name="图片 1">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2">
+<image href="../assets/image5.png" x="1070.88" y="618.55" width="104.74" height="53.87" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-19" data-name="文本框 18">
+<rect x="33.32" y="32.4" width="225.08" height="42.01" fill="none"/>
+<text x="42.92" y="59.87" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">输入您的标题</tspan></text>
+</g>
+<g id="layout-shape-7" data-name="图片 6">
+<image href="../assets/image7.png" x="258.4" y="47.22" width="14.23" height="14.38" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="组合 40">
+<g id="shape-42" data-name="矩形 39">
+<rect x="556.5" y="283.17" width="190" height="63.5" fill="none" stroke="none"/>
+<text x="566.1" y="307.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+<text x="566.1" y="333.05" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+</g>
+<g id="shape-43" data-name="组合 42">
+<g id="shape-44" data-name="任意多边形 35">
+<path d="M 358.14 320.67 C 360.93 320.72 363.69 321.83 365.78 323.99 L 405.5 365.1 L 363.06 406.07 C 358.74 410.24 358.62 417.12 362.79 421.44 L 401.25 461.25 L 360.12 500.95 C 355.79 505.12 348.91 505 344.74 500.68 L 266.55 419.76 C 264.47 417.6 263.45 414.8 263.5 412.02 C 263.55 409.24 264.66 406.47 266.82 404.39 L 350.4 323.72 C 352.56 321.63 355.36 320.62 358.14 320.67 Z" fill="#31B199" stroke="none"/>
+<text x="286.18" y="419" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">标题</tspan></text>
+</g>
+<g id="shape-45" data-name="任意多边形 36">
+<path d="M 357.38 219.83 C 360.17 219.83 362.95 220.9 365.08 223.02 L 447.31 305.18 C 451.56 309.43 451.56 316.31 447.31 320.56 L 406.84 361 L 365.08 319.28 C 360.83 315.03 353.93 315.03 349.68 319.28 L 310.5 358.43 L 270.02 317.99 C 265.77 313.74 265.77 306.86 270.02 302.61 L 349.68 223.02 C 351.81 220.9 354.59 219.83 357.38 219.83 Z" fill="#31B199" stroke="none"/>
+<text x="358.67" y="285.74" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">标题</tspan></text>
+</g>
+<g id="shape-46" data-name="任意多边形 37">
+<path d="M 463.3 223.17 C 466.08 223.22 468.85 224.33 470.93 226.49 L 549.11 307.48 C 551.2 309.65 552.21 312.45 552.17 315.23 C 552.12 318.02 551.01 320.78 548.85 322.87 L 465.27 403.61 C 460.95 407.79 454.06 407.67 449.89 403.34 L 410.17 362.19 L 452.61 321.19 C 456.93 317.01 457.05 310.13 452.88 305.8 L 414.42 265.96 L 455.55 226.22 C 457.71 224.13 460.51 223.12 463.3 223.17 Z" fill="#31B199" stroke="none"/>
+<text x="529.49" y="321.58" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">标题</tspan></text>
+</g>
+<g id="shape-47" data-name="任意多边形 38">
+<path d="M 409.01 366.67 L 450.05 409.11 C 454.23 413.43 461.13 413.55 465.46 409.38 L 505.33 370.92 L 545.11 412.05 C 549.29 416.37 549.17 423.26 544.84 427.43 L 463.77 505.61 C 461.61 507.7 458.8 508.71 456.02 508.66 C 453.23 508.62 450.46 507.51 448.37 505.35 L 367.56 421.77 C 363.38 417.45 363.5 410.56 367.83 406.39 L 409.01 366.67 Z" fill="#31B199" stroke="none"/>
+<text x="456.33" y="455.67" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">标题</tspan></text>
+</g>
+<g id="shape-48" data-name="矩形 40">
+<rect x="360.5" y="518.33" width="190" height="63.5" fill="none" stroke="none"/>
+<text x="455.5" y="542.62" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+<text x="455.5" y="568.22" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+</g>
+<g id="shape-49" data-name="矩形 41">
+<rect x="261.83" y="150.17" width="190" height="63.5" fill="none" stroke="none"/>
+<text x="356.83" y="174.45" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+<text x="356.83" y="200.05" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+</g>
+<g id="shape-50" data-name="矩形 42">
+<rect x="67.17" y="380.17" width="189.67" height="63.67" fill="none" stroke="none"/>
+<text x="247.23" y="404.53" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+<text x="247.23" y="430.13" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处输入文本</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-51" data-name="组合 50">
+<g id="shape-52" data-name="Group 18">
+<g id="shape-59" data-name="文本框 44">
+<rect x="746.5" y="143.75" width="280.76" height="48.47" fill="none" stroke="none"/>
+<text x="756.1" y="175.75" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-60" data-name="文本框 59">
+<rect x="746.5" y="193.17" width="404.17" height="82.68" fill="none" stroke="none"/>
+<text x="756.1" y="216.11" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处添加详细文本描述，建议与标题相关</tspan><tspan x="756.1" dy="32" fill="#404040" font-size="21.33">并符合整体语言风格，语言描述尽量。</tspan></text>
+</g>
+</g>
+<g id="shape-53" data-name="Group 21">
+<g id="shape-57" data-name="文本框 47">
+<rect x="746.5" y="293.58" width="280.76" height="48.47" fill="none" stroke="none"/>
+<text x="756.1" y="325.58" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-58" data-name="文本框 14">
+<rect x="746.5" y="344.37" width="404.17" height="82.68" fill="none" stroke="none"/>
+<text x="756.1" y="367.3" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处添加详细文本描述，建议与标题相关</tspan><tspan x="756.1" dy="32" fill="#404040" font-size="21.33">并符合整体语言风格，语言描述尽量。</tspan></text>
+</g>
+</g>
+<g id="shape-54" data-name="Group 24">
+<g id="shape-55" data-name="文本框 50">
+<rect x="746.5" y="443.58" width="280.76" height="48.47" fill="none" stroke="none"/>
+<text x="756.1" y="475.58" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-56" data-name="文本框 14">
+<rect x="746.5" y="495.57" width="404.17" height="82.68" fill="none" stroke="none"/>
+<text x="756.1" y="518.5" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">此处添加详细文本描述，建议与标题相关</tspan><tspan x="756.1" dy="32" fill="#404040" font-size="21.33">并符合整体语言风格，语言描述尽量。</tspan></text>
+</g>
+</g>
+</g></svg>

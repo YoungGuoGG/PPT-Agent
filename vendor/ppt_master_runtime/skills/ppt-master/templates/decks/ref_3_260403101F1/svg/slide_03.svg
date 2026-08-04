@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2560" height="1440" viewBox="0 0 2560 1440"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="33.33" dy="57.74" stdDeviation="66.67" flood-color="#000000" flood-opacity="0.25"/></filter></defs><g id="shape-2" data-name="图片占位符 1" data-ph-type="pic">
+<image href="../assets/image4.jpeg" x="66.67" y="66.67" width="2426.67" height="1306.67" preserveAspectRatio="none"/>
+<rect x="66.67" y="66.67" width="2426.67" height="1306.67" fill="none"/>
+</g>
+<g id="shape-947" data-name="Shape" transform="rotate(180 1316.45 720)">
+<path d="M 1183.7 0 L 677.55 1440 L 1449.2 1440 L 1955.35 0 L 1183.7 0 Z" fill="#FFFFFF" fill-opacity="0.25" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-948" data-name="Shape" transform="rotate(180 1126.94 720)">
+<path d="M 1184.29 0 L 678.15 1440 L 1069.6 1440 L 1575.73 0 L 1184.29 0 Z" fill="#FFFFFF" fill-opacity="0.5" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-949" data-name="Shape" transform="rotate(180 592.53 720)">
+<path d="M 506.12 0 L 0 1440 L 1185.05 1440 L 1185.05 0 L 506.12 0 Z" fill="#FFFFFF" fill-opacity="0.8" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)"/>
+</g>
+<g id="shape-950" data-name="large photo showcase">
+<rect x="252.57" y="286.65" width="547.4" height="107.6" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="257.9" y="376.92" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="80" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="80" font-weight="bold">右侧作品展示</tspan></text>
+</g>
+<g id="shape-952" data-name="Rectangle">
+<rect x="258.46" y="452.24" width="100" height="13.33" fill="#A6AAA9" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-964" data-name="Square">
+<rect x="1905.43" y="513.89" width="270.67" height="270.67" stroke-width="20" stroke="#A6AAA9" stroke-opacity="0.5" stroke-linejoin="miter" fill="none"/>
+</g>
+<g id="shape-965" data-name="Shape">
+<path d="M 2165.94 447.22 L 2165.94 503.89 L 2109.28 503.89 L 2109.28 523.89 L 2165.94 523.89 L 2165.94 580.56 L 2185.94 580.56 L 2185.94 523.89 L 2242.61 523.89 L 2242.61 503.89 L 2185.94 503.89 L 2185.94 447.22 L 2165.94 447.22 Z" fill="#FFFFFF" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-21" data-name="Subtitle 2">
+<rect x="258.47" y="513.87" width="596.27" height="52.47" fill="none"/>
+<text x="268.07" y="564" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="53.33" fill="#686F76"><tspan fill="#686F76" font-size="53.33">值得描述的小标题</tspan></text>
+</g>
+<g id="shape-22" data-name="Rectangle 7">
+<rect x="258.47" y="640.73" width="453.53" height="513.67" fill="none"/>
+<text x="268.07" y="663.67" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#595959"><tspan fill="#595959" font-size="21.33">Lorem ipsum dolor sit amet, </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">consectetuer adipiscing elit, sed diam </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">nonummy nibh euismod tincidunt ut </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">laoreet dolore magna aliquam erat </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">volutpat. Ut wisi enim ad minim veniam, </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">quis nostrud exerci tation ullamcorper </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">suscipit lobortis nisl ut aliquip ex ea </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">commodo consequat. </tspan><tspan fill="#595959" font-size="21.33"> </tspan><tspan fill="#595959" font-size="21.33">Ut wisi enim ad </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">minim veniam, quis nostrud exerci </tspan><tspan x="268.07" dy="32" fill="#595959" font-size="21.33">tation.</tspan></text>
+</g></svg>

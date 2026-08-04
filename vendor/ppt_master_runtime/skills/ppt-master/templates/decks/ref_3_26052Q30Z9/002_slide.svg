@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#132144"/>
+<g id="master-shape-7" data-name="图片 6" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<svg x="0" y="0" width="1280" height="720" viewBox="0 0.05026 1 0.89948" preserveAspectRatio="none"><image href="assets/image1.jpeg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-7" data-name="矩形 6" transform="translate(637.55 360.03) scale(-1 1) translate(-637.55 -360.03)">
+<rect x="-7.03" y="65" width="1289.17" height="590.07" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="88.14" y="220.38" width="252.04" height="242.34" fill="none"/>
+<text x="214.16" y="306.78" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="96" fill="#132144" letter-spacing="2.27"><tspan fill="#132144" font-size="96" letter-spacing="2.27">目 </tspan></text>
+<text x="214.16" y="421.98" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="96" fill="#132144" letter-spacing="2.27"><tspan fill="#132144" font-size="96" letter-spacing="2.27">录</tspan></text>
+</g>
+<g id="shape-13" data-name="文本框 12" transform="rotate(90 319.89 342.58)">
+<rect x="129.29" y="318.42" width="381.2" height="48.33" fill="none"/>
+<text x="319.89" y="350.42" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, sans-serif" font-size="32" fill="#132144" letter-spacing="8"><tspan fill="#132144" font-size="32" letter-spacing="8">CONTENTS</tspan></text>
+</g>
+<g id="shape-10" data-name="图示 9">
+<rect x="438.4" y="126.33" width="718.6" height="432.5" fill="none" stroke="#999999" stroke-dasharray="4 4"/><text x="797.7" y="342.58" text-anchor="middle" font-size="14" fill="#999999">[diagram]</text>
+</g></svg>

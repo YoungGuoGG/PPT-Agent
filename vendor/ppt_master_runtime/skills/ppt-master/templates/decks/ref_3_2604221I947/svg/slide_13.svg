@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g id="shape-5" data-name="图片 4">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="组合 1" transform="rotate(117.91 501.22 202.99) translate(501.22 202.99) scale(-1 1) translate(-501.22 -202.99)">
+<g id="shape-3" data-name="图片 2">
+<image href="../assets/image18.png" x="-295.11" y="219.46" width="1592.65" height="459.03" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="图片 3">
+<image href="../assets/image19.png" x="-295.11" y="-272.52" width="1592.65" height="545.9" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="113.4" y="327.23" width="545.15" height="106.63" fill="none"/>
+<text x="385.98" y="400.03" text-anchor="middle" xml:space="preserve" font-family="&quot;方正正大黑简体&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="80" fill="#262626" letter-spacing="0.4"><tspan fill="#262626" font-size="80" letter-spacing="0.4">输入您的标题</tspan></text>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-8" data-name="文本框 7">
+<rect x="259.89" y="169.4" width="252.18" height="164.79" fill="none"/>
+<text x="385.98" y="283" text-anchor="middle" xml:space="preserve" font-family="&quot;方正正大黑简体&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="128" fill="#FFFFFF" letter-spacing="0.4"><tspan fill="#FFFFFF" font-size="128" letter-spacing="0.4">03</tspan></text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="259.89" y="169.4" width="252.18" height="164.79" fill="none"/>
+<text x="385.98" y="283" text-anchor="middle" xml:space="preserve" font-family="&quot;方正正大黑简体&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="128" fill="#5D737B" letter-spacing="0.4"><tspan fill="#5D737B" font-size="128" letter-spacing="0.4">03</tspan></text>
+</g>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="161.67" y="431.27" width="448.62" height="66.46" fill="none"/>
+<text x="385.98" y="451.94" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#262626" fill-opacity="0.6"><tspan fill="#262626" font-size="18.67" fill-opacity="0.6">请在此输入您的简要概述，概括明了，单击进行文字</tspan><tspan x="385.98" dy="24.27" fill="#262626" font-size="18.67" fill-opacity="0.6">修改。或者复制您的文本粘贴在此文本框中 </tspan></text>
+</g>
+<g id="shape-12" data-name="图片 11">
+<image href="../assets/image13.png" x="578.32" y="79.63" width="325.11" height="176.31" preserveAspectRatio="none"/>
+</g>
+<g id="shape-63" data-name="图片 62" transform="rotate(349.81 80.28 568.61)">
+<image href="../assets/image20.png" x="-21.84" y="450.05" width="204.24" height="237.13" preserveAspectRatio="none"/>
+</g>
+<g id="shape-65" data-name="任意多边形: 形状 64" transform="rotate(3.27 396.85 560.04)">
+<path d="M 199.13 600.17 C 235.26 573.97 301.47 561.64 336.25 553.99 C 371.03 546.34 414.09 559.73 409.45 583.21 C 407.87 604.49 362.82 607.6 352.12 592.29 C 335.97 565.52 379.85 541.7 434.85 530.67 C 473.78 524.19 536.83 516.94 594.57 518.43" fill="none" stroke-width="4" stroke="#000000" stroke-dasharray="3 3"/>
+</g></svg>

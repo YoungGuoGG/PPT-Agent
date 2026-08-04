@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.34" stop-color="#0A41BB"/><stop offset="0.9" stop-color="#0A41BB" stop-opacity="0"/></linearGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.34" stop-color="#0A41BB"/><stop offset="0.9" stop-color="#0A41BB" stop-opacity="0"/></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.34" stop-color="#0A41BB"/><stop offset="0.9" stop-color="#0A41BB" stop-opacity="0"/></linearGradient></defs><g id="shape-2" data-name="文本框 1">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-12" data-name="图片 11">
+<image href="../assets/image10.jpeg" x="791.34" y="190.86" width="423.17" height="410.27" preserveAspectRatio="none"/>
+</g>
+<g id="shape-14" data-name="组合 13">
+<g id="shape-15" data-name="文本框 14">
+<rect x="105.43" y="214.6" width="87.27" height="378.53" fill="none"/>
+</g>
+<g id="shape-15-text" data-name="文本框 14 text">
+<text x="149.07" y="230.46" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">击</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">输</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">入</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">简</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">要</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">字</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">解</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">说</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">，</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">解</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">说</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">字</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">尽</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">量</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">概</tspan><tspan x="149.07" dy="19.6" fill="#404040" font-size="18.67">括</tspan></text>
+</g>
+<g id="shape-16" data-name="组合 15">
+<g id="shape-17" data-name="椭圆 16">
+<ellipse cx="247.42" cy="245.8" rx="31.19" ry="31.2" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="文本框 17">
+<rect x="222.67" y="244.67" width="58.16" height="221.8" fill="none"/>
+</g>
+<g id="shape-18-text" data-name="文本框 17 text">
+<text x="251.75" y="315.57" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">添</tspan><tspan x="251.75" dy="33.6" fill="#262626" font-size="32">加</tspan><tspan x="251.75" dy="33.6" fill="#262626" font-size="32">标</tspan><tspan x="251.75" dy="33.6" fill="#262626" font-size="32">题</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-19" data-name="组合 18">
+<g id="shape-20" data-name="文本框 19">
+<rect x="350.03" y="214.6" width="87.27" height="378.53" fill="none"/>
+</g>
+<g id="shape-20-text" data-name="文本框 19 text">
+<text x="393.67" y="230.46" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">击</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">输</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">入</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">简</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">要</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">字</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">解</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">说</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">，</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">解</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">说</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">字</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">尽</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">量</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">概</tspan><tspan x="393.67" dy="19.6" fill="#404040" font-size="18.67">括</tspan></text>
+</g>
+<g id="shape-21" data-name="组合 20">
+<g id="shape-22" data-name="椭圆 21">
+<ellipse cx="492.02" cy="245.8" rx="31.19" ry="31.2" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-23" data-name="文本框 22">
+<rect x="467.27" y="244.67" width="58.16" height="221.8" fill="none"/>
+</g>
+<g id="shape-23-text" data-name="文本框 22 text">
+<text x="496.35" y="325.57" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添</tspan><tspan x="496.35" dy="25.2" fill="#000000" font-size="24">加</tspan><tspan x="496.35" dy="25.2" fill="#000000" font-size="24">标</tspan><tspan x="496.35" dy="25.2" fill="#000000" font-size="24">题</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-24" data-name="组合 23">
+<g id="shape-28" data-name="文本框 27">
+<rect x="594.63" y="214.6" width="87.27" height="378.53" fill="none"/>
+</g>
+<g id="shape-28-text" data-name="文本框 27 text">
+<text x="638.27" y="230.46" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">点</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">击</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">输</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">入</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">简</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">要</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">字</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">解</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">说</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">，</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">解</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">说</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">字</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">尽</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">量</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">概</tspan><tspan x="638.27" dy="19.6" fill="#404040" font-size="18.67">括</tspan></text>
+</g>
+<g id="shape-34" data-name="组合 33">
+<g id="shape-35" data-name="椭圆 34">
+<ellipse cx="736.62" cy="245.8" rx="31.19" ry="31.2" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-36" data-name="文本框 35">
+<rect x="711.87" y="244.67" width="58.16" height="221.8" fill="none"/>
+</g>
+<g id="shape-36-text" data-name="文本框 35 text">
+<text x="740.95" y="325.57" text-anchor="middle" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添</tspan><tspan x="740.95" dy="25.2" fill="#000000" font-size="24">加</tspan><tspan x="740.95" dy="25.2" fill="#000000" font-size="24">标</tspan><tspan x="740.95" dy="25.2" fill="#000000" font-size="24">题</tspan></text>
+</g>
+</g>
+</g></svg>

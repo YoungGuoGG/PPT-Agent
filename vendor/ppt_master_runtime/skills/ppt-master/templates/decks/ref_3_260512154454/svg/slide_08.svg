@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#FFFFFF" stop-opacity="0"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient></defs><g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="íSḷíḋe">
+<rect x="103.71" y="74.98" width="273.51" height="310.2" fill="none"/>
+<text x="113.31" y="290.58" text-anchor="start" xml:space="preserve" font-family="&quot;Bahnschrift SemiBold&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="248" fill="#F2F2F2" letter-spacing="-6.67"><tspan fill="#F2F2F2" font-size="248" letter-spacing="-6.67">02</tspan></text>
+</g>
+<g id="shape-4" data-name="iṩlíḍé">
+<rect x="342.76" y="251.83" width="23.32" height="23.32" rx="1.52" ry="1.52" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="334.19" y="183.25" width="109.33" height="48.47" fill="none"/>
+<text x="343.79" y="215.25" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">PART</tspan></text>
+</g>
+</g>
+<g id="shape-6" data-name="矩形 5">
+<image href="../assets/image4.jpeg" x="690.86" y="0" width="589.14" height="720" preserveAspectRatio="none"/>
+<rect x="690.86" y="0" width="589.14" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="î$líḓè">
+<rect x="115.36" y="277.21" width="503.5" height="151.87" fill="none"/>
+<text x="124.96" y="381.74" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="117.33" fill="#0A41BB"><tspan fill="#0A41BB" font-size="117.33">添加标题</tspan></text>
+</g>
+<g id="shape-8" data-name="组合 7">
+<g id="shape-9" data-name="直接连接符 8">
+<line x1="153.64" y1="433.14" x2="492" y2="433.14" stroke="#BFBFBF" fill="#0A41BB" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="直接连接符 9">
+<line x1="137.64" y1="433.14" x2="246.86" y2="433.14" stroke-width="4" fill="#0A41BB" stroke="#0A41BB"/>
+</g>
+</g>
+<g id="shape-11" data-name="矩形 10">
+<rect x="1043.69" y="48.78" width="236.31" height="63.51" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="1082.16" y="61.24" width="169.44" height="41.66" fill="none"/>
+<text x="1091.76" y="86.44" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="24" fill="#262626"><tspan fill="#262626" font-size="24">油画艺术</tspan></text>
+</g>
+<g id="shape-13" data-name="矩形 12">
+<rect x="0" y="608.57" width="1280" height="62.65" fill="#0A41BB" fill-opacity="0.8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-14" data-name="TextBox 17">
+<rect x="123.93" y="455.79" width="530.93" height="95.49" fill="none"/>
+<text x="133.53" y="476.46" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;Roboto Light&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">Lorem Ipsum is simply dummy text of the printing and </tspan><tspan x="133.53" dy="24.27" fill="#404040" font-size="18.67">typesetting industry. Lorem Ipsum has been the </tspan><tspan x="133.53" dy="24.27" fill="#404040" font-size="18.67">industry's </tspan><tspan fill="#404040" font-size="18.67">Ipsum is</tspan></text>
+</g>
+<g id="shape-28" data-name="组合 27">
+<g id="shape-29" data-name="矩形 28">
+<rect x="73.2" y="62.73" width="26.46" height="3.78" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+<g id="shape-30" data-name="矩形 29">
+<rect x="73.2" y="73.01" width="26.46" height="3.78" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+<g id="shape-31" data-name="矩形 30">
+<rect x="73.2" y="83.29" width="26.46" height="3.78" stroke="none" fill="#0A41BB" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="114.25" y="622.12" width="1051.49" height="35.54" fill="none"/>
+<text x="123.85" y="645.06" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF" fill-opacity="0.8"><tspan fill="#FFFFFF" font-size="21.33" fill-opacity="0.8">OIL PAINTING ART</tspan></text>
+</g></svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1024" height="768" viewBox="0 0 1024 768"><g transform="scale(0.846512 0.846589)"><defs><radialGradient id="ggrad1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#16355B" /><stop offset="0.5" stop-color="#0A2037" /><stop offset="1" stop-color="#000D18" /></radialGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FF6600" /><stop offset="1" stop-color="#FF3300" /></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.66" stop-color="#CDAD6B" /><stop offset="0" stop-color="#EDD5A5" /><stop offset="1" stop-color="#956E1F" /></linearGradient><linearGradient id="ggrad4" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.66" stop-color="#CDAD6B" /><stop offset="0" stop-color="#EDD5A5" /><stop offset="1" stop-color="#956E1F" /></linearGradient><linearGradient id="ggrad5" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.66" stop-color="#CDAD6B" /><stop offset="0" stop-color="#EDD5A5" /><stop offset="1" stop-color="#956E1F" /></linearGradient><linearGradient id="ggrad6" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.66" stop-color="#CDAD6B" /><stop offset="0" stop-color="#EDD5A5" /><stop offset="1" stop-color="#956E1F" /></linearGradient></defs><rect x="0" y="0" width="1209.67" height="907.17" fill="#FFFFFF" />
+<g id="layout-shape-6" data-name="矩形 5">
+<rect x="-2.28" y="110.68" width="1214.5" height="710.65" fill="url(#ggrad1)" stroke-width="2.667" stroke="none" />
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<image href="assets/image2.jpeg" x="-0.84" y="-1.89" width="1215.34" height="115.29" preserveAspectRatio="none" />
+<rect x="-0.84" y="-1.89" width="1215.34" height="115.29" fill="none" stroke-width="0" stroke="none" />
+</g>
+<g id="layout-shape-8" data-name="图片 11">
+<image href="assets/image4.png" x="0" y="0.35" width="103.95" height="103.94" preserveAspectRatio="none" />
+</g>
+<g id="layout-shape-9" data-name="矩形 8">
+<rect x="623.89" y="44" width="584.74" height="49.37" fill="none" />
+<text x="916.26" y="76.12" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;Arial Unicode MS&quot;, sans-serif" font-size="30.67" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">『</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">PPT</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">』—</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04"> </tspan><tspan fill="#FFFFFF" font-size="30.67">WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-10" data-name="矩形 9">
+<rect x="-1.05" y="799.23" width="1215.55" height="107.94" fill="#FFFFFF" stroke="none" stroke-width="1" />
+</g>
+<g id="layout-shape-11" data-name="Picture 6" transform="translate(824.07 857.61) scale(-1 1) translate(-824.07 -857.61)">
+<image href="assets/image3.png" x="438.49" y="839.34" width="771.16" height="36.54" preserveAspectRatio="none" />
+</g>
+<g id="layout-shape-12" data-name="TextBox 11">
+<rect x="442.89" y="839.58" width="708.58" height="41.3" fill="none" />
+<text x="454.99" y="866.03" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">PPT HTTP://WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-13" data-name="Freeform 2670">
+<path d="M 393.46 879.29 L 393.46 879.29 L 391.33 881.07 L 388.84 882.49 L 385.99 883.2 L 383.15 883.56 L 373.9 883.56 L 371.77 883.2 L 369.99 881.78 L 368.92 880.36 L 368.57 878.22 L 368.57 868.61 L 368.57 865.76 L 369.64 863.27 L 371.06 860.78 L 372.84 858.28 L 397.02 834.07 L 399.15 832.29 L 401.64 830.87 L 404.49 830.16 L 407.33 829.8 L 410.18 830.16 L 413.02 830.87 L 415.51 832.29 L 417.64 834.07 L 419.78 836.57 L 420.84 839.06 L 421.91 841.55 L 421.91 844.75 L 421.91 847.6 L 420.84 850.45 L 419.78 852.94 L 417.64 855.08 L 393.46 879.29 Z M 376.04 862.91 L 376.04 862.91 L 374.97 864.34 L 374.26 865.76 L 373.9 867.18 L 373.9 868.61 L 373.9 870.39 L 375.33 870.03 L 376.39 870.39 L 377.81 870.74 L 378.88 871.1 L 379.95 872.17 L 380.66 873.24 L 381.37 874.3 L 381.73 875.37 L 381.73 876.8 L 381.73 878.22 L 383.15 878.22 L 384.93 877.86 L 386.35 877.51 L 387.77 877.15 L 389.19 876.08 L 389.91 874.66 L 390.62 873.24 L 390.97 871.81 L 391.33 870.03 L 390.97 868.25 L 390.62 866.47 L 389.55 865.05 L 388.48 863.62 L 387.06 862.2 L 385.28 861.49 L 383.86 860.78 L 381.73 860.78 L 380.3 860.78 L 378.88 861.13 L 377.46 861.84 L 376.04 862.91 Z M 396.66 868.61 L 414.09 851.16 L 415.15 849.74 L 415.87 848.31 L 416.58 846.53 L 416.58 844.75 L 416.58 842.62 L 415.87 841.19 L 415.15 839.41 L 414.09 837.99 L 412.67 836.92 L 410.89 835.85 L 409.11 835.5 L 407.33 835.14 L 405.55 835.5 L 403.78 835.85 L 402 836.92 L 400.57 837.99 L 383.15 855.43 L 385.64 855.79 L 388.13 856.86 L 390.26 857.93 L 392.4 859.71 L 393.82 861.84 L 395.24 863.98 L 395.95 866.12 L 396.66 868.61 Z" fill="url(#ggrad2)" stroke-width="1" stroke="none" stroke-linejoin="round" />
+</g>
+<g id="shape-16" data-name="Freeform 6">
+<path d="M 640.12 288.65 L 713.28 288.65 L 713.28 281.39 L 726.41 291.83 L 739.55 302.22 L 726.41 312.66 L 713.28 323.05 L 713.28 315.52 L 658.15 315.52 C 647.32 315.52 641.22 318.22 641.22 329.1 L 641.22 650.14 L 614.35 650.14 L 614.35 314.42 C 614.35 300.24 625.94 288.65 640.12 288.65 Z" fill="#FFFFFF" stroke="none" />
+</g>
+<g id="shape-17" data-name="Freeform 7">
+<path d="M 675.43 399.4 L 711.65 399.4 L 711.65 392.14 L 724.79 402.53 L 737.92 412.98 L 724.79 423.37 L 711.65 433.81 L 711.65 426.23 L 693.46 426.23 C 682.63 426.23 676.53 428.97 676.53 439.8 L 676.53 650.14 L 649.71 650.14 L 649.71 425.13 C 649.71 411 661.25 399.4 675.43 399.4 Z" fill="#FFFFFF" stroke="none" />
+</g>
+<g id="shape-18" data-name="Freeform 8">
+<path d="M 578.95 363.64 L 505.8 363.64 L 505.8 356.39 L 492.66 366.83 L 479.52 377.22 L 492.66 387.66 L 505.8 398.05 L 505.8 390.52 L 560.92 390.52 C 571.75 390.52 577.85 393.21 577.85 404.09 L 577.85 650.14 L 604.73 650.14 L 604.73 389.42 C 604.73 375.24 593.13 363.64 578.95 363.64 Z" fill="url(#ggrad3)" stroke="none" />
+</g>
+<g id="shape-19" data-name="Freeform 9">
+<path d="M 543.77 472.15 L 507.55 472.15 L 507.55 464.89 L 494.41 475.33 L 481.27 485.72 L 494.41 496.17 L 507.55 506.56 L 507.55 499.03 L 525.74 499.03 C 536.57 499.03 542.67 501.72 542.67 512.6 L 542.67 650.14 L 569.49 650.14 L 569.49 497.93 C 569.49 483.75 557.95 472.15 543.77 472.15 Z" fill="url(#ggrad4)" stroke="none" />
+</g>
+<g id="shape-20" data-name="TextBox 21">
+<rect x="761.27" y="365.02" width="214" height="39.16" fill="none" />
+<text x="768.47" y="389.02" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="24" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-21" data-name="TextBox 22">
+<rect x="759.92" y="400" width="253.14" height="75.06" fill="none" />
+<text x="767.12" y="417.2" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="16">的内容打在这里，或者通过复制</tspan><tspan x="767.12" dy="19.2" fill="#EDD5A5" font-size="16">您的文本后，在此框中选择粘贴</tspan><tspan x="767.12" dy="19.2" fill="#EDD5A5" font-size="16">，并选择只保留文字。</tspan></text>
+</g>
+<g id="shape-22" data-name="TextBox 23">
+<rect x="759.92" y="251.62" width="185.11" height="39.16" fill="none" />
+<text x="767.12" y="275.62" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="24" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-23" data-name="TextBox 24">
+<rect x="759.92" y="290.41" width="253.14" height="75.06" fill="none" />
+<text x="767.12" y="307.61" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="16">的内容打在这里，或者通过复制</tspan><tspan x="767.12" dy="19.2" fill="#EDD5A5" font-size="16">您的文本后，在此框中选择粘贴</tspan><tspan x="767.12" dy="19.2" fill="#EDD5A5" font-size="16">，并选择只保留文字。</tspan></text>
+</g>
+<g id="shape-24" data-name="TextBox 25">
+<rect x="279.76" y="319.66" width="197.94" height="39.16" fill="none" />
+<text x="470.5" y="343.66" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="24" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-25" data-name="TextBox 26">
+<rect x="226.84" y="356.39" width="250.86" height="75.06" fill="none" />
+<text x="470.5" y="373.59" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="16">的内容打在这里，或者通过复制</tspan><tspan x="470.5" dy="19.2" fill="#EDD5A5" font-size="16">您的文本后，在此框中选择粘贴</tspan><tspan x="470.5" dy="19.2" fill="#EDD5A5" font-size="16">，并选择只保留文字。</tspan></text>
+</g>
+<g id="shape-26" data-name="TextBox 27">
+<rect x="279.76" y="448.18" width="197.94" height="39.16" fill="none" />
+<text x="470.5" y="472.18" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="24" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-27" data-name="TextBox 28">
+<rect x="226.84" y="483.01" width="250.86" height="75.06" fill="none" />
+<text x="470.5" y="500.21" text-anchor="end" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="16">的内容打在这里，或者通过复制</tspan><tspan x="470.5" dy="19.2" fill="#EDD5A5" font-size="16">您的文本后，在此框中选择粘贴</tspan><tspan x="470.5" dy="19.2" fill="#EDD5A5" font-size="16">，并选择只保留文字。</tspan></text>
+</g>
+<g id="shape-28" data-name="Freeform 6">
+<path d="M 638.17 288.65 L 711.32 288.65 L 711.32 281.39 L 724.46 291.83 L 737.59 302.22 L 724.46 312.66 L 711.32 323.05 L 711.32 315.52 L 656.2 315.52 C 645.37 315.52 639.27 318.22 639.27 329.1 L 639.27 650.14 L 612.39 650.14 L 612.39 314.42 C 612.39 300.24 623.99 288.65 638.17 288.65 Z" fill="url(#ggrad5)" stroke="none" />
+</g>
+<g id="shape-29" data-name="Freeform 7">
+<path d="M 673.48 399.4 L 709.7 399.4 L 709.7 392.14 L 722.83 402.53 L 735.97 412.98 L 722.83 423.37 L 709.7 433.81 L 709.7 426.23 L 691.5 426.23 C 680.68 426.23 674.58 428.97 674.58 439.8 L 674.58 650.14 L 647.75 650.14 L 647.75 425.13 C 647.75 411 659.3 399.4 673.48 399.4 Z" fill="url(#ggrad6)" stroke="none" />
+</g></g></svg>

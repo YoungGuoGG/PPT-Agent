@@ -1,0 +1,14 @@
+{
+  "template_id": "deck_ref_1_231103155641",
+  "name": "PPT图表 - 商务通用图表 - Design Specification",
+  "description": "PPT图表 - 商务通用图表; 商务汇报、KPI、数据关系图",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "PPT图表 - 商务通用图表; 商务汇报、KPI、数据关系图"
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\decks\\ref_1_231103155641",
+  "kind": "deck",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

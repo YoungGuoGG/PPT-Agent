@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1209.67" height="907.17" viewBox="0 0 1209.67 907.17"><defs><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><ellipse cx="267.6" cy="394.29" rx="15.8" ry="15.8"/></clipPath><clipPath id="clip2" clipPathUnits="userSpaceOnUse"><ellipse cx="553.99" cy="523.35" rx="15.8" ry="15.8"/></clipPath><clipPath id="clip3" clipPathUnits="userSpaceOnUse"><ellipse cx="895.73" cy="371.74" rx="15.8" ry="15.8"/></clipPath></defs><g id="shape-21" data-name="组合 20">
+<g id="shape-22" data-name="直接连接符 21">
+<line x1="755.26" y1="340.53" x2="895.73" y2="371.74" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+</g>
+<g id="shape-23" data-name="直接连接符 22" transform="translate(430.38 413.96) scale(-1 1) translate(-430.38 -413.96)">
+<line x1="371.52" y1="360.94" x2="489.23" y2="466.98" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+</g>
+<g id="shape-24" data-name="直接连接符 23">
+<line x1="489.23" y1="360.94" x2="555.49" y2="522.97" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+</g>
+<g id="shape-25" data-name="直接连接符 24" transform="translate(655.03 430.95) scale(-1 1) translate(-655.03 -430.95)">
+<line x1="555.49" y1="338.94" x2="754.57" y2="522.97" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+</g>
+<g id="shape-26" data-name="直接连接符 25">
+<line x1="266.93" y1="395.19" x2="373.9" y2="466.98" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+</g>
+<g id="shape-27" data-name="íśḷíďé">
+<image clip-path="url(#clip1)" href="../assets/image5.png" x="251.8" y="378.49" width="31.61" height="31.6" preserveAspectRatio="none"/>
+<ellipse cx="267.6" cy="394.29" rx="15.8" ry="15.8" fill="none" stroke-width="2.667" stroke-linecap="butt" stroke="none"/>
+</g>
+<g id="shape-28" data-name="íṣlïdè">
+<ellipse cx="371.52" cy="466.98" rx="33.82" ry="33.82" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="371.52" y="472.31" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#000000"><tspan fill="#000000" font-size="21.33">1</tspan></text>
+</g>
+<g id="shape-29" data-name="í$ḷidè">
+<ellipse cx="487.97" cy="361.33" rx="56.37" ry="56.37" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="487.97" y="371.99" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="42.67" fill="#000000"><tspan fill="#000000" font-size="42.67">2</tspan></text>
+</g>
+<g id="shape-30" data-name="îšlïďé">
+<ellipse cx="642.41" cy="444.24" rx="45.1" ry="45.1" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="642.41" y="452.24" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">3</tspan></text>
+</g>
+<g id="shape-31" data-name="îṥ1ïḋè">
+<ellipse cx="754.57" cy="340.53" rx="67.65" ry="67.65" fill="#242525" stroke-width="2.667" stroke-linecap="butt" stroke="#7B693C"/>
+<text x="754.57" y="352.53" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="48" fill="#000000"><tspan fill="#000000" font-size="48">4</tspan></text>
+</g>
+<g id="shape-32" data-name="îŝ1ïḑé">
+<image clip-path="url(#clip2)" href="../assets/image5.png" x="538.18" y="507.55" width="31.61" height="31.6" preserveAspectRatio="none"/>
+<ellipse cx="553.99" cy="523.35" rx="15.8" ry="15.8" fill="none" stroke-width="2.667" stroke-linecap="butt" stroke="none"/>
+</g>
+<g id="shape-33" data-name="ísļîďé">
+<image clip-path="url(#clip3)" href="../assets/image5.png" x="879.93" y="355.94" width="31.61" height="31.6" preserveAspectRatio="none"/>
+<ellipse cx="895.73" cy="371.74" rx="15.8" ry="15.8" fill="none" stroke-width="2.667" stroke-linecap="butt" stroke="none"/>
+</g>
+</g>
+<g id="shape-34" data-name="TextBox 23">
+<rect x="199.89" y="255.23" width="185.11" height="35.62" fill="none"/>
+<text x="207.09" y="276.97" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="21.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-35" data-name="TextBox 24">
+<rect x="199.87" y="286.49" width="190.87" height="63.76" fill="none"/>
+<text x="207.07" y="301.42" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="13.33">的内容打在这里，或者通过复</tspan><tspan x="207.07" dy="16" fill="#EDD5A5" font-size="13.33">制您的文本后，在此框中选择</tspan><tspan x="207.07" dy="16" fill="#EDD5A5" font-size="13.33">粘贴，并选择只保留文字。</tspan></text>
+</g>
+<g id="shape-36" data-name="TextBox 23">
+<rect x="500.22" y="547.57" width="185.11" height="35.62" fill="none"/>
+<text x="507.42" y="569.3" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="21.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-37" data-name="TextBox 24">
+<rect x="500.2" y="578.82" width="190.87" height="63.76" fill="none"/>
+<text x="507.4" y="593.75" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="13.33">的内容打在这里，或者通过复</tspan><tspan x="507.4" dy="16" fill="#EDD5A5" font-size="13.33">制您的文本后，在此框中选择</tspan><tspan x="507.4" dy="16" fill="#EDD5A5" font-size="13.33">粘贴，并选择只保留文字。</tspan></text>
+</g>
+<g id="shape-38" data-name="TextBox 23">
+<rect x="822.22" y="408.17" width="185.11" height="35.62" fill="none"/>
+<text x="829.42" y="429.9" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#CDAD6B" font-weight="bold"><tspan fill="#CDAD6B" font-size="21.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-39" data-name="TextBox 24">
+<rect x="822.2" y="439.42" width="190.87" height="63.76" fill="none"/>
+<text x="829.4" y="454.35" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="13.33">的内容打在这里，或者通过复</tspan><tspan x="829.4" dy="16" fill="#EDD5A5" font-size="13.33">制您的文本后，在此框中选择</tspan><tspan x="829.4" dy="16" fill="#EDD5A5" font-size="13.33">粘贴，并选择只保留文字。</tspan></text>
+</g></svg>

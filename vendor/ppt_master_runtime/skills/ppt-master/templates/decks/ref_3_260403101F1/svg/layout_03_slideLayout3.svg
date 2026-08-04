@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2560" height="1440" viewBox="0 0 2560 1440"><g id="layout-shape-35" data-name="Insert Picture Here.png" data-ph-type="pic">
+<rect x="66.67" y="66.67" width="2426.67" height="1306.67" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="74.67" y="84.67" font-size="12" fill="#64748B">ph pic idx=13</text>
+</g>
+<g id="layout-shape-36" data-name="Rectangle" data-ph-type="body">
+<rect x="66.67" y="66.67" width="1213.33" height="1306.67" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="74.67" y="84.67" font-size="12" fill="#64748B">ph body idx=14</text>
+</g>
+<g id="layout-shape-37" data-name="Slide Number" data-ph-type="sldNum">
+<rect x="0" y="0" width="0" height="0" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="8" y="18" font-size="12" fill="#64748B">ph sldNum idx=2</text>
+</g></svg>

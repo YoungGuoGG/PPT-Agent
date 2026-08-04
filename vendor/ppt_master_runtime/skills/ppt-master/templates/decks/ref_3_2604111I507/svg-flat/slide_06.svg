@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="none"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="none"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g>
+<g id="shape-3" data-name="组合 2">
+<g id="shape-4" data-name="矩形 3">
+<rect x="276.84" y="445.87" width="363.16" height="127.76" fill="#FFFFFF" fill-opacity="0.69" stroke-width="2" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-5" data-name="菱形 4">
+<polygon points="277.32,464.14 323.3,510.12 277.32,556.1 231.33,510.12" fill="#A92C24" stroke="none" stroke-width="1"/>
+<text x="277.32" y="526.92" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">C</tspan></text>
+</g>
+<g id="shape-6" data-name="TextBox 76">
+<rect x="312.5" y="461.07" width="189.56" height="48.47" fill="none"/>
+<text x="407.28" y="493.07" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="32" fill="#404040"><tspan fill="#404040" font-size="32">添加标题</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="335.36" y="498.99" width="293.76" height="73.63" fill="none"/>
+<text x="344.96" y="521.92" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明，请在</tspan><tspan x="344.96" dy="27.73" fill="#404040" font-size="21.33">此添加文字说明。</tspan></text>
+</g>
+</g>
+<g id="shape-8" data-name="组合 7">
+<g id="shape-9" data-name="矩形 8">
+<rect x="152.48" y="224.35" width="363.16" height="127.76" fill="#FFFFFF" fill-opacity="0.69" stroke-width="2" stroke="none" stroke-linejoin="round" marker-end="url(#marrow1)"/>
+</g>
+<g id="shape-10" data-name="菱形 9">
+<polygon points="152.48,241.87 198.47,287.85 152.48,333.84 106.5,287.85" fill="#A92C24" stroke="none" stroke-width="1"/>
+<text x="152.48" y="304.65" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">A</tspan></text>
+</g>
+<g id="shape-11" data-name="TextBox 76">
+<rect x="192.39" y="239.54" width="189.41" height="48.47" fill="none"/>
+<text x="287.09" y="271.54" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="32" fill="#404040"><tspan fill="#404040" font-size="32">添加标题</tspan></text>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="210.67" y="277.46" width="293.76" height="73.63" fill="none"/>
+<text x="220.27" y="300.4" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明，请在</tspan><tspan x="220.27" dy="27.73" fill="#404040" font-size="21.33">此添加文字说明。</tspan></text>
+</g>
+</g>
+<g id="shape-13" data-name="组合 12">
+<g id="shape-14" data-name="矩形 13">
+<rect x="841.62" y="445.87" width="363.16" height="127.76" fill="#FFFFFF" fill-opacity="0.69" stroke-width="2" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-15" data-name="菱形 14">
+<polygon points="842.1,464.14 888.08,510.12 842.1,556.1 796.11,510.12" fill="#A92C24" stroke="none" stroke-width="1"/>
+<text x="842.1" y="526.92" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">D</tspan></text>
+</g>
+<g id="shape-16" data-name="TextBox 76">
+<rect x="872.71" y="459.54" width="189.56" height="48.47" fill="none"/>
+<text x="967.49" y="491.54" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="32" fill="#404040"><tspan fill="#404040" font-size="32">添加标题</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="900.14" y="498.99" width="293.76" height="73.63" fill="none"/>
+<text x="909.74" y="521.92" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明，请在</tspan><tspan x="909.74" dy="27.73" fill="#404040" font-size="21.33">此添加文字说明。</tspan></text>
+</g>
+</g>
+<g id="shape-18" data-name="组合 17">
+<g id="shape-19" data-name="矩形 18">
+<rect x="717.26" y="224.35" width="363.16" height="127.76" fill="#FFFFFF" fill-opacity="0.69" stroke-width="2" stroke="none" stroke-linejoin="round" marker-end="url(#marrow2)"/>
+</g>
+<g id="shape-20" data-name="菱形 19">
+<polygon points="717.26,241.87 763.25,287.85 717.26,333.84 671.28,287.85" fill="#A92C24" stroke="none" stroke-width="1"/>
+<text x="717.26" y="304.65" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">B</tspan></text>
+</g>
+<g id="shape-21" data-name="TextBox 76">
+<rect x="757.17" y="238.02" width="189.41" height="48.47" fill="none"/>
+<text x="851.87" y="270.02" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="32" fill="#404040"><tspan fill="#404040" font-size="32">添加标题</tspan></text>
+</g>
+<g id="shape-22" data-name="文本框 21">
+<rect x="775.45" y="277.46" width="293.76" height="73.63" fill="none" stroke="none"/>
+<text x="785.05" y="300.4" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">请在此添加文字说明，请在</tspan><tspan x="785.05" dy="27.73" fill="#404040" font-size="21.33">此添加文字说明。</tspan></text>
+</g>
+</g></svg>

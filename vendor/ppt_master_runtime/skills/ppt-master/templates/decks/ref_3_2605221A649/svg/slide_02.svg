@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3.33" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3.33" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3.33" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="txtgrad1" x1="0" y1="1" x2="1" y2="0"><stop offset="0" stop-color="#4C0000"/><stop offset="0.5" stop-color="#AC0000"/><stop offset="1" stop-color="#FF0000"/></linearGradient></defs><g id="shape-5" data-name="图片 4" transform="translate(640 656.19) scale(-1 1) translate(-640 -656.19)">
+<image href="../assets/image7.png" x="0" y="585.33" width="1280" height="141.71" preserveAspectRatio="none"/>
+</g>
+<g id="shape-6" data-name="椭圆 5">
+<ellipse cx="477.16" cy="212.1" rx="45.36" ry="45.36" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+<text x="477.16" y="227.04" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">1</tspan></text>
+</g>
+<g id="shape-7" data-name="椭圆 6">
+<ellipse cx="477.16" cy="330.54" rx="45.36" ry="45.36" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+<text x="477.16" y="345.48" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">2</tspan></text>
+</g>
+<g id="shape-8" data-name="椭圆 7">
+<ellipse cx="477.16" cy="448.98" rx="45.36" ry="45.36" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+<text x="477.16" y="463.91" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">3</tspan></text>
+</g>
+<g id="shape-10" data-name="Rectangle 33">
+<rect x="520.99" y="423.52" width="669.5" height="63.33" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+<text x="532.51" y="465.54" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="42.67" font-weight="bold">《</tspan><tspan fill="#000000" font-size="42.67" font-weight="bold">民法典</tspan><tspan fill="#000000" font-size="42.67" font-weight="bold">》</tspan><tspan fill="#000000" font-size="42.67" font-weight="bold">是如何守护我们的一生</tspan></text>
+</g>
+<g id="shape-12" data-name="Rectangle 44">
+<rect x="536.5" y="181.6" width="446.59" height="63.33" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+<text x="548.02" y="223.63" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="42.67" font-weight="bold">民法典简介</tspan></text>
+</g>
+<g id="shape-13" data-name="Rectangle 55">
+<rect x="536.5" y="302.56" width="474.45" height="63.33" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+<text x="548.02" y="344.59" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#000000" font-weight="bold"><tspan fill="#000000" font-size="42.67" font-weight="bold">在法律上你属于什么人</tspan><tspan fill="#000000" font-size="42.67" font-weight="bold">?</tspan></text>
+</g>
+<g id="shape-14" data-name="Rectangle 44">
+<rect x="109.66" y="59.02" width="178.35" height="327.13" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-14-text" data-name="Rectangle 44 text">
+<text x="198.83" y="196.98" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪菱心体简&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="128" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="128">目</tspan><tspan x="198.83" dy="134.4" fill="url(#txtgrad1)" font-size="128">录</tspan></text>
+</g>
+<g id="shape-15" data-name="Rectangle 44">
+<rect x="291.06" y="187.06" width="74.95" height="275.34" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-15-text" data-name="Rectangle 44 text">
+<text x="328.53" y="223.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#262626" font-weight="bold"><tspan fill="#262626" font-size="42.67" font-weight="bold">D</tspan><tspan x="328.53" dy="44.8" fill="#262626" font-size="42.67" font-weight="bold">I</tspan><tspan x="328.53" dy="44.8" fill="#262626" font-size="42.67" font-weight="bold">R</tspan><tspan x="328.53" dy="44.8" fill="#262626" font-size="42.67" font-weight="bold">E</tspan><tspan x="328.53" dy="44.8" fill="#262626" font-size="42.67" font-weight="bold">C</tspan><tspan x="328.53" dy="44.8" fill="#262626" font-size="42.67" font-weight="bold">T</tspan></text>
+</g>
+<g id="shape-19" data-name="图片 18">
+<image href="../assets/image12.png" x="25.21" y="431.64" width="343.85" height="267.44" preserveAspectRatio="none"/>
+</g>
+<g id="shape-21" data-name="图片 20" transform="translate(1018.35 79.68) scale(-1 1) translate(-1018.35 -79.68)">
+<image href="../assets/image13.png" x="756.71" y="0" width="523.29" height="159.36" preserveAspectRatio="none"/>
+</g></svg>

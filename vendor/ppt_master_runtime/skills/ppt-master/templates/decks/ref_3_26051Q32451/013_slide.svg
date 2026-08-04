@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-8" data-name="矩形 6" transform="translate(640 690.43) scale(-1 1) translate(-640 -690.43)">
+<path d="M 0 671.81 C 625.33 747.07 1041.33 625.2 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#A6D9A1" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<path d="M 0 671.81 C 554.67 725.74 946.67 638.54 1280 671.81 L 1280 720 L 0 720 L 0 671.81 Z" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-9" data-name="图片 8">
+<image href="assets/image1.png" x="13.33" y="16.85" width="66.3" height="59.15" preserveAspectRatio="none"/>
+</g>
+<g id="shape-175" data-name="文本框 174">
+<rect x="520.81" y="463.27" width="251.33" height="71" fill="none"/>
+<text x="530.41" y="482.8" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">XXXX国际大酒店董事</tspan><tspan fill="#000000" font-size="17.33">,</tspan><tspan fill="#000000" font-size="17.33">XXXX农</tspan><tspan x="530.41" dy="27.73" fill="#000000" font-size="17.33">业发展有限公司监事。</tspan></text>
+</g>
+<g id="shape-180" data-name="文本框 179">
+<rect x="94.14" y="464" width="251.4" height="71" fill="none"/>
+<text x="103.74" y="483.53" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">XXX</tspan><tspan fill="#000000" font-size="17.33">国际大酒店董事长</tspan><tspan fill="#000000" font-size="17.33">,</tspan><tspan x="103.74" dy="27.73" fill="#000000" font-size="17.33">XXXX农业发展有限公司董事。</tspan></text>
+</g>
+<g id="shape-188" data-name="直接连接符 187">
+<line x1="426.67" y1="422.67" x2="426.67" y2="561.75" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-189" data-name="直接连接符 188">
+<line x1="853.33" y1="422.67" x2="853.33" y2="561.93" stroke="#008112" stroke-dasharray="1 3" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-170" data-name="文本框 169">
+<rect x="947.48" y="463.27" width="251.33" height="71" fill="none"/>
+<text x="957.08" y="482.8" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">XXXX农业发展有限公司董事</tspan><tspan fill="#000000" font-size="17.33">,</tspan><tspan x="957.08" dy="27.73" fill="#000000" font-size="17.33">XXXX养殖场场长。</tspan></text>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="94.14" y="16.37" width="198.93" height="48.47" fill="none"/>
+<text x="103.74" y="48.37" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">品牌故事</tspan></text>
+</g>
+<g id="shape-33" data-name="文本框 32">
+<rect x="94.14" y="57.95" width="265.77" height="22.62" fill="none"/>
+<text x="103.74" y="71.82" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="10.67" fill="#808080"><tspan fill="#808080" font-size="10.67">FILL IN THE TEXT OF THE DOCUMENT TITLE HERE</tspan></text>
+</g>
+<g id="shape-2" data-name="矩形 1">
+<image href="assets/image13.jpeg" x="93.25" y="221.33" width="266.67" height="188" preserveAspectRatio="none"/>
+<rect x="93.25" y="221.33" width="266.67" height="188" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-35" data-name="矩形 34">
+<image href="assets/image14.jpeg" x="531.91" y="221.33" width="266.67" height="188" preserveAspectRatio="none"/>
+<rect x="531.91" y="221.33" width="266.67" height="188" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-36" data-name="矩形 35">
+<image href="assets/image15.jpeg" x="947.48" y="221.33" width="266.67" height="188" preserveAspectRatio="none"/>
+<rect x="947.48" y="221.33" width="266.67" height="188" fill="none" stroke="none" stroke-width="1"/>
+</g></svg>

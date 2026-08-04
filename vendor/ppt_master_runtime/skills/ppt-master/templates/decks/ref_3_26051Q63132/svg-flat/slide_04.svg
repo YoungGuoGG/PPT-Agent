@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-2" data-name="图片 1">
+<image href="../assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2">
+<image href="../assets/image5.png" x="1070.88" y="618.55" width="104.74" height="53.87" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-19" data-name="文本框 18">
+<rect x="33.32" y="32.4" width="225.08" height="42.01" fill="none"/>
+<text x="42.92" y="59.87" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#262626"><tspan fill="#262626" font-size="26.67">输入您的标题</tspan></text>
+</g>
+<g id="layout-shape-7" data-name="图片 6">
+<image href="../assets/image7.png" x="258.4" y="47.22" width="14.23" height="14.38" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="矩形">
+<rect x="813.17" y="173.73" width="11.34" height="58.28" fill="#31B199" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-3" data-name="标题">
+<rect x="748.62" y="173.73" width="58.16" height="215.69" fill="none"/>
+</g>
+<g id="shape-3-text" data-name="标题 text">
+<text x="777.7" y="207.97" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold" letter-spacing="2"><tspan fill="#404040" font-size="32" font-weight="bold" letter-spacing="2">点</tspan><tspan x="777.7" dy="33.6" fill="#404040" font-size="32" font-weight="bold" letter-spacing="2">击</tspan><tspan x="777.7" dy="33.6" fill="#404040" font-size="32" font-weight="bold" letter-spacing="2">添</tspan><tspan x="777.7" dy="33.6" fill="#404040" font-size="32" font-weight="bold" letter-spacing="2">加</tspan><tspan x="777.7" dy="33.6" fill="#404040" font-size="32" font-weight="bold" letter-spacing="2">标</tspan><tspan x="777.7" dy="33.6" fill="#404040" font-size="32" font-weight="bold" letter-spacing="2">题</tspan></text>
+</g>
+<g id="shape-4" data-name="TextBox 33">
+<rect x="109.96" y="174.53" width="592.4" height="398.04" fill="none"/>
+</g>
+<g id="shape-4-text" data-name="TextBox 33 text">
+<text x="406.16" y="192.66" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">您</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">的</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">内</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">容</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">打</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">在</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">这</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">里</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">，</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">或</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">者</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">通</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">过</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">复</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">制</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">您</tspan><tspan x="406.16" dy="22.4" fill="#404040" font-size="21.33">的</tspan></text>
+</g>
+<g id="shape-6" data-name="图片 5">
+<image href="../assets/image12.png" x="765.38" y="168.67" width="441.48" height="441.48" preserveAspectRatio="none"/>
+</g></svg>

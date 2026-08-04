@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g id="shape-2" data-name="组合 1">
+<g id="shape-8" data-name="图片 7">
+<image href="../assets/image1.jpeg" x="0.13" y="0" width="1279.67" height="719.93" preserveAspectRatio="none"/>
+</g>
+<g id="shape-9" data-name="图形">
+<rect x="428.13" y="25.93" width="423.8" height="52.33" fill="none" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="437.73" y="62.47" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">输入标题内容</tspan></text>
+</g>
+<g id="shape-17" data-name="圆角矩形 5">
+<rect x="64.8" y="93.6" width="1156.47" height="571.8" rx="95.3" ry="95.3" fill="#FFFFFF" stroke="#3367E0" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-4" data-name="文本框 3">
+<rect x="174.74" y="453.13" width="241.13" height="121.99" fill="none"/>
+<text x="184.34" y="476.06" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">点击输入是说明文本点</tspan><tspan x="184.34" dy="32" fill="#404040" font-size="21.33">击输入是说明文本点击</tspan><tspan x="184.34" dy="32" fill="#404040" font-size="21.33">输入是说明文本</tspan></text>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="522.07" y="451.59" width="241.13" height="121.99" fill="none"/>
+<text x="531.67" y="474.53" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">点击输入是说明文本点</tspan><tspan x="531.67" dy="32" fill="#404040" font-size="21.33">击输入是说明文本点击</tspan><tspan x="531.67" dy="32" fill="#404040" font-size="21.33">输入是说明文本</tspan></text>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="878.78" y="453.13" width="241.13" height="121.99" fill="none"/>
+<text x="888.38" y="476.06" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">点击输入是说明文本点</tspan><tspan x="888.38" dy="32" fill="#404040" font-size="21.33">击输入是说明文本点击</tspan><tspan x="888.38" dy="32" fill="#404040" font-size="21.33">输入是说明文本</tspan></text>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-12" data-name="箭头: 五边形 15">
+<polygon points="519.01,190.39 763.21,190.39 763.21,301.89 763.21,413.39 519.01,413.39" fill="#2749D3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="组合 12">
+<g id="shape-14" data-name="Freeform 665">
+<path d="M 682.02 277.31 L 688.7 251.53 L 662.45 257.73 L 669.13 264.42 L 643.83 289.24 L 633.33 278.74 L 596.58 315.5 L 603.74 322.66 L 603.74 322.66 L 633.33 293.06 L 643.83 303.09 L 676.29 271.1 L 682.02 277.31 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-19" data-name="Rectangle 666">
+<rect x="604.69" y="327.91" width="13.37" height="24.35" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-23" data-name="Rectangle 667">
+<rect x="626.65" y="315.98" width="13.37" height="36.28" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-24" data-name="Rectangle 668">
+<rect x="649.08" y="304.04" width="13.37" height="48.22" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-25" data-name="Rectangle 669">
+<rect x="671.04" y="292.11" width="13.37" height="60.15" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+</g>
+<g id="shape-22" data-name="组合 21">
+<g id="shape-20" data-name="图片 19">
+<image href="../assets/image11.png" x="183.81" y="189.48" width="244.2" height="244.2" preserveAspectRatio="none"/>
+</g>
+<g id="shape-21" data-name="图片 20">
+<image href="../assets/image11.png" x="875.72" y="186.98" width="244.2" height="244.2" preserveAspectRatio="none"/>
+</g>
+</g></svg>

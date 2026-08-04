@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-6" data-name="X" transform="translate(639.87 244.3) scale(1 -1) translate(-639.87 -244.3)">
+<rect x="406.53" y="102.47" width="466.67" height="283.67" fill="#808080" fill-opacity="0.18" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-8" data-name="X">
+<ellipse cx="423.1" cy="244.23" rx="46.1" ry="46.1" fill="#008112" stroke-width="3" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-11" data-name="X">
+<path d="M 437.31 262.9 C 436.33 262.9 435.58 263.65 435.58 264.66 C 435.58 265.41 436.33 266.16 437.31 266.16 C 438.32 266.16 439.07 265.41 439.07 264.66 C 439.07 263.65 438.32 262.9 437.31 262.9 Z M 418.4 252.11 L 420.16 253.84 L 412.41 261.54 L 412.89 262.05 L 411.16 264.28 L 404.9 268.27 L 403.88 267.29 L 407.89 261.07 L 410.14 259.31 L 410.65 259.82 Z M 408.63 226.29 C 411.1 226.26 413.53 227.3 415.41 229.16 C 417.88 231.67 418.89 235.16 417.88 238.42 L 440.05 260.66 C 441.81 262.39 441.81 265.14 440.05 266.91 C 439.31 267.89 438.05 268.4 437.07 268.4 C 435.82 268.4 434.57 267.89 433.82 266.91 C 433.82 266.91 433.82 266.91 411.65 244.91 C 408.41 245.89 404.68 245.18 401.94 242.43 C 399.44 239.92 398.69 236.42 399.7 233.16 C 399.7 233.16 399.7 233.16 404.95 238.66 C 404.95 238.66 404.95 238.66 410.16 237.17 C 410.16 237.17 410.16 237.17 411.65 231.91 C 411.65 231.91 411.65 231.91 406.17 226.68 C 406.98 226.42 407.81 226.29 408.63 226.29 Z M 440.02 225.13 C 440.02 225.13 440.02 225.13 447 231.85 C 447 231.85 447 231.85 434.76 244.1 C 433.78 244.1 432.53 244.34 431.78 244.84 L 427.03 240.36 C 427.78 239.62 428.02 238.36 428.02 237.35 C 428.02 237.35 428.02 237.35 440.02 225.13 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-13" data-name="X">
+<ellipse cx="852.43" cy="244.23" rx="46.1" ry="46.1" fill="#008112" stroke-width="3" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-15" data-name="X">
+<path d="M 866.64 262.9 C 865.66 262.9 864.91 263.65 864.91 264.66 C 864.91 265.41 865.66 266.16 866.64 266.16 C 867.66 266.16 868.4 265.41 868.4 264.66 C 868.4 263.65 867.66 262.9 866.64 262.9 Z M 847.73 252.11 L 849.5 253.84 L 841.75 261.54 L 842.22 262.05 L 840.49 264.28 L 834.23 268.27 L 833.22 267.29 L 837.23 261.07 L 839.47 259.31 L 839.98 259.82 Z M 837.97 226.29 C 840.43 226.26 842.86 227.3 844.74 229.16 C 847.21 231.67 848.23 235.16 847.21 238.42 L 869.38 260.66 C 871.14 262.39 871.14 265.14 869.38 266.91 C 868.64 267.89 867.39 268.4 866.4 268.4 C 865.15 268.4 863.9 267.89 863.16 266.91 C 863.16 266.91 863.16 266.91 840.99 244.91 C 837.74 245.89 834.01 245.18 831.27 242.43 C 828.77 239.92 828.02 236.42 829.04 233.16 C 829.04 233.16 829.04 233.16 834.28 238.66 C 834.28 238.66 834.28 238.66 839.5 237.17 C 839.5 237.17 839.5 237.17 840.99 231.91 C 840.99 231.91 840.99 231.91 835.5 226.68 C 836.32 226.42 837.14 226.29 837.97 226.29 Z M 869.35 225.13 C 869.35 225.13 869.35 225.13 876.33 231.85 C 876.33 231.85 876.33 231.85 864.1 244.1 C 863.11 244.1 861.86 244.34 861.11 244.84 L 856.37 240.36 C 857.11 239.62 857.35 238.36 857.35 237.35 C 857.35 237.35 857.35 237.35 869.35 225.13 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-17" data-name="X">
+<ellipse cx="639.9" cy="369.57" rx="46.1" ry="46.1" fill="#008112" stroke-width="3" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-18" data-name="X">
+<path d="M 654.11 388.23 C 653.13 388.23 652.38 388.98 652.38 390 C 652.38 390.74 653.13 391.49 654.11 391.49 C 655.12 391.49 655.87 390.74 655.87 390 C 655.87 388.98 655.12 388.23 654.11 388.23 Z M 635.2 377.44 L 636.96 379.17 L 629.21 386.88 L 629.69 387.38 L 627.96 389.61 L 621.7 393.6 L 620.68 392.62 L 624.69 386.4 L 626.94 384.65 L 627.45 385.15 Z M 625.43 351.62 C 627.9 351.59 630.33 352.63 632.21 354.49 C 634.68 357 635.69 360.5 634.68 363.76 L 656.85 385.99 C 658.61 387.73 658.61 390.48 656.85 392.24 C 656.11 393.23 654.85 393.73 653.87 393.73 C 652.62 393.73 651.37 393.23 650.62 392.24 C 650.62 392.24 650.62 392.24 628.45 370.24 C 625.21 371.23 621.48 370.51 618.74 367.76 C 616.24 365.25 615.49 361.75 616.5 358.5 C 616.5 358.5 616.5 358.5 621.75 363.99 C 621.75 363.99 621.75 363.99 626.96 362.5 C 626.96 362.5 626.96 362.5 628.45 357.24 C 628.45 357.24 628.45 357.24 622.97 352.01 C 623.78 351.76 624.61 351.63 625.43 351.62 Z M 656.82 350.47 C 656.82 350.47 656.82 350.47 663.8 357.19 C 663.8 357.19 663.8 357.19 651.56 369.43 C 650.58 369.43 649.33 369.67 648.58 370.18 L 643.83 365.7 C 644.58 364.95 644.82 363.7 644.82 362.68 C 644.82 362.68 644.82 362.68 656.82 350.47 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-19" data-name="X">
+<rect x="66.4" y="194.93" width="313.8" height="53.47" fill="none"/>
+<text x="76" y="227.67" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">产学研联盟，促进技术研发</tspan></text>
+</g>
+<g id="shape-22" data-name="X">
+<rect x="72.8" y="258.4" width="304.2" height="87.53" fill="none" stroke="none"/>
+<text x="82.4" y="277.93" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">XX农业与</tspan><tspan fill="#000000" font-size="17.33">XX</tspan><tspan fill="#000000" font-size="17.33">农业大学等多所高校开展</tspan><tspan x="82.4" dy="22.53" fill="#000000" font-size="17.33">教学合作，作为教学基地进行科学项</tspan><tspan x="82.4" dy="22.53" fill="#000000" font-size="17.33">目调研及考察，集产学研于一体，并</tspan><tspan x="82.4" dy="22.53" fill="#000000" font-size="17.33">进行人才输送。</tspan></text>
+</g>
+<g id="shape-23" data-name="X">
+<rect x="913.6" y="194.93" width="293.73" height="53.47" fill="none"/>
+<text x="923.2" y="227.67" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">多项专利技术支持</tspan></text>
+</g>
+<g id="shape-24" data-name="X">
+<rect x="913.6" y="258.4" width="293.73" height="127.8" fill="none" stroke="none"/>
+<text x="923.2" y="277.93" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">组成专家团队共同研发了西门塔尔</tspan><tspan x="923.2" dy="22.53" fill="#000000" font-size="17.33">杂交改良技术、益生菌、中草药膳</tspan><tspan x="923.2" dy="22.53" fill="#000000" font-size="17.33">组合、特制谷物发酵精料、生态养</tspan><tspan x="923.2" dy="22.53" fill="#000000" font-size="17.33">殖专利、快乐屠宰等</tspan><tspan fill="#000000" font-size="17.33">20+</tspan><tspan fill="#000000" font-size="17.33">项专利。</tspan></text>
+</g>
+<g id="shape-26" data-name="X">
+<rect x="472.07" y="436.13" width="335.67" height="49.27" fill="none"/>
+<text x="639.9" y="466.77" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">坚持创新，带动现代农业发展</tspan></text>
+</g>
+<g id="shape-28" data-name="X">
+<rect x="412.53" y="485.4" width="454.73" height="87.53" fill="none" stroke="none"/>
+<text x="422.13" y="504.93" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">XX作为龙头高新技术企业、牵头开展开展技术研发、技术</tspan><tspan x="422.13" dy="22.53" fill="#000000" font-size="17.33">改造和提档升级，创新产业发展模式，带动提升全产业链</tspan><tspan x="422.13" dy="22.53" fill="#000000" font-size="17.33">专业化协作和配套水平，全面促进农业升级。</tspan></text>
+</g>
+<g id="shape-20" data-name="文本框 19">
+<rect x="94.14" y="16.37" width="198.93" height="48.47" fill="none"/>
+<text x="103.74" y="48.37" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">核心优势</tspan></text>
+</g>
+<g id="shape-21" data-name="文本框 20">
+<rect x="94.14" y="57.95" width="265.77" height="22.62" fill="none"/>
+<text x="103.74" y="71.82" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="10.67" fill="#808080"><tspan fill="#808080" font-size="10.67">FILL IN THE TEXT OF THE DOCUMENT TITLE HERE</tspan></text>
+</g></svg>

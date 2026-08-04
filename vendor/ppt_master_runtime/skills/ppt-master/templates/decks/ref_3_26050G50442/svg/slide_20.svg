@@ -1,0 +1,175 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="1" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="2" result="blurred"/><feFlood flood-color="#1464F4" flood-opacity="0.4" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.75" stop-color="#117DFF" stop-opacity="0.7"/><stop offset="1" stop-color="#117DFF" stop-opacity="0.8"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.4"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.2"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.75" stop-color="#117DFF" stop-opacity="0.7"/><stop offset="1" stop-color="#117DFF" stop-opacity="0.8"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad5" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.4"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx6" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.2"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx7" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad7" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.75" stop-color="#117DFF" stop-opacity="0.7"/><stop offset="1" stop-color="#117DFF" stop-opacity="0.8"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx8" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad8" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.4"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx9" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad9" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.2"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx10" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad10" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.75" stop-color="#117DFF" stop-opacity="0.7"/><stop offset="1" stop-color="#117DFF" stop-opacity="0.8"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx11" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad11" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.4"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx12" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad12" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.2"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx13" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="txtgrad13" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.07" stop-color="#41CCFD"/><stop offset="1" stop-color="#117DFF"/></linearGradient><linearGradient id="txtgrad14" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="txtgrad15" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.07" stop-color="#41CCFD"/><stop offset="1" stop-color="#117DFF"/></linearGradient><linearGradient id="txtgrad16" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="txtgrad17" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.07" stop-color="#41CCFD"/><stop offset="1" stop-color="#117DFF"/></linearGradient><linearGradient id="txtgrad18" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="txtgrad19" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.07" stop-color="#41CCFD"/><stop offset="1" stop-color="#117DFF"/></linearGradient><linearGradient id="txtgrad20" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="txtgrad21" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.07" stop-color="#41CCFD"/><stop offset="1" stop-color="#117DFF"/></linearGradient><linearGradient id="txtgrad22" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="ggrad23" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.75" stop-color="#117DFF" stop-opacity="0.7"/><stop offset="1" stop-color="#117DFF" stop-opacity="0.8"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx14" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad24" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.4"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx15" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad25" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#117DFF" stop-opacity="0.2"/><stop offset="0.12" stop-color="#117DFF" stop-opacity="0"/></linearGradient><filter id="fx16" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter></defs><g id="shape-12" data-name="图片 11">
+<svg x="0" y="0" width="1280" height="720.42" viewBox="0.05073 0.17677 0.89256 0.55962" preserveAspectRatio="none"><image href="../assets/image66.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-18" data-name="任意多边形: 形状 17">
+<path d="M -3 708.43 C -1.33 707.7 0.39 707.11 2 706.23 C 4.65 704.77 7.15 702 9 699.63 C 9.78 698.63 10.3 697.41 11 696.33 C 11.97 694.84 13.12 693.49 14 691.93 C 18.98 683.17 13.46 691.9 17 683.13 C 18.99 678.21 19.89 677.75 23 674.34 C 23.72 671.18 24.78 666.02 26 663.34 C 27.43 660.19 28.26 658.88 29 655.64 C 29.41 653.83 29.06 651.7 30 650.14 C 30.58 649.18 31.99 649.36 33 649.04 C 34.32 648.62 35.68 648.36 37 647.94 C 38.01 647.62 39.06 647.36 40 646.84 C 41.46 646.04 46.09 642.09 47 641.34 C 48 639.51 48.74 637.47 50 635.84 C 50.78 634.84 52.08 634.49 53 633.64 C 54.09 632.65 55.09 631.54 56 630.34 C 60.17 624.84 55.5 628.88 61 624.84 C 62 622.64 62.76 620.29 64 618.25 C 65.39 615.95 69.15 613.17 71 611.65 C 71.67 610.18 71.95 608.41 73 607.25 C 73.75 606.43 74.98 606.43 76 606.15 C 77.65 605.69 79.34 605.47 81 605.05 C 83.68 604.37 89 602.85 89 602.85 C 94.1 594.43 87.11 604.79 95 597.35 C 96.27 596.16 96.75 594.16 98 592.95 C 99.46 591.54 101.35 590.78 103 589.65 C 108.65 585.76 103.17 589.01 110 585.25 C 110.67 583.78 111.03 582.1 112 580.85 C 113.08 579.46 114.63 578.6 116 577.55 C 117.97 576.04 120 574.62 122 573.15 C 123 572.42 123.86 571.37 125 570.95 C 129.3 569.38 126.98 570.13 132 568.75 C 133.33 567.65 134.35 565.68 136 565.45 C 139.98 564.91 144.05 565.74 148 566.55 C 149.47 566.86 150.63 568.11 152 568.75 C 154.01 569.7 156.97 570.39 159 570.95 C 167.82 577.42 153.72 567.5 168 575.35 C 170.15 576.53 171.67 579.11 174 579.75 C 179.65 581.3 176.65 580.55 183 581.95 C 192 586.9 180.86 581.41 196 585.25 C 198.78 585.96 204.19 590.86 206 591.85 C 211.61 594.93 208.62 593.44 215 596.25 C 217.33 595.88 219.69 595.66 222 595.15 C 223.03 594.92 223.95 593.98 225 594.05 C 229.71 594.35 234.33 595.52 239 596.25 C 243.94 604.4 240.64 602.33 248 603.95 C 255.9 609.74 251.77 607.66 270 605.05 C 271.48 604.84 272.6 603.41 274 602.85 C 276.28 601.94 278.68 601.41 281 600.65 C 282.01 600.31 282.97 599.78 284 599.55 C 286.31 599.04 288.66 598.79 291 598.45 C 293.66 598.06 296.34 597.8 299 597.35 C 300.95 597.02 305.9 595.84 308 595.15 C 310.02 594.48 314 592.95 314 592.95 C 322.82 583.25 312.87 593.03 323 586.35 C 324.83 585.14 326.18 583.18 328 581.95 C 330.54 580.23 333.08 578.19 336 577.55 C 345.59 575.44 339.3 576.59 355 575.35 C 356.67 573.89 358.42 572.53 360 570.95 C 362.19 568.77 366.04 562.81 370 562.15 C 375.28 561.28 380.67 561.42 386 561.05 C 387.67 560.32 389.43 559.81 391 558.85 C 400.08 553.31 390.74 557.12 398 554.46 C 399.33 553.36 400.73 552.35 402 551.16 C 403.07 550.14 403.74 548.55 405 547.86 C 406.52 547.02 408.33 547.12 410 546.76 C 411.31 546.92 421.32 547.85 424 548.96 C 425.13 549.42 425.93 550.56 427 551.16 C 427.94 551.67 429.03 551.8 430 552.26 C 431.37 552.9 432.67 553.72 434 554.46 C 437.67 553.72 441.51 553.7 445 552.26 C 449.19 550.53 449.76 547.1 453 544.56 C 456.54 541.78 458.62 542.06 463 541.26 C 466 541.62 469.07 541.55 472 542.36 C 473.17 542.68 473.93 543.97 475 544.56 C 475.94 545.08 477 545.29 478 545.66 C 478.23 545.85 484.03 550.75 485 551.16 C 486.59 551.81 488.33 551.89 490 552.26 C 493.33 551.52 496.8 551.31 500 550.06 C 501.57 549.44 502.55 547.67 504 546.76 C 504.92 546.18 506 546.02 507 545.66 C 507.33 547.12 506.63 550.06 508 550.06 C 510.98 550.06 516 545.66 516 545.66 C 521.36 546.39 525.7 547.77 531 545.66 C 532.57 545.03 533.61 543.37 535 542.36 C 536.62 541.17 538.45 540.34 540 539.06 C 541.13 538.12 541.85 536.66 543 535.76 C 544.21 534.81 545.58 534.05 547 533.56 C 550.94 532.21 559 530.26 559 530.26 C 565.36 523.27 560.59 527.94 569 521.46 C 570.37 520.41 571.59 519.13 573 518.16 C 575.82 516.22 577.08 515.93 580 514.86 C 584.67 509.73 581.18 512.7 588 509.36 C 589.36 508.7 590.62 507.79 592 507.16 C 593.6 506.43 603.49 502.35 606 501.66 L 610 500.56 C 620.29 493.02 604.09 505.42 616 493.97 C 617.46 492.56 619.38 491.85 621 490.67 C 622.39 489.65 623.63 488.42 625 487.37 C 626.97 485.85 629.56 485.08 631 482.97 C 633 480.03 634.64 476.76 637 474.17 C 640 470.87 643.45 468 646 464.27 C 648.67 460.36 650.29 457.54 654 454.37 C 655.85 452.79 658.77 451.89 661 451.07 C 661.67 449.97 662 448.51 663 447.77 C 664.14 446.93 665.68 447.09 667 446.67 C 668.01 446.35 669 445.94 670 445.57 C 671 446.31 672.28 446.72 673 447.77 C 675.33 451.19 676.84 455.21 679 458.77 C 679.67 459.87 680.08 461.22 681 462.07 C 682.15 463.12 683.71 463.46 685 464.27 C 686.04 464.93 686.93 465.88 688 466.47 C 690.78 468 696.2 469.84 699 470.87 C 706.04 473.45 697.35 470.09 706 474.17 C 708.4 475.3 710.46 475.57 713 476.37 C 714.01 476.69 715 477.1 716 477.47 C 716.67 478.57 717.04 479.97 718 480.77 C 721.61 483.75 724.05 484.08 728 485.17 C 734.67 484.8 741.38 485.02 748 484.07 C 749.19 483.9 749.81 482.03 751 481.87 C 757.95 480.91 765 481.13 772 480.77 C 782.79 476.81 778.76 475.01 785 481.87 C 786.91 488.17 784.55 482.47 790 488.47 C 791.18 489.76 791.61 491.85 793 492.87 C 794.75 494.15 799 495.07 799 495.07 C 800.67 493.23 802.16 491.19 804 489.57 C 807.37 486.6 808.53 486.44 812 485.17 C 815 485.53 818.06 485.52 821 486.27 C 822.45 486.64 823.63 487.82 825 488.47 C 825.97 488.92 827 489.2 828 489.57 C 828.67 491.03 829.03 492.72 830 493.97 C 831.08 495.36 832.55 496.36 834 497.26 C 834.92 497.84 835.95 498.3 837 498.36 C 847.65 499.03 858.33 499.1 869 499.46 C 870 499.83 871.01 500.16 872 500.56 C 873.68 501.26 875.28 502.2 877 502.76 C 878.63 503.3 880.33 503.5 882 503.86 C 889.33 503.5 896.71 503.73 904 502.76 C 905.85 502.52 910.41 496.63 911 496.17 C 911.86 495.49 913.06 495.58 914 495.07 C 915.74 494.11 917.3 492.8 919 491.77 C 920.3 490.97 921.71 490.38 923 489.57 C 924.04 488.91 924.81 487.52 926 487.37 C 933.29 486.4 940.67 486.63 948 486.27 C 949.33 485.53 950.79 485.02 952 484.07 C 954.44 482.15 955.02 479.66 958 478.57 C 959.92 477.86 962 477.83 964 477.47 C 965.72 476.05 968.95 473.26 971 471.97 C 972.29 471.16 973.56 470.2 975 469.77 C 977.27 469.09 979.67 469.04 982 468.67 C 998.92 469.48 999.61 466.07 1009 471.97 C 1010.04 472.62 1011 473.44 1012 474.17 C 1013.67 473.07 1015.63 472.38 1017 470.87 C 1018.37 469.36 1018.89 467.12 1020 465.37 C 1021.22 463.45 1022.49 461.53 1024 459.87 C 1024.85 458.94 1025.96 458.33 1027 457.67 C 1030.46 455.5 1030.63 455.61 1034 454.37 C 1037.85 448.02 1033.67 453.45 1042 448.87 C 1045.08 447.18 1047.38 443.84 1051 443.37 C 1055.65 442.77 1060.33 442.64 1065 442.27 C 1070.13 432.39 1066.52 436.68 1072 432.38 C 1073.36 431.31 1074.45 429.76 1076 429.08 C 1077.88 428.25 1080 428.34 1082 427.98 C 1084.33 428.34 1086.8 428.15 1089 429.08 C 1096.96 432.44 1092.84 432.72 1098 436.77 C 1100.82 438.99 1102.78 439.19 1106 440.07 C 1115.93 448.27 1102.63 438.39 1117 444.47 C 1119.24 445.42 1121 447.41 1123 448.87 C 1124 449.61 1125.15 450.14 1126 451.07 C 1127 452.17 1127.76 453.62 1129 454.37 C 1130.84 455.5 1133.25 455.29 1135 456.57 C 1142.31 461.93 1133.12 455.39 1142 460.97 C 1143.04 461.63 1143.93 462.58 1145 463.17 C 1145.94 463.69 1147.03 463.81 1148 464.27 C 1151.29 465.82 1151.75 466.78 1155 467.57 C 1156.98 468.05 1159.01 468.23 1161 468.67 C 1162.35 468.97 1163.67 469.4 1165 469.77 C 1170 469.4 1175.02 469.28 1180 468.67 C 1185.88 467.95 1180.76 465.44 1189 463.17 L 1193 462.07 C 1198.12 462.54 1207.41 464.3 1213 462.07 C 1214.33 461.54 1215 459.87 1216 458.77 C 1218.33 459.14 1220.81 458.91 1223 459.87 C 1224.31 460.45 1224.82 462.31 1226 463.17 C 1226.88 463.81 1228.03 463.81 1229 464.27 C 1237.65 468.35 1228.96 464.99 1236 467.57 C 1244 464.64 1234.67 469.04 1240 463.17 C 1241.37 461.66 1243.33 460.97 1245 459.87 C 1250.33 460.24 1255.72 460.05 1261 460.97 C 1262.19 461.18 1263.02 462.4 1264 463.17 C 1265.36 464.24 1266.82 465.17 1268 466.47 C 1271.65 470.48 1268.28 469.84 1273 474.17 C 1273.81 474.91 1275.06 474.75 1276 475.27 C 1277.07 475.86 1279 477.47 1279 477.47" fill="none" stroke-width="6" stroke="#0070C0" filter="url(#fx1)"/>
+</g>
+<g id="shape-19" data-name="椭圆 18">
+<ellipse cx="139.84" cy="564.3" rx="9.45" ry="9.45" fill="#117DFF" stroke-width="3" stroke="#41CCFD"/>
+</g>
+<g id="shape-20" data-name="椭圆 19">
+<ellipse cx="1088.42" cy="427.47" rx="9.45" ry="9.45" fill="#117DFF" stroke-width="3" stroke="#41CCFD"/>
+</g>
+<g id="shape-21" data-name="椭圆 20">
+<ellipse cx="663.96" cy="448.15" rx="9.45" ry="9.45" fill="#117DFF" stroke-width="3" stroke="#41CCFD"/>
+</g>
+<g id="shape-60" data-name="组合 59">
+<g id="shape-61" data-name="矩形: 圆角 60" transform="rotate(270 140.75 518.16)">
+<rect x="65.16" y="514.41" width="151.18" height="7.5" rx="3.75" ry="3.75" fill="url(#ggrad1)" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-62" data-name="矩形: 圆角 61" transform="rotate(270 149.19 532.86)">
+<rect x="73.6" y="530.61" width="151.18" height="4.5" rx="2.25" ry="2.25" fill="url(#ggrad2)" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-63" data-name="矩形: 圆角 62" transform="rotate(270 129.17 549.35)">
+<rect x="53.58" y="546.35" width="151.18" height="6" rx="3" ry="3" fill="url(#ggrad3)" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-64" data-name="组合 63">
+<g id="shape-68" data-name="矩形: 圆角 67" transform="rotate(270 663.64 428.77)">
+<rect x="588.04" y="425.02" width="151.18" height="7.5" rx="3.75" ry="3.75" fill="url(#ggrad4)" stroke="none" stroke-width="1" filter="url(#fx5)"/>
+</g>
+<g id="shape-69" data-name="矩形: 圆角 68" transform="rotate(270 672.07 443.47)">
+<rect x="596.48" y="441.22" width="151.18" height="4.5" rx="2.25" ry="2.25" fill="url(#ggrad5)" stroke="none" stroke-width="1" filter="url(#fx6)"/>
+</g>
+<g id="shape-85" data-name="矩形: 圆角 84" transform="rotate(270 652.05 459.96)">
+<rect x="576.46" y="456.96" width="151.18" height="6" rx="3" ry="3" fill="url(#ggrad6)" stroke="none" stroke-width="1" filter="url(#fx7)"/>
+</g>
+</g>
+<g id="shape-88" data-name="组合 87">
+<g id="shape-92" data-name="矩形: 圆角 91" transform="rotate(270 1088.56 368.12)">
+<rect x="1012.97" y="362.5" width="151.18" height="11.25" rx="5.62" ry="5.62" fill="url(#ggrad7)" stroke="none" stroke-width="1" filter="url(#fx8)"/>
+</g>
+<g id="shape-94" data-name="矩形: 圆角 93" transform="rotate(270 1096.99 390.17)">
+<rect x="1021.4" y="386.8" width="151.18" height="6.75" rx="3.37" ry="3.37" fill="url(#ggrad8)" stroke="none" stroke-width="1" filter="url(#fx9)"/>
+</g>
+<g id="shape-95" data-name="矩形: 圆角 94" transform="rotate(270 1076.98 414.91)">
+<rect x="1001.39" y="410.41" width="151.18" height="9" rx="4.5" ry="4.5" fill="url(#ggrad9)" stroke="none" stroke-width="1" filter="url(#fx10)"/>
+</g>
+</g>
+<g id="shape-22" data-name="组合 21">
+<g id="shape-23" data-name="矩形: 圆角 22" transform="rotate(270 411.5 495)">
+<rect x="335.91" y="491.25" width="151.18" height="7.5" rx="3.75" ry="3.75" fill="url(#ggrad10)" stroke="none" stroke-width="1" filter="url(#fx11)"/>
+</g>
+<g id="shape-24" data-name="矩形: 圆角 23" transform="rotate(270 419.93 509.7)">
+<rect x="344.34" y="507.45" width="151.18" height="4.5" rx="2.25" ry="2.25" fill="url(#ggrad11)" stroke="none" stroke-width="1" filter="url(#fx12)"/>
+</g>
+<g id="shape-25" data-name="矩形: 圆角 24" transform="rotate(270 399.92 526.19)">
+<rect x="324.33" y="523.19" width="151.18" height="6" rx="3" ry="3" fill="url(#ggrad12)" stroke="none" stroke-width="1" filter="url(#fx13)"/>
+</g>
+</g>
+<g id="shape-27" data-name="椭圆 26">
+<ellipse cx="410.02" cy="544.96" rx="9.45" ry="9.45" fill="#117DFF" stroke-width="3" stroke="#41CCFD"/>
+</g>
+<g id="shape-32" data-name="椭圆 31">
+<ellipse cx="881.15" cy="495.82" rx="9.45" ry="9.45" fill="#117DFF" stroke-width="3" stroke="#41CCFD"/>
+</g>
+<g id="shape-34" data-name="组合 33">
+<g id="shape-37" data-name="组合 36">
+<g id="shape-35" data-name="文本框 34">
+<rect x="68.67" y="328.85" width="144.31" height="35.54" fill="none"/>
+<text x="140.82" y="351.79" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="url(#txtgrad13)"><tspan fill="url(#txtgrad13)" font-size="21.33">2022</tspan></text>
+</g>
+<g id="shape-36" data-name="文本框 35">
+<rect x="73.56" y="294.29" width="134.53" height="48.47" fill="none"/>
+<text x="140.82" y="326.29" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="32" fill="url(#txtgrad14)"><tspan fill="url(#txtgrad14)" font-size="32">初创期</tspan></text>
+</g>
+</g>
+<g id="shape-38" data-name="文本框 37">
+<rect x="39.68" y="361.02" width="202.27" height="95.36" fill="none"/>
+<text x="140.82" y="382.82" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="140.82" y="406.82" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="140.82" y="430.82" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+</g>
+</g>
+<g id="shape-58" data-name="组合 57">
+<g id="shape-65" data-name="组合 64">
+<g id="shape-67" data-name="文本框 66">
+<rect x="338.52" y="305.45" width="144.31" height="35.54" fill="none"/>
+<text x="410.67" y="328.39" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="url(#txtgrad15)"><tspan fill="url(#txtgrad15)" font-size="21.33">2024</tspan></text>
+</g>
+<g id="shape-70" data-name="文本框 69">
+<rect x="333.13" y="270.89" width="155.08" height="48.47" fill="none"/>
+<text x="410.67" y="302.89" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="32" fill="url(#txtgrad16)"><tspan fill="url(#txtgrad16)" font-size="32">初创过渡</tspan></text>
+</g>
+</g>
+<g id="shape-66" data-name="文本框 65">
+<rect x="309.54" y="337.62" width="202.27" height="124.44" fill="none"/>
+<text x="410.67" y="359.42" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="410.67" y="383.42" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="410.67" y="407.42" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+
+</g>
+</g>
+<g id="shape-71" data-name="组合 70">
+<g id="shape-72" data-name="组合 71">
+<g id="shape-74" data-name="文本框 73">
+<rect x="593.54" y="236.23" width="144.31" height="35.54" fill="none"/>
+<text x="665.69" y="259.16" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="url(#txtgrad17)"><tspan fill="url(#txtgrad17)" font-size="21.33">2025</tspan></text>
+</g>
+<g id="shape-75" data-name="文本框 74">
+<rect x="598.43" y="201.67" width="134.53" height="48.47" fill="none"/>
+<text x="665.69" y="233.67" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="32" fill="url(#txtgrad18)"><tspan fill="url(#txtgrad18)" font-size="32">成长期</tspan></text>
+</g>
+</g>
+<g id="shape-73" data-name="文本框 72">
+<rect x="564.56" y="268.39" width="202.27" height="124.44" fill="none"/>
+<text x="665.69" y="290.19" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="665.69" y="314.19" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="665.69" y="338.19" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+
+</g>
+</g>
+<g id="shape-76" data-name="组合 75">
+<g id="shape-77" data-name="组合 76">
+<g id="shape-79" data-name="文本框 78">
+<rect x="808.58" y="217.88" width="144.31" height="35.54" fill="none"/>
+<text x="880.74" y="240.81" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="url(#txtgrad19)"><tspan fill="url(#txtgrad19)" font-size="21.33">2026</tspan></text>
+</g>
+<g id="shape-80" data-name="文本框 79">
+<rect x="804.45" y="182.34" width="152.58" height="48.47" fill="none"/>
+<text x="880.74" y="214.34" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="32" fill="url(#txtgrad20)"><tspan fill="url(#txtgrad20)" font-size="32">成长过渡</tspan></text>
+</g>
+</g>
+<g id="shape-78" data-name="文本框 77">
+<rect x="779.6" y="250.04" width="202.27" height="95.36" fill="none"/>
+<text x="880.74" y="271.84" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="880.74" y="295.84" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="880.74" y="319.84" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+</g>
+</g>
+<g id="shape-81" data-name="组合 80">
+<g id="shape-82" data-name="组合 81">
+<g id="shape-84" data-name="文本框 83">
+<rect x="1015.42" y="150.68" width="144.31" height="35.54" fill="none"/>
+<text x="1087.57" y="173.61" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="url(#txtgrad21)"><tspan fill="url(#txtgrad21)" font-size="21.33">2027</tspan></text>
+</g>
+<g id="shape-86" data-name="文本框 85">
+<rect x="1020.31" y="115.14" width="134.53" height="48.47" fill="none"/>
+<text x="1087.57" y="147.14" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="32" fill="url(#txtgrad22)"><tspan fill="url(#txtgrad22)" font-size="32">成熟期</tspan></text>
+</g>
+</g>
+<g id="shape-83" data-name="文本框 82">
+<rect x="986.43" y="182.84" width="202.27" height="95.36" fill="none"/>
+<text x="1087.57" y="204.64" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="1087.57" y="228.64" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+<text x="1087.57" y="252.64" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="20" fill="#F2F2F2" font-weight="bold"><tspan fill="#F2F2F2" font-size="20" font-weight="bold">请输入内容</tspan></text>
+</g>
+</g>
+<g id="shape-51" data-name="组合 50">
+<g id="shape-52" data-name="矩形: 圆角 51" transform="rotate(270 880.65 436.96)">
+<rect x="805.06" y="431.34" width="151.18" height="11.25" rx="5.62" ry="5.62" fill="url(#ggrad23)" stroke="none" stroke-width="1" filter="url(#fx14)"/>
+</g>
+<g id="shape-53" data-name="矩形: 圆角 52" transform="rotate(270 889.08 459.01)">
+<rect x="813.49" y="455.63" width="151.18" height="6.75" rx="3.37" ry="3.37" fill="url(#ggrad24)" stroke="none" stroke-width="1" filter="url(#fx15)"/>
+</g>
+<g id="shape-54" data-name="矩形: 圆角 53" transform="rotate(270 869.07 483.74)">
+<rect x="793.48" y="479.25" width="151.18" height="9" rx="4.5" ry="4.5" fill="url(#ggrad25)" stroke="none" stroke-width="1" filter="url(#fx16)"/>
+</g>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">社会效益</tspan></text>
+</g></svg>

@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-2" data-name="AutoShape 11">
+<polygon points="422.85,210.58 727.99,210.58 781.12,257.71 727.99,304.84 422.85,304.84 475.98,257.71" fill="#A92C24" stroke="none"/>
+<text x="601.98" y="267.66" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="28.44" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="28.44">单击添加内容</tspan></text>
+</g>
+<g id="shape-3" data-name="AutoShape 12">
+<polygon points="83.1,210.58 366.1,210.58 426.31,257.71 366.1,304.84 83.1,304.84" fill="#A92C24" stroke="none"/>
+<text x="254.7" y="267.66" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="28.44" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="28.44">单击添加内容</tspan></text>
+</g>
+<g id="shape-4" data-name="Line 67">
+<line x1="434.51" y1="328.36" x2="434.51" y2="622.08" fill="none" stroke-width="0.333" stroke="#838280" stroke-linejoin="round"/>
+</g>
+<g id="shape-5" data-name="组合 4">
+<g id="shape-6" data-name="AutoShape 10">
+<rect x="458.56" y="226.8" width="300.1" height="448.63" rx="7.13" ry="7.13" fill="none" stroke="none"/>
+<text x="468.16" y="385.38" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">单击添加段落文字单击添加段落文</tspan><tspan x="468.16" dy="22.4" fill="#000000" font-size="18.67">字单击添加段落文字单击添加段落</tspan><tspan x="468.16" dy="22.4" fill="#000000" font-size="18.67">文字。</tspan></text>
+<text x="468.16" y="452.58" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">单击添加段落文字单击添加段落文</tspan><tspan x="468.16" dy="22.4" fill="#000000" font-size="18.67">字单击添加段落文字单击添加段落</tspan><tspan x="468.16" dy="22.4" fill="#000000" font-size="18.67">文字。</tspan></text>
+
+</g>
+<g id="shape-7" data-name="AutoShape 10">
+<rect x="93.67" y="259.37" width="300.1" height="395.27" rx="7.13" ry="7.13" fill="none" stroke="none"/>
+<text x="103.27" y="391.28" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">单击添加段落文字单击添加段落文</tspan><tspan x="103.27" dy="22.4" fill="#000000" font-size="18.67">字单击添加段落文字单击添加段落</tspan><tspan x="103.27" dy="22.4" fill="#000000" font-size="18.67">文字。</tspan></text>
+<text x="103.27" y="458.48" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">单击添加段落文字单击添加段落文</tspan><tspan x="103.27" dy="22.4" fill="#000000" font-size="18.67">字单击添加段落文字单击添加段落</tspan><tspan x="103.27" dy="22.4" fill="#000000" font-size="18.67">文字。</tspan></text>
+
+</g>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g>
+<g id="shape-11" data-name="图片 10">
+<image href="assets/image18.png" x="782.72" y="186" width="422" height="422" preserveAspectRatio="none"/>
+</g></svg>

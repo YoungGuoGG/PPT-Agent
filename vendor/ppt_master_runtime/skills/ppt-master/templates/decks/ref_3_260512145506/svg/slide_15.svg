@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter></defs><g id="shape-4" data-name="矩形 3">
+<rect x="410.73" y="57.47" width="458.47" height="135.27" fill="#FC01D7" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="乘号">
+<rect x="148.12" y="108" width="124.33" height="124.33" fill="#FC01D7" stroke="#FC01D7" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="66.8" y="576.8" width="287.73" height="80.78" fill="none"/>
+<text x="210.67" y="602" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="24" fill="#FC01D7"><tspan fill="#FC01D7" font-size="24">作品</tspan></text>
+</g>
+<g id="shape-3" data-name="Rectangle 6" transform="rotate(90 519.6 404.43)">
+<rect x="322.87" y="341.5" width="393.47" height="125.87" fill="none"/>
+<text x="332.47" y="359.9" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂95号-手刻宋&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">A presentation template created with </tspan><tspan x="332.47" dy="24" fill="#404040" font-size="16">attentive detail to provide a new experience </tspan><tspan x="332.47" dy="24" fill="#404040" font-size="16">for users. Hopefully this presentation can </tspan><tspan x="332.47" dy="24" fill="#404040" font-size="16">help you and bring good luck to you. </tspan></text>
+</g>
+<g id="shape-7" data-name="图片 6">
+<image href="../assets/image29.jpeg" x="42.47" y="221.03" width="350.87" height="336.22" preserveAspectRatio="none"/>
+</g>
+<g id="shape-12" data-name="图片 11">
+<image href="../assets/image30.jpeg" x="599.93" y="125.1" width="616" height="306.23" preserveAspectRatio="none"/>
+</g>
+<g id="shape-13" data-name="文本框 20" transform="translate(721.84 480.23) scale(-1 1) translate(-721.84 -480.23)">
+<rect x="617.09" y="455.7" width="209.5" height="49.07" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+<text x="617.09" y="482.9" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">单击键入标题 </tspan></text>
+</g>
+<g id="shape-14" data-name="文本框 22" transform="translate(916.51 565.24) scale(-1 1) translate(-916.51 -565.24)">
+<rect x="617.09" y="533.31" width="598.84" height="63.86" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx2)"/>
+<text x="617.09" y="549.18" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">本模板精心设计，模板所有素材均可自由编辑替换移动。单击此处添加本</tspan><tspan x="617.09" dy="28" fill="#262626" font-size="18.67">章节的简要内容。本模板精心设计，模板所有素材均可自由编辑替换移动</tspan></text>
+</g></svg>

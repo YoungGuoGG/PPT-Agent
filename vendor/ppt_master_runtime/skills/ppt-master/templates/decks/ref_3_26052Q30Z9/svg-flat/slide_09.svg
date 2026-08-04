@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<svg x="0" y="0" width="1280" height="720" viewBox="0 0.05026 1 0.89948" preserveAspectRatio="none"><image href="../assets/image1.jpeg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-25" data-name="矩形 24" transform="translate(636.8 380.9) scale(-1 1) translate(-636.8 -380.9)">
+<rect x="-7.47" y="85.87" width="1288.53" height="590.07" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-26" data-name="组合 25">
+<g id="shape-27" data-name="文本框 26">
+<rect x="65.07" y="8.32" width="253.33" height="87.24" fill="none"/>
+<text x="74.67" y="40.32" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">产品展示</tspan></text>
+<text x="74.67" y="62.85" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">Short Text Here</tspan></text>
+
+</g>
+<g id="shape-29" data-name="椭圆 28" transform="translate(44.48 33.28) scale(-1 1) translate(-44.48 -33.28)">
+<ellipse cx="44.48" cy="33.28" rx="8.75" ry="8.75" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="圆角矩形 2">
+<rect x="133.21" y="124.11" width="188.27" height="188.27" rx="17.29" ry="17.29" fill="none" stroke-width="4" stroke="#44546A"/>
+</g>
+<g id="shape-6" data-name="椭圆 4">
+<path d="M 202.64 231.5 L 231.99 231.5 L 231.99 234.32 L 202.64 234.32 Z M 202.64 222.59 L 231.99 222.59 L 231.99 225.42 L 202.64 225.42 Z M 204.06 203.61 L 204.06 212.81 L 213.27 212.81 L 213.27 203.61 Z M 201.23 200.78 L 215.97 200.78 L 215.97 215.5 L 201.23 215.5 Z M 198.24 194.4 C 196.97 194.4 195.97 195.38 195.97 196.66 L 195.97 237.87 C 195.97 239.14 196.95 240.13 198.24 240.13 L 254.99 240.13 C 256.26 240.13 257.25 239.15 257.25 237.87 L 257.24 237.87 L 257.24 196.66 C 257.24 195.39 256.26 194.4 254.98 194.4 Z M 198.24 191.71 L 254.99 191.71 C 257.82 191.71 259.95 193.97 259.94 196.66 L 259.94 237.88 C 259.94 240.72 257.68 242.97 254.98 242.97 L 198.24 242.97 C 195.4 242.97 193.27 240.72 193.27 238.02 L 193.27 196.66 C 193.27 193.83 195.54 191.71 198.24 191.71 Z" fill="#44546A" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-5" data-name="圆角矩形 4">
+<rect x="382.99" y="124.11" width="189.4" height="189.4" rx="16.11" ry="16.11" fill="none" stroke-width="4" stroke="#44546A"/>
+</g>
+<g id="shape-9" data-name="椭圆 5">
+<path d="M 474.9 216.52 L 480.48 216.52 C 482.02 216.52 483.27 217.78 483.27 219.32 L 483.27 244.44 L 472.1 244.44 L 472.1 219.32 C 472.1 217.78 473.36 216.52 474.9 216.52 Z M 491.65 183.03 L 491.65 189.15 L 494.02 191.31 L 497.23 194.22 L 497.23 183.03 Z M 488.86 177.44 L 500.03 177.44 C 501.57 177.44 502.81 178.69 502.81 180.23 L 502.81 199.3 L 504.7 201 L 504.7 201.01 L 510.28 206.08 C 511.42 207.12 511.5 208.89 510.47 210.02 C 509.92 210.63 509.15 210.94 508.4 210.94 C 507.73 210.94 507.05 210.7 506.52 210.21 L 505.61 209.39 L 505.61 241.64 C 505.61 243.18 504.36 244.44 502.81 244.44 L 488.86 244.44 L 488.86 219.32 C 488.86 214.69 485.1 210.94 480.49 210.94 L 474.9 210.94 C 470.28 210.94 466.53 214.69 466.53 219.32 L 466.53 244.44 L 452.56 244.44 C 451.02 244.44 449.78 243.18 449.78 241.64 L 449.78 209.39 L 448.86 210.21 C 447.73 211.25 445.96 211.17 444.92 210.02 C 443.88 208.89 443.97 207.12 445.11 206.08 L 450.69 201.01 L 450.69 201 L 475.81 178.17 C 476.87 177.21 478.5 177.21 479.57 178.17 L 486.07 184.08 L 486.07 180.23 C 486.07 178.69 487.32 177.44 488.86 177.44 Z" fill="#44546A" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-10" data-name="组合 9">
+<g id="shape-13" data-name="矩形 12">
+<rect x="713.07" y="210.83" width="454.4" height="54.25" fill="none"/>
+<text x="940.27" y="229.23" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#3C3F51"><tspan fill="#3C3F51" font-size="16">用户可以在投影仪或者计算机上进行演示也可以将演示文稿打</tspan><tspan x="940.27" dy="19.2" fill="#3C3F51" font-size="16">印出来制作否成胶片</tspan></text>
+</g>
+<g id="shape-15" data-name="矩形 14">
+<rect x="711.52" y="171.94" width="454.4" height="41.64" fill="none"/>
+<text x="938.72" y="197.14" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#3C3F51"><tspan fill="#3C3F51" font-size="24">竞争者目标</tspan></text>
+</g>
+</g>
+<g id="shape-18" data-name="组合 17">
+<g id="shape-19" data-name="矩形 18">
+<rect x="711.52" y="365.14" width="454.4" height="54.25" fill="none"/>
+<text x="938.72" y="383.54" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#3C3F51"><tspan fill="#3C3F51" font-size="16">用户可以在投影仪或者计算机上进行演示也可以将演示文稿打</tspan><tspan x="938.72" dy="19.2" fill="#3C3F51" font-size="16">印出来制作否成胶片</tspan></text>
+</g>
+<g id="shape-20" data-name="矩形 19">
+<rect x="711.52" y="324.59" width="454.4" height="41.64" fill="none"/>
+<text x="938.72" y="349.79" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#3C3F51"><tspan fill="#3C3F51" font-size="24">竞争对手分析</tspan></text>
+</g>
+</g>
+<g id="shape-21" data-name="组合 20">
+<g id="shape-22" data-name="矩形 21">
+<rect x="711.52" y="516.06" width="454.4" height="54.25" fill="none"/>
+<text x="938.72" y="534.46" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#3C3F51"><tspan fill="#3C3F51" font-size="16">用户可以在投影仪或者计算机上进行演示也可以将演示文稿打</tspan><tspan x="938.72" dy="19.2" fill="#3C3F51" font-size="16">印出来制作否成胶片</tspan></text>
+</g>
+<g id="shape-23" data-name="矩形 22">
+<rect x="711.52" y="477.24" width="454.4" height="41.64" fill="none"/>
+<text x="938.72" y="502.44" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#3C3F51"><tspan fill="#3C3F51" font-size="24">竞争者策略</tspan></text>
+</g>
+</g>
+<g id="shape-24" data-name="图片占位符 23" data-ph-type="pic">
+<image href="../assets/image10.jpeg" x="133.21" y="341.34" width="439.19" height="292.79" preserveAspectRatio="none"/>
+</g></svg>

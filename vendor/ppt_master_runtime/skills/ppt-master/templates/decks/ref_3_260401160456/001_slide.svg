@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g transform="scale(0.5 0.5)"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="0"><stop offset="0.4688" stop-color="#0D0F15" /><stop offset="1" stop-color="#161A33" stop-opacity="0" /></linearGradient></defs><rect x="0" y="0" width="2560" height="1440" fill="#0D0F15" />
+<g id="shape-278" data-name="Photo by Auguste Lefou on July 12, 2018..jpg" transform="translate(1984.35 720) scale(-1 1) translate(-1984.35 -720)">
+<image href="assets/image1.jpeg" x="1408.35" y="0" width="1152" height="1440" preserveAspectRatio="none" />
+</g>
+<g id="shape-279" data-name="矩形">
+<rect x="1319.92" y="9.91" width="252.53" height="1431.89" fill="url(#ggrad1)" stroke-width="1.333" stroke-linejoin="miter" />
+</g>
+<g id="shape-280" data-name="2018-2020">
+<rect x="136" y="382.82" width="797.38" height="159.41" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="141.33" y="468.53" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源黑体 CN Normal&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">202X-202</tspan><tspan fill="#000000" font-size="24">X</tspan></text>
+</g>
+<g id="shape-281" data-name="PERSONAL  PORTFOLIO">
+<rect x="146.11" y="708.23" width="1485.94" height="49.55" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="151.45" y="741" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Normal&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">PERSONAL </tspan><tspan fill="#4CFCFF" font-size="32">PORTFOLIO</tspan><tspan fill="#000000" font-size="32"> </tspan></text>
+</g>
+<g id="shape-282" data-name="A Product Designer and Visual Developer in SF.…">
+<rect x="143.44" y="800.75" width="934.78" height="200.9" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="148.77" y="833.28" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">A Product Designer and Visual Developer in SF.</tspan></text>
+<text x="148.77" y="874.88" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">I specialize in UI/UX </tspan><tspan fill="#000000" font-size="32">Design,Responsive</tspan><tspan fill="#000000" font-size="32"> Web Design,</tspan></text>
+<text x="148.77" y="916.48" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">and Visual Development.</tspan></text>
+</g>
+<g id="shape-283" data-name="个人作品集">
+<rect x="159.56" y="561.79" width="320.43" height="91.55" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="164.9" y="613.57" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源黑体 CN Heavy&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">个人作品集</tspan></text>
+</g>
+<g id="shape-284" data-name="圆形">
+<ellipse cx="2402.6" cy="162.39" rx="30.42" ry="30.42" fill="#07E2FA" stroke-width="1.333" stroke-linejoin="miter" />
+</g>
+<g id="shape-285" data-name="线条">
+<line x1="2389.16" y1="155.53" x2="2416.05" y2="155.53" stroke-width="2.667" stroke="#000000" stroke-linejoin="miter" fill="none" />
+</g>
+<g id="shape-286" data-name="线条">
+<line x1="2389.16" y1="169.53" x2="2416.05" y2="169.53" stroke-width="2.667" stroke="#000000" stroke-linejoin="miter" fill="none" />
+</g>
+<g id="shape-287" data-name="@2020 Micael…">
+<rect x="2121.26" y="1241.59" width="314.67" height="111.33" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="2430.6" y="1274.12" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 Medium&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">@202X </tspan><tspan fill="#000000" font-size="32">Micael</tspan></text>
+<text x="2430.6" y="1315.72" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 Medium&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">All </tspan><tspan fill="#000000" font-size="32">Reghts</tspan><tspan fill="#000000" font-size="32"> Reserved</tspan></text>
+</g></g></svg>

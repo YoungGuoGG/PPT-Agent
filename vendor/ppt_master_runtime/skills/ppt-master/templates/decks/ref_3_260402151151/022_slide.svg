@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-4" data-name="文本框 3">
+<rect x="94.01" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="103.61" y="80.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">南京人文（书画）</tspan></text>
+</g>
+<g id="shape-5" data-name="任意多边形: 形状 4">
+<path d="M 0 42.67 L 59.27 42.67 C 77.03 42.67 91.43 57.06 91.43 74.82 C 91.43 92.58 77.03 106.98 59.27 106.98 L 0 106.98 Z" stroke="none" fill="#477E9A" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="12.19" y="47.24" width="67.86" height="67.86" fill="none"/>
+<text x="21.79" y="92.84" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">叁</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="817.82" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="1234.89" y="80.89" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">LOGO</tspan></text>
+</g>
+<g id="shape-8" data-name="图片占位符 10">
+<image href="assets/image32.jpeg" x="268.2" y="192.49" width="426.7" height="232.48" preserveAspectRatio="none"/>
+</g>
+<g id="shape-9" data-name="图片占位符 12">
+<image href="assets/image33.jpeg" x="739.81" y="192.49" width="426.7" height="232.48" preserveAspectRatio="none"/>
+</g>
+<g id="shape-10" data-name="矩形 9">
+<rect x="68.57" y="146.95" width="1142.86" height="491.58" fill="none" stroke="#477E9A" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="矩形 10">
+<rect x="68.57" y="192.49" width="77.71" height="232.48" fill="#477E9A" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="矩形 11">
+<rect x="105.34" y="463.24" width="1077.94" height="137.26" fill="none"/>
+</g>
+<g id="shape-12-text" data-name="矩形 11 text">
+<text x="644.32" y="479.1" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">南</tspan><tspan x="644.32" dy="19.6" fill="#262626" font-size="18.67">京</tspan><tspan x="644.32" dy="19.6" fill="#262626" font-size="18.67">是</tspan><tspan x="644.32" dy="19.6" fill="#262626" font-size="18.67">中</tspan><tspan x="644.32" dy="19.6" fill="#262626" font-size="18.67">国</tspan><tspan x="644.32" dy="19.6" fill="#262626" font-size="18.67">绘</tspan><tspan x="644.32" dy="19.6" fill="#262626" font-size="18.67">画</tspan></text>
+</g>
+<g id="shape-13" data-name="矩形 12">
+<rect x="79.75" y="204.3" width="58.16" height="208.05" fill="none"/>
+</g>
+<g id="shape-13-text" data-name="矩形 12 text">
+<text x="108.83" y="274.99" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">南</tspan><tspan x="108.83" dy="28" fill="#FFFFFF" font-size="26.67" font-weight="bold">京</tspan><tspan x="108.83" dy="28" fill="#FFFFFF" font-size="26.67" font-weight="bold">人</tspan><tspan x="108.83" dy="28" fill="#FFFFFF" font-size="26.67" font-weight="bold">文</tspan></text>
+</g></svg>

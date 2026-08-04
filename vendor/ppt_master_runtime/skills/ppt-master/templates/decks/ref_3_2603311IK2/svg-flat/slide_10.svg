@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><clipPath id="clip1" clipPathUnits="userSpaceOnUse"><path d="M 128.74 176.73 L 735.63 176.73 L 735.63 570.99 L 128.74 570.99 Z"/></clipPath></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="rotate(90 640 360)">
+<image href="../assets/image1.png" x="280" y="-280" width="720" height="1280" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="图片 4">
+<image href="../assets/image3.png" x="717.91" y="0" width="562.09" height="457.92" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="../assets/image10.png" x="902.75" y="0" width="377.25" height="292" preserveAspectRatio="none"/>
+</g>
+<g id="shape-12" data-name="任意多边形 11">
+<image clip-path="url(#clip1)" href="../assets/image19.jpeg" x="128.74" y="176.73" width="606.89" height="394.26" preserveAspectRatio="none"/>
+<path d="M 128.74 176.73 L 735.63 176.73 L 735.63 570.99 L 128.74 570.99 Z" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-3" data-name="Rectangle 22">
+<rect x="542.51" y="412.25" width="609.49" height="157.4" fill="#3B3B3B" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-4" data-name="TextBox 76">
+<rect x="567.91" y="430.76" width="182.01" height="42.01" fill="none"/>
+<text x="577.51" y="458.23" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">输入你的标题</tspan></text>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="567.91" y="478.72" width="559.79" height="64.54" fill="none"/>
+<text x="577.51" y="499.39" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请在此添加文字说明，模板。请在此添加文字说明，模板。请在</tspan><tspan x="577.51" dy="24.27" fill="#FFFFFF" font-size="18.67">此添加文字说明，模板。请在此添加文字说明，模板。</tspan></text>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="769.4" y="240.6" width="382.6" height="93.95" fill="none"/>
+<text x="779" y="261.26" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">请在此添加文字说明，模板。请在此添加文</tspan><tspan x="779" dy="24.27" fill="#404040" font-size="18.67">字说明，模板。请在此添加文字说明，模板</tspan><tspan x="779" dy="24.27" fill="#404040" font-size="18.67">。请在此添加文字说明，模板。</tspan></text>
+</g>
+<g id="shape-7" data-name="TextBox 76">
+<rect x="778.69" y="202.33" width="195.03" height="38.78" fill="none" stroke="none"/>
+<text x="788.29" y="227.53" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="24" fill="#3B3B3B" font-weight="bold"><tspan fill="#3B3B3B" font-size="24" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-9" data-name="千图PPT彼岸天：ID 8661124文本框 3">
+<rect x="13.47" y="23.77" width="328.36" height="54.93" fill="none"/>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="45.61" y="22.38" width="227.3" height="54.93" fill="none"/>
+<text x="55.21" y="58.91" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="37.33" fill="#000000"><tspan fill="#000000" font-size="37.33">添加标题</tspan></text>
+</g></svg>

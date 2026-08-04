@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#080808"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#080808"/></marker></defs><g id="shape-2" data-name="Freeform 6">
+<path d="M 635.42 512.13 C 549.57 508.54 480.98 437.81 480.98 350.98 C 480.98 264.15 549.57 193.34 635.42 189.75 L 635.42 228.87 C 571.08 232.37 520.07 285.76 520.07 350.98 C 520.07 416.21 571.08 469.5 635.42 473.01 L 635.42 512.13 Z" fill="#A92C24" stroke-width="0.001" stroke-linecap="butt" stroke="#FFFFFF" stroke-linejoin="round"/>
+</g>
+<g id="shape-3" data-name="Freeform 7">
+<path d="M 648.91 189.75 C 734.85 193.34 803.52 264.15 803.52 350.98 C 803.52 437.81 734.85 508.54 648.91 512.13 L 648.91 473.01 C 713.33 469.5 764.39 416.21 764.39 350.98 C 764.39 285.76 713.33 232.37 648.91 228.87 L 648.91 189.75 Z" fill="#A92C24" stroke-width="0.001" stroke-linecap="butt" stroke="#FFFFFF" stroke-linejoin="round"/>
+</g>
+<g id="shape-4" data-name="组合 27">
+<g id="shape-5" data-name="Line 8" transform="translate(416.42 339.03) scale(-1 1) translate(-416.42 -339.03)">
+<line x1="351.86" y1="339.03" x2="480.98" y2="339.03" fill="none" stroke-width="0.001" stroke="#080808" stroke-dasharray="4 4" stroke-linejoin="round" marker-end="url(#marrow1)"/>
+</g>
+<g id="shape-6" data-name="Line 9">
+<line x1="351.86" y1="270.39" x2="351.86" y2="407.83" fill="none" stroke-width="1.333" stroke="#080808" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="shape-7" data-name="组合 30">
+<g id="shape-8" data-name="Line 10">
+<line x1="804.69" y1="339.03" x2="933.8" y2="339.03" fill="none" stroke-width="0.001" stroke="#080808" stroke-dasharray="4 4" stroke-linejoin="round" marker-end="url(#marrow2)"/>
+</g>
+<g id="shape-9" data-name="Line 11">
+<line x1="933.8" y1="270.39" x2="933.8" y2="407.83" fill="none" stroke-width="1.333" stroke="#080808" stroke-linejoin="round"/>
+</g>
+</g>
+<g id="shape-10" data-name="TextBox 34">
+<rect x="118.62" y="308.36" width="223.08" height="77.55" fill="none" stroke="none"/>
+<text x="128.22" y="329.02" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">这里可以添加主要内容</tspan><tspan x="128.22" dy="22.4" fill="#262626" font-size="18.67">这里可以添加主要内容</tspan><tspan x="128.22" dy="22.4" fill="#262626" font-size="18.67">这里可以添加这里</tspan></text>
+</g>
+<g id="shape-11" data-name="TextBox 37">
+<rect x="942.47" y="308.36" width="223.25" height="77.55" fill="none" stroke="none"/>
+<text x="952.07" y="329.02" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">这里可以添加主要内容</tspan><tspan x="952.07" dy="22.4" fill="#262626" font-size="18.67">这里可以添加主要内容</tspan><tspan x="952.07" dy="22.4" fill="#262626" font-size="18.67">这里可以添加这里</tspan></text>
+</g>
+<g id="shape-13" data-name="矩形 1">
+<rect x="166.89" y="576.63" width="946.22" height="66.09" fill="none" stroke="none"/>
+<text x="176.49" y="597.3" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此录入上述图表的综合描述说明，在此录入上述图表的综合描述说明，在此录入上述图表的综合描述说明，在</tspan><tspan x="176.49" dy="24.27" fill="#262626" font-size="18.67">此录入上述图表的综合描述说明，在此录入上述图表的综合描述说明。在此录入上述图表的综合描述说明，</tspan></text>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g>
+<g id="shape-14" data-name="图片 13">
+<image href="../assets/image5.png" x="452" y="172" width="376" height="376" preserveAspectRatio="none"/>
+</g></svg>

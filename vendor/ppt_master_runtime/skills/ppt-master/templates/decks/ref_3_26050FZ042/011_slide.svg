@@ -1,0 +1,993 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#F7F6FA"/><stop offset="0.98" stop-color="#FFFFFF"/></linearGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.57" stop-color="#65509E" stop-opacity="0.15"/><stop offset="0" stop-color="#A193C8" stop-opacity="0"/><stop offset="1" stop-color="#D0C9E4" stop-opacity="0"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0" x2="1" y2="1"><stop offset="1" stop-color="#65509E" stop-opacity="0"/><stop offset="0" stop-color="#65509E" stop-opacity="0.26"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0" x2="1" y2="1"><stop offset="1" stop-color="#65509E" stop-opacity="0"/><stop offset="0" stop-color="#65509E" stop-opacity="0.51"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="5.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><linearGradient id="ggrad5" x1="0" y1="0" x2="1" y2="1"><stop offset="1" stop-color="#65509E" stop-opacity="0"/><stop offset="0" stop-color="#65509E" stop-opacity="0.36"/></linearGradient><linearGradient id="ggrad6" x1="0" y1="0" x2="1" y2="1"><stop offset="1" stop-color="#65509E" stop-opacity="0"/><stop offset="0" stop-color="#65509E" stop-opacity="0.26"/></linearGradient><linearGradient id="ggrad7" x1="0" y1="0" x2="1" y2="1"><stop offset="1" stop-color="#65509E" stop-opacity="0"/><stop offset="0" stop-color="#65509E" stop-opacity="0.51"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feGaussianBlur in="SourceAlpha" stdDeviation="5.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter><radialGradient id="ggrad8" cx="0.5" cy="0.5" r="0.5"><stop offset="0.99" stop-color="#65509E"/><stop offset="0.05" stop-color="#8A78BA"/></radialGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><radialGradient id="ggrad9" cx="0.5" cy="0.5" r="0.5"><stop offset="0.99" stop-color="#65509E"/><stop offset="0.05" stop-color="#8A78BA"/></radialGradient><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><filter id="fx6" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><radialGradient id="ggrad10" cx="0.5" cy="0.5" r="0.5"><stop offset="0.99" stop-color="#65509E"/><stop offset="0.05" stop-color="#8A78BA"/></radialGradient><filter id="fx7" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><filter id="fx8" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><radialGradient id="ggrad11" cx="0.5" cy="0.5" r="0.5"><stop offset="0.99" stop-color="#65509E"/><stop offset="0.05" stop-color="#8A78BA"/></radialGradient><filter id="fx9" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><filter id="fx10" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><radialGradient id="ggrad12" cx="0.5" cy="0.5" r="0.5"><stop offset="0.99" stop-color="#65509E"/><stop offset="0.05" stop-color="#8A78BA"/></radialGradient><filter id="fx11" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><filter id="fx12" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><radialGradient id="ggrad13" cx="0.5" cy="0.5" r="0.5"><stop offset="0.99" stop-color="#65509E"/><stop offset="0.05" stop-color="#8A78BA"/></radialGradient><filter id="fx13" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><filter id="fx14" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><radialGradient id="ggrad14" cx="0.5" cy="0.5" r="0.5"><stop offset="0.99" stop-color="#65509E"/><stop offset="0.05" stop-color="#8A78BA"/></radialGradient><filter id="fx15" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter><filter id="fx16" x="-25%" y="-25%" width="150%" height="150%"><feFlood flood-color="#FFFFFF" flood-opacity="1" result="flood"/><feComposite in="flood" in2="SourceAlpha" operator="out" result="inverted"/><feGaussianBlur in="inverted" stdDeviation="16.67" result="blurred"/><feOffset in="blurred" dx="0" dy="0" result="offset"/><feComposite in="offset" in2="SourceAlpha" operator="in" result="innerShadow"/><feMerge><feMergeNode in="SourceGraphic"/><feMergeNode in="innerShadow"/></feMerge></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#E0DBED" fill-opacity="0.1"/>
+<g id="shape-2" data-name="公众号：康帅PPT1">
+<rect x="0" y="0" width="1280" height="720" rx="0" ry="0" fill="url(#ggrad1)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-3" data-name="公众号：康帅PPT2">
+<image href="assets/image10.png" x="0" y="295.49" width="1280" height="424.94" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="公众号：康帅PPT3" transform="translate(147.83 60.16) scale(-1 1) translate(-147.83 -60.16)">
+<path d="M 256.6 31.33 L 53.77 31.33 L 53.77 60.06 C 53.77 76.04 42.75 88.99 29.17 88.99 L 266.5 88.99 L 266.5 42.97 C 266.5 36.54 262.07 31.33 256.6 31.33 Z" fill="#E2C68C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="公众号：康帅PPT4">
+<rect x="305.6" y="40.03" width="196.33" height="42.01" fill="none"/>
+<text x="403.77" y="67.49" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#BFBFBF"><tspan fill="#BFBFBF" font-size="26.67">整体教学设计</tspan></text>
+</g>
+<g id="shape-6" data-name="公众号：康帅PPT5">
+<rect x="576.9" y="40.03" width="286.07" height="42.01" fill="none"/>
+<text x="719.94" y="67.49" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#65509E"><tspan fill="#65509E" font-size="26.67">课堂教学实施与成效</tspan></text>
+</g>
+<g id="shape-7" data-name="公众号：康帅PPT6">
+<rect x="937.94" y="40.03" width="219.71" height="42.01" fill="none"/>
+<text x="1047.79" y="67.49" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#BFBFBF"><tspan fill="#BFBFBF" font-size="26.67">教学反思与</tspan><tspan fill="#BFBFBF" font-size="26.67">整</tspan><tspan fill="#BFBFBF" font-size="26.67">改</tspan></text>
+</g>
+<g id="shape-8" data-name="公众号：康帅PPT7" transform="translate(159.92 60.16) scale(-1 1) translate(-159.92 -60.16)">
+<path d="M 274.26 31.33 L 61.03 31.33 L 61.03 60.06 C 61.03 76.04 49.45 88.99 35.17 88.99 L 284.67 88.99 L 284.67 42.97 C 284.67 36.54 280.01 31.33 274.26 31.33 Z" fill="#65509E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-9" data-name="公众号：康帅PPT8">
+<rect x="0" y="88.49" width="1280" height="15" fill="#65509E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="公众号：康帅PPT9">
+<rect x="22.34" y="43.15" width="235.1" height="42.01" fill="none"/>
+<text x="139.89" y="70.62" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Times New Roman&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">（二）实训条件</tspan></text>
+</g>
+<g id="shape-11" data-name="公众号：康帅PPT10">
+<image href="assets/image15.png" x="1161.98" y="20.42" width="101.13" height="67.21" preserveAspectRatio="none"/>
+</g>
+<g id="shape-12" data-name="公众号：康帅PPT11">
+<polygon points="188.42,516.34 1091.58,516.34 1160.26,667.17 119.74,667.17" fill="none" stroke="#E0DBED" stroke-opacity="0" stroke-dasharray="3 3" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="公众号：康帅PPT12">
+<polygon points="137.57,516.34 1142.43,516.34 1231.24,687.21 48.76,687.21" fill="none" stroke="#E0DBED" stroke-opacity="0" stroke-width="1"/>
+</g>
+<g id="shape-14" data-name="公众号：康帅PPT13" transform="translate(640 453.23) scale(1 -1) translate(-640 -453.23)">
+<polygon points="149,278.57 1131,278.57 1231.24,627.9 48.76,627.9" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="公众号：康帅PPT14">
+<image href="assets/image34.png" x="245.1" y="375.36" width="789.81" height="365.07" preserveAspectRatio="none"/>
+</g>
+<g id="shape-16" data-name="公众号：康帅PPT15">
+<ellipse cx="1138.27" cy="159.68" rx="15.03" ry="15.03" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-17" data-name="公众号：康帅PPT16">
+<ellipse cx="1132.98" cy="353.07" rx="46.13" ry="46.13" fill="url(#ggrad4)" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-18" data-name="公众号：康帅PPT17">
+<ellipse cx="1183.93" cy="507.99" rx="8.01" ry="8.01" fill="url(#ggrad5)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="公众号：康帅PPT18">
+<ellipse cx="52.94" cy="393.82" rx="12.42" ry="12.42" fill="url(#ggrad6)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="公众号：康帅PPT19">
+<ellipse cx="109.43" cy="489.67" rx="34.08" ry="34.08" fill="url(#ggrad7)" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-21" data-name="公众号：康帅PPT20">
+<rect x="294" y="516.82" width="692" height="84.13" fill="none"/>
+<text x="640" y="544.29" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Times New Roman&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">汽车电子电器实训室包含各电子系统教学台架</tspan></text>
+<text x="640" y="576.29" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;Times New Roman&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">实训器材和工具，基本满足本课程的教学、实训要求</tspan></text>
+</g>
+<g id="shape-22" data-name="公众号：康帅PPT21">
+<g id="shape-23" data-name="公众号：康帅PPT21-1">
+<ellipse cx="769.16" cy="242.25" rx="63" ry="63" fill="url(#ggrad8)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-24" data-name="公众号：康帅PPT21-2">
+<rect x="706.16" y="203.17" width="126" height="74.32" fill="none"/>
+<text x="769.16" y="230.64" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">钣金</tspan></text>
+<text x="769.16" y="257.31" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">实训室</tspan></text>
+</g>
+<g id="shape-25" data-name="组合 24">
+<g id="shape-26" data-name="公众号：康帅PPT21-3">
+<path d="M 842.65 242.25 A 73.48 73.48 0 0 1 784.78 314.05" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx3)"/>
+</g>
+<g id="shape-27" data-name="公众号：康帅PPT21-4" transform="rotate(180 769.16 242.25)">
+<path d="M 842.65 242.25 A 73.48 73.48 0 0 1 784.78 314.05" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx4)"/>
+</g>
+</g>
+</g>
+<g id="shape-28" data-name="公众号：康帅PPT22">
+<g id="shape-29" data-name="公众号：康帅PPT22-1">
+<ellipse cx="256.73" cy="242.25" rx="63" ry="63" fill="url(#ggrad9)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-30" data-name="公众号：康帅PPT22-2">
+<rect x="188.15" y="205.09" width="137.16" height="74.32" fill="none"/>
+<text x="256.73" y="232.55" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">维修</tspan></text>
+<text x="256.73" y="264.55" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">实训室</tspan></text>
+</g>
+<g id="shape-31" data-name="组合 30">
+<g id="shape-32" data-name="公众号：康帅PPT22-3">
+<path d="M 330.22 242.25 A 73.48 73.48 0 0 1 272.35 314.05" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx5)"/>
+</g>
+<g id="shape-33" data-name="公众号：康帅PPT22-4" transform="rotate(180 256.73 242.25)">
+<path d="M 330.22 242.25 A 73.48 73.48 0 0 1 272.35 314.05" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx6)"/>
+</g>
+</g>
+</g>
+<g id="shape-34" data-name="公众号：康帅PPT23">
+<g id="shape-35" data-name="公众号：康帅PPT23-1">
+<ellipse cx="1025.38" cy="242.25" rx="63" ry="63" fill="url(#ggrad10)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-36" data-name="公众号：康帅PPT23-2">
+<rect x="956.79" y="203.67" width="137.16" height="74.32" fill="none"/>
+<text x="1025.38" y="231.13" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">发动机</tspan></text>
+<text x="1025.38" y="257.8" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">检测室</tspan></text>
+</g>
+<g id="shape-37" data-name="组合 36">
+<g id="shape-38" data-name="公众号：康帅PPT23-3">
+<path d="M 1098.86 242.25 A 73.48 73.48 0 0 1 1040.99 314.05" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx7)"/>
+</g>
+<g id="shape-39" data-name="公众号：康帅PPT23-4" transform="rotate(180 1025.38 242.25)">
+<path d="M 1098.86 242.25 A 73.48 73.48 0 0 1 1040.99 314.05" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx8)"/>
+</g>
+</g>
+</g>
+<g id="shape-40" data-name="公众号：康帅PPT24">
+<g id="shape-41" data-name="公众号：康帅PPT24-1">
+<ellipse cx="512.95" cy="242.25" rx="63" ry="63" fill="url(#ggrad11)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-42" data-name="公众号：康帅PPT24-2">
+<rect x="444.37" y="203.17" width="137.16" height="74.32" fill="none"/>
+<text x="512.95" y="230.64" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">涂装</tspan></text>
+<text x="512.95" y="257.31" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">实训室</tspan></text>
+</g>
+<g id="shape-43" data-name="Group 1047++">
+<g id="shape-44" data-name="公众号：康帅PPT24-3">
+<path d="M 586.43 242.34 A 73.48 73.48 0 0 1 528.56 314.15" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx9)"/>
+</g>
+<g id="shape-45" data-name="公众号：康帅PPT24-4" transform="rotate(180 512.95 242.34)">
+<path d="M 586.43 242.34 A 73.48 73.48 0 0 1 528.56 314.15" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx10)"/>
+</g>
+</g>
+</g>
+<g id="shape-46" data-name="公众号：康帅PPT25">
+<g id="shape-47" data-name="公众号：康帅PPT25-1">
+<ellipse cx="640.55" cy="403.01" rx="63" ry="63" fill="url(#ggrad12)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-48" data-name="公众号：康帅PPT25-2">
+<rect x="571.97" y="372.44" width="137.16" height="74.32" fill="none"/>
+<text x="640.55" y="399.91" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">技能检测</tspan></text>
+<text x="640.55" y="426.58" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">实训室</tspan></text>
+</g>
+<g id="shape-49" data-name="组合 48">
+<g id="shape-50" data-name="公众号：康帅PPT25-3">
+<path d="M 714.54 403.01 A 73.48 73.48 0 0 1 656.67 474.82" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx11)"/>
+</g>
+<g id="shape-51" data-name="公众号：康帅PPT25-4" transform="rotate(180 641.05 403.01)">
+<path d="M 714.54 403.01 A 73.48 73.48 0 0 1 656.67 474.82" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx12)"/>
+</g>
+</g>
+</g>
+<g id="shape-52" data-name="公众号：康帅PPT26">
+<g id="shape-53" data-name="公众号：康帅PPT26-1">
+<ellipse cx="385.3" cy="403.01" rx="63" ry="63" fill="url(#ggrad13)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-54" data-name="公众号：康帅PPT26-2">
+<rect x="316.72" y="365.26" width="137.16" height="74.32" fill="none"/>
+<text x="385.3" y="392.73" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">维护</tspan></text>
+<text x="385.3" y="419.39" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">实训室</tspan></text>
+</g>
+<g id="shape-55" data-name="Group 1047+">
+<g id="shape-56" data-name="公众号：康帅PPT26-3">
+<path d="M 458.79 403.01 A 73.48 73.48 0 0 1 400.92 474.82" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx13)"/>
+</g>
+<g id="shape-57" data-name="公众号：康帅PPT26-4" transform="rotate(180 385.3 403.01)">
+<path d="M 458.79 403.01 A 73.48 73.48 0 0 1 400.92 474.82" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx14)"/>
+</g>
+</g>
+</g>
+<g id="shape-58" data-name="公众号：康帅PPT27">
+<g id="shape-59" data-name="公众号：康帅PPT27-1">
+<ellipse cx="896.31" cy="403.01" rx="63" ry="63" fill="url(#ggrad14)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-60" data-name="公众号：康帅PPT27-2">
+<rect x="827.73" y="365.85" width="137.16" height="74.32" fill="none"/>
+<text x="896.31" y="393.32" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">汽车</tspan></text>
+<text x="896.31" y="419.99" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">喷漆房</tspan></text>
+</g>
+<g id="shape-61" data-name="Group 1047+">
+<g id="shape-62" data-name="公众号：康帅PPT27-3">
+<path d="M 970.29 403.01 A 73.48 73.48 0 0 1 912.42 474.82" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx15)"/>
+</g>
+<g id="shape-63" data-name="公众号：康帅PPT27-4" transform="rotate(180 896.81 403.01)">
+<path d="M 970.29 403.01 A 73.48 73.48 0 0 1 912.42 474.82" fill="none" stroke-width="1.333" stroke="#65509E" stroke-opacity="0" filter="url(#fx16)"/>
+</g>
+</g>
+</g>
+<g id="shape-64" data-name="公众号：康帅PPT28">
+<g id="shape-65" data-name="Group 18+">
+<g id="shape-93" data-name="公众号：康帅PPT28-1">
+<path d="M 364.73 255.98 C 373.68 243.39 373.68 243.39 373.68 243.39 C 374.16 242.82 374.16 241.67 373.68 241.1 C 364.73 228.51 364.73 228.51 364.73 228.51 C 364.38 227.94 364.62 226.79 365.09 226.79 C 373.09 226.79 373.09 226.79 373.09 226.79 C 373.56 226.79 374.04 227.18 374.28 227.56 C 383.94 241.1 383.94 241.1 383.94 241.1 C 384.42 241.67 384.42 242.82 383.94 243.39 C 374.28 256.93 374.28 256.93 374.28 256.93 C 374.04 257.32 373.56 257.7 373.09 257.7 C 365.09 257.7 365.09 257.7 365.09 257.7 C 364.62 257.7 364.38 256.55 364.73 255.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-94" data-name="组合 93" transform="rotate(270 358.17 242.25)">
+<g id="shape-95" data-name="公众号：康帅PPT28-2" transform="rotate(90 375.24 243.85)">
+<path d="M 373.81 243.18 C 372.85 243.56 372.85 244.13 373.81 244.42 C 374.52 244.8 375.96 244.8 376.67 244.42 C 377.63 244.13 377.63 243.56 376.67 243.18 C 375.96 242.9 374.52 242.9 373.81 243.18 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-96" data-name="公众号：康帅PPT28-3" transform="rotate(90 369.67 246.07)">
+<path d="M 368.1 245.44 C 367.38 245.83 367.38 246.31 368.1 246.69 C 369.06 246.98 370.27 246.98 371.23 246.69 C 371.96 246.31 371.96 245.83 371.23 245.44 C 370.27 245.16 369.06 245.16 368.1 245.44 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-97" data-name="公众号：康帅PPT28-4" transform="rotate(90 363.99 248.34)">
+<path d="M 362.46 247.77 C 361.75 248.06 361.75 248.63 362.46 249.01 C 363.4 249.29 364.58 249.29 365.52 249.01 C 366.23 248.63 366.23 248.06 365.52 247.77 C 364.58 247.39 363.4 247.39 362.46 247.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-98" data-name="公众号：康帅PPT28-5" transform="rotate(90 358.22 250.58)">
+<path d="M 356.79 250.01 C 355.83 250.29 355.83 250.86 356.79 251.15 C 357.5 251.53 358.94 251.53 359.65 251.15 C 360.61 250.86 360.61 250.29 359.65 250.01 C 358.94 249.63 357.5 249.63 356.79 250.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-99" data-name="公众号：康帅PPT28-6" transform="rotate(90 341.15 243.85)">
+<path d="M 339.72 244.53 C 338.76 244.14 338.76 243.56 339.72 243.27 C 340.43 242.88 341.87 242.88 342.58 243.27 C 343.54 243.56 343.54 244.14 342.58 244.53 C 341.87 244.82 340.43 244.82 339.72 244.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-100" data-name="公众号：康帅PPT28-7" transform="rotate(90 346.77 246.07)">
+<path d="M 345.21 246.69 C 344.48 246.31 344.48 245.83 345.21 245.44 C 346.17 245.16 347.38 245.16 348.34 245.44 C 349.06 245.83 349.06 246.31 348.34 246.69 C 347.38 246.98 346.17 246.98 345.21 246.69 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-101" data-name="公众号：康帅PPT28-8" transform="rotate(90 352.45 248.34)">
+<path d="M 350.91 248.91 C 350.21 248.63 350.21 248.06 350.91 247.68 C 351.86 247.39 353.04 247.39 353.98 247.68 C 354.69 248.06 354.69 248.63 353.98 248.91 C 353.04 249.29 351.86 249.29 350.91 248.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-102" data-name="公众号：康帅PPT28-9" transform="rotate(90 358.22 250.58)">
+<path d="M 356.79 251.15 C 355.83 250.86 355.83 250.29 356.79 250.01 C 357.5 249.63 358.94 249.63 359.65 250.01 C 360.61 250.29 360.61 250.86 359.65 251.15 C 358.94 251.53 357.5 251.53 356.79 251.15 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-103" data-name="公众号：康帅PPT28-10" transform="rotate(90 375.24 238.88)">
+<path d="M 373.71 238.22 C 373 238.6 373 239.17 373.71 239.45 C 374.65 239.83 375.83 239.83 376.77 239.45 C 377.48 239.17 377.48 238.6 376.77 238.22 C 375.83 237.93 374.65 237.93 373.71 238.22 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-104" data-name="公众号：康帅PPT28-11" transform="rotate(90 369.67 241.1)">
+<path d="M 368.26 240.47 C 367.33 240.86 367.33 241.34 368.26 241.72 C 368.96 242.01 370.37 242.01 371.3 241.72 C 372.01 241.34 372.01 240.86 371.3 240.47 C 370.37 240.19 368.96 240.19 368.26 240.47 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-105" data-name="公众号：康帅PPT28-12" transform="rotate(90 363.99 243.37)">
+<path d="M 362.56 242.8 C 361.6 243.09 361.6 243.66 362.56 244.04 C 363.28 244.32 364.71 244.32 365.43 244.04 C 366.38 243.66 366.38 243.09 365.43 242.8 C 364.71 242.42 363.28 242.42 362.56 242.8 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-106" data-name="公众号：康帅PPT28-13" transform="rotate(90 358.22 245.63)">
+<path d="M 356.55 245.06 C 355.83 245.35 355.83 245.92 356.55 246.2 C 357.5 246.58 358.94 246.58 359.65 246.2 C 360.61 245.92 360.61 245.35 359.65 245.06 C 358.94 244.68 357.5 244.68 356.55 245.06 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-107" data-name="公众号：康帅PPT28-14" transform="rotate(90 341.15 238.88)">
+<path d="M 339.62 239.56 C 338.91 239.17 338.91 238.59 339.62 238.3 C 340.56 237.91 341.74 237.91 342.68 238.3 C 343.39 238.59 343.39 239.17 342.68 239.56 C 341.74 239.85 340.56 239.85 339.62 239.56 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-108" data-name="公众号：康帅PPT28-15" transform="rotate(90 346.77 241.1)">
+<path d="M 345.37 241.72 C 344.43 241.34 344.43 240.86 345.37 240.47 C 346.07 240.19 347.47 240.19 348.41 240.47 C 349.11 240.86 349.11 241.34 348.41 241.72 C 347.47 242.01 346.07 242.01 345.37 241.72 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-109" data-name="公众号：康帅PPT28-16" transform="rotate(90 352.45 243.37)">
+<path d="M 351.01 243.94 C 350.06 243.66 350.06 243.09 351.01 242.71 C 351.73 242.42 353.16 242.42 353.88 242.71 C 354.84 243.09 354.84 243.66 353.88 243.94 C 353.16 244.32 351.73 244.32 351.01 243.94 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-110" data-name="公众号：康帅PPT28-17" transform="rotate(90 358.22 245.63)">
+<path d="M 356.55 246.2 C 355.83 245.92 355.83 245.35 356.55 245.06 C 357.5 244.68 358.94 244.68 359.65 245.06 C 360.61 245.35 360.61 245.92 359.65 246.2 C 358.94 246.58 357.5 246.58 356.55 246.2 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-111" data-name="公众号：康帅PPT28-18" transform="rotate(90 375.24 233.91)">
+<path d="M 373.81 233.25 C 372.85 233.63 372.85 234.2 373.81 234.48 C 374.52 234.86 375.96 234.86 376.67 234.48 C 377.63 234.2 377.63 233.63 376.67 233.25 C 375.96 232.96 374.52 232.96 373.81 233.25 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-112" data-name="公众号：康帅PPT28-19" transform="rotate(90 369.67 236.17)">
+<path d="M 367.99 235.55 C 367.28 235.93 367.28 236.41 367.99 236.79 C 368.95 237.08 370.38 237.08 371.1 236.79 C 372.05 236.41 372.05 235.93 371.1 235.55 C 370.38 235.26 368.95 235.26 367.99 235.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-113" data-name="公众号：康帅PPT28-20" transform="rotate(90 363.99 238.41)">
+<path d="M 362.46 237.84 C 361.75 238.12 361.75 238.69 362.46 239.07 C 363.4 239.36 364.58 239.36 365.52 239.07 C 366.23 238.69 366.23 238.12 365.52 237.84 C 364.58 237.46 363.4 237.46 362.46 237.84 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-114" data-name="公众号：康帅PPT28-21" transform="rotate(90 358.22 240.62)">
+<path d="M 356.82 240.05 C 355.88 240.34 355.88 240.91 356.82 241.19 C 357.52 241.57 358.92 241.57 359.86 241.19 C 360.56 240.91 360.56 240.34 359.86 240.05 C 358.92 239.67 357.52 239.67 356.82 240.05 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-115" data-name="公众号：康帅PPT28-22" transform="rotate(90 341.15 233.91)">
+<path d="M 339.72 234.59 C 338.76 234.2 338.76 233.62 339.72 233.33 C 340.43 232.94 341.87 232.94 342.58 233.33 C 343.54 233.62 343.54 234.2 342.58 234.59 C 341.87 234.88 340.43 234.88 339.72 234.59 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-116" data-name="公众号：康帅PPT28-23" transform="rotate(90 346.77 236.17)">
+<path d="M 345.1 236.79 C 344.38 236.41 344.38 235.93 345.1 235.55 C 346.06 235.26 347.49 235.26 348.21 235.55 C 349.16 235.93 349.16 236.41 348.21 236.79 C 347.49 237.08 346.06 237.08 345.1 236.79 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-117" data-name="公众号：康帅PPT28-24" transform="rotate(90 352.45 238.41)">
+<path d="M 350.91 238.98 C 350.21 238.69 350.21 238.12 350.91 237.74 C 351.86 237.46 353.04 237.46 353.98 237.74 C 354.69 238.12 354.69 238.69 353.98 238.98 C 353.04 239.36 351.86 239.36 350.91 238.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-118" data-name="公众号：康帅PPT28-25" transform="rotate(90 358.22 240.62)">
+<path d="M 356.82 241.19 C 355.88 240.91 355.88 240.34 356.82 240.05 C 357.52 239.67 358.92 239.67 359.86 240.05 C 360.56 240.34 360.56 240.91 359.86 241.19 C 358.92 241.57 357.52 241.57 356.82 241.19 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+<g id="shape-66" data-name="Group 18++">
+<g id="shape-67" data-name="公众号：康帅PPT28-26">
+<path d="M 396.73 255.98 C 405.68 243.39 405.68 243.39 405.68 243.39 C 406.15 242.82 406.15 241.67 405.68 241.1 C 396.73 228.51 396.73 228.51 396.73 228.51 C 396.37 227.94 396.61 226.79 397.09 226.79 C 405.08 226.79 405.08 226.79 405.08 226.79 C 405.56 226.79 406.03 227.18 406.27 227.56 C 415.94 241.1 415.94 241.1 415.94 241.1 C 416.41 241.67 416.41 242.82 415.94 243.39 C 406.27 256.93 406.27 256.93 406.27 256.93 C 406.03 257.32 405.56 257.7 405.08 257.7 C 397.09 257.7 397.09 257.7 397.09 257.7 C 396.61 257.7 396.37 256.55 396.73 255.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-68" data-name="组合 67" transform="rotate(270 390.16 242.25)">
+<g id="shape-69" data-name="公众号：康帅PPT28-27" transform="rotate(90 407.23 243.85)">
+<path d="M 405.8 243.18 C 404.84 243.56 404.84 244.13 405.8 244.42 C 406.52 244.8 407.95 244.8 408.67 244.42 C 409.62 244.13 409.62 243.56 408.67 243.18 C 407.95 242.9 406.52 242.9 405.8 243.18 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-70" data-name="公众号：康帅PPT28-28" transform="rotate(90 401.66 246.07)">
+<path d="M 400.09 245.44 C 399.37 245.83 399.37 246.31 400.09 246.69 C 401.06 246.98 402.26 246.98 403.23 246.69 C 403.95 246.31 403.95 245.83 403.23 245.44 C 402.26 245.16 401.06 245.16 400.09 245.44 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-71" data-name="公众号：康帅PPT28-29" transform="rotate(90 395.99 248.34)">
+<path d="M 394.45 247.77 C 393.75 248.06 393.75 248.63 394.45 249.01 C 395.4 249.29 396.57 249.29 397.52 249.01 C 398.22 248.63 398.22 248.06 397.52 247.77 C 396.57 247.39 395.4 247.39 394.45 247.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-72" data-name="公众号：康帅PPT28-30" transform="rotate(90 390.21 250.58)">
+<path d="M 388.78 250.01 C 387.82 250.29 387.82 250.86 388.78 251.15 C 389.5 251.53 390.93 251.53 391.65 251.15 C 392.6 250.86 392.6 250.29 391.65 250.01 C 390.93 249.63 389.5 249.63 388.78 250.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-73" data-name="公众号：康帅PPT28-31" transform="rotate(90 373.14 243.85)">
+<path d="M 371.71 244.53 C 370.75 244.14 370.75 243.56 371.71 243.27 C 372.43 242.88 373.86 242.88 374.58 243.27 C 375.53 243.56 375.53 244.14 374.58 244.53 C 373.86 244.82 372.43 244.82 371.71 244.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-74" data-name="公众号：康帅PPT28-32" transform="rotate(90 378.77 246.07)">
+<path d="M 377.2 246.69 C 376.48 246.31 376.48 245.83 377.2 245.44 C 378.16 245.16 379.37 245.16 380.33 245.44 C 381.05 245.83 381.05 246.31 380.33 246.69 C 379.37 246.98 378.16 246.98 377.2 246.69 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-75" data-name="公众号：康帅PPT28-33" transform="rotate(90 384.44 248.34)">
+<path d="M 382.91 248.91 C 382.2 248.63 382.2 248.06 382.91 247.68 C 383.85 247.39 385.03 247.39 385.97 247.68 C 386.68 248.06 386.68 248.63 385.97 248.91 C 385.03 249.29 383.85 249.29 382.91 248.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-76" data-name="公众号：康帅PPT28-34" transform="rotate(90 390.21 250.58)">
+<path d="M 388.78 251.15 C 387.82 250.86 387.82 250.29 388.78 250.01 C 389.5 249.63 390.93 249.63 391.65 250.01 C 392.6 250.29 392.6 250.86 391.65 251.15 C 390.93 251.53 389.5 251.53 388.78 251.15 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-77" data-name="公众号：康帅PPT28-35" transform="rotate(90 407.23 238.88)">
+<path d="M 405.7 238.22 C 404.99 238.6 404.99 239.17 405.7 239.45 C 406.64 239.83 407.82 239.83 408.77 239.45 C 409.47 239.17 409.47 238.6 408.77 238.22 C 407.82 237.93 406.64 237.93 405.7 238.22 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-78" data-name="公众号：康帅PPT28-36" transform="rotate(90 401.66 241.1)">
+<path d="M 400.26 240.47 C 399.32 240.86 399.32 241.34 400.26 241.72 C 400.96 242.01 402.36 242.01 403.3 241.72 C 404 241.34 404 240.86 403.3 240.47 C 402.36 240.19 400.96 240.19 400.26 240.47 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-79" data-name="公众号：康帅PPT28-37" transform="rotate(90 395.99 243.37)">
+<path d="M 394.55 242.8 C 393.6 243.09 393.6 243.66 394.55 244.04 C 395.27 244.32 396.7 244.32 397.42 244.04 C 398.37 243.66 398.37 243.09 397.42 242.8 C 396.7 242.42 395.27 242.42 394.55 242.8 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-80" data-name="公众号：康帅PPT28-38" transform="rotate(90 390.21 245.63)">
+<path d="M 388.54 245.06 C 387.82 245.35 387.82 245.92 388.54 246.2 C 389.5 246.58 390.93 246.58 391.65 246.2 C 392.6 245.92 392.6 245.35 391.65 245.06 C 390.93 244.68 389.5 244.68 388.54 245.06 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-81" data-name="公众号：康帅PPT28-39" transform="rotate(90 373.14 238.88)">
+<path d="M 371.61 239.56 C 370.9 239.17 370.9 238.59 371.61 238.3 C 372.55 237.91 373.73 237.91 374.67 238.3 C 375.38 238.59 375.38 239.17 374.67 239.56 C 373.73 239.85 372.55 239.85 371.61 239.56 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-82" data-name="公众号：康帅PPT28-40" transform="rotate(90 378.77 241.1)">
+<path d="M 377.36 241.72 C 376.43 241.34 376.43 240.86 377.36 240.47 C 378.06 240.19 379.47 240.19 380.4 240.47 C 381.1 240.86 381.1 241.34 380.4 241.72 C 379.47 242.01 378.06 242.01 377.36 241.72 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-83" data-name="公众号：康帅PPT28-41" transform="rotate(90 384.44 243.37)">
+<path d="M 383.01 243.94 C 382.05 243.66 382.05 243.09 383.01 242.71 C 383.72 242.42 385.16 242.42 385.87 242.71 C 386.83 243.09 386.83 243.66 385.87 243.94 C 385.16 244.32 383.72 244.32 383.01 243.94 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-84" data-name="公众号：康帅PPT28-42" transform="rotate(90 390.21 245.63)">
+<path d="M 388.54 246.2 C 387.82 245.92 387.82 245.35 388.54 245.06 C 389.5 244.68 390.93 244.68 391.65 245.06 C 392.6 245.35 392.6 245.92 391.65 246.2 C 390.93 246.58 389.5 246.58 388.54 246.2 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-85" data-name="公众号：康帅PPT28-43" transform="rotate(90 407.23 233.91)">
+<path d="M 405.8 233.25 C 404.84 233.63 404.84 234.2 405.8 234.48 C 406.52 234.86 407.95 234.86 408.67 234.48 C 409.62 234.2 409.62 233.63 408.67 233.25 C 407.95 232.96 406.52 232.96 405.8 233.25 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-86" data-name="公众号：康帅PPT28-44" transform="rotate(90 401.66 236.17)">
+<path d="M 399.99 235.55 C 399.27 235.93 399.27 236.41 399.99 236.79 C 400.94 237.08 402.38 237.08 403.09 236.79 C 404.05 236.41 404.05 235.93 403.09 235.55 C 402.38 235.26 400.94 235.26 399.99 235.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-87" data-name="公众号：康帅PPT28-45" transform="rotate(90 395.99 238.41)">
+<path d="M 394.45 237.84 C 393.75 238.12 393.75 238.69 394.45 239.07 C 395.4 239.36 396.57 239.36 397.52 239.07 C 398.22 238.69 398.22 238.12 397.52 237.84 C 396.57 237.46 395.4 237.46 394.45 237.84 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-88" data-name="公众号：康帅PPT28-46" transform="rotate(90 390.21 240.62)">
+<path d="M 388.81 240.05 C 387.87 240.34 387.87 240.91 388.81 241.19 C 389.51 241.57 390.91 241.57 391.85 241.19 C 392.55 240.91 392.55 240.34 391.85 240.05 C 390.91 239.67 389.51 239.67 388.81 240.05 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-89" data-name="公众号：康帅PPT28-47" transform="rotate(90 373.14 233.91)">
+<path d="M 371.71 234.59 C 370.75 234.2 370.75 233.62 371.71 233.33 C 372.43 232.94 373.86 232.94 374.58 233.33 C 375.53 233.62 375.53 234.2 374.58 234.59 C 373.86 234.88 372.43 234.88 371.71 234.59 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-90" data-name="公众号：康帅PPT28-48" transform="rotate(90 378.77 236.17)">
+<path d="M 377.09 236.79 C 376.38 236.41 376.38 235.93 377.09 235.55 C 378.05 235.26 379.48 235.26 380.2 235.55 C 381.15 235.93 381.15 236.41 380.2 236.79 C 379.48 237.08 378.05 237.08 377.09 236.79 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-91" data-name="公众号：康帅PPT28-49" transform="rotate(90 384.44 238.41)">
+<path d="M 382.91 238.98 C 382.2 238.69 382.2 238.12 382.91 237.74 C 383.85 237.46 385.03 237.46 385.97 237.74 C 386.68 238.12 386.68 238.69 385.97 238.98 C 385.03 239.36 383.85 239.36 382.91 238.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-92" data-name="公众号：康帅PPT28-50" transform="rotate(90 390.21 240.62)">
+<path d="M 388.81 241.19 C 387.87 240.91 387.87 240.34 388.81 240.05 C 389.51 239.67 390.91 239.67 391.85 240.05 C 392.55 240.34 392.55 240.91 391.85 241.19 C 390.91 241.57 389.51 241.57 388.81 241.19 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+<g id="shape-119" data-name="公众号：康帅PPT29">
+<g id="shape-120" data-name="Group 18+">
+<g id="shape-148" data-name="公众号：康帅PPT29-1">
+<path d="M 618.35 255.98 C 627.3 243.39 627.3 243.39 627.3 243.39 C 627.77 242.82 627.77 241.67 627.3 241.1 C 618.35 228.51 618.35 228.51 618.35 228.51 C 617.99 227.94 618.23 226.79 618.71 226.79 C 626.7 226.79 626.7 226.79 626.7 226.79 C 627.18 226.79 627.66 227.18 627.89 227.56 C 637.56 241.1 637.56 241.1 637.56 241.1 C 638.03 241.67 638.03 242.82 637.56 243.39 C 627.89 256.93 627.89 256.93 627.89 256.93 C 627.66 257.32 627.18 257.7 626.7 257.7 C 618.71 257.7 618.71 257.7 618.71 257.7 C 618.23 257.7 617.99 256.55 618.35 255.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-149" data-name="组合 148" transform="rotate(270 611.78 242.25)">
+<g id="shape-150" data-name="公众号：康帅PPT29-2" transform="rotate(90 628.86 243.85)">
+<path d="M 627.42 243.18 C 626.47 243.56 626.47 244.13 627.42 244.42 C 628.14 244.8 629.57 244.8 630.29 244.42 C 631.24 244.13 631.24 243.56 630.29 243.18 C 629.57 242.9 628.14 242.9 627.42 243.18 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-151" data-name="公众号：康帅PPT29-3" transform="rotate(90 623.28 246.07)">
+<path d="M 621.71 245.44 C 620.99 245.83 620.99 246.31 621.71 246.69 C 622.68 246.98 623.88 246.98 624.85 246.69 C 625.57 246.31 625.57 245.83 624.85 245.44 C 623.88 245.16 622.68 245.16 621.71 245.44 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-152" data-name="公众号：康帅PPT29-4" transform="rotate(90 617.61 248.34)">
+<path d="M 616.08 247.77 C 615.37 248.06 615.37 248.63 616.08 249.01 C 617.02 249.29 618.2 249.29 619.14 249.01 C 619.85 248.63 619.85 248.06 619.14 247.77 C 618.2 247.39 617.02 247.39 616.08 247.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-153" data-name="公众号：康帅PPT29-5" transform="rotate(90 611.83 250.58)">
+<path d="M 610.4 250.01 C 609.45 250.29 609.45 250.86 610.4 251.15 C 611.12 251.53 612.55 251.53 613.27 251.15 C 614.22 250.86 614.22 250.29 613.27 250.01 C 612.55 249.63 611.12 249.63 610.4 250.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-154" data-name="公众号：康帅PPT29-6" transform="rotate(90 594.76 243.85)">
+<path d="M 593.33 244.53 C 592.38 244.14 592.38 243.56 593.33 243.27 C 594.05 242.88 595.48 242.88 596.2 243.27 C 597.15 243.56 597.15 244.14 596.2 244.53 C 595.48 244.82 594.05 244.82 593.33 244.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-155" data-name="公众号：康帅PPT29-7" transform="rotate(90 600.39 246.07)">
+<path d="M 598.82 246.69 C 598.1 246.31 598.1 245.83 598.82 245.44 C 599.79 245.16 600.99 245.16 601.95 245.44 C 602.68 245.83 602.68 246.31 601.95 246.69 C 600.99 246.98 599.79 246.98 598.82 246.69 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-156" data-name="公众号：康帅PPT29-8" transform="rotate(90 606.06 248.34)">
+<path d="M 604.53 248.91 C 603.82 248.63 603.82 248.06 604.53 247.68 C 605.47 247.39 606.65 247.39 607.59 247.68 C 608.3 248.06 608.3 248.63 607.59 248.91 C 606.65 249.29 605.47 249.29 604.53 248.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-157" data-name="公众号：康帅PPT29-9" transform="rotate(90 611.83 250.58)">
+<path d="M 610.4 251.15 C 609.45 250.86 609.45 250.29 610.4 250.01 C 611.12 249.63 612.55 249.63 613.27 250.01 C 614.22 250.29 614.22 250.86 613.27 251.15 C 612.55 251.53 611.12 251.53 610.4 251.15 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-158" data-name="公众号：康帅PPT29-10" transform="rotate(90 628.86 238.88)">
+<path d="M 627.32 238.22 C 626.62 238.6 626.62 239.17 627.32 239.45 C 628.27 239.83 629.44 239.83 630.39 239.45 C 631.09 239.17 631.09 238.6 630.39 238.22 C 629.44 237.93 628.27 237.93 627.32 238.22 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-159" data-name="公众号：康帅PPT29-11" transform="rotate(90 623.28 241.1)">
+<path d="M 621.88 240.47 C 620.94 240.86 620.94 241.34 621.88 241.72 C 622.58 242.01 623.98 242.01 624.92 241.72 C 625.62 241.34 625.62 240.86 624.92 240.47 C 623.98 240.19 622.58 240.19 621.88 240.47 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-160" data-name="公众号：康帅PPT29-12" transform="rotate(90 617.61 243.37)">
+<path d="M 616.17 242.8 C 615.22 243.09 615.22 243.66 616.17 244.04 C 616.89 244.32 618.32 244.32 619.04 244.04 C 620 243.66 620 243.09 619.04 242.8 C 618.32 242.42 616.89 242.42 616.17 242.8 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-161" data-name="公众号：康帅PPT29-13" transform="rotate(90 611.83 245.63)">
+<path d="M 610.16 245.06 C 609.45 245.35 609.45 245.92 610.16 246.2 C 611.12 246.58 612.55 246.58 613.27 246.2 C 614.22 245.92 614.22 245.35 613.27 245.06 C 612.55 244.68 611.12 244.68 610.16 245.06 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-162" data-name="公众号：康帅PPT29-14" transform="rotate(90 594.76 238.88)">
+<path d="M 593.23 239.56 C 592.52 239.17 592.52 238.59 593.23 238.3 C 594.17 237.91 595.35 237.91 596.3 238.3 C 597 238.59 597 239.17 596.3 239.56 C 595.35 239.85 594.17 239.85 593.23 239.56 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-163" data-name="公众号：康帅PPT29-15" transform="rotate(90 600.39 241.1)">
+<path d="M 598.98 241.72 C 598.05 241.34 598.05 240.86 598.98 240.47 C 599.69 240.19 601.09 240.19 602.03 240.47 C 602.73 240.86 602.73 241.34 602.03 241.72 C 601.09 242.01 599.69 242.01 598.98 241.72 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-164" data-name="公众号：康帅PPT29-16" transform="rotate(90 606.06 243.37)">
+<path d="M 604.63 243.94 C 603.67 243.66 603.67 243.09 604.63 242.71 C 605.34 242.42 606.78 242.42 607.49 242.71 C 608.45 243.09 608.45 243.66 607.49 243.94 C 606.78 244.32 605.34 244.32 604.63 243.94 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-165" data-name="公众号：康帅PPT29-17" transform="rotate(90 611.83 245.63)">
+<path d="M 610.16 246.2 C 609.45 245.92 609.45 245.35 610.16 245.06 C 611.12 244.68 612.55 244.68 613.27 245.06 C 614.22 245.35 614.22 245.92 613.27 246.2 C 612.55 246.58 611.12 246.58 610.16 246.2 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-166" data-name="公众号：康帅PPT29-18" transform="rotate(90 628.86 233.91)">
+<path d="M 627.42 233.25 C 626.47 233.63 626.47 234.2 627.42 234.48 C 628.14 234.86 629.57 234.86 630.29 234.48 C 631.24 234.2 631.24 233.63 630.29 233.25 C 629.57 232.96 628.14 232.96 627.42 233.25 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-167" data-name="公众号：康帅PPT29-19" transform="rotate(90 623.28 236.17)">
+<path d="M 621.61 235.55 C 620.89 235.93 620.89 236.41 621.61 236.79 C 622.56 237.08 624 237.08 624.71 236.79 C 625.67 236.41 625.67 235.93 624.71 235.55 C 624 235.26 622.56 235.26 621.61 235.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-168" data-name="公众号：康帅PPT29-20" transform="rotate(90 617.61 238.41)">
+<path d="M 616.08 237.84 C 615.37 238.12 615.37 238.69 616.08 239.07 C 617.02 239.36 618.2 239.36 619.14 239.07 C 619.85 238.69 619.85 238.12 619.14 237.84 C 618.2 237.46 617.02 237.46 616.08 237.84 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-169" data-name="公众号：康帅PPT29-21" transform="rotate(90 611.83 240.62)">
+<path d="M 610.43 240.05 C 609.5 240.34 609.5 240.91 610.43 241.19 C 611.13 241.57 612.54 241.57 613.47 241.19 C 614.17 240.91 614.17 240.34 613.47 240.05 C 612.54 239.67 611.13 239.67 610.43 240.05 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-170" data-name="公众号：康帅PPT29-22" transform="rotate(90 594.76 233.91)">
+<path d="M 593.33 234.59 C 592.38 234.2 592.38 233.62 593.33 233.33 C 594.05 232.94 595.48 232.94 596.2 233.33 C 597.15 233.62 597.15 234.2 596.2 234.59 C 595.48 234.88 594.05 234.88 593.33 234.59 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-171" data-name="公众号：康帅PPT29-23" transform="rotate(90 600.39 236.17)">
+<path d="M 598.72 236.79 C 598 236.41 598 235.93 598.72 235.55 C 599.67 235.26 601.1 235.26 601.82 235.55 C 602.78 235.93 602.78 236.41 601.82 236.79 C 601.1 237.08 599.67 237.08 598.72 236.79 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-172" data-name="公众号：康帅PPT29-24" transform="rotate(90 606.06 238.41)">
+<path d="M 604.53 238.98 C 603.82 238.69 603.82 238.12 604.53 237.74 C 605.47 237.46 606.65 237.46 607.59 237.74 C 608.3 238.12 608.3 238.69 607.59 238.98 C 606.65 239.36 605.47 239.36 604.53 238.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-173" data-name="公众号：康帅PPT29-25" transform="rotate(90 611.83 240.62)">
+<path d="M 610.43 241.19 C 609.5 240.91 609.5 240.34 610.43 240.05 C 611.13 239.67 612.54 239.67 613.47 240.05 C 614.17 240.34 614.17 240.91 613.47 241.19 C 612.54 241.57 611.13 241.57 610.43 241.19 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+<g id="shape-121" data-name="Group 18++">
+<g id="shape-122" data-name="公众号：康帅PPT29-26">
+<path d="M 650.34 255.98 C 659.29 243.39 659.29 243.39 659.29 243.39 C 659.77 242.82 659.77 241.67 659.29 241.1 C 650.34 228.51 650.34 228.51 650.34 228.51 C 649.98 227.94 650.22 226.79 650.7 226.79 C 658.69 226.79 658.69 226.79 658.69 226.79 C 659.17 226.79 659.65 227.18 659.89 227.56 C 669.55 241.1 669.55 241.1 669.55 241.1 C 670.03 241.67 670.03 242.82 669.55 243.39 C 659.89 256.93 659.89 256.93 659.89 256.93 C 659.65 257.32 659.17 257.7 658.69 257.7 C 650.7 257.7 650.7 257.7 650.7 257.7 C 650.22 257.7 649.98 256.55 650.34 255.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-123" data-name="组合 122" transform="rotate(270 643.78 242.25)">
+<g id="shape-124" data-name="公众号：康帅PPT29-27" transform="rotate(90 660.85 243.85)">
+<path d="M 659.41 243.18 C 658.46 243.56 658.46 244.13 659.41 244.42 C 660.13 244.8 661.56 244.8 662.28 244.42 C 663.24 244.13 663.24 243.56 662.28 243.18 C 661.56 242.9 660.13 242.9 659.41 243.18 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-125" data-name="公众号：康帅PPT29-28" transform="rotate(90 655.27 246.07)">
+<path d="M 653.71 245.44 C 652.98 245.83 652.98 246.31 653.71 246.69 C 654.67 246.98 655.88 246.98 656.84 246.69 C 657.56 246.31 657.56 245.83 656.84 245.44 C 655.88 245.16 654.67 245.16 653.71 245.44 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-126" data-name="公众号：康帅PPT29-29" transform="rotate(90 649.6 248.34)">
+<path d="M 648.07 247.77 C 647.36 248.06 647.36 248.63 648.07 249.01 C 649.01 249.29 650.19 249.29 651.13 249.01 C 651.84 248.63 651.84 248.06 651.13 247.77 C 650.19 247.39 649.01 247.39 648.07 247.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-127" data-name="公众号：康帅PPT29-30" transform="rotate(90 643.83 250.58)">
+<path d="M 642.39 250.01 C 641.44 250.29 641.44 250.86 642.39 251.15 C 643.11 251.53 644.54 251.53 645.26 251.15 C 646.22 250.86 646.22 250.29 645.26 250.01 C 644.54 249.63 643.11 249.63 642.39 250.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-128" data-name="公众号：康帅PPT29-31" transform="rotate(90 626.76 243.85)">
+<path d="M 625.32 244.53 C 624.37 244.14 624.37 243.56 625.32 243.27 C 626.04 242.88 627.47 242.88 628.19 243.27 C 629.15 243.56 629.15 244.14 628.19 244.53 C 627.47 244.82 626.04 244.82 625.32 244.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-129" data-name="公众号：康帅PPT29-32" transform="rotate(90 632.38 246.07)">
+<path d="M 630.81 246.69 C 630.09 246.31 630.09 245.83 630.81 245.44 C 631.78 245.16 632.98 245.16 633.95 245.44 C 634.67 245.83 634.67 246.31 633.95 246.69 C 632.98 246.98 631.78 246.98 630.81 246.69 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-130" data-name="公众号：康帅PPT29-33" transform="rotate(90 638.05 248.34)">
+<path d="M 636.52 248.91 C 635.81 248.63 635.81 248.06 636.52 247.68 C 637.47 247.39 638.64 247.39 639.59 247.68 C 640.29 248.06 640.29 248.63 639.59 248.91 C 638.64 249.29 637.47 249.29 636.52 248.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-131" data-name="公众号：康帅PPT29-34" transform="rotate(90 643.83 250.58)">
+<path d="M 642.39 251.15 C 641.44 250.86 641.44 250.29 642.39 250.01 C 643.11 249.63 644.54 249.63 645.26 250.01 C 646.22 250.29 646.22 250.86 645.26 251.15 C 644.54 251.53 643.11 251.53 642.39 251.15 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-132" data-name="公众号：康帅PPT29-35" transform="rotate(90 660.85 238.88)">
+<path d="M 659.32 238.22 C 658.61 238.6 658.61 239.17 659.32 239.45 C 660.26 239.83 661.44 239.83 662.38 239.45 C 663.09 239.17 663.09 238.6 662.38 238.22 C 661.44 237.93 660.26 237.93 659.32 238.22 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-133" data-name="公众号：康帅PPT29-36" transform="rotate(90 655.27 241.1)">
+<path d="M 653.87 240.47 C 652.94 240.86 652.94 241.34 653.87 241.72 C 654.57 242.01 655.98 242.01 656.91 241.72 C 657.61 241.34 657.61 240.86 656.91 240.47 C 655.98 240.19 654.57 240.19 653.87 240.47 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-134" data-name="公众号：康帅PPT29-37" transform="rotate(90 649.6 243.37)">
+<path d="M 648.17 242.8 C 647.21 243.09 647.21 243.66 648.17 244.04 C 648.88 244.32 650.32 244.32 651.03 244.04 C 651.99 243.66 651.99 243.09 651.03 242.8 C 650.32 242.42 648.88 242.42 648.17 242.8 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-135" data-name="公众号：康帅PPT29-38" transform="rotate(90 643.83 245.63)">
+<path d="M 642.16 245.06 C 641.44 245.35 641.44 245.92 642.16 246.2 C 643.11 246.58 644.54 246.58 645.26 246.2 C 646.22 245.92 646.22 245.35 645.26 245.06 C 644.54 244.68 643.11 244.68 642.16 245.06 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-136" data-name="公众号：康帅PPT29-39" transform="rotate(90 626.76 238.88)">
+<path d="M 625.22 239.56 C 624.52 239.17 624.52 238.59 625.22 238.3 C 626.17 237.91 627.35 237.91 628.29 238.3 C 629 238.59 629 239.17 628.29 239.56 C 627.35 239.85 626.17 239.85 625.22 239.56 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-137" data-name="公众号：康帅PPT29-40" transform="rotate(90 632.38 241.1)">
+<path d="M 630.98 241.72 C 630.04 241.34 630.04 240.86 630.98 240.47 C 631.68 240.19 633.08 240.19 634.02 240.47 C 634.72 240.86 634.72 241.34 634.02 241.72 C 633.08 242.01 631.68 242.01 630.98 241.72 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-138" data-name="公众号：康帅PPT29-41" transform="rotate(90 638.05 243.37)">
+<path d="M 636.62 243.94 C 635.67 243.66 635.67 243.09 636.62 242.71 C 637.34 242.42 638.77 242.42 639.49 242.71 C 640.44 243.09 640.44 243.66 639.49 243.94 C 638.77 244.32 637.34 244.32 636.62 243.94 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-139" data-name="公众号：康帅PPT29-42" transform="rotate(90 643.83 245.63)">
+<path d="M 642.16 246.2 C 641.44 245.92 641.44 245.35 642.16 245.06 C 643.11 244.68 644.54 244.68 645.26 245.06 C 646.22 245.35 646.22 245.92 645.26 246.2 C 644.54 246.58 643.11 246.58 642.16 246.2 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-140" data-name="公众号：康帅PPT29-43" transform="rotate(90 660.85 233.91)">
+<path d="M 659.41 233.25 C 658.46 233.63 658.46 234.2 659.41 234.48 C 660.13 234.86 661.56 234.86 662.28 234.48 C 663.24 234.2 663.24 233.63 662.28 233.25 C 661.56 232.96 660.13 232.96 659.41 233.25 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-141" data-name="公众号：康帅PPT29-44" transform="rotate(90 655.27 236.17)">
+<path d="M 653.6 235.55 C 652.89 235.93 652.89 236.41 653.6 236.79 C 654.56 237.08 655.99 237.08 656.71 236.79 C 657.66 236.41 657.66 235.93 656.71 235.55 C 655.99 235.26 654.56 235.26 653.6 235.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-142" data-name="公众号：康帅PPT29-45" transform="rotate(90 649.6 238.41)">
+<path d="M 648.07 237.84 C 647.36 238.12 647.36 238.69 648.07 239.07 C 649.01 239.36 650.19 239.36 651.13 239.07 C 651.84 238.69 651.84 238.12 651.13 237.84 C 650.19 237.46 649.01 237.46 648.07 237.84 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-143" data-name="公众号：康帅PPT29-46" transform="rotate(90 643.83 240.62)">
+<path d="M 642.42 240.05 C 641.49 240.34 641.49 240.91 642.42 241.19 C 643.13 241.57 644.53 241.57 645.46 241.19 C 646.17 240.91 646.17 240.34 645.46 240.05 C 644.53 239.67 643.13 239.67 642.42 240.05 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-144" data-name="公众号：康帅PPT29-47" transform="rotate(90 626.76 233.91)">
+<path d="M 625.32 234.59 C 624.37 234.2 624.37 233.62 625.32 233.33 C 626.04 232.94 627.47 232.94 628.19 233.33 C 629.15 233.62 629.15 234.2 628.19 234.59 C 627.47 234.88 626.04 234.88 625.32 234.59 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-145" data-name="公众号：康帅PPT29-48" transform="rotate(90 632.38 236.17)">
+<path d="M 630.71 236.79 C 629.99 236.41 629.99 235.93 630.71 235.55 C 631.66 235.26 633.1 235.26 633.81 235.55 C 634.77 235.93 634.77 236.41 633.81 236.79 C 633.1 237.08 631.66 237.08 630.71 236.79 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-146" data-name="公众号：康帅PPT29-49" transform="rotate(90 638.05 238.41)">
+<path d="M 636.52 238.98 C 635.81 238.69 635.81 238.12 636.52 237.74 C 637.47 237.46 638.64 237.46 639.59 237.74 C 640.29 238.12 640.29 238.69 639.59 238.98 C 638.64 239.36 637.47 239.36 636.52 238.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-147" data-name="公众号：康帅PPT29-50" transform="rotate(90 643.83 240.62)">
+<path d="M 642.42 241.19 C 641.49 240.91 641.49 240.34 642.42 240.05 C 643.13 239.67 644.53 239.67 645.46 240.05 C 646.17 240.34 646.17 240.91 645.46 241.19 C 644.53 241.57 643.13 241.57 642.42 241.19 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+<g id="shape-174" data-name="公众号：康帅PPT30">
+<g id="shape-175" data-name="Group 18+">
+<g id="shape-203" data-name="公众号：康帅PPT30-1">
+<path d="M 877.79 255.98 C 886.74 243.39 886.74 243.39 886.74 243.39 C 887.22 242.82 887.22 241.67 886.74 241.1 C 877.79 228.51 877.79 228.51 877.79 228.51 C 877.44 227.94 877.68 226.79 878.15 226.79 C 886.15 226.79 886.15 226.79 886.15 226.79 C 886.62 226.79 887.1 227.18 887.34 227.56 C 897 241.1 897 241.1 897 241.1 C 897.48 241.67 897.48 242.82 897 243.39 C 887.34 256.93 887.34 256.93 887.34 256.93 C 887.1 257.32 886.62 257.7 886.15 257.7 C 878.15 257.7 878.15 257.7 878.15 257.7 C 877.68 257.7 877.44 256.55 877.79 255.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-204" data-name="组合 203" transform="rotate(270 871.23 242.25)">
+<g id="shape-205" data-name="公众号：康帅PPT30-2" transform="rotate(90 888.3 243.85)">
+<path d="M 886.87 243.18 C 885.91 243.56 885.91 244.13 886.87 244.42 C 887.58 244.8 889.02 244.8 889.73 244.42 C 890.69 244.13 890.69 243.56 889.73 243.18 C 889.02 242.9 887.58 242.9 886.87 243.18 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-206" data-name="公众号：康帅PPT30-3" transform="rotate(90 882.73 246.07)">
+<path d="M 881.16 245.44 C 880.44 245.83 880.44 246.31 881.16 246.69 C 882.12 246.98 883.33 246.98 884.29 246.69 C 885.02 246.31 885.02 245.83 884.29 245.44 C 883.33 245.16 882.12 245.16 881.16 245.44 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-207" data-name="公众号：康帅PPT30-4" transform="rotate(90 877.05 248.34)">
+<path d="M 875.52 247.77 C 874.81 248.06 874.81 248.63 875.52 249.01 C 876.46 249.29 877.64 249.29 878.58 249.01 C 879.29 248.63 879.29 248.06 878.58 247.77 C 877.64 247.39 876.46 247.39 875.52 247.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-208" data-name="公众号：康帅PPT30-5" transform="rotate(90 871.28 250.58)">
+<path d="M 869.85 250.01 C 868.89 250.29 868.89 250.86 869.85 251.15 C 870.56 251.53 872 251.53 872.71 251.15 C 873.67 250.86 873.67 250.29 872.71 250.01 C 872 249.63 870.56 249.63 869.85 250.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-209" data-name="公众号：康帅PPT30-6" transform="rotate(90 854.21 243.85)">
+<path d="M 852.78 244.53 C 851.82 244.14 851.82 243.56 852.78 243.27 C 853.49 242.88 854.93 242.88 855.64 243.27 C 856.6 243.56 856.6 244.14 855.64 244.53 C 854.93 244.82 853.49 244.82 852.78 244.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-210" data-name="公众号：康帅PPT30-7" transform="rotate(90 859.83 246.07)">
+<path d="M 858.27 246.69 C 857.54 246.31 857.54 245.83 858.27 245.44 C 859.23 245.16 860.43 245.16 861.4 245.44 C 862.12 245.83 862.12 246.31 861.4 246.69 C 860.43 246.98 859.23 246.98 858.27 246.69 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-211" data-name="公众号：康帅PPT30-8" transform="rotate(90 865.51 248.34)">
+<path d="M 863.97 248.91 C 863.27 248.63 863.27 248.06 863.97 247.68 C 864.92 247.39 866.1 247.39 867.04 247.68 C 867.75 248.06 867.75 248.63 867.04 248.91 C 866.1 249.29 864.92 249.29 863.97 248.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-212" data-name="公众号：康帅PPT30-9" transform="rotate(90 871.28 250.58)">
+<path d="M 869.85 251.15 C 868.89 250.86 868.89 250.29 869.85 250.01 C 870.56 249.63 872 249.63 872.71 250.01 C 873.67 250.29 873.67 250.86 872.71 251.15 C 872 251.53 870.56 251.53 869.85 251.15 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-213" data-name="公众号：康帅PPT30-10" transform="rotate(90 888.3 238.88)">
+<path d="M 886.77 238.22 C 886.06 238.6 886.06 239.17 886.77 239.45 C 887.71 239.83 888.89 239.83 889.83 239.45 C 890.54 239.17 890.54 238.6 889.83 238.22 C 888.89 237.93 887.71 237.93 886.77 238.22 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-214" data-name="公众号：康帅PPT30-11" transform="rotate(90 882.73 241.1)">
+<path d="M 881.32 240.47 C 880.39 240.86 880.39 241.34 881.32 241.72 C 882.02 242.01 883.43 242.01 884.36 241.72 C 885.06 241.34 885.06 240.86 884.36 240.47 C 883.43 240.19 882.02 240.19 881.32 240.47 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-215" data-name="公众号：康帅PPT30-12" transform="rotate(90 877.05 243.37)">
+<path d="M 875.62 242.8 C 874.66 243.09 874.66 243.66 875.62 244.04 C 876.34 244.32 877.77 244.32 878.49 244.04 C 879.44 243.66 879.44 243.09 878.49 242.8 C 877.77 242.42 876.34 242.42 875.62 242.8 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-216" data-name="公众号：康帅PPT30-13" transform="rotate(90 871.28 245.63)">
+<path d="M 869.61 245.06 C 868.89 245.35 868.89 245.92 869.61 246.2 C 870.56 246.58 872 246.58 872.71 246.2 C 873.67 245.92 873.67 245.35 872.71 245.06 C 872 244.68 870.56 244.68 869.61 245.06 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-217" data-name="公众号：康帅PPT30-14" transform="rotate(90 854.21 238.88)">
+<path d="M 852.68 239.56 C 851.97 239.17 851.97 238.59 852.68 238.3 C 853.62 237.91 854.8 237.91 855.74 238.3 C 856.45 238.59 856.45 239.17 855.74 239.56 C 854.8 239.85 853.62 239.85 852.68 239.56 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-218" data-name="公众号：康帅PPT30-15" transform="rotate(90 859.83 241.1)">
+<path d="M 858.43 241.72 C 857.49 241.34 857.49 240.86 858.43 240.47 C 859.13 240.19 860.53 240.19 861.47 240.47 C 862.17 240.86 862.17 241.34 861.47 241.72 C 860.53 242.01 859.13 242.01 858.43 241.72 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-219" data-name="公众号：康帅PPT30-16" transform="rotate(90 865.51 243.37)">
+<path d="M 864.07 243.94 C 863.12 243.66 863.12 243.09 864.07 242.71 C 864.79 242.42 866.22 242.42 866.94 242.71 C 867.89 243.09 867.89 243.66 866.94 243.94 C 866.22 244.32 864.79 244.32 864.07 243.94 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-220" data-name="公众号：康帅PPT30-17" transform="rotate(90 871.28 245.63)">
+<path d="M 869.61 246.2 C 868.89 245.92 868.89 245.35 869.61 245.06 C 870.56 244.68 872 244.68 872.71 245.06 C 873.67 245.35 873.67 245.92 872.71 246.2 C 872 246.58 870.56 246.58 869.61 246.2 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-221" data-name="公众号：康帅PPT30-18" transform="rotate(90 888.3 233.91)">
+<path d="M 886.87 233.25 C 885.91 233.63 885.91 234.2 886.87 234.48 C 887.58 234.86 889.02 234.86 889.73 234.48 C 890.69 234.2 890.69 233.63 889.73 233.25 C 889.02 232.96 887.58 232.96 886.87 233.25 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-222" data-name="公众号：康帅PPT30-19" transform="rotate(90 882.73 236.17)">
+<path d="M 881.05 235.55 C 880.34 235.93 880.34 236.41 881.05 236.79 C 882.01 237.08 883.44 237.08 884.16 236.79 C 885.11 236.41 885.11 235.93 884.16 235.55 C 883.44 235.26 882.01 235.26 881.05 235.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-223" data-name="公众号：康帅PPT30-20" transform="rotate(90 877.05 238.41)">
+<path d="M 875.52 237.84 C 874.81 238.12 874.81 238.69 875.52 239.07 C 876.46 239.36 877.64 239.36 878.58 239.07 C 879.29 238.69 879.29 238.12 878.58 237.84 C 877.64 237.46 876.46 237.46 875.52 237.84 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-224" data-name="公众号：康帅PPT30-21" transform="rotate(90 871.28 240.62)">
+<path d="M 869.88 240.05 C 868.94 240.34 868.94 240.91 869.88 241.19 C 870.58 241.57 871.98 241.57 872.92 241.19 C 873.62 240.91 873.62 240.34 872.92 240.05 C 871.98 239.67 870.58 239.67 869.88 240.05 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-225" data-name="公众号：康帅PPT30-22" transform="rotate(90 854.21 233.91)">
+<path d="M 852.78 234.59 C 851.82 234.2 851.82 233.62 852.78 233.33 C 853.49 232.94 854.93 232.94 855.64 233.33 C 856.6 233.62 856.6 234.2 855.64 234.59 C 854.93 234.88 853.49 234.88 852.78 234.59 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-226" data-name="公众号：康帅PPT30-23" transform="rotate(90 859.83 236.17)">
+<path d="M 858.16 236.79 C 857.44 236.41 857.44 235.93 858.16 235.55 C 859.12 235.26 860.55 235.26 861.27 235.55 C 862.22 235.93 862.22 236.41 861.27 236.79 C 860.55 237.08 859.12 237.08 858.16 236.79 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-227" data-name="公众号：康帅PPT30-24" transform="rotate(90 865.51 238.41)">
+<path d="M 863.97 238.98 C 863.27 238.69 863.27 238.12 863.97 237.74 C 864.92 237.46 866.1 237.46 867.04 237.74 C 867.75 238.12 867.75 238.69 867.04 238.98 C 866.1 239.36 864.92 239.36 863.97 238.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-228" data-name="公众号：康帅PPT30-25" transform="rotate(90 871.28 240.62)">
+<path d="M 869.88 241.19 C 868.94 240.91 868.94 240.34 869.88 240.05 C 870.58 239.67 871.98 239.67 872.92 240.05 C 873.62 240.34 873.62 240.91 872.92 241.19 C 871.98 241.57 870.58 241.57 869.88 241.19 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+<g id="shape-176" data-name="Group 18++">
+<g id="shape-177" data-name="公众号：康帅PPT30-26">
+<path d="M 909.79 255.98 C 918.73 243.39 918.73 243.39 918.73 243.39 C 919.21 242.82 919.21 241.67 918.73 241.1 C 909.79 228.51 909.79 228.51 909.79 228.51 C 909.43 227.94 909.67 226.79 910.15 226.79 C 918.14 226.79 918.14 226.79 918.14 226.79 C 918.62 226.79 919.09 227.18 919.33 227.56 C 929 241.1 929 241.1 929 241.1 C 929.47 241.67 929.47 242.82 929 243.39 C 919.33 256.93 919.33 256.93 919.33 256.93 C 919.09 257.32 918.62 257.7 918.14 257.7 C 910.15 257.7 910.15 257.7 910.15 257.7 C 909.67 257.7 909.43 256.55 909.79 255.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-178" data-name="组合 177" transform="rotate(270 903.22 242.25)">
+<g id="shape-179" data-name="公众号：康帅PPT30-27" transform="rotate(90 920.29 243.85)">
+<path d="M 918.86 243.18 C 917.9 243.56 917.9 244.13 918.86 244.42 C 919.58 244.8 921.01 244.8 921.73 244.42 C 922.68 244.13 922.68 243.56 921.73 243.18 C 921.01 242.9 919.58 242.9 918.86 243.18 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-180" data-name="公众号：康帅PPT30-28" transform="rotate(90 914.72 246.07)">
+<path d="M 913.15 245.44 C 912.43 245.83 912.43 246.31 913.15 246.69 C 914.12 246.98 915.32 246.98 916.28 246.69 C 917.01 246.31 917.01 245.83 916.28 245.44 C 915.32 245.16 914.12 245.16 913.15 245.44 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-181" data-name="公众号：康帅PPT30-29" transform="rotate(90 909.04 248.34)">
+<path d="M 907.51 247.77 C 906.81 248.06 906.81 248.63 907.51 249.01 C 908.46 249.29 909.63 249.29 910.58 249.01 C 911.28 248.63 911.28 248.06 910.58 247.77 C 909.63 247.39 908.46 247.39 907.51 247.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-182" data-name="公众号：康帅PPT30-30" transform="rotate(90 903.27 250.58)">
+<path d="M 901.84 250.01 C 900.88 250.29 900.88 250.86 901.84 251.15 C 902.56 251.53 903.99 251.53 904.71 251.15 C 905.66 250.86 905.66 250.29 904.71 250.01 C 903.99 249.63 902.56 249.63 901.84 250.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-183" data-name="公众号：康帅PPT30-31" transform="rotate(90 886.2 243.85)">
+<path d="M 884.77 244.53 C 883.81 244.14 883.81 243.56 884.77 243.27 C 885.48 242.88 886.92 242.88 887.63 243.27 C 888.59 243.56 888.59 244.14 887.63 244.53 C 886.92 244.82 885.48 244.82 884.77 244.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-184" data-name="公众号：康帅PPT30-32" transform="rotate(90 891.83 246.07)">
+<path d="M 890.26 246.69 C 889.54 246.31 889.54 245.83 890.26 245.44 C 891.22 245.16 892.43 245.16 893.39 245.44 C 894.11 245.83 894.11 246.31 893.39 246.69 C 892.43 246.98 891.22 246.98 890.26 246.69 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-185" data-name="公众号：康帅PPT30-33" transform="rotate(90 897.5 248.34)">
+<path d="M 895.97 248.91 C 895.26 248.63 895.26 248.06 895.97 247.68 C 896.91 247.39 898.09 247.39 899.03 247.68 C 899.74 248.06 899.74 248.63 899.03 248.91 C 898.09 249.29 896.91 249.29 895.97 248.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-186" data-name="公众号：康帅PPT30-34" transform="rotate(90 903.27 250.58)">
+<path d="M 901.84 251.15 C 900.88 250.86 900.88 250.29 901.84 250.01 C 902.56 249.63 903.99 249.63 904.71 250.01 C 905.66 250.29 905.66 250.86 904.71 251.15 C 903.99 251.53 902.56 251.53 901.84 251.15 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-187" data-name="公众号：康帅PPT30-35" transform="rotate(90 920.29 238.88)">
+<path d="M 918.76 238.22 C 918.05 238.6 918.05 239.17 918.76 239.45 C 919.7 239.83 920.88 239.83 921.82 239.45 C 922.53 239.17 922.53 238.6 921.82 238.22 C 920.88 237.93 919.7 237.93 918.76 238.22 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-188" data-name="公众号：康帅PPT30-36" transform="rotate(90 914.72 241.1)">
+<path d="M 913.32 240.47 C 912.38 240.86 912.38 241.34 913.32 241.72 C 914.02 242.01 915.42 242.01 916.36 241.72 C 917.06 241.34 917.06 240.86 916.36 240.47 C 915.42 240.19 914.02 240.19 913.32 240.47 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-189" data-name="公众号：康帅PPT30-37" transform="rotate(90 909.05 243.37)">
+<path d="M 907.61 242.8 C 906.66 243.09 906.66 243.66 907.61 244.04 C 908.33 244.32 909.76 244.32 910.48 244.04 C 911.43 243.66 911.43 243.09 910.48 242.8 C 909.76 242.42 908.33 242.42 907.61 242.8 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-190" data-name="公众号：康帅PPT30-38" transform="rotate(90 903.27 245.63)">
+<path d="M 901.6 245.06 C 900.88 245.35 900.88 245.92 901.6 246.2 C 902.56 246.58 903.99 246.58 904.71 246.2 C 905.66 245.92 905.66 245.35 904.71 245.06 C 903.99 244.68 902.56 244.68 901.6 245.06 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-191" data-name="公众号：康帅PPT30-39" transform="rotate(90 886.2 238.88)">
+<path d="M 884.67 239.56 C 883.96 239.17 883.96 238.59 884.67 238.3 C 885.61 237.91 886.79 237.91 887.73 238.3 C 888.44 238.59 888.44 239.17 887.73 239.56 C 886.79 239.85 885.61 239.85 884.67 239.56 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-192" data-name="公众号：康帅PPT30-40" transform="rotate(90 891.83 241.1)">
+<path d="M 890.42 241.72 C 889.49 241.34 889.49 240.86 890.42 240.47 C 891.12 240.19 892.53 240.19 893.46 240.47 C 894.16 240.86 894.16 241.34 893.46 241.72 C 892.53 242.01 891.12 242.01 890.42 241.72 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-193" data-name="公众号：康帅PPT30-41" transform="rotate(90 897.5 243.37)">
+<path d="M 896.07 243.94 C 895.11 243.66 895.11 243.09 896.07 242.71 C 896.78 242.42 898.22 242.42 898.93 242.71 C 899.89 243.09 899.89 243.66 898.93 243.94 C 898.22 244.32 896.78 244.32 896.07 243.94 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-194" data-name="公众号：康帅PPT30-42" transform="rotate(90 903.27 245.63)">
+<path d="M 901.6 246.2 C 900.88 245.92 900.88 245.35 901.6 245.06 C 902.56 244.68 903.99 244.68 904.71 245.06 C 905.66 245.35 905.66 245.92 904.71 246.2 C 903.99 246.58 902.56 246.58 901.6 246.2 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-195" data-name="公众号：康帅PPT30-43" transform="rotate(90 920.29 233.91)">
+<path d="M 918.86 233.25 C 917.9 233.63 917.9 234.2 918.86 234.48 C 919.58 234.86 921.01 234.86 921.73 234.48 C 922.68 234.2 922.68 233.63 921.73 233.25 C 921.01 232.96 919.58 232.96 918.86 233.25 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-196" data-name="公众号：康帅PPT30-44" transform="rotate(90 914.72 236.17)">
+<path d="M 913.05 235.55 C 912.33 235.93 912.33 236.41 913.05 236.79 C 914 237.08 915.44 237.08 916.15 236.79 C 917.11 236.41 917.11 235.93 916.15 235.55 C 915.44 235.26 914 235.26 913.05 235.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-197" data-name="公众号：康帅PPT30-45" transform="rotate(90 909.04 238.41)">
+<path d="M 907.51 237.84 C 906.81 238.12 906.81 238.69 907.51 239.07 C 908.46 239.36 909.63 239.36 910.58 239.07 C 911.28 238.69 911.28 238.12 910.58 237.84 C 909.63 237.46 908.46 237.46 907.51 237.84 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-198" data-name="公众号：康帅PPT30-46" transform="rotate(90 903.27 240.62)">
+<path d="M 901.87 240.05 C 900.93 240.34 900.93 240.91 901.87 241.19 C 902.57 241.57 903.97 241.57 904.91 241.19 C 905.61 240.91 905.61 240.34 904.91 240.05 C 903.97 239.67 902.57 239.67 901.87 240.05 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-199" data-name="公众号：康帅PPT30-47" transform="rotate(90 886.2 233.91)">
+<path d="M 884.77 234.59 C 883.81 234.2 883.81 233.62 884.77 233.33 C 885.48 232.94 886.92 232.94 887.63 233.33 C 888.59 233.62 888.59 234.2 887.63 234.59 C 886.92 234.88 885.48 234.88 884.77 234.59 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-200" data-name="公众号：康帅PPT30-48" transform="rotate(90 891.83 236.17)">
+<path d="M 890.15 236.79 C 889.44 236.41 889.44 235.93 890.15 235.55 C 891.11 235.26 892.54 235.26 893.26 235.55 C 894.21 235.93 894.21 236.41 893.26 236.79 C 892.54 237.08 891.11 237.08 890.15 236.79 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-201" data-name="公众号：康帅PPT30-49" transform="rotate(90 897.5 238.41)">
+<path d="M 895.97 238.98 C 895.26 238.69 895.26 238.12 895.97 237.74 C 896.91 237.46 898.09 237.46 899.03 237.74 C 899.74 238.12 899.74 238.69 899.03 238.98 C 898.09 239.36 896.91 239.36 895.97 238.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-202" data-name="公众号：康帅PPT30-50" transform="rotate(90 903.27 240.62)">
+<path d="M 901.87 241.19 C 900.93 240.91 900.93 240.34 901.87 240.05 C 902.57 239.67 903.97 239.67 904.91 240.05 C 905.61 240.34 905.61 240.91 904.91 241.19 C 903.97 241.57 902.57 241.57 901.87 241.19 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+<g id="shape-229" data-name="公众号：康帅PPT31">
+<g id="shape-230" data-name="Group 18+">
+<g id="shape-258" data-name="公众号：康帅PPT31-1">
+<path d="M 747.26 416.74 C 756.21 404.15 756.21 404.15 756.21 404.15 C 756.69 403.58 756.69 402.44 756.21 401.86 C 747.26 389.27 747.26 389.27 747.26 389.27 C 746.9 388.7 747.14 387.56 747.62 387.56 C 755.61 387.56 755.61 387.56 755.61 387.56 C 756.09 387.56 756.57 387.94 756.81 388.32 C 766.47 401.86 766.47 401.86 766.47 401.86 C 766.95 402.44 766.95 403.58 766.47 404.15 C 756.81 417.7 756.81 417.7 756.81 417.7 C 756.57 418.08 756.09 418.46 755.61 418.46 C 747.62 418.46 747.62 418.46 747.62 418.46 C 747.14 418.46 746.9 417.32 747.26 416.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-259" data-name="组合 258" transform="rotate(270 740.7 403.01)">
+<g id="shape-260" data-name="公众号：康帅PPT31-2" transform="rotate(90 757.77 404.61)">
+<path d="M 756.33 403.95 C 755.38 404.33 755.38 404.9 756.33 405.18 C 757.05 405.56 758.48 405.56 759.2 405.18 C 760.16 404.9 760.16 404.33 759.2 403.95 C 758.48 403.66 757.05 403.66 756.33 403.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-261" data-name="公众号：康帅PPT31-3" transform="rotate(90 752.19 406.83)">
+<path d="M 750.63 406.21 C 749.9 406.59 749.9 407.07 750.63 407.45 C 751.59 407.74 752.8 407.74 753.76 407.45 C 754.48 407.07 754.48 406.59 753.76 406.21 C 752.8 405.92 751.59 405.92 750.63 406.21 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-262" data-name="公众号：康帅PPT31-4" transform="rotate(90 746.52 409.11)">
+<path d="M 744.99 408.53 C 744.28 408.82 744.28 409.39 744.99 409.77 C 745.93 410.06 747.11 410.06 748.05 409.77 C 748.76 409.39 748.76 408.82 748.05 408.53 C 747.11 408.15 745.93 408.15 744.99 408.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-263" data-name="公众号：康帅PPT31-5" transform="rotate(90 740.75 411.34)">
+<path d="M 739.31 410.77 C 738.36 411.06 738.36 411.63 739.31 411.91 C 740.03 412.29 741.46 412.29 742.18 411.91 C 743.14 411.63 743.14 411.06 742.18 410.77 C 741.46 410.39 740.03 410.39 739.31 410.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-264" data-name="公众号：康帅PPT31-6" transform="rotate(90 723.68 404.61)">
+<path d="M 722.24 405.29 C 721.29 404.9 721.29 404.32 722.24 404.03 C 722.96 403.64 724.39 403.64 725.11 404.03 C 726.07 404.32 726.07 404.9 725.11 405.29 C 724.39 405.58 722.96 405.58 722.24 405.29 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-265" data-name="公众号：康帅PPT31-7" transform="rotate(90 729.3 406.83)">
+<path d="M 727.73 407.45 C 727.01 407.07 727.01 406.59 727.73 406.21 C 728.7 405.92 729.9 405.92 730.87 406.21 C 731.59 406.59 731.59 407.07 730.87 407.45 C 729.9 407.74 728.7 407.74 727.73 407.45 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-266" data-name="公众号：康帅PPT31-8" transform="rotate(90 734.97 409.11)">
+<path d="M 733.44 409.68 C 732.73 409.39 732.73 408.82 733.44 408.44 C 734.38 408.15 735.56 408.15 736.51 408.44 C 737.21 408.82 737.21 409.39 736.51 409.68 C 735.56 410.06 734.38 410.06 733.44 409.68 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-267" data-name="公众号：康帅PPT31-9" transform="rotate(90 740.75 411.34)">
+<path d="M 739.31 411.91 C 738.36 411.63 738.36 411.06 739.31 410.77 C 740.03 410.39 741.46 410.39 742.18 410.77 C 743.14 411.06 743.14 411.63 742.18 411.91 C 741.46 412.29 740.03 412.29 739.31 411.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-268" data-name="公众号：康帅PPT31-10" transform="rotate(90 757.77 399.64)">
+<path d="M 756.23 398.98 C 755.53 399.36 755.53 399.93 756.23 400.21 C 757.18 400.59 758.36 400.59 759.3 400.21 C 760.01 399.93 760.01 399.36 759.3 398.98 C 758.36 398.69 757.18 398.69 756.23 398.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-269" data-name="公众号：康帅PPT31-11" transform="rotate(90 752.19 401.86)">
+<path d="M 750.79 401.24 C 749.85 401.62 749.85 402.1 750.79 402.48 C 751.49 402.77 752.9 402.77 753.83 402.48 C 754.53 402.1 754.53 401.62 753.83 401.24 C 752.9 400.95 751.49 400.95 750.79 401.24 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-270" data-name="公众号：康帅PPT31-12" transform="rotate(90 746.52 404.14)">
+<path d="M 745.09 403.57 C 744.13 403.85 744.13 404.42 745.09 404.8 C 745.8 405.09 747.24 405.09 747.95 404.8 C 748.91 404.42 748.91 403.85 747.95 403.57 C 747.24 403.19 745.8 403.19 745.09 403.57 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-271" data-name="公众号：康帅PPT31-13" transform="rotate(90 740.75 406.39)">
+<path d="M 739.07 405.82 C 738.36 406.11 738.36 406.68 739.07 406.96 C 740.03 407.34 741.46 407.34 742.18 406.96 C 743.14 406.68 743.14 406.11 742.18 405.82 C 741.46 405.44 740.03 405.44 739.07 405.82 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-272" data-name="公众号：康帅PPT31-14" transform="rotate(90 723.68 399.64)">
+<path d="M 722.14 400.32 C 721.44 399.93 721.44 399.35 722.14 399.06 C 723.09 398.67 724.27 398.67 725.21 399.06 C 725.92 399.35 725.92 399.93 725.21 400.32 C 724.27 400.61 723.09 400.61 722.14 400.32 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-273" data-name="公众号：康帅PPT31-15" transform="rotate(90 729.3 401.86)">
+<path d="M 727.9 402.48 C 726.96 402.1 726.96 401.62 727.9 401.24 C 728.6 400.95 730 400.95 730.94 401.24 C 731.64 401.62 731.64 402.1 730.94 402.48 C 730 402.77 728.6 402.77 727.9 402.48 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-274" data-name="公众号：康帅PPT31-16" transform="rotate(90 734.97 404.14)">
+<path d="M 733.54 404.71 C 732.58 404.42 732.58 403.85 733.54 403.47 C 734.26 403.19 735.69 403.19 736.41 403.47 C 737.36 403.85 737.36 404.42 736.41 404.71 C 735.69 405.09 734.26 405.09 733.54 404.71 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-275" data-name="公众号：康帅PPT31-17" transform="rotate(90 740.75 406.39)">
+<path d="M 739.07 406.96 C 738.36 406.68 738.36 406.11 739.07 405.82 C 740.03 405.44 741.46 405.44 742.18 405.82 C 743.14 406.11 743.14 406.68 742.18 406.96 C 741.46 407.34 740.03 407.34 739.07 406.96 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-276" data-name="公众号：康帅PPT31-18" transform="rotate(90 757.77 394.67)">
+<path d="M 756.33 394.01 C 755.38 394.39 755.38 394.96 756.33 395.24 C 757.05 395.62 758.48 395.62 759.2 395.24 C 760.16 394.96 760.16 394.39 759.2 394.01 C 758.48 393.72 757.05 393.72 756.33 394.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-277" data-name="公众号：康帅PPT31-19" transform="rotate(90 752.19 396.93)">
+<path d="M 750.52 396.31 C 749.8 396.69 749.8 397.17 750.52 397.55 C 751.48 397.84 752.91 397.84 753.63 397.55 C 754.58 397.17 754.58 396.69 753.63 396.31 C 752.91 396.02 751.48 396.02 750.52 396.31 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-278" data-name="公众号：康帅PPT31-20" transform="rotate(90 746.52 399.17)">
+<path d="M 744.99 398.6 C 744.28 398.88 744.28 399.45 744.99 399.83 C 745.93 400.12 747.11 400.12 748.05 399.83 C 748.76 399.45 748.76 398.88 748.05 398.6 C 747.11 398.22 745.93 398.22 744.99 398.6 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-279" data-name="公众号：康帅PPT31-21" transform="rotate(90 740.75 401.38)">
+<path d="M 739.34 400.81 C 738.41 401.1 738.41 401.67 739.34 401.95 C 740.04 402.34 741.45 402.34 742.38 401.95 C 743.09 401.67 743.09 401.1 742.38 400.81 C 741.45 400.43 740.04 400.43 739.34 400.81 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-280" data-name="公众号：康帅PPT31-22" transform="rotate(90 723.68 394.67)">
+<path d="M 722.24 395.35 C 721.29 394.97 721.29 394.38 722.24 394.09 C 722.96 393.7 724.39 393.7 725.11 394.09 C 726.07 394.38 726.07 394.97 725.11 395.35 C 724.39 395.64 722.96 395.64 722.24 395.35 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-281" data-name="公众号：康帅PPT31-23" transform="rotate(90 729.3 396.93)">
+<path d="M 727.63 397.55 C 726.91 397.17 726.91 396.69 727.63 396.31 C 728.58 396.02 730.02 396.02 730.73 396.31 C 731.69 396.69 731.69 397.17 730.73 397.55 C 730.02 397.84 728.58 397.84 727.63 397.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-282" data-name="公众号：康帅PPT31-24" transform="rotate(90 734.97 399.17)">
+<path d="M 733.44 399.74 C 732.73 399.45 732.73 398.88 733.44 398.5 C 734.38 398.22 735.56 398.22 736.51 398.5 C 737.21 398.88 737.21 399.45 736.51 399.74 C 735.56 400.12 734.38 400.12 733.44 399.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-283" data-name="公众号：康帅PPT31-25" transform="rotate(90 740.75 401.38)">
+<path d="M 739.34 401.95 C 738.41 401.67 738.41 401.1 739.34 400.81 C 740.04 400.43 741.45 400.43 742.38 400.81 C 743.09 401.1 743.09 401.67 742.38 401.95 C 741.45 402.34 740.04 402.34 739.34 401.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+<g id="shape-231" data-name="Group 18++">
+<g id="shape-232" data-name="公众号：康帅PPT31-26">
+<path d="M 779.25 416.74 C 788.2 404.15 788.2 404.15 788.2 404.15 C 788.68 403.58 788.68 402.44 788.2 401.86 C 779.25 389.27 779.25 389.27 779.25 389.27 C 778.9 388.7 779.14 387.56 779.61 387.56 C 787.61 387.56 787.61 387.56 787.61 387.56 C 788.08 387.56 788.56 387.94 788.8 388.32 C 798.46 401.86 798.46 401.86 798.46 401.86 C 798.94 402.44 798.94 403.58 798.46 404.15 C 788.8 417.7 788.8 417.7 788.8 417.7 C 788.56 418.08 788.08 418.46 787.61 418.46 C 779.61 418.46 779.61 418.46 779.61 418.46 C 779.14 418.46 778.9 417.32 779.25 416.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-233" data-name="组合 232" transform="rotate(270 772.69 403.01)">
+<g id="shape-234" data-name="公众号：康帅PPT31-27" transform="rotate(90 789.76 404.61)">
+<path d="M 788.33 403.95 C 787.37 404.33 787.37 404.9 788.33 405.18 C 789.04 405.56 790.48 405.56 791.19 405.18 C 792.15 404.9 792.15 404.33 791.19 403.95 C 790.48 403.66 789.04 403.66 788.33 403.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-235" data-name="公众号：康帅PPT31-28" transform="rotate(90 784.19 406.83)">
+<path d="M 782.62 406.21 C 781.9 406.59 781.9 407.07 782.62 407.45 C 783.58 407.74 784.79 407.74 785.75 407.45 C 786.48 407.07 786.48 406.59 785.75 406.21 C 784.79 405.92 783.58 405.92 782.62 406.21 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-236" data-name="公众号：康帅PPT31-29" transform="rotate(90 778.51 409.11)">
+<path d="M 776.98 408.53 C 776.27 408.82 776.27 409.39 776.98 409.77 C 777.92 410.06 779.1 410.06 780.04 409.77 C 780.75 409.39 780.75 408.82 780.04 408.53 C 779.1 408.15 777.92 408.15 776.98 408.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-237" data-name="公众号：康帅PPT31-30" transform="rotate(90 772.74 411.34)">
+<path d="M 771.31 410.77 C 770.35 411.06 770.35 411.63 771.31 411.91 C 772.02 412.29 773.46 412.29 774.17 411.91 C 775.13 411.63 775.13 411.06 774.17 410.77 C 773.46 410.39 772.02 410.39 771.31 410.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-238" data-name="公众号：康帅PPT31-31" transform="rotate(90 755.67 404.61)">
+<path d="M 754.24 405.29 C 753.28 404.9 753.28 404.32 754.24 404.03 C 754.95 403.64 756.39 403.64 757.1 404.03 C 758.06 404.32 758.06 404.9 757.1 405.29 C 756.39 405.58 754.95 405.58 754.24 405.29 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-239" data-name="公众号：康帅PPT31-32" transform="rotate(90 761.29 406.83)">
+<path d="M 759.73 407.45 C 759 407.07 759 406.59 759.73 406.21 C 760.69 405.92 761.9 405.92 762.86 406.21 C 763.58 406.59 763.58 407.07 762.86 407.45 C 761.9 407.74 760.69 407.74 759.73 407.45 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-240" data-name="公众号：康帅PPT31-33" transform="rotate(90 766.97 409.11)">
+<path d="M 765.43 409.68 C 764.73 409.39 764.73 408.82 765.43 408.44 C 766.38 408.15 767.56 408.15 768.5 408.44 C 769.21 408.82 769.21 409.39 768.5 409.68 C 767.56 410.06 766.38 410.06 765.43 409.68 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-241" data-name="公众号：康帅PPT31-34" transform="rotate(90 772.74 411.34)">
+<path d="M 771.31 411.91 C 770.35 411.63 770.35 411.06 771.31 410.77 C 772.02 410.39 773.46 410.39 774.17 410.77 C 775.13 411.06 775.13 411.63 774.17 411.91 C 773.46 412.29 772.02 412.29 771.31 411.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-242" data-name="公众号：康帅PPT31-35" transform="rotate(90 789.76 399.64)">
+<path d="M 788.23 398.98 C 787.52 399.36 787.52 399.93 788.23 400.21 C 789.17 400.59 790.35 400.59 791.29 400.21 C 792 399.93 792 399.36 791.29 398.98 C 790.35 398.69 789.17 398.69 788.23 398.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-243" data-name="公众号：康帅PPT31-36" transform="rotate(90 784.19 401.86)">
+<path d="M 782.78 401.24 C 781.85 401.62 781.85 402.1 782.78 402.48 C 783.48 402.77 784.89 402.77 785.82 402.48 C 786.53 402.1 786.53 401.62 785.82 401.24 C 784.89 400.95 783.48 400.95 782.78 401.24 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-244" data-name="公众号：康帅PPT31-37" transform="rotate(90 778.51 404.14)">
+<path d="M 777.08 403.57 C 776.12 403.85 776.12 404.42 777.08 404.8 C 777.8 405.09 779.23 405.09 779.95 404.8 C 780.9 404.42 780.9 403.85 779.95 403.57 C 779.23 403.19 777.8 403.19 777.08 403.57 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-245" data-name="公众号：康帅PPT31-38" transform="rotate(90 772.74 406.39)">
+<path d="M 771.07 405.82 C 770.35 406.11 770.35 406.68 771.07 406.96 C 772.02 407.34 773.46 407.34 774.17 406.96 C 775.13 406.68 775.13 406.11 774.17 405.82 C 773.46 405.44 772.02 405.44 771.07 405.82 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-246" data-name="公众号：康帅PPT31-39" transform="rotate(90 755.67 399.64)">
+<path d="M 754.14 400.32 C 753.43 399.93 753.43 399.35 754.14 399.06 C 755.08 398.67 756.26 398.67 757.2 399.06 C 757.91 399.35 757.91 399.93 757.2 400.32 C 756.26 400.61 755.08 400.61 754.14 400.32 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-247" data-name="公众号：康帅PPT31-40" transform="rotate(90 761.29 401.86)">
+<path d="M 759.89 402.48 C 758.95 402.1 758.95 401.62 759.89 401.24 C 760.59 400.95 761.99 400.95 762.93 401.24 C 763.63 401.62 763.63 402.1 762.93 402.48 C 761.99 402.77 760.59 402.77 759.89 402.48 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-248" data-name="公众号：康帅PPT31-41" transform="rotate(90 766.97 404.14)">
+<path d="M 765.53 404.71 C 764.58 404.42 764.58 403.85 765.53 403.47 C 766.25 403.19 767.68 403.19 768.4 403.47 C 769.36 403.85 769.36 404.42 768.4 404.71 C 767.68 405.09 766.25 405.09 765.53 404.71 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-249" data-name="公众号：康帅PPT31-42" transform="rotate(90 772.74 406.39)">
+<path d="M 771.07 406.96 C 770.35 406.68 770.35 406.11 771.07 405.82 C 772.02 405.44 773.46 405.44 774.17 405.82 C 775.13 406.11 775.13 406.68 774.17 406.96 C 773.46 407.34 772.02 407.34 771.07 406.96 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-250" data-name="公众号：康帅PPT31-43" transform="rotate(90 789.76 394.67)">
+<path d="M 788.33 394.01 C 787.37 394.39 787.37 394.96 788.33 395.24 C 789.04 395.62 790.48 395.62 791.19 395.24 C 792.15 394.96 792.15 394.39 791.19 394.01 C 790.48 393.72 789.04 393.72 788.33 394.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-251" data-name="公众号：康帅PPT31-44" transform="rotate(90 784.19 396.93)">
+<path d="M 782.51 396.31 C 781.8 396.69 781.8 397.17 782.51 397.55 C 783.47 397.84 784.9 397.84 785.62 397.55 C 786.58 397.17 786.58 396.69 785.62 396.31 C 784.9 396.02 783.47 396.02 782.51 396.31 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-252" data-name="公众号：康帅PPT31-45" transform="rotate(90 778.51 399.17)">
+<path d="M 776.98 398.6 C 776.27 398.88 776.27 399.45 776.98 399.83 C 777.92 400.12 779.1 400.12 780.04 399.83 C 780.75 399.45 780.75 398.88 780.04 398.6 C 779.1 398.22 777.92 398.22 776.98 398.6 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-253" data-name="公众号：康帅PPT31-46" transform="rotate(90 772.74 401.38)">
+<path d="M 771.34 400.81 C 770.4 401.1 770.4 401.67 771.34 401.95 C 772.04 402.34 773.44 402.34 774.38 401.95 C 775.08 401.67 775.08 401.1 774.38 400.81 C 773.44 400.43 772.04 400.43 771.34 400.81 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-254" data-name="公众号：康帅PPT31-47" transform="rotate(90 755.67 394.67)">
+<path d="M 754.24 395.35 C 753.28 394.97 753.28 394.38 754.24 394.09 C 754.95 393.7 756.39 393.7 757.1 394.09 C 758.06 394.38 758.06 394.97 757.1 395.35 C 756.39 395.64 754.95 395.64 754.24 395.35 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-255" data-name="公众号：康帅PPT31-48" transform="rotate(90 761.29 396.93)">
+<path d="M 759.62 397.55 C 758.9 397.17 758.9 396.69 759.62 396.31 C 760.58 396.02 762.01 396.02 762.73 396.31 C 763.68 396.69 763.68 397.17 762.73 397.55 C 762.01 397.84 760.58 397.84 759.62 397.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-256" data-name="公众号：康帅PPT31-49" transform="rotate(90 766.97 399.17)">
+<path d="M 765.43 399.74 C 764.73 399.45 764.73 398.88 765.43 398.5 C 766.38 398.22 767.56 398.22 768.5 398.5 C 769.21 398.88 769.21 399.45 768.5 399.74 C 767.56 400.12 766.38 400.12 765.43 399.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-257" data-name="公众号：康帅PPT31-50" transform="rotate(90 772.74 401.38)">
+<path d="M 771.34 401.95 C 770.4 401.67 770.4 401.1 771.34 400.81 C 772.04 400.43 773.44 400.43 774.38 400.81 C 775.08 401.1 775.08 401.67 774.38 401.95 C 773.44 402.34 772.04 402.34 771.34 401.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+</g>
+<g id="shape-284" data-name="公众号：康帅PPT32">
+<g id="shape-285" data-name="Group 18+">
+<g id="shape-313" data-name="公众号：康帅PPT32-1">
+<path d="M 490.65 416.74 C 499.6 404.15 499.6 404.15 499.6 404.15 C 500.07 403.58 500.07 402.44 499.6 401.86 C 490.65 389.27 490.65 389.27 490.65 389.27 C 490.29 388.7 490.53 387.56 491.01 387.56 C 499 387.56 499 387.56 499 387.56 C 499.48 387.56 499.95 387.94 500.19 388.32 C 509.86 401.86 509.86 401.86 509.86 401.86 C 510.33 402.44 510.33 403.58 509.86 404.15 C 500.19 417.7 500.19 417.7 500.19 417.7 C 499.95 418.08 499.48 418.46 499 418.46 C 491.01 418.46 491.01 418.46 491.01 418.46 C 490.53 418.46 490.29 417.32 490.65 416.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-314" data-name="组合 313" transform="rotate(270 484.08 403.01)">
+<g id="shape-315" data-name="公众号：康帅PPT32-2" transform="rotate(90 501.15 404.61)">
+<path d="M 499.72 403.95 C 498.76 404.33 498.76 404.9 499.72 405.18 C 500.44 405.56 501.87 405.56 502.59 405.18 C 503.54 404.9 503.54 404.33 502.59 403.95 C 501.87 403.66 500.44 403.66 499.72 403.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-316" data-name="公众号：康帅PPT32-3" transform="rotate(90 495.58 406.83)">
+<path d="M 494.01 406.21 C 493.29 406.59 493.29 407.07 494.01 407.45 C 494.98 407.74 496.18 407.74 497.15 407.45 C 497.87 407.07 497.87 406.59 497.15 406.21 C 496.18 405.92 494.98 405.92 494.01 406.21 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-317" data-name="公众号：康帅PPT32-4" transform="rotate(90 489.91 409.11)">
+<path d="M 488.37 408.53 C 487.67 408.82 487.67 409.39 488.37 409.77 C 489.32 410.06 490.49 410.06 491.44 409.77 C 492.14 409.39 492.14 408.82 491.44 408.53 C 490.49 408.15 489.32 408.15 488.37 408.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-318" data-name="公众号：康帅PPT32-5" transform="rotate(90 484.13 411.34)">
+<path d="M 482.7 410.77 C 481.74 411.06 481.74 411.63 482.7 411.91 C 483.42 412.29 484.85 412.29 485.57 411.91 C 486.52 411.63 486.52 411.06 485.57 410.77 C 484.85 410.39 483.42 410.39 482.7 410.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-319" data-name="公众号：康帅PPT32-6" transform="rotate(90 467.06 404.61)">
+<path d="M 465.63 405.29 C 464.67 404.9 464.67 404.32 465.63 404.03 C 466.34 403.64 467.78 403.64 468.49 404.03 C 469.45 404.32 469.45 404.9 468.49 405.29 C 467.78 405.58 466.34 405.58 465.63 405.29 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-320" data-name="公众号：康帅PPT32-7" transform="rotate(90 472.69 406.83)">
+<path d="M 471.12 407.45 C 470.4 407.07 470.4 406.59 471.12 406.21 C 472.08 405.92 473.29 405.92 474.25 406.21 C 474.97 406.59 474.97 407.07 474.25 407.45 C 473.29 407.74 472.08 407.74 471.12 407.45 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-321" data-name="公众号：康帅PPT32-8" transform="rotate(90 478.36 409.11)">
+<path d="M 476.83 409.68 C 476.12 409.39 476.12 408.82 476.83 408.44 C 477.77 408.15 478.95 408.15 479.89 408.44 C 480.6 408.82 480.6 409.39 479.89 409.68 C 478.95 410.06 477.77 410.06 476.83 409.68 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-322" data-name="公众号：康帅PPT32-9" transform="rotate(90 484.13 411.34)">
+<path d="M 482.7 411.91 C 481.74 411.63 481.74 411.06 482.7 410.77 C 483.42 410.39 484.85 410.39 485.57 410.77 C 486.52 411.06 486.52 411.63 485.57 411.91 C 484.85 412.29 483.42 412.29 482.7 411.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-323" data-name="公众号：康帅PPT32-10" transform="rotate(90 501.15 399.64)">
+<path d="M 499.62 398.98 C 498.91 399.36 498.91 399.93 499.62 400.21 C 500.56 400.59 501.74 400.59 502.69 400.21 C 503.39 399.93 503.39 399.36 502.69 398.98 C 501.74 398.69 500.56 398.69 499.62 398.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-324" data-name="公众号：康帅PPT32-11" transform="rotate(90 495.58 401.86)">
+<path d="M 494.18 401.24 C 493.24 401.62 493.24 402.1 494.18 402.48 C 494.88 402.77 496.28 402.77 497.22 402.48 C 497.92 402.1 497.92 401.62 497.22 401.24 C 496.28 400.95 494.88 400.95 494.18 401.24 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-325" data-name="公众号：康帅PPT32-12" transform="rotate(90 489.91 404.14)">
+<path d="M 488.47 403.57 C 487.52 403.85 487.52 404.42 488.47 404.8 C 489.19 405.09 490.62 405.09 491.34 404.8 C 492.29 404.42 492.29 403.85 491.34 403.57 C 490.62 403.19 489.19 403.19 488.47 403.57 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-326" data-name="公众号：康帅PPT32-13" transform="rotate(90 484.13 406.39)">
+<path d="M 482.46 405.82 C 481.74 406.11 481.74 406.68 482.46 406.96 C 483.42 407.34 484.85 407.34 485.57 406.96 C 486.52 406.68 486.52 406.11 485.57 405.82 C 484.85 405.44 483.42 405.44 482.46 405.82 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-327" data-name="公众号：康帅PPT32-14" transform="rotate(90 467.06 399.64)">
+<path d="M 465.53 400.32 C 464.82 399.93 464.82 399.35 465.53 399.06 C 466.47 398.67 467.65 398.67 468.59 399.06 C 469.3 399.35 469.3 399.93 468.59 400.32 C 467.65 400.61 466.47 400.61 465.53 400.32 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-328" data-name="公众号：康帅PPT32-15" transform="rotate(90 472.69 401.86)">
+<path d="M 471.28 402.48 C 470.35 402.1 470.35 401.62 471.28 401.24 C 471.98 400.95 473.39 400.95 474.32 401.24 C 475.02 401.62 475.02 402.1 474.32 402.48 C 473.39 402.77 471.98 402.77 471.28 402.48 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-329" data-name="公众号：康帅PPT32-16" transform="rotate(90 478.36 404.14)">
+<path d="M 476.93 404.71 C 475.97 404.42 475.97 403.85 476.93 403.47 C 477.64 403.19 479.08 403.19 479.79 403.47 C 480.75 403.85 480.75 404.42 479.79 404.71 C 479.08 405.09 477.64 405.09 476.93 404.71 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-330" data-name="公众号：康帅PPT32-17" transform="rotate(90 484.13 406.39)">
+<path d="M 482.46 406.96 C 481.74 406.68 481.74 406.11 482.46 405.82 C 483.42 405.44 484.85 405.44 485.57 405.82 C 486.52 406.11 486.52 406.68 485.57 406.96 C 484.85 407.34 483.42 407.34 482.46 406.96 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-331" data-name="公众号：康帅PPT32-18" transform="rotate(90 501.15 394.67)">
+<path d="M 499.72 394.01 C 498.76 394.39 498.76 394.96 499.72 395.24 C 500.44 395.62 501.87 395.62 502.59 395.24 C 503.54 394.96 503.54 394.39 502.59 394.01 C 501.87 393.72 500.44 393.72 499.72 394.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-332" data-name="公众号：康帅PPT32-19" transform="rotate(90 495.58 396.93)">
+<path d="M 493.91 396.31 C 493.19 396.69 493.19 397.17 493.91 397.55 C 494.86 397.84 496.3 397.84 497.01 397.55 C 497.97 397.17 497.97 396.69 497.01 396.31 C 496.3 396.02 494.86 396.02 493.91 396.31 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-333" data-name="公众号：康帅PPT32-20" transform="rotate(90 489.91 399.17)">
+<path d="M 488.37 398.6 C 487.67 398.88 487.67 399.45 488.37 399.83 C 489.32 400.12 490.49 400.12 491.44 399.83 C 492.14 399.45 492.14 398.88 491.44 398.6 C 490.49 398.22 489.32 398.22 488.37 398.6 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-334" data-name="公众号：康帅PPT32-21" transform="rotate(90 484.13 401.38)">
+<path d="M 482.73 400.81 C 481.79 401.1 481.79 401.67 482.73 401.95 C 483.43 402.34 484.83 402.34 485.77 401.95 C 486.47 401.67 486.47 401.1 485.77 400.81 C 484.83 400.43 483.43 400.43 482.73 400.81 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-335" data-name="公众号：康帅PPT32-22" transform="rotate(90 467.06 394.67)">
+<path d="M 465.63 395.35 C 464.67 394.97 464.67 394.38 465.63 394.09 C 466.34 393.7 467.78 393.7 468.49 394.09 C 469.45 394.38 469.45 394.97 468.49 395.35 C 467.78 395.64 466.34 395.64 465.63 395.35 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-336" data-name="公众号：康帅PPT32-23" transform="rotate(90 472.69 396.93)">
+<path d="M 471.01 397.55 C 470.3 397.17 470.3 396.69 471.01 396.31 C 471.97 396.02 473.4 396.02 474.12 396.31 C 475.07 396.69 475.07 397.17 474.12 397.55 C 473.4 397.84 471.97 397.84 471.01 397.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-337" data-name="公众号：康帅PPT32-24" transform="rotate(90 478.36 399.17)">
+<path d="M 476.83 399.74 C 476.12 399.45 476.12 398.88 476.83 398.5 C 477.77 398.22 478.95 398.22 479.89 398.5 C 480.6 398.88 480.6 399.45 479.89 399.74 C 478.95 400.12 477.77 400.12 476.83 399.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-338" data-name="公众号：康帅PPT32-25" transform="rotate(90 484.13 401.38)">
+<path d="M 482.73 401.95 C 481.79 401.67 481.79 401.1 482.73 400.81 C 483.43 400.43 484.83 400.43 485.77 400.81 C 486.47 401.1 486.47 401.67 485.77 401.95 C 484.83 402.34 483.43 402.34 482.73 401.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+<g id="shape-286" data-name="Group 18++">
+<g id="shape-287" data-name="公众号：康帅PPT32-26">
+<path d="M 522.64 416.74 C 531.59 404.15 531.59 404.15 531.59 404.15 C 532.07 403.58 532.07 402.44 531.59 401.86 C 522.64 389.27 522.64 389.27 522.64 389.27 C 522.28 388.7 522.52 387.56 523 387.56 C 530.99 387.56 530.99 387.56 530.99 387.56 C 531.47 387.56 531.95 387.94 532.18 388.32 C 541.85 401.86 541.85 401.86 541.85 401.86 C 542.33 402.44 542.33 403.58 541.85 404.15 C 532.18 417.7 532.18 417.7 532.18 417.7 C 531.95 418.08 531.47 418.46 530.99 418.46 C 523 418.46 523 418.46 523 418.46 C 522.52 418.46 522.28 417.32 522.64 416.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-288" data-name="组合 287" transform="rotate(270 516.08 403.01)">
+<g id="shape-289" data-name="公众号：康帅PPT32-27" transform="rotate(90 533.15 404.61)">
+<path d="M 531.71 403.95 C 530.76 404.33 530.76 404.9 531.71 405.18 C 532.43 405.56 533.86 405.56 534.58 405.18 C 535.53 404.9 535.53 404.33 534.58 403.95 C 533.86 403.66 532.43 403.66 531.71 403.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-290" data-name="公众号：康帅PPT32-28" transform="rotate(90 527.57 406.83)">
+<path d="M 526.01 406.21 C 525.28 406.59 525.28 407.07 526.01 407.45 C 526.97 407.74 528.17 407.74 529.14 407.45 C 529.86 407.07 529.86 406.59 529.14 406.21 C 528.17 405.92 526.97 405.92 526.01 406.21 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-291" data-name="公众号：康帅PPT32-29" transform="rotate(90 521.9 409.11)">
+<path d="M 520.37 408.53 C 519.66 408.82 519.66 409.39 520.37 409.77 C 521.31 410.06 522.49 410.06 523.43 409.77 C 524.14 409.39 524.14 408.82 523.43 408.53 C 522.49 408.15 521.31 408.15 520.37 408.53 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-292" data-name="公众号：康帅PPT32-30" transform="rotate(90 516.12 411.34)">
+<path d="M 514.69 410.77 C 513.74 411.06 513.74 411.63 514.69 411.91 C 515.41 412.29 516.84 412.29 517.56 411.91 C 518.51 411.63 518.51 411.06 517.56 410.77 C 516.84 410.39 515.41 410.39 514.69 410.77 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-293" data-name="公众号：康帅PPT32-31" transform="rotate(90 499.05 404.61)">
+<path d="M 497.62 405.29 C 496.67 404.9 496.67 404.32 497.62 404.03 C 498.34 403.64 499.77 403.64 500.49 404.03 C 501.44 404.32 501.44 404.9 500.49 405.29 C 499.77 405.58 498.34 405.58 497.62 405.29 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-294" data-name="公众号：康帅PPT32-32" transform="rotate(90 504.68 406.83)">
+<path d="M 503.11 407.45 C 502.39 407.07 502.39 406.59 503.11 406.21 C 504.08 405.92 505.28 405.92 506.24 406.21 C 506.97 406.59 506.97 407.07 506.24 407.45 C 505.28 407.74 504.08 407.74 503.11 407.45 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-295" data-name="公众号：康帅PPT32-33" transform="rotate(90 510.35 409.11)">
+<path d="M 508.82 409.68 C 508.11 409.39 508.11 408.82 508.82 408.44 C 509.76 408.15 510.94 408.15 511.88 408.44 C 512.59 408.82 512.59 409.39 511.88 409.68 C 510.94 410.06 509.76 410.06 508.82 409.68 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-296" data-name="公众号：康帅PPT32-34" transform="rotate(90 516.12 411.34)">
+<path d="M 514.69 411.91 C 513.74 411.63 513.74 411.06 514.69 410.77 C 515.41 410.39 516.84 410.39 517.56 410.77 C 518.51 411.06 518.51 411.63 517.56 411.91 C 516.84 412.29 515.41 412.29 514.69 411.91 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-297" data-name="公众号：康帅PPT32-35" transform="rotate(90 533.15 399.64)">
+<path d="M 531.61 398.98 C 530.91 399.36 530.91 399.93 531.61 400.21 C 532.56 400.59 533.73 400.59 534.68 400.21 C 535.39 399.93 535.39 399.36 534.68 398.98 C 533.73 398.69 532.56 398.69 531.61 398.98 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-298" data-name="公众号：康帅PPT32-36" transform="rotate(90 527.57 401.86)">
+<path d="M 526.17 401.24 C 525.23 401.62 525.23 402.1 526.17 402.48 C 526.87 402.77 528.27 402.77 529.21 402.48 C 529.91 402.1 529.91 401.62 529.21 401.24 C 528.27 400.95 526.87 400.95 526.17 401.24 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-299" data-name="公众号：康帅PPT32-37" transform="rotate(90 521.9 404.14)">
+<path d="M 520.46 403.57 C 519.51 403.85 519.51 404.42 520.46 404.8 C 521.18 405.09 522.61 405.09 523.33 404.8 C 524.29 404.42 524.29 403.85 523.33 403.57 C 522.61 403.19 521.18 403.19 520.46 403.57 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-300" data-name="公众号：康帅PPT32-38" transform="rotate(90 516.12 406.39)">
+<path d="M 514.45 405.82 C 513.74 406.11 513.74 406.68 514.45 406.96 C 515.41 407.34 516.84 407.34 517.56 406.96 C 518.51 406.68 518.51 406.11 517.56 405.82 C 516.84 405.44 515.41 405.44 514.45 405.82 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-301" data-name="公众号：康帅PPT32-39" transform="rotate(90 499.05 399.64)">
+<path d="M 497.52 400.32 C 496.81 399.93 496.81 399.35 497.52 399.06 C 498.47 398.67 499.64 398.67 500.59 399.06 C 501.29 399.35 501.29 399.93 500.59 400.32 C 499.64 400.61 498.47 400.61 497.52 400.32 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-302" data-name="公众号：康帅PPT32-40" transform="rotate(90 504.68 401.86)">
+<path d="M 503.27 402.48 C 502.34 402.1 502.34 401.62 503.27 401.24 C 503.98 400.95 505.38 400.95 506.32 401.24 C 507.02 401.62 507.02 402.1 506.32 402.48 C 505.38 402.77 503.98 402.77 503.27 402.48 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-303" data-name="公众号：康帅PPT32-41" transform="rotate(90 510.35 404.14)">
+<path d="M 508.92 404.71 C 507.96 404.42 507.96 403.85 508.92 403.47 C 509.64 403.19 511.07 403.19 511.79 403.47 C 512.74 403.85 512.74 404.42 511.79 404.71 C 511.07 405.09 509.64 405.09 508.92 404.71 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-304" data-name="公众号：康帅PPT32-42" transform="rotate(90 516.12 406.39)">
+<path d="M 514.45 406.96 C 513.74 406.68 513.74 406.11 514.45 405.82 C 515.41 405.44 516.84 405.44 517.56 405.82 C 518.51 406.11 518.51 406.68 517.56 406.96 C 516.84 407.34 515.41 407.34 514.45 406.96 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-305" data-name="公众号：康帅PPT32-43" transform="rotate(90 533.15 394.67)">
+<path d="M 531.71 394.01 C 530.76 394.39 530.76 394.96 531.71 395.24 C 532.43 395.62 533.86 395.62 534.58 395.24 C 535.53 394.96 535.53 394.39 534.58 394.01 C 533.86 393.72 532.43 393.72 531.71 394.01 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-306" data-name="公众号：康帅PPT32-44" transform="rotate(90 527.57 396.93)">
+<path d="M 525.9 396.31 C 525.18 396.69 525.18 397.17 525.9 397.55 C 526.85 397.84 528.29 397.84 529 397.55 C 529.96 397.17 529.96 396.69 529 396.31 C 528.29 396.02 526.85 396.02 525.9 396.31 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-307" data-name="公众号：康帅PPT32-45" transform="rotate(90 521.9 399.17)">
+<path d="M 520.37 398.6 C 519.66 398.88 519.66 399.45 520.37 399.83 C 521.31 400.12 522.49 400.12 523.43 399.83 C 524.14 399.45 524.14 398.88 523.43 398.6 C 522.49 398.22 521.31 398.22 520.37 398.6 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-308" data-name="公众号：康帅PPT32-46" transform="rotate(90 516.12 401.38)">
+<path d="M 514.72 400.81 C 513.79 401.1 513.79 401.67 514.72 401.95 C 515.42 402.34 516.83 402.34 517.76 401.95 C 518.46 401.67 518.46 401.1 517.76 400.81 C 516.83 400.43 515.42 400.43 514.72 400.81 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-309" data-name="公众号：康帅PPT32-47" transform="rotate(90 499.05 394.67)">
+<path d="M 497.62 395.35 C 496.67 394.97 496.67 394.38 497.62 394.09 C 498.34 393.7 499.77 393.7 500.49 394.09 C 501.44 394.38 501.44 394.97 500.49 395.35 C 499.77 395.64 498.34 395.64 497.62 395.35 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-310" data-name="公众号：康帅PPT32-48" transform="rotate(90 504.68 396.93)">
+<path d="M 503.01 397.55 C 502.29 397.17 502.29 396.69 503.01 396.31 C 503.96 396.02 505.39 396.02 506.11 396.31 C 507.07 396.69 507.07 397.17 506.11 397.55 C 505.39 397.84 503.96 397.84 503.01 397.55 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-311" data-name="公众号：康帅PPT32-49" transform="rotate(90 510.35 399.17)">
+<path d="M 508.82 399.74 C 508.11 399.45 508.11 398.88 508.82 398.5 C 509.76 398.22 510.94 398.22 511.88 398.5 C 512.59 398.88 512.59 399.45 511.88 399.74 C 510.94 400.12 509.76 400.12 508.82 399.74 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+<g id="shape-312" data-name="公众号：康帅PPT32-50" transform="rotate(90 516.12 401.38)">
+<path d="M 514.72 401.95 C 513.79 401.67 513.79 401.1 514.72 400.81 C 515.42 400.43 516.83 400.43 517.76 400.81 C 518.46 401.1 518.46 401.67 517.76 401.95 C 516.83 402.34 515.42 402.34 514.72 401.95 Z" stroke-width="0.333" stroke="none" stroke-linejoin="round" fill="none"/>
+</g>
+</g>
+</g>
+</g></svg>

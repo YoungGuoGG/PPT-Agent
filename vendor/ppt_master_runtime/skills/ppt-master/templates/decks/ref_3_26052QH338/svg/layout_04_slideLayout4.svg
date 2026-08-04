@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><g id="layout-shape-18" data-name="图片 17">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-7" data-name="组合 6">
+<g id="layout-shape-82" data-name="图形">
+<line x1="317" y1="115.6" x2="462.07" y2="115.6" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-83" data-name="图形" transform="rotate(270 311.57 115.53)">
+<ellipse cx="311.57" cy="115.53" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+</g>
+<g id="layout-shape-8" data-name="组合 7" transform="translate(918.7 115.6) scale(-1 1) translate(-918.7 -115.6)">
+<g id="layout-shape-9" data-name="图形">
+<line x1="851.6" y1="115.67" x2="996.67" y2="115.67" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-10" data-name="图形" transform="rotate(270 846.17 115.6)">
+<ellipse cx="846.17" cy="115.6" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+</g>
+<g id="layout-shape-11" data-name="文本框 10">
+<rect x="493.1" y="81.67" width="317.27" height="67.86" fill="none"/>
+<text x="502.7" y="106.87" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">工作经验总结</tspan></text>
+</g>
+<g id="layout-shape-12" data-name="组合 11">
+<g id="layout-shape-15" data-name="图形">
+<line x1="352.71" y1="134.38" x2="453" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-16" data-name="图形" transform="rotate(270 348.96 134.33)">
+<ellipse cx="348.96" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+</g>
+<g id="layout-shape-17" data-name="组合 16" transform="translate(894.77 134.33) scale(-1 1) translate(-894.77 -134.33)">
+<g id="layout-shape-20" data-name="图形">
+<line x1="848.38" y1="134.38" x2="948.67" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-21" data-name="图形" transform="rotate(270 844.62 134.33)">
+<ellipse cx="844.62" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+</g></svg>

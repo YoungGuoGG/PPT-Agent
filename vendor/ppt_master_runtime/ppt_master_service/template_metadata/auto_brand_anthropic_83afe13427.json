@@ -1,0 +1,14 @@
+{
+  "template_id": "brand_anthropic",
+  "name": "Anthropic Brand Specification",
+  "description": "Anthropic brand identity — AI/LLM tech talks, developer conferences, technical training, product launches",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Anthropic brand identity — AI/LLM tech talks, developer conferences, technical training, product launches"
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\brands\\anthropic",
+  "kind": "brand",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

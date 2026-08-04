@@ -1,0 +1,14 @@
+{
+  "template_id": "deck_中国电信",
+  "name": "China Telecom Template - Design Specification",
+  "description": "China Telecom related briefings, 政企数字化方案, 转型规划, 内部汇报.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "China Telecom related briefings, 政企数字化方案, 转型规划, 内部汇报."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\decks\\中国电信",
+  "kind": "deck",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

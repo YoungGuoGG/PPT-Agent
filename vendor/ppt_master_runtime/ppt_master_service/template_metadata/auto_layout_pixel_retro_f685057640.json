@@ -1,0 +1,14 @@
+{
+  "template_id": "layout_pixel_retro",
+  "name": "Pixel Retro Style Template - Design Specification",
+  "description": "Tech talks, programming tutorials, game introductions, geek-style showcases.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Tech talks, programming tutorials, game introductions, geek-style showcases."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\layouts\\pixel_retro",
+  "kind": "layout",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

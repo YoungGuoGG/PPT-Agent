@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-3" data-name="矩形 2">
+<rect x="16.06" y="15.1" width="1247.89" height="689.81" fill="#FFFFFF" stroke="#C4D5FC" stroke-width="1"/>
+</g>
+<g id="layout-shape-32" data-name="矩形 31">
+<rect x="70.24" y="57.46" width="43.96" height="43.96" fill="#0A41BB" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-33" data-name="矩形 32">
+<rect x="92.4" y="79.62" width="32.2" height="32.2" fill="none" stroke="#0A41BB" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-4" data-name="TextBox 29" transform="translate(891.32 220.44) scale(-1 1) translate(-891.32 -220.44)">
+<rect x="659.9" y="199.44" width="462.84" height="42.01" fill="#0A41BB"/>
+<text x="891.32" y="229.78" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">点击添加标题</tspan></text>
+</g>
+<g id="shape-5" data-name="TextBox 30">
+<rect x="659.9" y="256.45" width="462.84" height="98.24" fill="none"/>
+<text x="659.9" y="276.85" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">在此录入上述图表的综合描述说明，在此录</tspan><tspan x="659.9" dy="28.8" fill="#000000" font-size="24">入上述图表的综合描述说明，在此录入上述</tspan><tspan x="659.9" dy="28.8" fill="#000000" font-size="24">图表的综合描述说明，在此录入上述图表的</tspan><tspan x="659.9" dy="28.8" fill="#000000" font-size="24">综合描述说明。</tspan></text>
+</g>
+<g id="shape-6" data-name="TextBox 29" transform="translate(891.32 456.99) scale(-1 1) translate(-891.32 -456.99)">
+<rect x="659.9" y="435.98" width="462.84" height="42.01" fill="#0A41BB"/>
+<text x="891.32" y="466.32" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">点击添加标题</tspan></text>
+</g>
+<g id="shape-7" data-name="TextBox 30">
+<rect x="659.9" y="492.99" width="462.84" height="98.24" fill="none"/>
+<text x="659.9" y="513.39" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">在此录入上述图表的综合描述说明，在此录</tspan><tspan x="659.9" dy="28.8" fill="#000000" font-size="24">入上述图表的综合描述说明，在此录入上述</tspan><tspan x="659.9" dy="28.8" fill="#000000" font-size="24">图表的综合描述说明，在此录入上述图表的</tspan><tspan x="659.9" dy="28.8" fill="#000000" font-size="24">综合描述说明。</tspan></text>
+</g>
+<g id="shape-8" data-name="图片 7">
+<image href="../assets/image16.jpeg" x="121.48" y="200.18" width="517.86" height="443.82" preserveAspectRatio="none"/>
+</g></svg>

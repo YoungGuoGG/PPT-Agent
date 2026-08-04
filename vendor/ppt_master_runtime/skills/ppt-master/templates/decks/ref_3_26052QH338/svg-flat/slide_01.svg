@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0" x2="1" y2="1"><stop offset="0.21" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad2" x1="0" y1="0" x2="1" y2="1"><stop offset="0.21" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad3" x1="0" y1="0" x2="1" y2="1"><stop offset="0.21" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx6" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad4" x1="0" y1="0" x2="1" y2="1"><stop offset="0.03" stop-color="#14BDFC"/><stop offset="1" stop-color="#37CEFF"/></linearGradient><filter id="fx7" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx8" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-7" data-name="图片 6">
+<image href="../assets/image2.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-14" data-name="图形">
+<rect x="182.4" y="210.03" width="899.2" height="222.87" fill="none"/>
+<text x="632" y="289.63" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪综艺体简&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="88" fill="#37CEFF" font-style="italic"><tspan fill="#37CEFF" font-size="88" font-style="italic">互联网行业</tspan></text>
+<text x="632" y="377.63" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪综艺体简&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="88" fill="#FFFFFF" font-style="italic"><tspan fill="#FFFFFF" font-size="88" font-style="italic">未来科技商务工作报告</tspan></text>
+</g>
+<g id="shape-5" data-name="图形">
+<rect x="421.34" y="448.13" width="438.67" height="41.87" fill="none"/>
+<text x="430.94" y="475.6" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#37CEFF" font-weight="bold"><tspan fill="#37CEFF" font-size="26.67" font-weight="bold">INTERNET BUSINESS REPORT</tspan></text>
+</g>
+<g id="shape-13" data-name="图形">
+<rect x="421.34" y="478.6" width="443.2" height="55.33" fill="none"/>
+<text x="642.94" y="494.73" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="13.33">.</tspan><tspan fill="#FFFFFF" font-size="13.33">Add your text content here</tspan><tspan fill="#FFFFFF" font-size="13.33">.</tspan><tspan fill="#FFFFFF" font-size="13.33">Add </tspan><tspan x="642.94" dy="20" fill="#FFFFFF" font-size="13.33">your text content</tspan><tspan fill="#FFFFFF" font-size="13.33">.</tspan><tspan fill="#FFFFFF" font-size="13.33">Add your text content</tspan><tspan fill="#FFFFFF" font-size="13.33">.</tspan></text>
+</g>
+<g id="shape-42" data-name="图形">
+<g id="shape-43" data-name="图形">
+<ellipse cx="588.72" cy="579.82" rx="16.18" ry="16.19" fill="url(#ggrad1)" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-44" data-name="图形">
+<path d="M 595.48 577.81 L 595.22 577.81 C 595.08 577.39 594.91 576.99 594.7 576.61 L 594.91 576.4 C 595.66 575.65 595.66 574.44 594.91 573.7 L 594.85 573.64 C 594.1 572.89 592.88 572.89 592.13 573.64 L 591.9 573.87 C 591.51 573.67 591.11 573.5 590.68 573.38 L 590.68 573.04 C 590.68 571.98 589.82 571.13 588.76 571.13 L 588.68 571.13 C 587.61 571.13 586.75 571.98 586.75 573.04 L 586.75 573.4 C 586.35 573.53 585.96 573.69 585.59 573.89 L 585.34 573.64 C 584.59 572.89 583.37 572.89 582.62 573.64 L 582.56 573.7 C 581.81 574.44 581.81 575.65 582.56 576.4 L 582.8 576.64 C 582.6 577.01 582.43 577.41 582.3 577.81 L 581.95 577.81 C 580.89 577.81 580.03 578.67 580.03 579.73 L 580.03 579.81 C 580.03 580.87 580.89 581.72 581.95 581.72 L 582.26 581.72 C 582.39 582.16 582.56 582.57 582.76 582.96 L 582.53 583.19 C 581.78 583.94 581.78 585.15 582.53 585.9 L 582.59 585.96 C 583.34 586.71 584.56 586.71 585.31 585.96 L 585.52 585.75 C 585.91 585.96 586.32 586.14 586.75 586.28 L 586.75 586.56 C 586.75 587.62 587.61 588.47 588.68 588.47 L 588.76 588.47 C 589.82 588.47 590.68 587.62 590.68 586.56 L 590.68 586.3 C 591.13 586.17 591.56 585.98 591.97 585.77 L 592.16 585.96 C 592.91 586.71 594.13 586.71 594.88 585.96 L 594.94 585.9 C 595.69 585.15 595.69 583.94 594.94 583.19 L 594.74 582.99 C 594.95 582.59 595.13 582.17 595.26 581.72 L 595.48 581.72 C 596.54 581.72 597.41 580.87 597.41 579.81 L 597.41 579.73 C 597.41 578.67 596.54 577.81 595.48 577.81 Z M 588.76 582.83 C 587.1 582.83 585.75 581.49 585.75 579.84 C 585.75 578.18 587.1 576.84 588.76 576.84 C 590.43 576.84 591.77 578.18 591.77 579.84 C 591.77 581.49 590.43 582.83 588.76 582.83 Z M 588.76 582.83 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-18" data-name="图形">
+<ellipse cx="640.69" cy="579.82" rx="16.18" ry="16.19" fill="url(#ggrad2)" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-19" data-name="图形">
+<path d="M 641.11 571.99 L 632.08 571.99 C 632.04 571.99 632 572.03 632 572.1 L 632 587.53 C 632 587.57 632.04 587.61 632.08 587.61 L 635.17 587.61 L 635.17 584.63 L 638.01 584.63 L 638.01 587.61 L 641.11 587.61 C 641.14 587.61 641.18 587.57 641.18 587.53 L 641.18 572.1 C 641.18 572.03 641.14 571.99 641.11 571.99 Z M 635.93 582.36 L 633.74 582.36 L 633.74 580.21 L 635.93 580.21 L 635.93 582.36 Z M 635.93 579.16 L 633.74 579.16 L 633.74 577.01 L 635.93 577.01 L 635.93 579.16 Z M 635.93 575.95 L 633.74 575.95 L 633.74 573.8 L 635.93 573.8 L 635.93 575.95 Z M 639.41 582.36 L 637.21 582.36 L 637.21 580.21 L 639.41 580.21 L 639.41 582.36 Z M 639.41 579.16 L 637.21 579.16 L 637.21 577.01 L 639.41 577.01 L 639.41 579.16 Z M 639.41 575.95 L 637.21 575.95 L 637.21 573.8 L 639.41 573.8 L 639.41 575.95 Z M 648.93 577.01 L 642.99 577.01 C 642.73 577.01 642.54 577.2 642.54 577.46 L 642.54 587.53 C 642.54 587.57 642.58 587.57 642.58 587.57 L 644.96 587.57 L 644.96 585.61 L 646.96 585.61 L 646.96 587.57 L 649.3 587.57 C 649.34 587.57 649.34 587.53 649.34 587.53 L 649.34 577.46 C 649.38 577.24 649.15 577.01 648.93 577.01 Z M 648.43 583.95 L 643.41 583.95 L 643.41 582.89 L 648.43 582.89 L 648.43 583.95 Z M 648.43 581.84 L 643.41 581.84 L 643.41 580.78 L 648.43 580.78 L 648.43 581.84 Z M 648.43 579.69 L 643.41 579.69 L 643.41 578.63 L 648.43 578.63 L 648.43 579.69 Z M 648.43 579.69 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-47" data-name="图形">
+<ellipse cx="692.66" cy="579.82" rx="16.18" ry="16.19" fill="url(#ggrad3)" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-48" data-name="图形">
+<path d="M 700.71 575.64 L 699.42 575.64 L 699.42 576.92 C 699.42 577.28 699.13 577.57 698.78 577.57 C 698.42 577.57 698.13 577.28 698.13 576.92 L 698.13 575.64 L 696.85 575.64 C 696.49 575.64 696.2 575.35 696.2 575 C 696.2 574.64 696.49 574.35 696.85 574.35 L 698.13 574.35 L 698.13 573.07 C 698.13 572.71 698.42 572.42 698.78 572.42 C 699.13 572.42 699.42 572.71 699.42 573.07 L 699.42 574.35 L 700.71 574.35 C 701.06 574.35 701.35 574.64 701.35 575 C 701.35 575.35 701.06 575.64 700.71 575.64 Z M 696.85 577.89 C 696.85 578.42 696.41 578.85 695.88 578.85 C 695.35 578.85 694.92 578.42 694.92 577.89 C 694.92 577.36 695.35 576.92 695.88 576.92 C 696.41 576.92 696.85 577.36 696.85 577.89 Z M 694.27 575.64 L 685.26 575.64 L 685.26 584.6 C 685.26 584.6 686.67 578.29 689.08 578.29 C 690.67 578.29 692.29 583.17 693.3 584.64 C 693.3 584.64 694.09 581.45 695.45 581.43 C 696.8 581.41 697.49 584.6 697.49 584.6 L 698.13 584.6 L 698.13 580.78 C 698.13 580.43 698.42 580.14 698.78 580.14 C 699.13 580.14 699.42 580.43 699.42 580.78 L 699.42 585.93 C 699.42 586.64 698.84 587.22 698.13 587.22 L 685.26 587.22 C 684.55 587.22 683.97 586.64 683.97 585.93 L 683.97 575.64 C 683.97 574.93 684.55 574.35 685.26 574.35 L 694.27 574.35 C 694.63 574.35 694.92 574.64 694.92 575 C 694.92 575.35 694.63 575.64 694.27 575.64 Z M 694.27 575.64 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+</g>
+<g id="shape-97" data-name="图形">
+<g id="shape-98" data-name="图形" transform="translate(988.43 259.72) scale(-1 1) translate(-988.43 -259.72)">
+<line x1="988.43" y1="228.23" x2="988.43" y2="291.2" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="shape-99" data-name="图形">
+<ellipse cx="988.43" cy="222.82" rx="5.43" ry="5.42" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-100" data-name="图形">
+<g id="shape-101" data-name="图形" transform="translate(307.37 259.72) scale(-1 1) translate(-307.37 -259.72)">
+<line x1="307.37" y1="228.23" x2="307.37" y2="291.2" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="shape-102" data-name="图形">
+<ellipse cx="307.37" cy="222.82" rx="5.43" ry="5.42" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx5)"/>
+</g>
+</g>
+<g id="shape-66" data-name="图形">
+<rect x="440.9" y="44.4" width="109.8" height="28" rx="14" ry="14" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx6)"/>
+</g>
+<g id="shape-67" data-name="图形">
+<rect x="583.9" y="44.4" width="109.8" height="28" rx="14" ry="14" fill="url(#ggrad4)" stroke="none" stroke-width="1" filter="url(#fx7)"/>
+</g>
+<g id="shape-68" data-name="图形">
+<rect x="726.9" y="44.4" width="109.8" height="28" rx="14" ry="14" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx8)"/>
+</g>
+<g id="shape-69" data-name="图形">
+<rect x="443.1" y="43.2" width="106.07" height="30.6" fill="none"/>
+<text x="452.7" y="62.73" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">商务科技</tspan></text>
+</g>
+<g id="shape-70" data-name="图形">
+<rect x="587.64" y="43.2" width="106.07" height="30.6" fill="none"/>
+<text x="597.24" y="62.73" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="17.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="17.33">工作汇报</tspan></text>
+</g>
+<g id="shape-73" data-name="图形">
+<rect x="730.64" y="43.2" width="106.07" height="30.6" fill="none"/>
+<text x="740.24" y="62.73" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="17.33" fill="#000000"><tspan fill="#000000" font-size="17.33">商务报告</tspan></text>
+</g></svg>

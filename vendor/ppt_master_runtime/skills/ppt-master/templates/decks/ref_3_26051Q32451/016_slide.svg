@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><image href="assets/image12.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-8" data-name="矩形 13" transform="rotate(180 838.96 526.67) translate(838.96 526.67) scale(-1 1) translate(-838.96 -526.67)">
+<path d="M 397.92 333.33 L 1280 333.33 L 1280 720 C 1028.15 486.38 661.69 677.63 397.92 333.33 Z" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="494.27" y="222.39" width="517.73" height="138.94" fill="none"/>
+<text x="503.87" y="317.86" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="106.67" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="106.67" font-weight="bold">核心优势</tspan></text>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="204.67" y="242.6" width="224.71" height="67.86" fill="none"/>
+<text x="214.27" y="288.2" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="48" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="48" font-weight="bold">第四部分</tspan></text>
+</g>
+<g id="shape-14" data-name="圆角矩形 13">
+<rect x="204.67" y="320" width="220" height="44" rx="22" ry="22" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="221.33" y="319.34" width="186.67" height="42.01" fill="none"/>
+<text x="230.93" y="346.81" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">PART 04</tspan></text>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="494.27" y="361.33" width="536.39" height="78.28" fill="none"/>
+<text x="503.87" y="377.47" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="13.33" fill="#404040"><tspan fill="#404040" font-size="13.33">Your content is entered here, or by copying your text, select Paste in this </tspan><tspan x="503.87" dy="20" fill="#404040" font-size="13.33">box and choose to retain only text. Your content is typed here, or by copying </tspan><tspan x="503.87" dy="20" fill="#404040" font-size="13.33">your text, select Paste in this box.</tspan></text>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="930.96" y="674.54" width="322.69" height="27.47" fill="none"/>
+<text x="940.56" y="691.8" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="14.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="14.67">农业发展有限公司</tspan></text>
+</g></svg>

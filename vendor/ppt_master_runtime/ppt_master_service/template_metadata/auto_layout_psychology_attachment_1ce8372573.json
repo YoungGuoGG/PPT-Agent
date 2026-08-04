@@ -1,0 +1,14 @@
+{
+  "template_id": "layout_psychology_attachment",
+  "name": "Psychology Healing Template (Psychology Attachment Style) - Design Specification",
+  "description": "Psychotherapy training, academic lectures, counseling case analysis, professional sharing.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Psychotherapy training, academic lectures, counseling case analysis, professional sharing."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\layouts\\psychology_attachment",
+  "kind": "layout",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

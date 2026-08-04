@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-18" data-name="图片 17">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-7" data-name="组合 6">
+<g id="layout-shape-82" data-name="图形">
+<line x1="317" y1="115.6" x2="462.07" y2="115.6" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-83" data-name="图形" transform="rotate(270 311.57 115.53)">
+<ellipse cx="311.57" cy="115.53" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+</g>
+<g id="layout-shape-8" data-name="组合 7" transform="translate(918.7 115.6) scale(-1 1) translate(-918.7 -115.6)">
+<g id="layout-shape-9" data-name="图形">
+<line x1="851.6" y1="115.67" x2="996.67" y2="115.67" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-10" data-name="图形" transform="rotate(270 846.17 115.6)">
+<ellipse cx="846.17" cy="115.6" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+</g>
+<g id="layout-shape-11" data-name="文本框 10">
+<rect x="493.17" y="81.67" width="317.27" height="67.86" fill="none"/>
+<text x="502.77" y="106.87" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">业绩数据展示</tspan></text>
+</g>
+<g id="layout-shape-12" data-name="组合 11">
+<g id="layout-shape-15" data-name="图形">
+<line x1="352.71" y1="134.38" x2="453" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-16" data-name="图形" transform="rotate(270 348.96 134.33)">
+<ellipse cx="348.96" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+</g>
+<g id="layout-shape-17" data-name="组合 16" transform="translate(894.77 134.33) scale(-1 1) translate(-894.77 -134.33)">
+<g id="layout-shape-20" data-name="图形">
+<line x1="848.38" y1="134.38" x2="948.67" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-21" data-name="图形" transform="rotate(270 844.62 134.33)">
+<ellipse cx="844.62" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-2" data-name="图形">
+<g id="shape-75" data-name="图形">
+<g id="shape-26" data-name="图形">
+<ellipse cx="319" cy="349.09" rx="101.54" ry="35.87" fill="none" stroke-width="1.667" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-27" data-name="图形">
+<ellipse cx="319" cy="312.38" rx="151.87" ry="53.65" fill="none" stroke-width="2.333" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-28" data-name="图形">
+<ellipse cx="319" cy="356.38" rx="112.13" ry="39.61" fill="none" stroke-width="1.333" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-37" data-name="图形">
+<ellipse cx="319" cy="362.28" rx="126.04" ry="44.52" fill="none" stroke-width="1" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+</g>
+<g id="shape-74" data-name="图形">
+<g id="shape-40" data-name="图形">
+<ellipse cx="667.27" cy="349.09" rx="101.54" ry="35.87" fill="none" stroke-width="1.667" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-44" data-name="图形">
+<ellipse cx="667.27" cy="312.38" rx="151.87" ry="53.65" fill="none" stroke-width="2.333" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-45" data-name="图形">
+<ellipse cx="667.27" cy="356.38" rx="112.13" ry="39.61" fill="none" stroke-width="1.333" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-46" data-name="图形">
+<ellipse cx="667.27" cy="362.28" rx="126.04" ry="44.52" fill="none" stroke-width="1" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+</g>
+<g id="shape-76" data-name="图形">
+<g id="shape-47" data-name="图形">
+<ellipse cx="1015.53" cy="349.09" rx="101.54" ry="35.87" fill="none" stroke-width="1.667" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-48" data-name="图形">
+<ellipse cx="1015.53" cy="312.38" rx="151.87" ry="53.65" fill="none" stroke-width="2.333" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-49" data-name="图形">
+<ellipse cx="1015.53" cy="356.38" rx="112.13" ry="39.61" fill="none" stroke-width="1.333" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+<g id="shape-50" data-name="图形">
+<ellipse cx="1015.53" cy="362.28" rx="126.04" ry="44.52" fill="none" stroke-width="1" stroke="#0E8EE7" stroke-opacity="0"/>
+</g>
+</g>
+<g id="shape-31" data-name="图形">
+<rect x="229.2" y="426.27" width="179.6" height="41.87" fill="none"/>
+<text x="319" y="453.73" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">预设标题文本</tspan></text>
+</g>
+<g id="shape-33" data-name="图形">
+<rect x="195.8" y="468.13" width="246.4" height="79.53" fill="none"/>
+<text x="319" y="484.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">在此处添加您的文本内容在此处添加您</tspan><tspan x="319" dy="20" fill="#FFFFFF" font-size="13.33">的文本内容在此处添加您的文本内容添</tspan><tspan x="319" dy="20" fill="#FFFFFF" font-size="13.33">加文本内容添加文本内容</tspan></text>
+</g>
+<g id="shape-10" data-name="图形">
+<rect x="577.47" y="426.27" width="179.6" height="41.87" fill="none"/>
+<text x="667.27" y="453.73" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">预设标题文本</tspan></text>
+</g>
+<g id="shape-11" data-name="图形">
+<rect x="544.07" y="468.13" width="246.4" height="79.53" fill="none"/>
+<text x="667.27" y="484.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">在此处添加您的文本内容在此处添加您</tspan><tspan x="667.27" dy="20" fill="#FFFFFF" font-size="13.33">的文本内容在此处添加您的文本内容添</tspan><tspan x="667.27" dy="20" fill="#FFFFFF" font-size="13.33">加文本内容添加文本内容</tspan></text>
+</g>
+<g id="shape-12" data-name="图形">
+<rect x="925.73" y="426.27" width="179.6" height="41.87" fill="none"/>
+<text x="1015.53" y="453.73" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">预设标题文本</tspan></text>
+</g>
+<g id="shape-14" data-name="图形">
+<rect x="892.33" y="468.13" width="246.4" height="79.53" fill="none"/>
+<text x="1015.53" y="484.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">在此处添加您的文本内容在此处添加您</tspan><tspan x="1015.53" dy="20" fill="#FFFFFF" font-size="13.33">的文本内容在此处添加您的文本内容添</tspan><tspan x="1015.53" dy="20" fill="#FFFFFF" font-size="13.33">加文本内容添加文本内容</tspan></text>
+</g>
+<g id="shape-18" data-name="图形">
+<rect x="250.33" y="258.73" width="137.27" height="67.73" fill="none"/>
+<text x="318.97" y="304.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">32%</tspan></text>
+</g>
+<g id="shape-29" data-name="图形">
+<rect x="603.47" y="258.73" width="137.27" height="67.73" fill="none"/>
+<text x="672.1" y="304.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">23%</tspan></text>
+</g>
+<g id="shape-30" data-name="图形">
+<rect x="956.6" y="258.73" width="137.27" height="67.73" fill="none"/>
+<text x="1025.23" y="304.33" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">45%</tspan></text>
+</g>
+</g></svg>

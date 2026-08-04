@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient></defs><g id="shape-6" data-name="图片 5">
+<image href="../assets/image4.jpeg" x="0" y="0" width="1280" height="538.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-10" data-name="图片 9" transform="translate(640 510.39) scale(-1 -1) translate(-640 -510.39)">
+<image href="../assets/image5.png" x="0" y="300.77" width="1280" height="419.23" preserveAspectRatio="none"/>
+</g>
+<g id="shape-18" data-name="文本框 17">
+<rect x="706.49" y="631.35" width="509.51" height="30.99" fill="none"/>
+<text x="716.09" y="649.75" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">旅行不仅让我见识到了美丽的风景，还让我发现了自己内心的力量。</tspan></text>
+</g>
+<g id="shape-19" data-name="文本框 18">
+<rect x="108.43" y="538.33" width="322.07" height="103.4" fill="none"/>
+<text x="108.43" y="574.6" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="42.67">发现自己的潜力，勇往直前</tspan></text>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-20" data-name="直接连接符 19">
+<line x1="1067.43" y1="662.33" x2="1094.17" y2="662.33" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-21" data-name="直接连接符 20">
+<line x1="1104.25" y1="662.33" x2="1170.73" y2="662.33" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+</g></svg>

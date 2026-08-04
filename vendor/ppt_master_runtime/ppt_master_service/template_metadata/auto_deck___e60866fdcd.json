@@ -1,0 +1,14 @@
+{
+  "template_id": "deck_招商银行",
+  "name": "China Merchants Bank Transaction Banking - Design Specification",
+  "description": "交易银行产品介绍、销售收款方案汇报、客户案例拆解、分行培训材料.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "交易银行产品介绍、销售收款方案汇报、客户案例拆解、分行培训材料."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\decks\\招商银行",
+  "kind": "deck",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

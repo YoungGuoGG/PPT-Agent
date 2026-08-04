@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><image href="assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="矩形 3">
+<rect x="483.13" y="22.6" width="100.33" height="674.87" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="513" y="158.53" width="650.73" height="106.53" fill="none"/>
+<text x="522.6" y="231.33" text-anchor="start" xml:space="preserve" font-family="&quot;方正粗倩简体&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="80" fill="#5C6E5E"><tspan fill="#5C6E5E" font-size="80">感谢观看</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="513" y="95.2" width="562.13" height="38.67" fill="none"/>
+<text x="522.6" y="120.4" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="24" fill="#5C6E5E" font-style="italic"><tspan fill="#5C6E5E" font-size="24" font-style="italic">Simple portfolio picture book</tspan></text>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="512.93" y="277.27" width="650.8" height="85.43" fill="none"/>
+<text x="522.53" y="297.93" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">单击此处输入您的正文，文字是您思想的提炼，为了最终演示发布的良好效</tspan><tspan x="522.53" dy="33.6" fill="#000000" font-size="18.67">果，请尽量言简意骇的阐述观点；</tspan></text>
+</g>
+<g id="shape-14" data-name="图片 13">
+<image href="assets/image2.png" x="513" y="399.2" width="70.47" height="70.47" preserveAspectRatio="none"/>
+</g>
+<g id="shape-19" data-name="椭圆 18">
+<ellipse cx="545.58" cy="483.91" rx="3.78" ry="3.78" fill="#5C6E5E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="椭圆 19">
+<ellipse cx="545.65" cy="514.25" rx="3.78" ry="3.78" fill="#5C6E5E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-25" data-name="椭圆 24">
+<ellipse cx="545.65" cy="544.58" rx="3.78" ry="3.78" fill="#5C6E5E" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-27" data-name="文本框 26" transform="rotate(90 1235.2 577.43)">
+<rect x="1127.4" y="561.33" width="215.6" height="32.2" fill="none"/>
+<text x="1137" y="582" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">Minimalist art</tspan></text>
+</g>
+<g id="shape-28" data-name="文本框 27" transform="rotate(90 53.47 157.23)">
+<rect x="-54.33" y="141.13" width="215.6" height="32.2" fill="none"/>
+<text x="-44.73" y="161.8" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">Minimalist art</tspan></text>
+</g></svg>

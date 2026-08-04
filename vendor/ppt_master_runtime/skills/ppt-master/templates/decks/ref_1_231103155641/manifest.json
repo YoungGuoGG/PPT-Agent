@@ -1,0 +1,1851 @@
+{
+  "source": {
+    "pptx": "E:\\OfficeAgent\\Reference\\classified\\01-商务图表与数据可视化\\1-231103155641__PPT图表__商务通用图表.pptx",
+    "name": "1-231103155641__PPT图表__商务通用图表.pptx"
+  },
+  "slideSize": {
+    "width_emu": 11522075,
+    "height_emu": 8640763,
+    "width_px": 1210,
+    "height_px": 907
+  },
+  "theme": {
+    "colors": {
+      "dk1": "#000000",
+      "lt1": "#FFFFFF",
+      "dk2": "#1F497D",
+      "lt2": "#EEECE1",
+      "accent1": "#4F81BD",
+      "accent2": "#C0504D",
+      "accent3": "#9BBB59",
+      "accent4": "#8064A2",
+      "accent5": "#4BACC6",
+      "accent6": "#F79646",
+      "hlink": "#0000FF",
+      "folHlink": "#800080"
+    },
+    "fonts": {
+      "majorLatin": "Calibri",
+      "minorLatin": "Calibri"
+    }
+  },
+  "assets": {
+    "exportDir": "assets",
+    "commonAssets": [
+      "image11.png",
+      "image2.jpeg",
+      "image3.png",
+      "image4.png",
+      "image5.png"
+    ],
+    "allAssets": [
+      "hdphoto1.wdp",
+      "image1.jpeg",
+      "image10.jpeg",
+      "image11.png",
+      "image12.jpeg",
+      "image13.jpeg",
+      "image14.jpeg",
+      "image15.jpeg",
+      "image16.jpeg",
+      "image17.png",
+      "image18.png",
+      "image19.jpeg",
+      "image2.jpeg",
+      "image20.png",
+      "image3.png",
+      "image4.png",
+      "image5.png",
+      "image6.jpeg",
+      "image7.jpeg",
+      "image8.png",
+      "image9.png"
+    ],
+    "assetMap": {
+      "ppt/media/image1.jpeg": "image1.jpeg",
+      "ppt/media/image2.jpeg": "image2.jpeg",
+      "ppt/media/image3.png": "image3.png",
+      "ppt/media/image4.png": "image4.png",
+      "ppt/media/hdphoto1.wdp": "hdphoto1.wdp",
+      "ppt/media/image5.png": "image5.png",
+      "ppt/media/image6.jpeg": "image6.jpeg",
+      "ppt/media/image7.jpeg": "image7.jpeg",
+      "ppt/media/image8.png": "image8.png",
+      "ppt/media/image9.png": "image9.png",
+      "ppt/media/image10.jpeg": "image10.jpeg",
+      "ppt/media/image17.png": "image17.png",
+      "ppt/media/image18.png": "image18.png",
+      "ppt/media/image19.jpeg": "image19.jpeg",
+      "ppt/media/image20.png": "image20.png",
+      "ppt/media/image11.png": "image11.png",
+      "ppt/media/image12.jpeg": "image12.jpeg",
+      "ppt/media/image13.jpeg": "image13.jpeg",
+      "ppt/media/image14.jpeg": "image14.jpeg",
+      "ppt/media/image15.jpeg": "image15.jpeg",
+      "ppt/media/image16.jpeg": "image16.jpeg"
+    }
+  },
+  "pageTypeCandidates": {
+    "chapter_candidate": [
+      14
+    ],
+    "content_candidate": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      15,
+      16,
+      17,
+      18
+    ],
+    "cover_candidate": [
+      1
+    ],
+    "ending_candidate": [
+      19
+    ]
+  },
+  "layouts": [
+    {
+      "path": "ppt/slideLayouts/slideLayout1.xml",
+      "name": "slideLayout1.xml",
+      "svgFile": "layout_01_slideLayout1.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [
+        "image1.jpeg",
+        "image2.jpeg",
+        "image3.png",
+        "image4.png"
+      ],
+      "placeholders": [],
+      "textSamples": [
+        "『",
+        "第一",
+        "PPT",
+        "』—",
+        "WWW.1PPT.COM",
+        "第一"
+      ],
+      "textCount": 13,
+      "shapeCount": 12,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout2.xml",
+      "name": "slideLayout2.xml",
+      "svgFile": "layout_02_slideLayout2.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [
+        "image2.jpeg",
+        "image1.jpeg",
+        "image3.png",
+        "image4.png"
+      ],
+      "placeholders": [],
+      "textSamples": [
+        "『",
+        "第一",
+        "PPT",
+        "』—",
+        "WWW.1PPT.COM",
+        "第一"
+      ],
+      "textCount": 13,
+      "shapeCount": 11,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout3.xml",
+      "name": "slideLayout3.xml",
+      "svgFile": "layout_03_slideLayout3.svg",
+      "parentPath": "ppt/slideMasters/slideMaster1.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [
+        "image2.jpeg",
+        "image4.png",
+        "image3.png"
+      ],
+      "placeholders": [],
+      "textSamples": [
+        "『",
+        "第一",
+        "PPT",
+        "』—",
+        "WWW.1PPT.COM",
+        "第一"
+      ],
+      "textCount": 8,
+      "shapeCount": 10,
+      "usedBySlides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout4.xml",
+      "name": "slideLayout4.xml",
+      "svgFile": "layout_04_slideLayout4.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "ctrTitle",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 91,
+            "y": 282,
+            "width": 1028,
+            "height": 194
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "subTitle",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 181,
+            "y": 514,
+            "width": 847,
+            "height": 232
+          },
+          "textSamples": [
+            "单击此处编辑母版副标题样式"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版副标题样式",
+        "2023/11/3",
+        "‹#›"
+      ],
+      "textCount": 4,
+      "shapeCount": 7,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout5.xml",
+      "name": "slideLayout5.xml",
+      "svgFile": "layout_05_slideLayout5.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级",
+        "第五级"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": [
+        19
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout6.xml",
+      "name": "slideLayout6.xml",
+      "svgFile": "layout_06_slideLayout6.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 96,
+            "y": 583,
+            "width": 1028,
+            "height": 180
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 96,
+            "y": 384,
+            "width": 1028,
+            "height": 198
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "2023/11/3",
+        "‹#›"
+      ],
+      "textCount": 4,
+      "shapeCount": 7,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout7.xml",
+      "name": "slideLayout7.xml",
+      "svgFile": "layout_07_slideLayout7.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "1",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 212,
+            "width": 534,
+            "height": 599
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 615,
+            "y": 212,
+            "width": 534,
+            "height": 599
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级",
+        "第五级"
+      ],
+      "textCount": 13,
+      "shapeCount": 8,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout8.xml",
+      "name": "slideLayout8.xml",
+      "svgFile": "layout_08_slideLayout8.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 203,
+            "width": 534,
+            "height": 85
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 288,
+            "width": 534,
+            "height": 523
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "3",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 614,
+            "y": 203,
+            "width": 535,
+            "height": 85
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "4",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 614,
+            "y": 288,
+            "width": 535,
+            "height": 523
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级"
+      ],
+      "textCount": 15,
+      "shapeCount": 10,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout9.xml",
+      "name": "slideLayout9.xml",
+      "svgFile": "layout_09_slideLayout9.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "2023/11/3",
+        "‹#›"
+      ],
+      "textCount": 3,
+      "shapeCount": 6,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout10.xml",
+      "name": "slideLayout10.xml",
+      "svgFile": "layout_10_slideLayout10.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "2023/11/3",
+        "‹#›"
+      ],
+      "textCount": 2,
+      "shapeCount": 5,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout11.xml",
+      "name": "slideLayout11.xml",
+      "svgFile": "layout_11_slideLayout11.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 36,
+            "width": 398,
+            "height": 154
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": null,
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 473,
+            "y": 36,
+            "width": 676,
+            "height": 774
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 190,
+            "width": 398,
+            "height": 621
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级",
+        "第五级"
+      ],
+      "textCount": 9,
+      "shapeCount": 8,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout12.xml",
+      "name": "slideLayout12.xml",
+      "svgFile": "layout_12_slideLayout12.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 237,
+            "y": 635,
+            "width": 726,
+            "height": 75
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "pic",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 237,
+            "y": 81,
+            "width": 726,
+            "height": 544
+          },
+          "textSamples": []
+        },
+        {
+          "type": "body",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 237,
+            "y": 710,
+            "width": 726,
+            "height": 106
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "2023/11/3",
+        "‹#›"
+      ],
+      "textCount": 4,
+      "shapeCount": 8,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout13.xml",
+      "name": "slideLayout13.xml",
+      "svgFile": "layout_13_slideLayout13.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": "vert",
+          "geometry": null,
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级",
+        "第五级"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": []
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout14.xml",
+      "name": "slideLayout14.xml",
+      "svgFile": "layout_14_slideLayout14.svg",
+      "parentPath": "ppt/slideMasters/slideMaster2.xml",
+      "themePath": null,
+      "theme": null,
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": "vert",
+          "geometry": {
+            "x": 877,
+            "y": 36,
+            "width": 272,
+            "height": 774
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": "vert",
+          "geometry": {
+            "x": 60,
+            "y": 36,
+            "width": 796,
+            "height": 774
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "10",
+          "size": "half",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "11",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "12",
+          "size": "quarter",
+          "orient": null,
+          "geometry": null,
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级",
+        "第五级"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": []
+    }
+  ],
+  "masters": [
+    {
+      "path": "ppt/slideMasters/slideMaster1.xml",
+      "name": "slideMaster1.xml",
+      "svgFile": "master_01_slideMaster1.svg",
+      "parentPath": null,
+      "themePath": "ppt/theme/theme1.xml",
+      "theme": {
+        "colors": {
+          "dk1": "#000000",
+          "lt1": "#FFFFFF",
+          "dk2": "#1F497D",
+          "lt2": "#EEECE1",
+          "accent1": "#4F81BD",
+          "accent2": "#C0504D",
+          "accent3": "#9BBB59",
+          "accent4": "#8064A2",
+          "accent5": "#4BACC6",
+          "accent6": "#F79646",
+          "hlink": "#0000FF",
+          "folHlink": "#800080"
+        },
+        "fonts": {
+          "majorLatin": "Calibri",
+          "minorLatin": "Calibri"
+        }
+      },
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 36,
+            "width": 1089,
+            "height": 151
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 212,
+            "width": 1089,
+            "height": 599
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 841,
+            "width": 282,
+            "height": 48
+          },
+          "textSamples": [
+            "2023/11/3"
+          ]
+        },
+        {
+          "type": "ftr",
+          "idx": "3",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 413,
+            "y": 841,
+            "width": 383,
+            "height": 48
+          },
+          "textSamples": []
+        },
+        {
+          "type": "sldNum",
+          "idx": "4",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 867,
+            "y": 841,
+            "width": 282,
+            "height": 48
+          },
+          "textSamples": [
+            "‹#›"
+          ]
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级",
+        "第五级"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": [
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "path": "ppt/slideMasters/slideMaster2.xml",
+      "name": "slideMaster2.xml",
+      "svgFile": "master_02_slideMaster2.svg",
+      "parentPath": null,
+      "themePath": "ppt/theme/theme2.xml",
+      "theme": {
+        "colors": {
+          "dk1": "#000000",
+          "lt1": "#FFFFFF",
+          "dk2": "#1F497D",
+          "lt2": "#EEECE1",
+          "accent1": "#4F81BD",
+          "accent2": "#C0504D",
+          "accent3": "#9BBB59",
+          "accent4": "#8064A2",
+          "accent5": "#4BACC6",
+          "accent6": "#F79646",
+          "hlink": "#0000FF",
+          "folHlink": "#800080"
+        },
+        "fonts": {
+          "majorLatin": "Calibri",
+          "minorLatin": "Calibri"
+        }
+      },
+      "backgroundAsset": null,
+      "imageAssets": [],
+      "placeholders": [
+        {
+          "type": "title",
+          "idx": null,
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 36,
+            "width": 1089,
+            "height": 151
+          },
+          "textSamples": [
+            "单击此处编辑母版标题样式"
+          ]
+        },
+        {
+          "type": "body",
+          "idx": "1",
+          "size": null,
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 212,
+            "width": 1089,
+            "height": 599
+          },
+          "textSamples": [
+            "单击此处编辑母版文本样式",
+            "第二级"
+          ]
+        },
+        {
+          "type": "dt",
+          "idx": "2",
+          "size": "half",
+          "orient": null,
+          "geometry": {
+            "x": 60,
+            "y": 841,
+            "width": 282,
+            "height": 48
+          },
+          "textSamples": [
+            "2023/11/3"
+          ],
+          "textStyle": {
+            "latinFont": "Calibri",
+            "eastAsiaFont": "宋体"
+          }
+        },
+        {
+          "type": "ftr",
+          "idx": "3",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 413,
+            "y": 841,
+            "width": 383,
+            "height": 48
+          },
+          "textSamples": [],
+          "textStyle": {
+            "latinFont": "Calibri",
+            "eastAsiaFont": "宋体"
+          }
+        },
+        {
+          "type": "sldNum",
+          "idx": "4",
+          "size": "quarter",
+          "orient": null,
+          "geometry": {
+            "x": 867,
+            "y": 841,
+            "width": 282,
+            "height": 48
+          },
+          "textSamples": [
+            "‹#›"
+          ],
+          "textStyle": {
+            "latinFont": "Calibri",
+            "eastAsiaFont": "宋体"
+          }
+        }
+      ],
+      "textSamples": [
+        "单击此处编辑母版标题样式",
+        "单击此处编辑母版文本样式",
+        "第二级",
+        "第三级",
+        "第四级",
+        "第五级"
+      ],
+      "textCount": 8,
+      "shapeCount": 7,
+      "usedBySlides": [
+        19
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "index": 1,
+      "name": "slide1.xml",
+      "svgFile": "slide_01.svg",
+      "flatSvgFile": "slide_01.svg",
+      "slidePath": "ppt/slides/slide1.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image5.png"
+      ],
+      "textSamples": [
+        "添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "cover_candidate"
+    },
+    {
+      "index": 2,
+      "name": "slide2.xml",
+      "svgFile": "slide_02.svg",
+      "flatSvgFile": "slide_02.svg",
+      "slidePath": "ppt/slides/slide2.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image6.jpeg",
+        "image5.png"
+      ],
+      "textSamples": [
+        "Q1",
+        "Q3",
+        "Q2",
+        "Q4",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 3,
+      "name": "slide3.xml",
+      "svgFile": "slide_03.svg",
+      "flatSvgFile": "slide_03.svg",
+      "slidePath": "ppt/slides/slide3.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image7.jpeg",
+        "image8.png"
+      ],
+      "textSamples": [
+        "此处添加详细文本描述，建议与标题相关并符合整体语言风格，语言描述尽量简洁生动",
+        "此处添加详细文本描述，建议与标题相关并符合整体语言风格，语言描述尽量简洁生动。尽量将每页幻灯片的字数控制在",
+        "200",
+        "字以内，据统计每页幻灯片的最好控制在",
+        "5",
+        "分钟之内。此处添加详细文本描述"
+      ],
+      "textCount": 6,
+      "shapeCount": 6,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 4,
+      "name": "slide4.xml",
+      "svgFile": "slide_04.svg",
+      "flatSvgFile": "slide_04.svg",
+      "slidePath": "ppt/slides/slide4.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image9.png",
+        "image10.jpeg"
+      ],
+      "textSamples": [
+        "单击此处添加文字，添加具体文字内容，您的说明文字在此处添加",
+        "点击添加标题",
+        "单击此处添加文字，添加具体文字内容，您的说明文字在此处添加",
+        "点击添加标题",
+        "单击此处添加文字，添加具体文字内容，您的说明文字在此处添加",
+        "点击添加标题"
+      ],
+      "textCount": 6,
+      "shapeCount": 17,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 5,
+      "name": "slide5.xml",
+      "svgFile": "slide_05.svg",
+      "flatSvgFile": "slide_05.svg",
+      "slidePath": "ppt/slides/slide5.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "您的内容打在这里，或者通过复制您的文本后",
+        "您的内容打在这里，或者通过复制您的文本后",
+        "您的内容打在这里，或者通过复制您的文本后",
+        "您的内容打在这里，或者通过复制您的文本后",
+        "您的内容打在这里，或者通过复制您的文本后"
+      ],
+      "textCount": 5,
+      "shapeCount": 7,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 6,
+      "name": "slide6.xml",
+      "svgFile": "slide_06.svg",
+      "flatSvgFile": "slide_06.svg",
+      "slidePath": "ppt/slides/slide6.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image11.png"
+      ],
+      "textSamples": [
+        "1",
+        "3",
+        "2",
+        "4",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 7,
+      "name": "slide7.xml",
+      "svgFile": "slide_07.svg",
+      "flatSvgFile": "slide_07.svg",
+      "slidePath": "ppt/slides/slide7.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image11.png"
+      ],
+      "textSamples": [
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 8,
+      "name": "slide8.xml",
+      "svgFile": "slide_08.svg",
+      "flatSvgFile": "slide_08.svg",
+      "slidePath": "ppt/slides/slide8.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image5.png",
+        "image12.jpeg"
+      ],
+      "textSamples": [
+        "文字",
+        "输入",
+        "文字",
+        "输入",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 18,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 9,
+      "name": "slide9.xml",
+      "svgFile": "slide_09.svg",
+      "flatSvgFile": "slide_09.svg",
+      "slidePath": "ppt/slides/slide9.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 16,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 10,
+      "name": "slide10.xml",
+      "svgFile": "slide_10.svg",
+      "flatSvgFile": "slide_10.svg",
+      "slidePath": "ppt/slides/slide10.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image11.png"
+      ],
+      "textSamples": [
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 9,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 11,
+      "name": "slide11.xml",
+      "svgFile": "slide_11.svg",
+      "flatSvgFile": "slide_11.svg",
+      "slidePath": "ppt/slides/slide11.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image5.png",
+        "image13.jpeg",
+        "image14.jpeg"
+      ],
+      "textSamples": [
+        "添加标题",
+        "添加标题",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计"
+      ],
+      "textCount": 6,
+      "shapeCount": 10,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 12,
+      "name": "slide12.xml",
+      "svgFile": "slide_12.svg",
+      "flatSvgFile": "slide_12.svg",
+      "slidePath": "ppt/slides/slide12.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image5.png"
+      ],
+      "textSamples": [
+        "添加标题",
+        "添加标题",
+        "添加标题",
+        "68%",
+        "86%",
+        "72%"
+      ],
+      "textCount": 6,
+      "shapeCount": 15,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 13,
+      "name": "slide13.xml",
+      "svgFile": "slide_13.svg",
+      "flatSvgFile": "slide_13.svg",
+      "slidePath": "ppt/slides/slide13.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "请添加标题",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计",
+        "输入简要文字内容，概括精炼、言简意赅的说明分项内容专业设计"
+      ],
+      "textCount": 5,
+      "shapeCount": 12,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 14,
+      "name": "slide14.xml",
+      "svgFile": "slide_14.svg",
+      "flatSvgFile": "slide_14.svg",
+      "slidePath": "ppt/slides/slide14.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image15.jpeg"
+      ],
+      "textSamples": [
+        "添加标题文字：",
+        "单击此处添加文字，添加具体文字内容，您的说明文字在此处添加，此处输入详细的说明文字",
+        "单击此处添加文字，添加具体文字内容，您的说明文字在此处添加，此处输入详细的说明文字。单击此处添加文字"
+      ],
+      "textCount": 3,
+      "shapeCount": 5,
+      "pageType": "chapter_candidate"
+    },
+    {
+      "index": 15,
+      "name": "slide15.xml",
+      "svgFile": "slide_15.svg",
+      "flatSvgFile": "slide_15.svg",
+      "slidePath": "ppt/slides/slide15.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image16.jpeg"
+      ],
+      "textSamples": [
+        "单击此处添加文字，添加具体文字内容，您的说明文字在此处添加",
+        "点击添加标题",
+        "单击此处添加文字，添加具体文字内容，您的说明文字在此处添加",
+        "点击添加标题"
+      ],
+      "textCount": 4,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 16,
+      "name": "slide16.xml",
+      "svgFile": "slide_16.svg",
+      "flatSvgFile": "slide_16.svg",
+      "slidePath": "ppt/slides/slide16.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image5.png"
+      ],
+      "textSamples": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "点击添加标题",
+        "的内容打在这里，或者通过复制您的文本后，在此框中选择粘贴，并选择只保留文字。"
+      ],
+      "textCount": 6,
+      "shapeCount": 9,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 17,
+      "name": "slide17.xml",
+      "svgFile": "slide_17.svg",
+      "flatSvgFile": "slide_17.svg",
+      "slidePath": "ppt/slides/slide17.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [],
+      "textSamples": [
+        "添加标题",
+        "添加小标题",
+        "您的内容打在这里，或者通过复制您的文本后在此框中选择粘贴，并选择只保留文字",
+        "添加小标题",
+        "您的内容打在这里，或者通过复制您的文本后在此框中选择粘贴，并选择只保留文字",
+        "添加小标题"
+      ],
+      "textCount": 6,
+      "shapeCount": 20,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 18,
+      "name": "slide18.xml",
+      "svgFile": "slide_18.svg",
+      "flatSvgFile": "slide_18.svg",
+      "slidePath": "ppt/slides/slide18.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout3.xml",
+      "masterPath": "ppt/slideMasters/slideMaster1.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image17.png",
+        "image18.png",
+        "image19.jpeg"
+      ],
+      "textSamples": [
+        "添加标题",
+        "您的内容打在这里，或者通过复制您的文本后在此框中选择粘贴，并选择只保留文字",
+        "添加标题",
+        "您的内容打在这里，或者通过复制您的文本后在此框中选择粘贴，并选择只保留文字",
+        "添加标题",
+        "您的内容打在这里，或者通过复制您的文本后在此框中选择粘贴，并选择只保留文字"
+      ],
+      "textCount": 6,
+      "shapeCount": 11,
+      "pageType": "content_candidate"
+    },
+    {
+      "index": 19,
+      "name": "slide19.xml",
+      "svgFile": "slide_19.svg",
+      "flatSvgFile": "slide_19.svg",
+      "slidePath": "ppt/slides/slide19.xml",
+      "layoutPath": "ppt/slideLayouts/slideLayout5.xml",
+      "masterPath": "ppt/slideMasters/slideMaster2.xml",
+      "backgroundAsset": null,
+      "backgroundSource": null,
+      "imageAssets": [
+        "image20.png"
+      ],
+      "textSamples": [
+        "PPT",
+        "模板：",
+        "www.1ppt.com/moban/",
+        "行业",
+        "PPT",
+        "模板："
+      ],
+      "textCount": 6,
+      "shapeCount": 7,
+      "pageType": "ending_candidate"
+    }
+  ]
+}

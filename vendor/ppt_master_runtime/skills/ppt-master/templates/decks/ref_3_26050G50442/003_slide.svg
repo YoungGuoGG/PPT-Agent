@@ -1,0 +1,1036 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#040428" stop-opacity="0.8"/><stop offset="0" stop-color="#020E36" stop-opacity="0.86"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad5" x1="0" y1="0" x2="1" y2="1"><stop offset="0.95" stop-color="#14326B"/><stop offset="0" stop-color="#0A163A"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="4" flood-color="#005DA2" flood-opacity="0.4"/></filter><linearGradient id="ggrad6" x1="0" y1="0" x2="1" y2="1"><stop offset="0.95" stop-color="#14326B"/><stop offset="0" stop-color="#0A163A"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="4" flood-color="#005DA2" flood-opacity="0.4"/></filter><linearGradient id="ggrad7" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="1" stop-color="#4472C4" stop-opacity="0.35"/><stop offset="0" stop-color="#4472C4" stop-opacity="0"/></linearGradient><linearGradient id="ggrad8" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.29" stop-color="#08153B" stop-opacity="0.9"/><stop offset="1" stop-color="#00467A" stop-opacity="0"/></linearGradient><linearGradient id="ggrad9" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="1" stop-color="#C1EFFF" stop-opacity="0.19"/><stop offset="0" stop-color="#C1EFFF" stop-opacity="0"/><stop offset="0.4" stop-color="#C1EFFF" stop-opacity="0.09"/></linearGradient><linearGradient id="ggrad10" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="1" stop-color="#C1EFFF" stop-opacity="0.19"/><stop offset="0" stop-color="#C1EFFF" stop-opacity="0"/><stop offset="0.4" stop-color="#C1EFFF" stop-opacity="0.09"/></linearGradient><linearGradient id="ggrad11" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="1" stop-color="#C1EFFF" stop-opacity="0.19"/><stop offset="0" stop-color="#C1EFFF" stop-opacity="0"/><stop offset="0.4" stop-color="#C1EFFF" stop-opacity="0.09"/></linearGradient><linearGradient id="ggrad12" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#003385" stop-opacity="0"/><stop offset="1" stop-color="#00B0F0" stop-opacity="0.47"/></linearGradient><linearGradient id="ggrad13" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#003385" stop-opacity="0"/><stop offset="1" stop-color="#00B0F0" stop-opacity="0.47"/></linearGradient><linearGradient id="ggrad14" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#003385" stop-opacity="0"/><stop offset="1" stop-color="#00B0F0" stop-opacity="0.47"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-4" data-name="图片 3" transform="translate(109.09 410.21) scale(-1 1) translate(-109.09 -410.21)">
+<image href="assets/image1_fx_865c50a5.png" x="1.28" y="99.92" width="215.61" height="620.58" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2" transform="translate(640 360.96) scale(-1 1) translate(-640 -360.96)">
+<image href="assets/image2.jpeg" x="0" y="0.96" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-12" data-name="图片 11" transform="translate(87.31 384.43) scale(-1 1) translate(-87.31 -384.43)">
+<image href="assets/image1_fx_865c50a5.png" x="-13.57" y="94.06" width="201.77" height="580.72" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="0" y="0" width="1280" height="720.96" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-10" data-name="图片 9" transform="rotate(32.44 1200.83 -71.31)">
+<image href="assets/image3.png" x="671.51" y="-686.57" width="1058.65" height="1230.52" preserveAspectRatio="none"/>
+</g>
+<g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">市场分析</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="203.02" y="97.86" width="873.95" height="62.77" fill="none"/>
+<text x="640" y="132.12" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, &quot;微软雅黑&quot;, sans-serif" font-size="34.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="34.67">请输入内容</tspan><tspan fill="url(#txtgrad3)" font-size="37.33">请输入内容</tspan></text>
+</g>
+<g id="shape-8" data-name="矩形: 圆角 7">
+<rect x="656.43" y="193.69" width="569.72" height="472.43" rx="12.91" ry="12.91" fill="#68F0FE" fill-opacity="0.1" stroke="#68F0FE" stroke-opacity="0.47" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="矩形 6">
+<rect x="706.77" y="238.33" width="466.66" height="170.51" fill="url(#ggrad4)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+</g>
+<g id="shape-9" data-name="矩形: 圆角 8">
+<rect x="793.86" y="173.24" width="293.04" height="50.29" rx="25.15" ry="25.15" fill="url(#ggrad5)" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-12" data-name="矩形: 圆角 11">
+<rect x="53.84" y="193.69" width="587.53" height="472.43" rx="12.91" ry="12.91" fill="#68F0FE" fill-opacity="0.1" stroke="#68F0FE" stroke-opacity="0.47" stroke-width="1"/>
+</g>
+<g id="shape-14" data-name="图表 13">
+<rect x="67.08" y="246.24" width="574.29" height="306.99" fill="none" stroke="#999999" stroke-dasharray="4 4"/><text x="354.23" y="399.73" text-anchor="middle" font-size="14" fill="#999999">[chart]</text>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="672.51" y="613.99" width="536.99" height="48.33" fill="none"/>
+<text x="941.01" y="641.46" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">请输入内容</tspan><tspan fill="#FFC000" font-size="32" font-weight="bold">请输入内容</tspan></text>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="126.88" y="518.22" width="81.2" height="32.11" fill="none"/>
+<text x="136.48" y="538.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">2019</tspan><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">年</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="228.34" y="518.22" width="81.2" height="32.11" fill="none"/>
+<text x="237.94" y="538.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">2020</tspan><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">年</tspan></text>
+</g>
+<g id="shape-24" data-name="文本框 23">
+<rect x="329.8" y="518.22" width="81.2" height="32.11" fill="none"/>
+<text x="339.4" y="538.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">2021</tspan><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">年</tspan></text>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="431.26" y="518.22" width="81.2" height="32.11" fill="none"/>
+<text x="440.86" y="538.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">2022</tspan><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">年</tspan></text>
+</g>
+<g id="shape-34" data-name="文本框 33">
+<rect x="532.72" y="518.22" width="81.2" height="32.11" fill="none"/>
+<text x="542.32" y="538.89" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="18.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">2023</tspan><tspan fill="#FFFFFF" font-size="18.67" font-weight="bold">年</tspan></text>
+</g>
+<g id="shape-42" data-name="矩形: 圆角 41">
+<rect x="79.15" y="173.24" width="536.4" height="50.29" rx="25.15" ry="25.15" fill="url(#ggrad6)" stroke="#FFFFFF" stroke-opacity="0.4" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-43" data-name="文本框 42">
+<rect x="97.18" y="180.8" width="428.46" height="35.4" fill="none"/>
+<text x="106.78" y="203.73" text-anchor="start" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">1111-1111</tspan><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">年可编辑市场规模（单位：亿元）</tspan></text>
+</g>
+<g id="shape-46" data-name="椭圆 45">
+<ellipse cx="350.54" cy="631.55" rx="263.38" ry="22.2" fill="url(#ggrad7)" stroke-width="1.333" stroke="#4472C4" stroke-opacity="0"/>
+</g>
+<g id="shape-48" data-name="文本框 47">
+<rect x="158.82" y="563.3" width="377.01" height="48.33" fill="none"/>
+<text x="347.32" y="590.77" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">请输入内容</tspan><tspan fill="#FFC000" font-size="32" font-weight="bold">请输入内容</tspan></text>
+</g>
+<g id="shape-49" data-name="文本框 48">
+<rect x="876.15" y="181.47" width="163.38" height="35.4" fill="none"/>
+<text x="885.75" y="204.4" text-anchor="start" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="21.33" font-weight="bold">可编辑领域</tspan></text>
+</g>
+<g id="shape-50" data-name="矩形 49" transform="translate(939.84 374.44) scale(1 -1) translate(-939.84 -374.44)">
+<rect x="704.78" y="338.96" width="470.13" height="70.95" fill="url(#ggrad8)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-51" data-name="文本框 50">
+<rect x="745.63" y="350.94" width="404.22" height="56.17" fill="none"/>
+<text x="755.23" y="376.14" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">XXXX</tspan><tspan fill="#FFFFFF" font-size="24">市场规模</tspan><tspan fill="#FFFFFF" font-size="24">1111</tspan><tspan fill="#FFFFFF" font-size="24">年约为</tspan><tspan fill="#FFFFFF" font-size="24"> </tspan><tspan fill="#FFC000" font-size="32" font-weight="bold">1</tspan><tspan fill="#FFFFFF" font-size="24" font-weight="bold">亿元</tspan></text>
+</g>
+<g id="shape-54" data-name="组合 53">
+<g id="shape-59" data-name="方能演亦1-9" transform="rotate(270 697.81 556.21)">
+<path d="M 698.01 553.83 L 698.01 558.59 L 697.6 558.59 L 697.6 553.83 L 698.01 553.83" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-60" data-name="方能演亦1-10" transform="rotate(273.6 697.91 553.41)">
+<path d="M 698.12 551.03 L 698.12 555.79 L 697.71 555.79 L 697.71 551.03 L 698.12 551.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-61" data-name="方能演亦1-11" transform="rotate(277.2 698.23 550.62)">
+<path d="M 698.44 548.24 L 698.44 553 L 698.03 553 L 698.03 548.24 L 698.44 548.24" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-62" data-name="方能演亦1-12" transform="rotate(280.8 698.77 547.84)">
+<path d="M 698.97 545.46 L 698.97 550.23 L 698.56 550.23 L 698.56 545.46 L 698.97 545.46" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-63" data-name="方能演亦1-13" transform="rotate(284.4 699.51 545.11)">
+<path d="M 699.72 542.73 L 699.72 547.49 L 699.31 547.49 L 699.31 542.73 L 699.72 542.73" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-64" data-name="方能演亦1-14" transform="rotate(288 700.46 542.41)">
+<path d="M 700.67 540.03 L 700.67 544.79 L 700.26 544.79 L 700.26 540.03 L 700.67 540.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-65" data-name="方能演亦1-15" transform="rotate(291.6 701.62 539.77)">
+<path d="M 701.83 537.39 L 701.83 542.15 L 701.41 542.15 L 701.41 537.39 L 701.83 537.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-66" data-name="方能演亦1-16" transform="rotate(295.2 702.97 537.2)">
+<path d="M 703.18 534.82 L 703.18 539.58 L 702.77 539.58 L 702.77 534.82 L 703.18 534.82" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-67" data-name="方能演亦1-17" transform="rotate(298.8 704.52 534.7)">
+<path d="M 704.73 532.32 L 704.73 537.08 L 704.31 537.08 L 704.31 532.32 L 704.73 532.32" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-68" data-name="方能演亦1-18" transform="rotate(302.4 706.26 532.28)">
+<path d="M 706.46 529.9 L 706.46 534.66 L 706.05 534.66 L 706.05 529.9 L 706.46 529.9" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-69" data-name="方能演亦1-19" transform="rotate(306 708.17 529.96)">
+<path d="M 708.38 527.58 L 708.38 532.34 L 707.97 532.34 L 707.97 527.58 L 708.38 527.58" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-70" data-name="方能演亦1-20" transform="rotate(309.6 710.27 527.74)">
+<path d="M 710.47 525.36 L 710.47 530.12 L 710.06 530.12 L 710.06 525.36 L 710.47 525.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-71" data-name="方能演亦1-21" transform="rotate(313.2 712.52 525.64)">
+<path d="M 712.73 523.26 L 712.73 528.02 L 712.31 528.02 L 712.31 523.26 L 712.73 523.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-72" data-name="方能演亦1-22" transform="rotate(316.8 714.93 523.66)">
+<path d="M 715.14 521.28 L 715.14 526.04 L 714.73 526.04 L 714.73 521.28 L 715.14 521.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-73" data-name="方能演亦1-23" transform="rotate(320.4 717.49 521.8)">
+<path d="M 717.7 519.42 L 717.7 524.18 L 717.28 524.18 L 717.28 519.42 L 717.7 519.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-74" data-name="方能演亦1-24" transform="rotate(324 720.19 520.08)">
+<path d="M 720.39 517.7 L 720.39 522.46 L 719.98 522.46 L 719.98 517.7 L 720.39 517.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-75" data-name="方能演亦1-25" transform="rotate(327.6 723.01 518.5)">
+<path d="M 723.21 516.12 L 723.21 520.88 L 722.8 520.88 L 722.8 516.12 L 723.21 516.12" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-76" data-name="方能演亦1-26" transform="rotate(331.2 725.94 517.08)">
+<path d="M 726.15 514.7 L 726.15 519.46 L 725.74 519.46 L 725.74 514.7 L 726.15 514.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-77" data-name="方能演亦1-27" transform="rotate(334.8 728.98 515.8)">
+<path d="M 729.19 513.42 L 729.19 518.18 L 728.77 518.18 L 728.77 513.42 L 729.19 513.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-78" data-name="方能演亦1-28" transform="rotate(338.4 732.11 514.69)">
+<path d="M 732.32 512.31 L 732.32 517.07 L 731.9 517.07 L 731.9 512.31 L 732.32 512.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-79" data-name="方能演亦1-29" transform="rotate(342 735.32 513.74)">
+<path d="M 735.53 511.36 L 735.53 516.12 L 735.11 516.12 L 735.11 511.36 L 735.53 511.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-80" data-name="方能演亦1-30" transform="rotate(345.6 738.6 512.95)">
+<path d="M 738.8 510.57 L 738.8 515.33 L 738.39 515.33 L 738.39 510.57 L 738.8 510.57" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-81" data-name="方能演亦1-31" transform="rotate(349.2 741.92 512.34)">
+<path d="M 742.13 509.96 L 742.13 514.72 L 741.72 514.72 L 741.72 509.96 L 742.13 509.96" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-82" data-name="方能演亦1-32" transform="rotate(352.8 745.29 511.9)">
+<path d="M 745.5 509.52 L 745.5 514.28 L 745.09 514.28 L 745.09 509.52 L 745.5 509.52" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-83" data-name="方能演亦1-33" transform="rotate(356.4 748.69 511.64)">
+<path d="M 748.89 509.26 L 748.89 514.02 L 748.48 514.02 L 748.48 509.26 L 748.89 509.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-84" data-name="方能演亦1-34">
+<path d="M 752.3 509.17 L 752.3 513.93 L 751.89 513.93 L 751.89 509.17 L 752.3 509.17" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-85" data-name="方能演亦1-35" transform="rotate(3.6 755.51 511.64)">
+<path d="M 755.71 509.26 L 755.71 514.02 L 755.3 514.02 L 755.3 509.26 L 755.71 509.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-86" data-name="方能演亦1-36" transform="rotate(7.2 758.9 511.9)">
+<path d="M 759.11 509.52 L 759.11 514.28 L 758.69 514.28 L 758.69 509.52 L 759.11 509.52" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-87" data-name="方能演亦1-37" transform="rotate(10.8 762.27 512.34)">
+<path d="M 762.48 509.96 L 762.48 514.72 L 762.06 514.72 L 762.06 509.96 L 762.48 509.96" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-88" data-name="方能演亦1-38" transform="rotate(14.4 765.6 512.95)">
+<path d="M 765.81 510.57 L 765.81 515.33 L 765.39 515.33 L 765.39 510.57 L 765.81 510.57" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-89" data-name="方能演亦1-39" transform="rotate(18 768.87 513.74)">
+<path d="M 769.08 511.36 L 769.08 516.12 L 768.67 516.12 L 768.67 511.36 L 769.08 511.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-90" data-name="方能演亦1-40" transform="rotate(21.6 772.08 514.69)">
+<path d="M 772.29 512.31 L 772.29 517.07 L 771.88 517.07 L 771.88 512.31 L 772.29 512.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-91" data-name="方能演亦1-41" transform="rotate(25.2 775.21 515.8)">
+<path d="M 775.42 513.42 L 775.42 518.18 L 775.01 518.18 L 775.01 513.42 L 775.42 513.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-92" data-name="方能演亦1-42" transform="rotate(28.8 778.25 517.08)">
+<path d="M 778.46 514.7 L 778.46 519.46 L 778.05 519.46 L 778.05 514.7 L 778.46 514.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-93" data-name="方能演亦1-43" transform="rotate(32.4 781.19 518.5)">
+<path d="M 781.39 516.12 L 781.39 520.88 L 780.98 520.88 L 780.98 516.12 L 781.39 516.12" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-94" data-name="方能演亦1-44" transform="rotate(36 784.01 520.08)">
+<path d="M 784.22 517.7 L 784.22 522.46 L 783.8 522.46 L 783.8 517.7 L 784.22 517.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-95" data-name="方能演亦1-45" transform="rotate(39.6 786.7 521.8)">
+<path d="M 786.91 519.42 L 786.91 524.18 L 786.5 524.18 L 786.5 519.42 L 786.91 519.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-96" data-name="方能演亦1-46" transform="rotate(43.2 789.26 523.66)">
+<path d="M 789.47 521.28 L 789.47 526.04 L 789.06 526.04 L 789.06 521.28 L 789.47 521.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-97" data-name="方能演亦1-47" transform="rotate(46.8 791.67 525.64)">
+<path d="M 791.88 523.26 L 791.88 528.02 L 791.47 528.02 L 791.47 523.26 L 791.88 523.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-98" data-name="方能演亦1-48" transform="rotate(50.4 793.93 527.74)">
+<path d="M 794.14 525.36 L 794.14 530.12 L 793.72 530.12 L 793.72 525.36 L 794.14 525.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-99" data-name="方能演亦1-49" transform="rotate(54 796.02 529.96)">
+<path d="M 796.23 527.58 L 796.23 532.34 L 795.81 532.34 L 795.81 527.58 L 796.23 527.58" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-100" data-name="方能演亦1-50" transform="rotate(57.6 797.94 532.28)">
+<path d="M 798.14 529.9 L 798.14 534.66 L 797.73 534.66 L 797.73 529.9 L 798.14 529.9" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-101" data-name="方能演亦1-51" transform="rotate(61.2 799.67 534.7)">
+<path d="M 799.88 532.32 L 799.88 537.08 L 799.47 537.08 L 799.47 532.32 L 799.88 532.32" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-102" data-name="方能演亦1-52" transform="rotate(64.8 801.22 537.2)">
+<path d="M 801.43 534.82 L 801.43 539.58 L 801.01 539.58 L 801.01 534.82 L 801.43 534.82" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-103" data-name="方能演亦1-53" transform="rotate(68.4 802.58 539.77)">
+<path d="M 802.78 537.39 L 802.78 542.15 L 802.37 542.15 L 802.37 537.39 L 802.78 537.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-104" data-name="方能演亦1-54" transform="rotate(72 803.73 542.41)">
+<path d="M 803.94 540.03 L 803.94 544.79 L 803.52 544.79 L 803.52 540.03 L 803.94 540.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-105" data-name="方能演亦1-55" transform="rotate(75.6 804.68 545.11)">
+<path d="M 804.89 542.73 L 804.89 547.49 L 804.48 547.49 L 804.48 542.73 L 804.89 542.73" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-106" data-name="方能演亦1-56" transform="rotate(79.2 805.43 547.84)">
+<path d="M 805.63 545.46 L 805.63 550.23 L 805.22 550.23 L 805.22 545.46 L 805.63 545.46" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-107" data-name="方能演亦1-57" transform="rotate(82.8 805.96 550.62)">
+<path d="M 806.17 548.24 L 806.17 553 L 805.75 553 L 805.75 548.24 L 806.17 548.24" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-108" data-name="方能演亦1-58" transform="rotate(86.4 806.28 553.41)">
+<path d="M 806.49 551.03 L 806.49 555.79 L 806.07 555.79 L 806.07 551.03 L 806.49 551.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-109" data-name="方能演亦1-59" transform="rotate(90 806.39 556.21)">
+<path d="M 806.59 553.83 L 806.59 558.59 L 806.18 558.59 L 806.18 553.83 L 806.59 553.83" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-110" data-name="方能演亦1-60" transform="rotate(93.6 806.28 559.02)">
+<path d="M 806.49 556.64 L 806.49 561.4 L 806.07 561.4 L 806.07 556.64 L 806.49 556.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-111" data-name="方能演亦1-61" transform="rotate(97.2 805.96 561.81)">
+<path d="M 806.17 559.43 L 806.17 564.19 L 805.75 564.19 L 805.75 559.43 L 806.17 559.43" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-112" data-name="方能演亦1-62" transform="rotate(100.8 805.43 564.58)">
+<path d="M 805.63 562.2 L 805.63 566.96 L 805.22 566.96 L 805.22 562.2 L 805.63 562.2" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-113" data-name="方能演亦1-63" transform="rotate(104.4 804.68 567.32)">
+<path d="M 804.89 564.94 L 804.89 569.7 L 804.48 569.7 L 804.48 564.94 L 804.89 564.94" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-114" data-name="方能演亦1-64" transform="rotate(108 803.73 570.02)">
+<path d="M 803.94 567.64 L 803.94 572.4 L 803.52 572.4 L 803.52 567.64 L 803.94 567.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-115" data-name="方能演亦1-65" transform="rotate(111.6 802.58 572.66)">
+<path d="M 802.78 570.28 L 802.78 575.04 L 802.37 575.04 L 802.37 570.28 L 802.78 570.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-116" data-name="方能演亦1-66" transform="rotate(115.2 801.22 575.23)">
+<path d="M 801.43 572.85 L 801.43 577.61 L 801.01 577.61 L 801.01 572.85 L 801.43 572.85" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-117" data-name="方能演亦1-67" transform="rotate(118.8 799.67 577.73)">
+<path d="M 799.88 575.35 L 799.88 580.11 L 799.47 580.11 L 799.47 575.35 L 799.88 575.35" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-118" data-name="方能演亦1-68" transform="rotate(122.4 797.94 580.15)">
+<path d="M 798.14 577.77 L 798.14 582.53 L 797.73 582.53 L 797.73 577.77 L 798.14 577.77" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-119" data-name="方能演亦1-69" transform="rotate(126 796.02 582.47)">
+<path d="M 796.23 580.09 L 796.23 584.85 L 795.81 584.85 L 795.81 580.09 L 796.23 580.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-120" data-name="方能演亦1-70" transform="rotate(129.6 793.93 584.68)">
+<path d="M 794.14 582.3 L 794.14 587.06 L 793.72 587.06 L 793.72 582.3 L 794.14 582.3" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-121" data-name="方能演亦1-71" transform="rotate(133.2 791.67 586.79)">
+<path d="M 791.88 584.41 L 791.88 589.17 L 791.47 589.17 L 791.47 584.41 L 791.88 584.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-122" data-name="方能演亦1-72" transform="rotate(136.8 789.26 588.77)">
+<path d="M 789.47 586.39 L 789.47 591.15 L 789.06 591.15 L 789.06 586.39 L 789.47 586.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-123" data-name="方能演亦1-73" transform="rotate(140.4 786.7 590.63)">
+<path d="M 786.91 588.25 L 786.91 593.01 L 786.5 593.01 L 786.5 588.25 L 786.91 588.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-124" data-name="方能演亦1-74" transform="rotate(144 784.01 592.35)">
+<path d="M 784.22 589.97 L 784.22 594.73 L 783.8 594.73 L 783.8 589.97 L 784.22 589.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-125" data-name="方能演亦1-75" transform="rotate(147.6 781.19 593.92)">
+<path d="M 781.39 591.54 L 781.39 596.3 L 780.98 596.3 L 780.98 591.54 L 781.39 591.54" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-126" data-name="方能演亦1-76" transform="rotate(151.2 778.25 595.35)">
+<path d="M 778.46 592.97 L 778.46 597.73 L 778.05 597.73 L 778.05 592.97 L 778.46 592.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-127" data-name="方能演亦1-77" transform="rotate(154.8 775.21 596.63)">
+<path d="M 775.42 594.25 L 775.42 599.01 L 775.01 599.01 L 775.01 594.25 L 775.42 594.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-128" data-name="方能演亦1-78" transform="rotate(158.4 772.08 597.74)">
+<path d="M 772.29 595.36 L 772.29 600.12 L 771.88 600.12 L 771.88 595.36 L 772.29 595.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-129" data-name="方能演亦1-79" transform="rotate(162 768.87 598.69)">
+<path d="M 769.08 596.31 L 769.08 601.07 L 768.67 601.07 L 768.67 596.31 L 769.08 596.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-130" data-name="方能演亦1-80" transform="rotate(165.6 765.6 599.47)">
+<path d="M 765.81 597.09 L 765.81 601.85 L 765.39 601.85 L 765.39 597.09 L 765.81 597.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-131" data-name="方能演亦1-81" transform="rotate(169.2 762.27 600.09)">
+<path d="M 762.48 597.71 L 762.48 602.47 L 762.06 602.47 L 762.06 597.71 L 762.48 597.71" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-132" data-name="方能演亦1-82" transform="rotate(172.8 758.9 600.52)">
+<path d="M 759.11 598.14 L 759.11 602.9 L 758.69 602.9 L 758.69 598.14 L 759.11 598.14" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-133" data-name="方能演亦1-83" transform="rotate(176.4 755.51 600.79)">
+<path d="M 755.71 598.41 L 755.71 603.17 L 755.3 603.17 L 755.3 598.41 L 755.71 598.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-134" data-name="方能演亦1-84" transform="rotate(180 752.1 600.88)">
+<path d="M 752.3 598.5 L 752.3 603.26 L 751.89 603.26 L 751.89 598.5 L 752.3 598.5" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-135" data-name="方能演亦1-85" transform="rotate(183.6 748.69 600.79)">
+<path d="M 748.89 598.41 L 748.89 603.17 L 748.48 603.17 L 748.48 598.41 L 748.89 598.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-136" data-name="方能演亦1-86" transform="rotate(187.2 745.29 600.52)">
+<path d="M 745.5 598.14 L 745.5 602.9 L 745.09 602.9 L 745.09 598.14 L 745.5 598.14" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-137" data-name="方能演亦1-87" transform="rotate(190.8 741.92 600.09)">
+<path d="M 742.13 597.71 L 742.13 602.47 L 741.72 602.47 L 741.72 597.71 L 742.13 597.71" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-138" data-name="方能演亦1-88" transform="rotate(194.4 738.6 599.47)">
+<path d="M 738.8 597.09 L 738.8 601.85 L 738.39 601.85 L 738.39 597.09 L 738.8 597.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-139" data-name="方能演亦1-89" transform="rotate(198 735.32 598.69)">
+<path d="M 735.53 596.31 L 735.53 601.07 L 735.11 601.07 L 735.11 596.31 L 735.53 596.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-140" data-name="方能演亦1-90" transform="rotate(201.6 732.11 597.74)">
+<path d="M 732.32 595.36 L 732.32 600.12 L 731.9 600.12 L 731.9 595.36 L 732.32 595.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-141" data-name="方能演亦1-91" transform="rotate(205.2 728.98 596.63)">
+<path d="M 729.19 594.25 L 729.19 599.01 L 728.77 599.01 L 728.77 594.25 L 729.19 594.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-142" data-name="方能演亦1-92" transform="rotate(208.8 725.94 595.35)">
+<path d="M 726.15 592.97 L 726.15 597.73 L 725.74 597.73 L 725.74 592.97 L 726.15 592.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-143" data-name="方能演亦1-93" transform="rotate(212.4 723.01 593.92)">
+<path d="M 723.21 591.54 L 723.21 596.3 L 722.8 596.3 L 722.8 591.54 L 723.21 591.54" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-144" data-name="方能演亦1-94" transform="rotate(216 720.19 592.35)">
+<path d="M 720.39 589.97 L 720.39 594.73 L 719.98 594.73 L 719.98 589.97 L 720.39 589.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-145" data-name="方能演亦1-95" transform="rotate(219.6 717.49 590.63)">
+<path d="M 717.7 588.25 L 717.7 593.01 L 717.28 593.01 L 717.28 588.25 L 717.7 588.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-146" data-name="方能演亦1-96" transform="rotate(223.2 714.93 588.77)">
+<path d="M 715.14 586.39 L 715.14 591.15 L 714.73 591.15 L 714.73 586.39 L 715.14 586.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-147" data-name="方能演亦1-97" transform="rotate(226.8 712.52 586.79)">
+<path d="M 712.73 584.41 L 712.73 589.17 L 712.31 589.17 L 712.31 584.41 L 712.73 584.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-148" data-name="方能演亦1-98" transform="rotate(230.4 710.27 584.68)">
+<path d="M 710.47 582.3 L 710.47 587.06 L 710.06 587.06 L 710.06 582.3 L 710.47 582.3" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-149" data-name="方能演亦1-99" transform="rotate(234 708.17 582.47)">
+<path d="M 708.38 580.09 L 708.38 584.85 L 707.97 584.85 L 707.97 580.09 L 708.38 580.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-150" data-name="方能演亦1-100" transform="rotate(237.6 706.26 580.15)">
+<path d="M 706.46 577.77 L 706.46 582.53 L 706.05 582.53 L 706.05 577.77 L 706.46 577.77" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-151" data-name="方能演亦1-101" transform="rotate(241.2 704.52 577.73)">
+<path d="M 704.73 575.35 L 704.73 580.11 L 704.31 580.11 L 704.31 575.35 L 704.73 575.35" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-152" data-name="方能演亦1-102" transform="rotate(244.8 702.97 575.23)">
+<path d="M 703.18 572.85 L 703.18 577.61 L 702.77 577.61 L 702.77 572.85 L 703.18 572.85" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-153" data-name="方能演亦1-103" transform="rotate(248.4 701.62 572.66)">
+<path d="M 701.83 570.28 L 701.83 575.04 L 701.41 575.04 L 701.41 570.28 L 701.83 570.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-154" data-name="方能演亦1-104" transform="rotate(252 700.46 570.02)">
+<path d="M 700.67 567.64 L 700.67 572.4 L 700.26 572.4 L 700.26 567.64 L 700.67 567.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-155" data-name="方能演亦1-105" transform="rotate(255.6 699.51 567.32)">
+<path d="M 699.72 564.94 L 699.72 569.7 L 699.31 569.7 L 699.31 564.94 L 699.72 564.94" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-156" data-name="方能演亦1-106" transform="rotate(259.2 698.77 564.58)">
+<path d="M 698.97 562.2 L 698.97 566.96 L 698.56 566.96 L 698.56 562.2 L 698.97 562.2" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-157" data-name="方能演亦1-107" transform="rotate(262.8 698.23 561.81)">
+<path d="M 698.44 559.43 L 698.44 564.19 L 698.03 564.19 L 698.03 559.43 L 698.44 559.43" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-158" data-name="方能演亦1-108" transform="rotate(266.4 697.91 559.02)">
+<path d="M 698.12 556.64 L 698.12 561.4 L 697.71 561.4 L 697.71 556.64 L 698.12 556.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-57" data-name="方能演亦1-111">
+<path d="M 678.76 466.51 L 825.89 466.51 L 807 551.55 L 806.76 551.55 L 806.43 552.35 C 802.49 558.64 779.79 563.47 752.37 563.47 C 724.94 563.47 702.24 558.64 698.3 552.35 L 697.97 551.55 L 697.64 551.55 Z" fill="url(#ggrad9)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-167" data-name="组合 166">
+<g id="shape-172" data-name="方能演亦1-9" transform="rotate(270 885.99 556.21)">
+<path d="M 886.2 553.83 L 886.2 558.59 L 885.78 558.59 L 885.78 553.83 L 886.2 553.83" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-173" data-name="方能演亦1-10" transform="rotate(273.6 886.1 553.41)">
+<path d="M 886.3 551.03 L 886.3 555.79 L 885.89 555.79 L 885.89 551.03 L 886.3 551.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-174" data-name="方能演亦1-11" transform="rotate(277.2 886.42 550.62)">
+<path d="M 886.63 548.24 L 886.63 553 L 886.21 553 L 886.21 548.24 L 886.63 548.24" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-175" data-name="方能演亦1-12" transform="rotate(280.8 886.95 547.84)">
+<path d="M 887.16 545.46 L 887.16 550.23 L 886.75 550.23 L 886.75 545.46 L 887.16 545.46" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-176" data-name="方能演亦1-13" transform="rotate(284.4 887.7 545.11)">
+<path d="M 887.9 542.73 L 887.9 547.49 L 887.49 547.49 L 887.49 542.73 L 887.9 542.73" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-177" data-name="方能演亦1-14" transform="rotate(288 888.65 542.41)">
+<path d="M 888.85 540.03 L 888.85 544.79 L 888.44 544.79 L 888.44 540.03 L 888.85 540.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-178" data-name="方能演亦1-15" transform="rotate(291.6 889.8 539.77)">
+<path d="M 890.01 537.39 L 890.01 542.15 L 889.6 542.15 L 889.6 537.39 L 890.01 537.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-179" data-name="方能演亦1-16" transform="rotate(295.2 891.16 537.2)">
+<path d="M 891.36 534.82 L 891.36 539.58 L 890.95 539.58 L 890.95 534.82 L 891.36 534.82" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-180" data-name="方能演亦1-17" transform="rotate(298.8 892.71 534.7)">
+<path d="M 892.91 532.32 L 892.91 537.08 L 892.5 537.08 L 892.5 532.32 L 892.91 532.32" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-181" data-name="方能演亦1-18" transform="rotate(302.4 894.44 532.28)">
+<path d="M 894.65 529.9 L 894.65 534.66 L 894.24 534.66 L 894.24 529.9 L 894.65 529.9" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-182" data-name="方能演亦1-19" transform="rotate(306 896.36 529.96)">
+<path d="M 896.57 527.58 L 896.57 532.34 L 896.15 532.34 L 896.15 527.58 L 896.57 527.58" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-183" data-name="方能演亦1-20" transform="rotate(309.6 898.45 527.74)">
+<path d="M 898.66 525.36 L 898.66 530.12 L 898.24 530.12 L 898.24 525.36 L 898.66 525.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-184" data-name="方能演亦1-21" transform="rotate(313.2 900.71 525.64)">
+<path d="M 900.91 523.26 L 900.91 528.02 L 900.5 528.02 L 900.5 523.26 L 900.91 523.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-185" data-name="方能演亦1-22" transform="rotate(316.8 903.12 523.66)">
+<path d="M 903.32 521.28 L 903.32 526.04 L 902.91 526.04 L 902.91 521.28 L 903.32 521.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-186" data-name="方能演亦1-23" transform="rotate(320.4 905.68 521.8)">
+<path d="M 905.88 519.42 L 905.88 524.18 L 905.47 524.18 L 905.47 519.42 L 905.88 519.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-187" data-name="方能演亦1-24" transform="rotate(324 908.37 520.08)">
+<path d="M 908.58 517.7 L 908.58 522.46 L 908.16 522.46 L 908.16 517.7 L 908.58 517.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-188" data-name="方能演亦1-25" transform="rotate(327.6 911.19 518.5)">
+<path d="M 911.4 516.12 L 911.4 520.88 L 910.98 520.88 L 910.98 516.12 L 911.4 516.12" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-189" data-name="方能演亦1-26" transform="rotate(331.2 914.13 517.08)">
+<path d="M 914.33 514.7 L 914.33 519.46 L 913.92 519.46 L 913.92 514.7 L 914.33 514.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-190" data-name="方能演亦1-27" transform="rotate(334.8 917.17 515.8)">
+<path d="M 917.37 513.42 L 917.37 518.18 L 916.96 518.18 L 916.96 513.42 L 917.37 513.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-191" data-name="方能演亦1-28" transform="rotate(338.4 920.3 514.69)">
+<path d="M 920.5 512.31 L 920.5 517.07 L 920.09 517.07 L 920.09 512.31 L 920.5 512.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-192" data-name="方能演亦1-29" transform="rotate(342 923.5 513.74)">
+<path d="M 923.71 511.36 L 923.71 516.12 L 923.3 516.12 L 923.3 511.36 L 923.71 511.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-193" data-name="方能演亦1-30" transform="rotate(345.6 926.78 512.95)">
+<path d="M 926.99 510.57 L 926.99 515.33 L 926.57 515.33 L 926.57 510.57 L 926.99 510.57" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-194" data-name="方能演亦1-31" transform="rotate(349.2 930.11 512.34)">
+<path d="M 930.32 509.96 L 930.32 514.72 L 929.9 514.72 L 929.9 509.96 L 930.32 509.96" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-195" data-name="方能演亦1-32" transform="rotate(352.8 933.48 511.9)">
+<path d="M 933.68 509.52 L 933.68 514.28 L 933.27 514.28 L 933.27 509.52 L 933.68 509.52" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-196" data-name="方能演亦1-33" transform="rotate(356.4 936.87 511.64)">
+<path d="M 937.08 509.26 L 937.08 514.02 L 936.67 514.02 L 936.67 509.26 L 937.08 509.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-197" data-name="方能演亦1-34">
+<path d="M 940.49 509.17 L 940.49 513.93 L 940.08 513.93 L 940.08 509.17 L 940.49 509.17" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-198" data-name="方能演亦1-35" transform="rotate(3.6 943.69 511.64)">
+<path d="M 943.9 509.26 L 943.9 514.02 L 943.48 514.02 L 943.48 509.26 L 943.9 509.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-199" data-name="方能演亦1-36" transform="rotate(7.2 947.09 511.9)">
+<path d="M 947.29 509.52 L 947.29 514.28 L 946.88 514.28 L 946.88 509.52 L 947.29 509.52" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-200" data-name="方能演亦1-37" transform="rotate(10.8 950.45 512.34)">
+<path d="M 950.66 509.96 L 950.66 514.72 L 950.25 514.72 L 950.25 509.96 L 950.66 509.96" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-201" data-name="方能演亦1-38" transform="rotate(14.4 953.78 512.95)">
+<path d="M 953.99 510.57 L 953.99 515.33 L 953.58 515.33 L 953.58 510.57 L 953.99 510.57" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-202" data-name="方能演亦1-39" transform="rotate(18 957.06 513.74)">
+<path d="M 957.27 511.36 L 957.27 516.12 L 956.85 516.12 L 956.85 511.36 L 957.27 511.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-203" data-name="方能演亦1-40" transform="rotate(21.6 960.27 514.69)">
+<path d="M 960.47 512.31 L 960.47 517.07 L 960.06 517.07 L 960.06 512.31 L 960.47 512.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-204" data-name="方能演亦1-41" transform="rotate(25.2 963.4 515.8)">
+<path d="M 963.6 513.42 L 963.6 518.18 L 963.19 518.18 L 963.19 513.42 L 963.6 513.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-205" data-name="方能演亦1-42" transform="rotate(28.8 966.44 517.08)">
+<path d="M 966.64 514.7 L 966.64 519.46 L 966.23 519.46 L 966.23 514.7 L 966.64 514.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-206" data-name="方能演亦1-43" transform="rotate(32.4 969.37 518.5)">
+<path d="M 969.58 516.12 L 969.58 520.88 L 969.17 520.88 L 969.17 516.12 L 969.58 516.12" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-207" data-name="方能演亦1-44" transform="rotate(36 972.19 520.08)">
+<path d="M 972.4 517.7 L 972.4 522.46 L 971.99 522.46 L 971.99 517.7 L 972.4 517.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-208" data-name="方能演亦1-45" transform="rotate(39.6 974.89 521.8)">
+<path d="M 975.09 519.42 L 975.09 524.18 L 974.68 524.18 L 974.68 519.42 L 975.09 519.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-209" data-name="方能演亦1-46" transform="rotate(43.2 977.45 523.66)">
+<path d="M 977.65 521.28 L 977.65 526.04 L 977.24 526.04 L 977.24 521.28 L 977.65 521.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-210" data-name="方能演亦1-47" transform="rotate(46.8 979.86 525.64)">
+<path d="M 980.06 523.26 L 980.06 528.02 L 979.65 528.02 L 979.65 523.26 L 980.06 523.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-211" data-name="方能演亦1-48" transform="rotate(50.4 982.11 527.74)">
+<path d="M 982.32 525.36 L 982.32 530.12 L 981.91 530.12 L 981.91 525.36 L 982.32 525.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-212" data-name="方能演亦1-49" transform="rotate(54 984.2 529.96)">
+<path d="M 984.41 527.58 L 984.41 532.34 L 984 532.34 L 984 527.58 L 984.41 527.58" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-213" data-name="方能演亦1-50" transform="rotate(57.6 986.12 532.28)">
+<path d="M 986.33 529.9 L 986.33 534.66 L 985.91 534.66 L 985.91 529.9 L 986.33 529.9" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-214" data-name="方能演亦1-51" transform="rotate(61.2 987.86 534.7)">
+<path d="M 988.06 532.32 L 988.06 537.08 L 987.65 537.08 L 987.65 532.32 L 988.06 532.32" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-215" data-name="方能演亦1-52" transform="rotate(64.8 989.41 537.2)">
+<path d="M 989.61 534.82 L 989.61 539.58 L 989.2 539.58 L 989.2 534.82 L 989.61 534.82" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-216" data-name="方能演亦1-53" transform="rotate(68.4 990.76 539.77)">
+<path d="M 990.97 537.39 L 990.97 542.15 L 990.55 542.15 L 990.55 537.39 L 990.97 537.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-217" data-name="方能演亦1-54" transform="rotate(72 991.92 542.41)">
+<path d="M 992.12 540.03 L 992.12 544.79 L 991.71 544.79 L 991.71 540.03 L 992.12 540.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-218" data-name="方能演亦1-55" transform="rotate(75.6 992.87 545.11)">
+<path d="M 993.07 542.73 L 993.07 547.49 L 992.66 547.49 L 992.66 542.73 L 993.07 542.73" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-219" data-name="方能演亦1-56" transform="rotate(79.2 993.61 547.84)">
+<path d="M 993.82 545.46 L 993.82 550.23 L 993.4 550.23 L 993.4 545.46 L 993.82 545.46" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-220" data-name="方能演亦1-57" transform="rotate(82.8 994.14 550.62)">
+<path d="M 994.35 548.24 L 994.35 553 L 993.94 553 L 993.94 548.24 L 994.35 548.24" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-221" data-name="方能演亦1-58" transform="rotate(86.4 994.47 553.41)">
+<path d="M 994.67 551.03 L 994.67 555.79 L 994.26 555.79 L 994.26 551.03 L 994.67 551.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-222" data-name="方能演亦1-59" transform="rotate(90 994.57 556.21)">
+<path d="M 994.78 553.83 L 994.78 558.59 L 994.37 558.59 L 994.37 553.83 L 994.78 553.83" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-223" data-name="方能演亦1-60" transform="rotate(93.6 994.47 559.02)">
+<path d="M 994.67 556.64 L 994.67 561.4 L 994.26 561.4 L 994.26 556.64 L 994.67 556.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-224" data-name="方能演亦1-61" transform="rotate(97.2 994.14 561.81)">
+<path d="M 994.35 559.43 L 994.35 564.19 L 993.94 564.19 L 993.94 559.43 L 994.35 559.43" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-225" data-name="方能演亦1-62" transform="rotate(100.8 993.61 564.58)">
+<path d="M 993.82 562.2 L 993.82 566.96 L 993.4 566.96 L 993.4 562.2 L 993.82 562.2" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-226" data-name="方能演亦1-63" transform="rotate(104.4 992.87 567.32)">
+<path d="M 993.07 564.94 L 993.07 569.7 L 992.66 569.7 L 992.66 564.94 L 993.07 564.94" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-227" data-name="方能演亦1-64" transform="rotate(108 991.92 570.02)">
+<path d="M 992.12 567.64 L 992.12 572.4 L 991.71 572.4 L 991.71 567.64 L 992.12 567.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-228" data-name="方能演亦1-65" transform="rotate(111.6 990.76 572.66)">
+<path d="M 990.97 570.28 L 990.97 575.04 L 990.55 575.04 L 990.55 570.28 L 990.97 570.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-229" data-name="方能演亦1-66" transform="rotate(115.2 989.41 575.23)">
+<path d="M 989.61 572.85 L 989.61 577.61 L 989.2 577.61 L 989.2 572.85 L 989.61 572.85" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-230" data-name="方能演亦1-67" transform="rotate(118.8 987.86 577.73)">
+<path d="M 988.06 575.35 L 988.06 580.11 L 987.65 580.11 L 987.65 575.35 L 988.06 575.35" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-231" data-name="方能演亦1-68" transform="rotate(122.4 986.12 580.15)">
+<path d="M 986.33 577.77 L 986.33 582.53 L 985.91 582.53 L 985.91 577.77 L 986.33 577.77" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-232" data-name="方能演亦1-69" transform="rotate(126 984.2 582.47)">
+<path d="M 984.41 580.09 L 984.41 584.85 L 984 584.85 L 984 580.09 L 984.41 580.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-233" data-name="方能演亦1-70" transform="rotate(129.6 982.11 584.68)">
+<path d="M 982.32 582.3 L 982.32 587.06 L 981.91 587.06 L 981.91 582.3 L 982.32 582.3" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-234" data-name="方能演亦1-71" transform="rotate(133.2 979.86 586.79)">
+<path d="M 980.06 584.41 L 980.06 589.17 L 979.65 589.17 L 979.65 584.41 L 980.06 584.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-235" data-name="方能演亦1-72" transform="rotate(136.8 977.45 588.77)">
+<path d="M 977.65 586.39 L 977.65 591.15 L 977.24 591.15 L 977.24 586.39 L 977.65 586.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-236" data-name="方能演亦1-73" transform="rotate(140.4 974.89 590.63)">
+<path d="M 975.09 588.25 L 975.09 593.01 L 974.68 593.01 L 974.68 588.25 L 975.09 588.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-237" data-name="方能演亦1-74" transform="rotate(144 972.19 592.35)">
+<path d="M 972.4 589.97 L 972.4 594.73 L 971.99 594.73 L 971.99 589.97 L 972.4 589.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-238" data-name="方能演亦1-75" transform="rotate(147.6 969.37 593.92)">
+<path d="M 969.58 591.54 L 969.58 596.3 L 969.17 596.3 L 969.17 591.54 L 969.58 591.54" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-239" data-name="方能演亦1-76" transform="rotate(151.2 966.44 595.35)">
+<path d="M 966.64 592.97 L 966.64 597.73 L 966.23 597.73 L 966.23 592.97 L 966.64 592.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-240" data-name="方能演亦1-77" transform="rotate(154.8 963.4 596.63)">
+<path d="M 963.6 594.25 L 963.6 599.01 L 963.19 599.01 L 963.19 594.25 L 963.6 594.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-241" data-name="方能演亦1-78" transform="rotate(158.4 960.27 597.74)">
+<path d="M 960.47 595.36 L 960.47 600.12 L 960.06 600.12 L 960.06 595.36 L 960.47 595.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-242" data-name="方能演亦1-79" transform="rotate(162 957.06 598.69)">
+<path d="M 957.27 596.31 L 957.27 601.07 L 956.85 601.07 L 956.85 596.31 L 957.27 596.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-243" data-name="方能演亦1-80" transform="rotate(165.6 953.78 599.47)">
+<path d="M 953.99 597.09 L 953.99 601.85 L 953.58 601.85 L 953.58 597.09 L 953.99 597.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-244" data-name="方能演亦1-81" transform="rotate(169.2 950.45 600.09)">
+<path d="M 950.66 597.71 L 950.66 602.47 L 950.25 602.47 L 950.25 597.71 L 950.66 597.71" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-245" data-name="方能演亦1-82" transform="rotate(172.8 947.09 600.52)">
+<path d="M 947.29 598.14 L 947.29 602.9 L 946.88 602.9 L 946.88 598.14 L 947.29 598.14" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-246" data-name="方能演亦1-83" transform="rotate(176.4 943.69 600.79)">
+<path d="M 943.9 598.41 L 943.9 603.17 L 943.48 603.17 L 943.48 598.41 L 943.9 598.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-247" data-name="方能演亦1-84" transform="rotate(180 940.28 600.88)">
+<path d="M 940.49 598.5 L 940.49 603.26 L 940.08 603.26 L 940.08 598.5 L 940.49 598.5" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-248" data-name="方能演亦1-85" transform="rotate(183.6 936.87 600.79)">
+<path d="M 937.08 598.41 L 937.08 603.17 L 936.67 603.17 L 936.67 598.41 L 937.08 598.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-249" data-name="方能演亦1-86" transform="rotate(187.2 933.48 600.52)">
+<path d="M 933.68 598.14 L 933.68 602.9 L 933.27 602.9 L 933.27 598.14 L 933.68 598.14" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-250" data-name="方能演亦1-87" transform="rotate(190.8 930.11 600.09)">
+<path d="M 930.32 597.71 L 930.32 602.47 L 929.9 602.47 L 929.9 597.71 L 930.32 597.71" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-251" data-name="方能演亦1-88" transform="rotate(194.4 926.78 599.47)">
+<path d="M 926.99 597.09 L 926.99 601.85 L 926.57 601.85 L 926.57 597.09 L 926.99 597.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-252" data-name="方能演亦1-89" transform="rotate(198 923.5 598.69)">
+<path d="M 923.71 596.31 L 923.71 601.07 L 923.3 601.07 L 923.3 596.31 L 923.71 596.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-253" data-name="方能演亦1-90" transform="rotate(201.6 920.3 597.74)">
+<path d="M 920.5 595.36 L 920.5 600.12 L 920.09 600.12 L 920.09 595.36 L 920.5 595.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-254" data-name="方能演亦1-91" transform="rotate(205.2 917.17 596.63)">
+<path d="M 917.37 594.25 L 917.37 599.01 L 916.96 599.01 L 916.96 594.25 L 917.37 594.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-255" data-name="方能演亦1-92" transform="rotate(208.8 914.13 595.35)">
+<path d="M 914.33 592.97 L 914.33 597.73 L 913.92 597.73 L 913.92 592.97 L 914.33 592.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-256" data-name="方能演亦1-93" transform="rotate(212.4 911.19 593.92)">
+<path d="M 911.4 591.54 L 911.4 596.3 L 910.98 596.3 L 910.98 591.54 L 911.4 591.54" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-257" data-name="方能演亦1-94" transform="rotate(216 908.37 592.35)">
+<path d="M 908.58 589.97 L 908.58 594.73 L 908.16 594.73 L 908.16 589.97 L 908.58 589.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-258" data-name="方能演亦1-95" transform="rotate(219.6 905.68 590.63)">
+<path d="M 905.88 588.25 L 905.88 593.01 L 905.47 593.01 L 905.47 588.25 L 905.88 588.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-259" data-name="方能演亦1-96" transform="rotate(223.2 903.12 588.77)">
+<path d="M 903.32 586.39 L 903.32 591.15 L 902.91 591.15 L 902.91 586.39 L 903.32 586.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-260" data-name="方能演亦1-97" transform="rotate(226.8 900.71 586.79)">
+<path d="M 900.91 584.41 L 900.91 589.17 L 900.5 589.17 L 900.5 584.41 L 900.91 584.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-261" data-name="方能演亦1-98" transform="rotate(230.4 898.45 584.68)">
+<path d="M 898.66 582.3 L 898.66 587.06 L 898.24 587.06 L 898.24 582.3 L 898.66 582.3" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-262" data-name="方能演亦1-99" transform="rotate(234 896.36 582.47)">
+<path d="M 896.57 580.09 L 896.57 584.85 L 896.15 584.85 L 896.15 580.09 L 896.57 580.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-263" data-name="方能演亦1-100" transform="rotate(237.6 894.44 580.15)">
+<path d="M 894.65 577.77 L 894.65 582.53 L 894.24 582.53 L 894.24 577.77 L 894.65 577.77" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-264" data-name="方能演亦1-101" transform="rotate(241.2 892.71 577.73)">
+<path d="M 892.91 575.35 L 892.91 580.11 L 892.5 580.11 L 892.5 575.35 L 892.91 575.35" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-265" data-name="方能演亦1-102" transform="rotate(244.8 891.16 575.23)">
+<path d="M 891.36 572.85 L 891.36 577.61 L 890.95 577.61 L 890.95 572.85 L 891.36 572.85" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-266" data-name="方能演亦1-103" transform="rotate(248.4 889.8 572.66)">
+<path d="M 890.01 570.28 L 890.01 575.04 L 889.6 575.04 L 889.6 570.28 L 890.01 570.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-267" data-name="方能演亦1-104" transform="rotate(252 888.65 570.02)">
+<path d="M 888.85 567.64 L 888.85 572.4 L 888.44 572.4 L 888.44 567.64 L 888.85 567.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-268" data-name="方能演亦1-105" transform="rotate(255.6 887.7 567.32)">
+<path d="M 887.9 564.94 L 887.9 569.7 L 887.49 569.7 L 887.49 564.94 L 887.9 564.94" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-269" data-name="方能演亦1-106" transform="rotate(259.2 886.95 564.58)">
+<path d="M 887.16 562.2 L 887.16 566.96 L 886.75 566.96 L 886.75 562.2 L 887.16 562.2" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-270" data-name="方能演亦1-107" transform="rotate(262.8 886.42 561.81)">
+<path d="M 886.63 559.43 L 886.63 564.19 L 886.21 564.19 L 886.21 559.43 L 886.63 559.43" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-271" data-name="方能演亦1-108" transform="rotate(266.4 886.1 559.02)">
+<path d="M 886.3 556.64 L 886.3 561.4 L 885.89 561.4 L 885.89 556.64 L 886.3 556.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-170" data-name="方能演亦1-111">
+<path d="M 866.94 466.51 L 1014.07 466.51 L 995.19 551.55 L 994.95 551.55 L 994.62 552.35 C 990.68 558.64 967.97 563.47 940.55 563.47 C 913.13 563.47 890.42 558.64 886.49 552.35 L 886.15 551.55 L 885.83 551.55 Z" fill="url(#ggrad10)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-280" data-name="组合 279">
+<g id="shape-285" data-name="方能演亦1-9" transform="rotate(270 1074.18 556.21)">
+<path d="M 1074.38 553.83 L 1074.38 558.59 L 1073.97 558.59 L 1073.97 553.83 L 1074.38 553.83" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-286" data-name="方能演亦1-10" transform="rotate(273.6 1074.28 553.41)">
+<path d="M 1074.49 551.03 L 1074.49 555.79 L 1074.08 555.79 L 1074.08 551.03 L 1074.49 551.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-287" data-name="方能演亦1-11" transform="rotate(277.2 1074.6 550.62)">
+<path d="M 1074.81 548.24 L 1074.81 553 L 1074.4 553 L 1074.4 548.24 L 1074.81 548.24" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-288" data-name="方能演亦1-12" transform="rotate(280.8 1075.14 547.84)">
+<path d="M 1075.34 545.46 L 1075.34 550.23 L 1074.93 550.23 L 1074.93 545.46 L 1075.34 545.46" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-289" data-name="方能演亦1-13" transform="rotate(284.4 1075.88 545.11)">
+<path d="M 1076.09 542.73 L 1076.09 547.49 L 1075.67 547.49 L 1075.67 542.73 L 1076.09 542.73" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-290" data-name="方能演亦1-14" transform="rotate(288 1076.83 542.41)">
+<path d="M 1077.04 540.03 L 1077.04 544.79 L 1076.63 544.79 L 1076.63 540.03 L 1077.04 540.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-291" data-name="方能演亦1-15" transform="rotate(291.6 1077.99 539.77)">
+<path d="M 1078.19 537.39 L 1078.19 542.15 L 1077.78 542.15 L 1077.78 537.39 L 1078.19 537.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-292" data-name="方能演亦1-16" transform="rotate(295.2 1079.34 537.2)">
+<path d="M 1079.55 534.82 L 1079.55 539.58 L 1079.14 539.58 L 1079.14 534.82 L 1079.55 534.82" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-293" data-name="方能演亦1-17" transform="rotate(298.8 1080.89 534.7)">
+<path d="M 1081.1 532.32 L 1081.1 537.08 L 1080.68 537.08 L 1080.68 532.32 L 1081.1 532.32" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-294" data-name="方能演亦1-18" transform="rotate(302.4 1082.63 532.28)">
+<path d="M 1082.83 529.9 L 1082.83 534.66 L 1082.42 534.66 L 1082.42 529.9 L 1082.83 529.9" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-295" data-name="方能演亦1-19" transform="rotate(306 1084.54 529.96)">
+<path d="M 1084.75 527.58 L 1084.75 532.34 L 1084.34 532.34 L 1084.34 527.58 L 1084.75 527.58" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-296" data-name="方能演亦1-20" transform="rotate(309.6 1086.63 527.74)">
+<path d="M 1086.84 525.36 L 1086.84 530.12 L 1086.43 530.12 L 1086.43 525.36 L 1086.84 525.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-297" data-name="方能演亦1-21" transform="rotate(313.2 1088.89 525.64)">
+<path d="M 1089.1 523.26 L 1089.1 528.02 L 1088.68 528.02 L 1088.68 523.26 L 1089.1 523.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-298" data-name="方能演亦1-22" transform="rotate(316.8 1091.3 523.66)">
+<path d="M 1091.51 521.28 L 1091.51 526.04 L 1091.1 526.04 L 1091.1 521.28 L 1091.51 521.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-299" data-name="方能演亦1-23" transform="rotate(320.4 1093.86 521.8)">
+<path d="M 1094.07 519.42 L 1094.07 524.18 L 1093.65 524.18 L 1093.65 519.42 L 1094.07 519.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-300" data-name="方能演亦1-24" transform="rotate(324 1096.55 520.08)">
+<path d="M 1096.76 517.7 L 1096.76 522.46 L 1096.35 522.46 L 1096.35 517.7 L 1096.76 517.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-301" data-name="方能演亦1-25" transform="rotate(327.6 1099.38 518.5)">
+<path d="M 1099.58 516.12 L 1099.58 520.88 L 1099.17 520.88 L 1099.17 516.12 L 1099.58 516.12" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-302" data-name="方能演亦1-26" transform="rotate(331.2 1102.31 517.08)">
+<path d="M 1102.52 514.7 L 1102.52 519.46 L 1102.1 519.46 L 1102.1 514.7 L 1102.52 514.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-303" data-name="方能演亦1-27" transform="rotate(334.8 1105.35 515.8)">
+<path d="M 1105.56 513.42 L 1105.56 518.18 L 1105.14 518.18 L 1105.14 513.42 L 1105.56 513.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-304" data-name="方能演亦1-28" transform="rotate(338.4 1108.48 514.69)">
+<path d="M 1108.69 512.31 L 1108.69 517.07 L 1108.27 517.07 L 1108.27 512.31 L 1108.69 512.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-305" data-name="方能演亦1-29" transform="rotate(342 1111.69 513.74)">
+<path d="M 1111.9 511.36 L 1111.9 516.12 L 1111.48 516.12 L 1111.48 511.36 L 1111.9 511.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-306" data-name="方能演亦1-30" transform="rotate(345.6 1114.96 512.95)">
+<path d="M 1115.17 510.57 L 1115.17 515.33 L 1114.76 515.33 L 1114.76 510.57 L 1115.17 510.57" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-307" data-name="方能演亦1-31" transform="rotate(349.2 1118.29 512.34)">
+<path d="M 1118.5 509.96 L 1118.5 514.72 L 1118.09 514.72 L 1118.09 509.96 L 1118.5 509.96" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-308" data-name="方能演亦1-32" transform="rotate(352.8 1121.66 511.9)">
+<path d="M 1121.87 509.52 L 1121.87 514.28 L 1121.46 514.28 L 1121.46 509.52 L 1121.87 509.52" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-309" data-name="方能演亦1-33" transform="rotate(356.4 1125.06 511.64)">
+<path d="M 1125.26 509.26 L 1125.26 514.02 L 1124.85 514.02 L 1124.85 509.26 L 1125.26 509.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-310" data-name="方能演亦1-34">
+<path d="M 1128.67 509.17 L 1128.67 513.93 L 1128.26 513.93 L 1128.26 509.17 L 1128.67 509.17" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-311" data-name="方能演亦1-35" transform="rotate(3.6 1131.88 511.64)">
+<path d="M 1132.08 509.26 L 1132.08 514.02 L 1131.67 514.02 L 1131.67 509.26 L 1132.08 509.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-312" data-name="方能演亦1-36" transform="rotate(7.2 1135.27 511.9)">
+<path d="M 1135.48 509.52 L 1135.48 514.28 L 1135.06 514.28 L 1135.06 509.52 L 1135.48 509.52" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-313" data-name="方能演亦1-37" transform="rotate(10.8 1138.64 512.34)">
+<path d="M 1138.85 509.96 L 1138.85 514.72 L 1138.43 514.72 L 1138.43 509.96 L 1138.85 509.96" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-314" data-name="方能演亦1-38" transform="rotate(14.4 1141.97 512.95)">
+<path d="M 1142.17 510.57 L 1142.17 515.33 L 1141.76 515.33 L 1141.76 510.57 L 1142.17 510.57" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-315" data-name="方能演亦1-39" transform="rotate(18 1145.24 513.74)">
+<path d="M 1145.45 511.36 L 1145.45 516.12 L 1145.04 516.12 L 1145.04 511.36 L 1145.45 511.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-316" data-name="方能演亦1-40" transform="rotate(21.6 1148.45 514.69)">
+<path d="M 1148.66 512.31 L 1148.66 517.07 L 1148.25 517.07 L 1148.25 512.31 L 1148.66 512.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-317" data-name="方能演亦1-41" transform="rotate(25.2 1151.58 515.8)">
+<path d="M 1151.79 513.42 L 1151.79 518.18 L 1151.38 518.18 L 1151.38 513.42 L 1151.79 513.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-318" data-name="方能演亦1-42" transform="rotate(28.8 1154.62 517.08)">
+<path d="M 1154.83 514.7 L 1154.83 519.46 L 1154.41 519.46 L 1154.41 514.7 L 1154.83 514.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-319" data-name="方能演亦1-43" transform="rotate(32.4 1157.56 518.5)">
+<path d="M 1157.76 516.12 L 1157.76 520.88 L 1157.35 520.88 L 1157.35 516.12 L 1157.76 516.12" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-320" data-name="方能演亦1-44" transform="rotate(36 1160.38 520.08)">
+<path d="M 1160.58 517.7 L 1160.58 522.46 L 1160.17 522.46 L 1160.17 517.7 L 1160.58 517.7" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-321" data-name="方能演亦1-45" transform="rotate(39.6 1163.07 521.8)">
+<path d="M 1163.28 519.42 L 1163.28 524.18 L 1162.87 524.18 L 1162.87 519.42 L 1163.28 519.42" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-322" data-name="方能演亦1-46" transform="rotate(43.2 1165.63 523.66)">
+<path d="M 1165.84 521.28 L 1165.84 526.04 L 1165.42 526.04 L 1165.42 521.28 L 1165.84 521.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-323" data-name="方能演亦1-47" transform="rotate(46.8 1168.04 525.64)">
+<path d="M 1168.25 523.26 L 1168.25 528.02 L 1167.84 528.02 L 1167.84 523.26 L 1168.25 523.26" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-324" data-name="方能演亦1-48" transform="rotate(50.4 1170.3 527.74)">
+<path d="M 1170.5 525.36 L 1170.5 530.12 L 1170.09 530.12 L 1170.09 525.36 L 1170.5 525.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-325" data-name="方能演亦1-49" transform="rotate(54 1172.39 529.96)">
+<path d="M 1172.6 527.58 L 1172.6 532.34 L 1172.18 532.34 L 1172.18 527.58 L 1172.6 527.58" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-326" data-name="方能演亦1-50" transform="rotate(57.6 1174.31 532.28)">
+<path d="M 1174.51 529.9 L 1174.51 534.66 L 1174.1 534.66 L 1174.1 529.9 L 1174.51 529.9" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-327" data-name="方能演亦1-51" transform="rotate(61.2 1176.04 534.7)">
+<path d="M 1176.25 532.32 L 1176.25 537.08 L 1175.84 537.08 L 1175.84 532.32 L 1176.25 532.32" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-328" data-name="方能演亦1-52" transform="rotate(64.8 1177.59 537.2)">
+<path d="M 1177.8 534.82 L 1177.8 539.58 L 1177.38 539.58 L 1177.38 534.82 L 1177.8 534.82" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-329" data-name="方能演亦1-53" transform="rotate(68.4 1178.94 539.77)">
+<path d="M 1179.15 537.39 L 1179.15 542.15 L 1178.74 542.15 L 1178.74 537.39 L 1179.15 537.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-330" data-name="方能演亦1-54" transform="rotate(72 1180.1 542.41)">
+<path d="M 1180.31 540.03 L 1180.31 544.79 L 1179.89 544.79 L 1179.89 540.03 L 1180.31 540.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-331" data-name="方能演亦1-55" transform="rotate(75.6 1181.05 545.11)">
+<path d="M 1181.26 542.73 L 1181.26 547.49 L 1180.85 547.49 L 1180.85 542.73 L 1181.26 542.73" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-332" data-name="方能演亦1-56" transform="rotate(79.2 1181.8 547.84)">
+<path d="M 1182 545.46 L 1182 550.23 L 1181.59 550.23 L 1181.59 545.46 L 1182 545.46" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-333" data-name="方能演亦1-57" transform="rotate(82.8 1182.33 550.62)">
+<path d="M 1182.54 548.24 L 1182.54 553 L 1182.12 553 L 1182.12 548.24 L 1182.54 548.24" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-334" data-name="方能演亦1-58" transform="rotate(86.4 1182.65 553.41)">
+<path d="M 1182.86 551.03 L 1182.86 555.79 L 1182.44 555.79 L 1182.44 551.03 L 1182.86 551.03" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-335" data-name="方能演亦1-59" transform="rotate(90 1182.76 556.21)">
+<path d="M 1182.96 553.83 L 1182.96 558.59 L 1182.55 558.59 L 1182.55 553.83 L 1182.96 553.83" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-336" data-name="方能演亦1-60" transform="rotate(93.6 1182.65 559.02)">
+<path d="M 1182.86 556.64 L 1182.86 561.4 L 1182.44 561.4 L 1182.44 556.64 L 1182.86 556.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-337" data-name="方能演亦1-61" transform="rotate(97.2 1182.33 561.81)">
+<path d="M 1182.54 559.43 L 1182.54 564.19 L 1182.12 564.19 L 1182.12 559.43 L 1182.54 559.43" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-338" data-name="方能演亦1-62" transform="rotate(100.8 1181.8 564.58)">
+<path d="M 1182 562.2 L 1182 566.96 L 1181.59 566.96 L 1181.59 562.2 L 1182 562.2" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-339" data-name="方能演亦1-63" transform="rotate(104.4 1181.05 567.32)">
+<path d="M 1181.26 564.94 L 1181.26 569.7 L 1180.85 569.7 L 1180.85 564.94 L 1181.26 564.94" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-340" data-name="方能演亦1-64" transform="rotate(108 1180.1 570.02)">
+<path d="M 1180.31 567.64 L 1180.31 572.4 L 1179.89 572.4 L 1179.89 567.64 L 1180.31 567.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-341" data-name="方能演亦1-65" transform="rotate(111.6 1178.94 572.66)">
+<path d="M 1179.15 570.28 L 1179.15 575.04 L 1178.74 575.04 L 1178.74 570.28 L 1179.15 570.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-342" data-name="方能演亦1-66" transform="rotate(115.2 1177.59 575.23)">
+<path d="M 1177.8 572.85 L 1177.8 577.61 L 1177.38 577.61 L 1177.38 572.85 L 1177.8 572.85" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-343" data-name="方能演亦1-67" transform="rotate(118.8 1176.04 577.73)">
+<path d="M 1176.25 575.35 L 1176.25 580.11 L 1175.84 580.11 L 1175.84 575.35 L 1176.25 575.35" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-344" data-name="方能演亦1-68" transform="rotate(122.4 1174.31 580.15)">
+<path d="M 1174.51 577.77 L 1174.51 582.53 L 1174.1 582.53 L 1174.1 577.77 L 1174.51 577.77" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-345" data-name="方能演亦1-69" transform="rotate(126 1172.39 582.47)">
+<path d="M 1172.6 580.09 L 1172.6 584.85 L 1172.18 584.85 L 1172.18 580.09 L 1172.6 580.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-346" data-name="方能演亦1-70" transform="rotate(129.6 1170.3 584.68)">
+<path d="M 1170.5 582.3 L 1170.5 587.06 L 1170.09 587.06 L 1170.09 582.3 L 1170.5 582.3" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-347" data-name="方能演亦1-71" transform="rotate(133.2 1168.04 586.79)">
+<path d="M 1168.25 584.41 L 1168.25 589.17 L 1167.84 589.17 L 1167.84 584.41 L 1168.25 584.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-348" data-name="方能演亦1-72" transform="rotate(136.8 1165.63 588.77)">
+<path d="M 1165.84 586.39 L 1165.84 591.15 L 1165.42 591.15 L 1165.42 586.39 L 1165.84 586.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-349" data-name="方能演亦1-73" transform="rotate(140.4 1163.07 590.63)">
+<path d="M 1163.28 588.25 L 1163.28 593.01 L 1162.87 593.01 L 1162.87 588.25 L 1163.28 588.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-350" data-name="方能演亦1-74" transform="rotate(144 1160.38 592.35)">
+<path d="M 1160.58 589.97 L 1160.58 594.73 L 1160.17 594.73 L 1160.17 589.97 L 1160.58 589.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-351" data-name="方能演亦1-75" transform="rotate(147.6 1157.56 593.92)">
+<path d="M 1157.76 591.54 L 1157.76 596.3 L 1157.35 596.3 L 1157.35 591.54 L 1157.76 591.54" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-352" data-name="方能演亦1-76" transform="rotate(151.2 1154.62 595.35)">
+<path d="M 1154.83 592.97 L 1154.83 597.73 L 1154.41 597.73 L 1154.41 592.97 L 1154.83 592.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-353" data-name="方能演亦1-77" transform="rotate(154.8 1151.58 596.63)">
+<path d="M 1151.79 594.25 L 1151.79 599.01 L 1151.38 599.01 L 1151.38 594.25 L 1151.79 594.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-354" data-name="方能演亦1-78" transform="rotate(158.4 1148.45 597.74)">
+<path d="M 1148.66 595.36 L 1148.66 600.12 L 1148.25 600.12 L 1148.25 595.36 L 1148.66 595.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-355" data-name="方能演亦1-79" transform="rotate(162 1145.24 598.69)">
+<path d="M 1145.45 596.31 L 1145.45 601.07 L 1145.04 601.07 L 1145.04 596.31 L 1145.45 596.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-356" data-name="方能演亦1-80" transform="rotate(165.6 1141.97 599.47)">
+<path d="M 1142.17 597.09 L 1142.17 601.85 L 1141.76 601.85 L 1141.76 597.09 L 1142.17 597.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-357" data-name="方能演亦1-81" transform="rotate(169.2 1138.64 600.09)">
+<path d="M 1138.85 597.71 L 1138.85 602.47 L 1138.43 602.47 L 1138.43 597.71 L 1138.85 597.71" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-358" data-name="方能演亦1-82" transform="rotate(172.8 1135.27 600.52)">
+<path d="M 1135.48 598.14 L 1135.48 602.9 L 1135.06 602.9 L 1135.06 598.14 L 1135.48 598.14" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-359" data-name="方能演亦1-83" transform="rotate(176.4 1131.88 600.79)">
+<path d="M 1132.08 598.41 L 1132.08 603.17 L 1131.67 603.17 L 1131.67 598.41 L 1132.08 598.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-360" data-name="方能演亦1-84" transform="rotate(180 1128.47 600.88)">
+<path d="M 1128.67 598.5 L 1128.67 603.26 L 1128.26 603.26 L 1128.26 598.5 L 1128.67 598.5" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-361" data-name="方能演亦1-85" transform="rotate(183.6 1125.06 600.79)">
+<path d="M 1125.26 598.41 L 1125.26 603.17 L 1124.85 603.17 L 1124.85 598.41 L 1125.26 598.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-362" data-name="方能演亦1-86" transform="rotate(187.2 1121.66 600.52)">
+<path d="M 1121.87 598.14 L 1121.87 602.9 L 1121.46 602.9 L 1121.46 598.14 L 1121.87 598.14" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-363" data-name="方能演亦1-87" transform="rotate(190.8 1118.29 600.09)">
+<path d="M 1118.5 597.71 L 1118.5 602.47 L 1118.09 602.47 L 1118.09 597.71 L 1118.5 597.71" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-364" data-name="方能演亦1-88" transform="rotate(194.4 1114.96 599.47)">
+<path d="M 1115.17 597.09 L 1115.17 601.85 L 1114.76 601.85 L 1114.76 597.09 L 1115.17 597.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-365" data-name="方能演亦1-89" transform="rotate(198 1111.69 598.69)">
+<path d="M 1111.9 596.31 L 1111.9 601.07 L 1111.48 601.07 L 1111.48 596.31 L 1111.9 596.31" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-366" data-name="方能演亦1-90" transform="rotate(201.6 1108.48 597.74)">
+<path d="M 1108.69 595.36 L 1108.69 600.12 L 1108.27 600.12 L 1108.27 595.36 L 1108.69 595.36" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-367" data-name="方能演亦1-91" transform="rotate(205.2 1105.35 596.63)">
+<path d="M 1105.56 594.25 L 1105.56 599.01 L 1105.14 599.01 L 1105.14 594.25 L 1105.56 594.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-368" data-name="方能演亦1-92" transform="rotate(208.8 1102.31 595.35)">
+<path d="M 1102.52 592.97 L 1102.52 597.73 L 1102.1 597.73 L 1102.1 592.97 L 1102.52 592.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-369" data-name="方能演亦1-93" transform="rotate(212.4 1099.38 593.92)">
+<path d="M 1099.58 591.54 L 1099.58 596.3 L 1099.17 596.3 L 1099.17 591.54 L 1099.58 591.54" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-370" data-name="方能演亦1-94" transform="rotate(216 1096.55 592.35)">
+<path d="M 1096.76 589.97 L 1096.76 594.73 L 1096.35 594.73 L 1096.35 589.97 L 1096.76 589.97" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-371" data-name="方能演亦1-95" transform="rotate(219.6 1093.86 590.63)">
+<path d="M 1094.07 588.25 L 1094.07 593.01 L 1093.65 593.01 L 1093.65 588.25 L 1094.07 588.25" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-372" data-name="方能演亦1-96" transform="rotate(223.2 1091.3 588.77)">
+<path d="M 1091.51 586.39 L 1091.51 591.15 L 1091.1 591.15 L 1091.1 586.39 L 1091.51 586.39" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-373" data-name="方能演亦1-97" transform="rotate(226.8 1088.89 586.79)">
+<path d="M 1089.1 584.41 L 1089.1 589.17 L 1088.68 589.17 L 1088.68 584.41 L 1089.1 584.41" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-374" data-name="方能演亦1-98" transform="rotate(230.4 1086.63 584.68)">
+<path d="M 1086.84 582.3 L 1086.84 587.06 L 1086.43 587.06 L 1086.43 582.3 L 1086.84 582.3" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-375" data-name="方能演亦1-99" transform="rotate(234 1084.54 582.47)">
+<path d="M 1084.75 580.09 L 1084.75 584.85 L 1084.34 584.85 L 1084.34 580.09 L 1084.75 580.09" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-376" data-name="方能演亦1-100" transform="rotate(237.6 1082.63 580.15)">
+<path d="M 1082.83 577.77 L 1082.83 582.53 L 1082.42 582.53 L 1082.42 577.77 L 1082.83 577.77" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-377" data-name="方能演亦1-101" transform="rotate(241.2 1080.89 577.73)">
+<path d="M 1081.1 575.35 L 1081.1 580.11 L 1080.68 580.11 L 1080.68 575.35 L 1081.1 575.35" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-378" data-name="方能演亦1-102" transform="rotate(244.8 1079.34 575.23)">
+<path d="M 1079.55 572.85 L 1079.55 577.61 L 1079.14 577.61 L 1079.14 572.85 L 1079.55 572.85" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-379" data-name="方能演亦1-103" transform="rotate(248.4 1077.99 572.66)">
+<path d="M 1078.19 570.28 L 1078.19 575.04 L 1077.78 575.04 L 1077.78 570.28 L 1078.19 570.28" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-380" data-name="方能演亦1-104" transform="rotate(252 1076.83 570.02)">
+<path d="M 1077.04 567.64 L 1077.04 572.4 L 1076.63 572.4 L 1076.63 567.64 L 1077.04 567.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-381" data-name="方能演亦1-105" transform="rotate(255.6 1075.88 567.32)">
+<path d="M 1076.09 564.94 L 1076.09 569.7 L 1075.67 569.7 L 1075.67 564.94 L 1076.09 564.94" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-382" data-name="方能演亦1-106" transform="rotate(259.2 1075.14 564.58)">
+<path d="M 1075.34 562.2 L 1075.34 566.96 L 1074.93 566.96 L 1074.93 562.2 L 1075.34 562.2" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-383" data-name="方能演亦1-107" transform="rotate(262.8 1074.6 561.81)">
+<path d="M 1074.81 559.43 L 1074.81 564.19 L 1074.4 564.19 L 1074.4 559.43 L 1074.81 559.43" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+<g id="shape-384" data-name="方能演亦1-108" transform="rotate(266.4 1074.28 559.02)">
+<path d="M 1074.49 556.64 L 1074.49 561.4 L 1074.08 561.4 L 1074.08 556.64 L 1074.49 556.64" stroke-width="0.013" stroke="none" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-283" data-name="方能演亦1-111">
+<path d="M 1055.13 466.51 L 1202.25 466.51 L 1183.37 551.55 L 1183.13 551.55 L 1182.8 552.35 C 1178.86 558.64 1156.16 563.47 1128.74 563.47 C 1101.31 563.47 1078.61 558.64 1074.67 552.35 L 1074.34 551.55 L 1074.01 551.55 Z" fill="url(#ggrad11)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-391" data-name="文本框 390">
+<rect x="661.05" y="429.5" width="181.25" height="100.07" fill="none"/>
+<text x="751.68" y="468.23" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XX</tspan></text>
+<text x="751.68" y="489.56" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XXXX</tspan><tspan fill="#FFFFFF" font-size="21.33">公司 </tspan></text>
+<text x="751.68" y="510.9" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">不到</tspan><tspan fill="#FFFFFF" font-size="21.33"> </tspan><tspan fill="#FFC000" font-size="32" font-weight="bold">XXX </tspan><tspan fill="#FFFFFF" font-size="21.33">家</tspan></text>
+</g>
+<g id="shape-392" data-name="文本框 391">
+<rect x="872.14" y="429.5" width="135.28" height="100.17" fill="none"/>
+<text x="939.78" y="468.33" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XX</tspan></text>
+<text x="939.78" y="489.66" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XXXX</tspan><tspan fill="#FFFFFF" font-size="21.33">公司</tspan></text>
+<text x="939.78" y="511" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33"> </tspan><tspan fill="#FFC000" font-size="32" font-weight="bold">0 </tspan><tspan fill="#FFFFFF" font-size="21.33">家</tspan></text>
+</g>
+<g id="shape-393" data-name="文本框 392">
+<rect x="1059.72" y="429.5" width="148.16" height="100.17" fill="none"/>
+<text x="1133.81" y="468.33" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">XXXXX</tspan></text>
+<text x="1133.81" y="489.66" text-anchor="middle" xml:space="preserve" font-family="Calibri, &quot;微软雅黑&quot;, +mn-cs, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">总从业人数</tspan></text>
+<text x="1133.81" y="520.06" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#FFC000" font-weight="bold"><tspan fill="#FFC000" font-size="32" font-weight="bold">X </tspan><tspan fill="#FFFFFF" font-size="21.33">万人</tspan></text>
+</g>
+<g id="shape-401" data-name="任意多边形: 形状 400" transform="rotate(180 940.23 588.81) translate(940.23 588.81) scale(-1 1) translate(-940.23 -588.81)">
+<path d="M 886.28 605.48 L 886.64 605.16 L 890.09 604.82 C 899.93 603.43 909.35 599.58 913.51 594.79 C 915.25 592.79 915.87 590.87 915.51 589.16 L 914.39 587 L 900.87 587 L 937.34 572.14 L 973.8 587 L 960.99 587 L 959.87 589.16 C 959.51 590.87 960.13 592.79 961.86 594.79 C 966.73 600.37 978.73 604.69 990.23 605.3 L 994.02 605.33 L 994.18 605.48 Z" fill="url(#ggrad12)" stroke="#F6F8FC" stroke-opacity="0" stroke-width="1"/>
+</g>
+<g id="shape-402" data-name="任意多边形: 形状 401" transform="rotate(180 1132.47 588.81) translate(1132.47 588.81) scale(-1 1) translate(-1132.47 -588.81)">
+<path d="M 1078.52 605.48 L 1078.88 605.16 L 1082.32 604.82 C 1092.17 603.43 1101.58 599.58 1105.75 594.79 C 1107.49 592.79 1108.11 590.87 1107.75 589.16 L 1106.62 587 L 1093.11 587 L 1129.57 572.14 L 1166.04 587 L 1153.23 587 L 1152.1 589.16 C 1151.74 590.87 1152.36 592.79 1154.1 594.79 C 1158.96 600.37 1170.97 604.69 1182.47 605.3 L 1186.25 605.33 L 1186.42 605.48 Z" fill="url(#ggrad13)" stroke="#F6F8FC" stroke-opacity="0" stroke-width="1"/>
+</g>
+<g id="shape-403" data-name="任意多边形: 形状 402" transform="rotate(180 754.08 588.81) translate(754.08 588.81) scale(-1 1) translate(-754.08 -588.81)">
+<path d="M 700.13 605.48 L 700.48 605.16 L 703.93 604.82 C 713.78 603.43 723.19 599.58 727.36 594.79 C 729.09 592.79 729.71 590.87 729.36 589.16 L 728.23 587 L 714.71 587 L 751.18 572.14 L 787.64 587 L 774.84 587 L 773.71 589.16 C 773.35 590.87 773.97 592.79 775.71 594.79 C 780.57 600.37 792.57 604.69 804.07 605.3 L 807.86 605.33 L 808.03 605.48 Z" fill="url(#ggrad14)" stroke="#F6F8FC" stroke-opacity="0" stroke-width="1"/>
+</g></svg>

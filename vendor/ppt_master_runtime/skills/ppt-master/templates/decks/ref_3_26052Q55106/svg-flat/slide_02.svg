@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="33.33" flood-color="#E988B1" flood-opacity="0.21"/></filter><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFFFFF"/><stop offset="1" stop-color="#63BFFF"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="33.33" flood-color="#E988B1" flood-opacity="0.21"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="33.33" flood-color="#E988B1" flood-opacity="0.21"/></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="33.33" flood-color="#E988B1" flood-opacity="0.21"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-2" data-name="图片 1">
+<image href="../assets/image2.jpeg" x="0.13" y="0" width="1279.67" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-6" data-name="组合 5">
+<g id="shape-8" data-name="图形">
+<rect x="359.4" y="180.2" width="381.87" height="112.32" rx="6.32" ry="6.32" fill="#FFFFFF" stroke-width="2" stroke="#FFFFFF" filter="url(#fx1)"/>
+</g>
+<g id="shape-3" data-name="组合 2">
+<g id="shape-4" data-name="图形">
+<ellipse cx="368.01" cy="203.57" rx="50.34" ry="50.34" fill="#FFC000" stroke-width="0.667" stroke="none"/>
+</g>
+<g id="shape-11" data-name="图形">
+<ellipse cx="368.01" cy="203.56" rx="39.75" ry="39.75" fill="#FFFFFF" stroke-width="0.667" stroke="none"/>
+</g>
+</g>
+<g id="shape-12" data-name="图形">
+<rect x="428.93" y="193.83" width="289.33" height="61.27" fill="none"/>
+<text x="438.53" y="234.9" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="#2749D3"><tspan fill="#2749D3" font-size="42.67">标题一内容</tspan></text>
+</g>
+<g id="shape-13" data-name="图形">
+<rect x="334.18" y="176.78" width="67.36" height="54.78" fill="none"/>
+<text x="343.78" y="213.32" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#FFC000"><tspan fill="#FFC000" font-size="37.33">01</tspan></text>
+</g>
+<g id="shape-15" data-name="图形">
+<rect x="432.84" y="249.22" width="274.99" height="27.33" fill="none"/>
+<text x="442.44" y="266.48" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Normal&quot;, sans-serif" font-size="14.67" fill="#0D0D0D" fill-opacity="0.91"><tspan fill="#0D0D0D" font-size="14.67" fill-opacity="0.91">Enter the title content here</tspan></text>
+</g>
+</g>
+<g id="shape-56" data-name="组合 55">
+<g id="shape-49" data-name="图形" transform="rotate(90 81.43 376.83)">
+<rect x="-49.6" y="352.47" width="262.07" height="48.73" fill="none"/>
+<text x="-48.27" y="375.53" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="-0.07"><tspan fill="#FFFFFF" font-size="24" letter-spacing="-0.07">CONTENTS</tspan></text>
+</g>
+<g id="shape-55" data-name="图形">
+<rect x="106" y="157.6" width="145.53" height="300.4" fill="none"/>
+<text x="115.6" y="264.4" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;Aa未来黑&quot;, sans-serif" font-size="120" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="120">目录</tspan></text>
+</g>
+</g>
+<g id="shape-72" data-name="组合 71">
+<g id="shape-73" data-name="图形">
+<rect x="814.15" y="180.2" width="381.87" height="112.32" rx="6.32" ry="6.32" fill="#FFFFFF" stroke-width="2" stroke="#FFFFFF" filter="url(#fx2)"/>
+</g>
+<g id="shape-74" data-name="组合 73">
+<g id="shape-78" data-name="图形">
+<ellipse cx="822.76" cy="203.57" rx="50.34" ry="50.34" fill="#FFC000" stroke-width="0.667" stroke="none"/>
+</g>
+<g id="shape-79" data-name="图形">
+<ellipse cx="822.76" cy="203.56" rx="39.75" ry="39.75" fill="#FFFFFF" stroke-width="0.667" stroke="none"/>
+</g>
+</g>
+<g id="shape-75" data-name="图形">
+<rect x="883.68" y="193.83" width="289.33" height="61.27" fill="none"/>
+<text x="893.28" y="234.9" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="#2749D3"><tspan fill="#2749D3" font-size="42.67">标题二内容</tspan></text>
+</g>
+<g id="shape-76" data-name="图形">
+<rect x="788.93" y="176.78" width="67.36" height="100.17" fill="none"/>
+<text x="798.53" y="213.32" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#FFC000"><tspan fill="#FFC000" font-size="37.33">02</tspan></text>
+</g>
+<g id="shape-77" data-name="图形">
+<rect x="887.59" y="249.22" width="274.99" height="27.33" fill="none"/>
+<text x="897.19" y="266.48" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Normal&quot;, sans-serif" font-size="14.67" fill="#0D0D0D" fill-opacity="0.91"><tspan fill="#0D0D0D" font-size="14.67" fill-opacity="0.91">Enter the title content here</tspan></text>
+</g>
+</g>
+<g id="shape-80" data-name="组合 79">
+<g id="shape-81" data-name="图形">
+<rect x="361.62" y="345.42" width="381.87" height="112.32" rx="6.32" ry="6.32" fill="#FFFFFF" stroke-width="2" stroke="#FFFFFF" filter="url(#fx3)"/>
+</g>
+<g id="shape-82" data-name="组合 81">
+<g id="shape-86" data-name="图形">
+<ellipse cx="370.23" cy="368.79" rx="50.34" ry="50.34" fill="#FFC000" stroke-width="0.667" stroke="none"/>
+</g>
+<g id="shape-87" data-name="图形">
+<ellipse cx="370.23" cy="368.79" rx="39.75" ry="39.75" fill="#FFFFFF" stroke-width="0.667" stroke="none"/>
+</g>
+</g>
+<g id="shape-83" data-name="图形">
+<rect x="431.15" y="359.06" width="289.33" height="61.27" fill="none"/>
+<text x="440.75" y="400.13" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="#2749D3"><tspan fill="#2749D3" font-size="42.67">标题三内容</tspan></text>
+</g>
+<g id="shape-84" data-name="图形">
+<rect x="336.4" y="342.01" width="67.36" height="100.17" fill="none"/>
+<text x="346" y="378.55" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#FFC000"><tspan fill="#FFC000" font-size="37.33">03</tspan></text>
+</g>
+<g id="shape-85" data-name="图形">
+<rect x="435.06" y="414.45" width="274.99" height="27.33" fill="none"/>
+<text x="444.66" y="431.71" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Normal&quot;, sans-serif" font-size="14.67" fill="#0D0D0D" fill-opacity="0.91"><tspan fill="#0D0D0D" font-size="14.67" fill-opacity="0.91">Enter the title content here</tspan></text>
+</g>
+</g>
+<g id="shape-88" data-name="组合 87">
+<g id="shape-89" data-name="图形">
+<rect x="816.37" y="345.42" width="381.87" height="112.32" rx="6.32" ry="6.32" fill="#FFFFFF" stroke-width="2" stroke="#FFFFFF" filter="url(#fx4)"/>
+</g>
+<g id="shape-90" data-name="组合 89">
+<g id="shape-94" data-name="图形">
+<ellipse cx="824.98" cy="368.79" rx="50.34" ry="50.34" fill="#FFC000" stroke-width="0.667" stroke="none"/>
+</g>
+<g id="shape-95" data-name="图形">
+<ellipse cx="824.98" cy="368.79" rx="39.75" ry="39.75" fill="#FFFFFF" stroke-width="0.667" stroke="none"/>
+</g>
+</g>
+<g id="shape-91" data-name="图形">
+<rect x="885.9" y="359.06" width="289.33" height="61.27" fill="none"/>
+<text x="895.5" y="400.13" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="#2749D3"><tspan fill="#2749D3" font-size="42.67">标题四内容</tspan></text>
+</g>
+<g id="shape-92" data-name="图形">
+<rect x="791.15" y="342.01" width="67.36" height="100.17" fill="none"/>
+<text x="800.75" y="378.55" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="37.33" fill="#FFC000"><tspan fill="#FFC000" font-size="37.33">04</tspan></text>
+</g>
+<g id="shape-93" data-name="图形">
+<rect x="889.81" y="414.45" width="274.99" height="27.33" fill="none"/>
+<text x="899.41" y="431.71" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Normal&quot;, sans-serif" font-size="14.67" fill="#0D0D0D" fill-opacity="0.91"><tspan fill="#0D0D0D" font-size="14.67" fill-opacity="0.91">Enter the title content here</tspan></text>
+</g>
+</g>
+<g id="shape-96" data-name="组合 95">
+<g id="shape-97" data-name="任意多边形: 形状 16">
+<path d="M 190.17 655.33 C 194.35 655.33 197.73 658.72 197.73 662.9 C 197.73 667.08 194.35 670.47 190.17 670.47 C 186 670.47 182.61 667.08 182.61 662.9 C 182.61 658.72 186 655.33 190.17 655.33 Z M 157.65 655.33 C 161.83 655.33 165.21 658.72 165.21 662.9 C 165.21 667.08 161.83 670.47 157.65 670.47 C 153.48 670.47 150.09 667.08 150.09 662.9 C 150.09 658.72 153.48 655.33 157.65 655.33 Z M 125.13 655.33 C 129.31 655.33 132.69 658.72 132.69 662.9 C 132.69 667.08 129.31 670.47 125.13 670.47 C 120.96 670.47 117.57 667.08 117.57 662.9 C 117.57 658.72 120.96 655.33 125.13 655.33 Z M 92.61 655.33 C 96.79 655.33 100.17 658.72 100.17 662.9 C 100.17 667.08 96.79 670.47 92.61 670.47 C 88.44 670.47 85.05 667.08 85.05 662.9 C 85.05 658.72 88.44 655.33 92.61 655.33 Z M 60.09 655.33 C 64.27 655.33 67.65 658.72 67.65 662.9 C 67.65 667.08 64.27 670.47 60.09 670.47 C 55.92 670.47 52.53 667.08 52.53 662.9 C 52.53 658.72 55.92 655.33 60.09 655.33 Z" fill="#FFFFFF" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter"/>
+</g>
+<g id="shape-98" data-name="文本框 97">
+<rect x="248.47" y="648.47" width="969.33" height="32.2" fill="none"/>
+<text x="258.07" y="669.13" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF" fill-opacity="0.51"><tspan fill="#FFFFFF" font-size="18.67" fill-opacity="0.51">Product launch</tspan></text>
+</g>
+<g id="shape-100" data-name="矩形: 圆角 18" transform="rotate(45 80 70.13)">
+<rect x="64.87" y="55" width="30.27" height="30.27" rx="5.04" ry="5.04" fill="none" stroke="#C8E3FB" stroke-width="1"/>
+</g>
+</g></svg>

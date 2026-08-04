@@ -1,0 +1,165 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="3.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="6.67" result="blurred"/><feFlood flood-color="#FD8525" flood-opacity="1" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FC01D7"/>
+<g id="shape-31" data-name="图片 30">
+<image href="assets/image1.png" x="42.54" y="0" width="1237.51" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-32" data-name="图片 31">
+<image href="assets/image2.png" x="58.01" y="201.51" width="130.68" height="178.48" preserveAspectRatio="none"/>
+</g>
+<g id="shape-40" data-name="矩形 39">
+<rect x="442.48" y="137.05" width="714.98" height="470.4" fill="#FFFFFF" fill-opacity="0.87" stroke="#FFFFFF" stroke-width="1"/>
+</g>
+<g id="shape-39" data-name="组合 38">
+<g id="shape-6" data-name="文本框 5">
+<rect x="556.65" y="337.57" width="652.43" height="268.19" fill="none"/>
+<text x="566.25" y="433.04" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="106.67" fill="#EEECE1"><tspan fill="#EEECE1" font-size="106.67">作品展示模板</tspan></text>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="574.35" y="443.29" width="619.22" height="48.68" fill="none"/>
+<text x="583.95" y="459.99" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="14" fill="#EEECE1"><tspan fill="#EEECE1" font-size="14">Never forget what you are, for surely the world will not. Make it your strength. </tspan><tspan x="583.95" dy="16.8" fill="#EEECE1" font-size="14">Never forget what you are , for surely the world will not. </tspan></text>
+</g>
+<g id="shape-17" data-name="组合 16">
+<g id="shape-14" data-name="图片 13">
+<image href="assets/image3.png" x="827.56" y="499.85" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-15" data-name="图片 14">
+<image href="assets/image3.png" x="784.33" y="499.85" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-16" data-name="图片 15">
+<image href="assets/image3.png" x="739.68" y="499.85" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-23" data-name="文本框 22">
+<rect x="556.65" y="270.32" width="204.48" height="87.24" fill="none"/>
+<text x="566.25" y="329.52" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="64" fill="#EEECE1"><tspan fill="#EEECE1" font-size="64">202X</tspan></text>
+</g>
+<g id="shape-25" data-name="组合 24">
+<g id="shape-26" data-name="图片 25">
+<image href="assets/image3.png" x="693.43" y="500.76" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-27" data-name="图片 26">
+<image href="assets/image3.png" x="650.21" y="500.76" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-28" data-name="图片 27">
+<image href="assets/image3.png" x="605.56" y="500.76" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-30" data-name="文本框 29">
+<rect x="762.01" y="270.32" width="401.26" height="96.94" fill="none"/>
+<text x="771.61" y="336.32" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="72" fill="#EEECE1"><tspan fill="#EEECE1" font-size="72">Portfolio</tspan></text>
+</g>
+</g>
+<g id="shape-33" data-name="图片 32">
+<image href="assets/image4.png" x="429.24" y="112.55" width="509.79" height="50.76" preserveAspectRatio="none"/>
+</g>
+<g id="shape-34" data-name="图片 33">
+<image href="assets/image5.png" x="664.28" y="163.31" width="427.03" height="45.64" preserveAspectRatio="none"/>
+</g>
+<g id="shape-55" data-name="组合 54">
+<g id="shape-56" data-name="文本框 55">
+<rect x="516.18" y="391.19" width="623.36" height="126.02" fill="none"/>
+<text x="525.78" y="477.59" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="96" fill="#FFEFE1" font-weight="bold"><tspan fill="#FFEFE1" font-size="96" font-weight="bold">作品</tspan><tspan fill="#FFEFE1" font-size="96">展示模板</tspan></text>
+</g>
+<g id="shape-57" data-name="文本框 56">
+<rect x="531.2" y="494.83" width="591.62" height="47.16" fill="none"/>
+<text x="540.8" y="510.96" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="13.33" fill="#FFEFE1"><tspan fill="#FFEFE1" font-size="13.33">Never forget what you are, for surely the world will not. Make it your strength. </tspan><tspan x="540.8" dy="16" fill="#FFEFE1" font-size="13.33">Never forget what you are , for surely the world will not. </tspan></text>
+</g>
+<g id="shape-59" data-name="组合 58">
+<g id="shape-66" data-name="图片 65">
+<image href="assets/image6.png" x="773.13" y="551.38" width="42.66" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-67" data-name="图片 66">
+<image href="assets/image6.png" x="731.83" y="551.38" width="42.66" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-68" data-name="图片 67">
+<image href="assets/image6.png" x="689.17" y="551.38" width="42.66" height="42.66" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-60" data-name="文本框 59">
+<rect x="514.28" y="321.86" width="195.37" height="80.78" fill="none"/>
+<text x="523.88" y="376.52" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="58.67" fill="#FFEFE1"><tspan fill="#FFEFE1" font-size="58.67">202X</tspan></text>
+</g>
+<g id="shape-61" data-name="组合 60">
+<g id="shape-63" data-name="图片 62">
+<image href="assets/image6.png" x="644.98" y="552.29" width="42.66" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-64" data-name="图片 63">
+<image href="assets/image6.png" x="603.68" y="552.29" width="42.66" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-65" data-name="图片 64">
+<image href="assets/image6.png" x="561.02" y="552.29" width="42.66" height="42.66" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-62" data-name="文本框 61">
+<rect x="710.5" y="321.86" width="383.38" height="87.24" fill="none"/>
+<text x="720.1" y="381.06" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="64" fill="#FFEFE1"><tspan fill="#FFEFE1" font-size="64">Portfolio</tspan></text>
+</g>
+</g>
+<g id="shape-41" data-name="组合 40">
+<g id="shape-42" data-name="文本框 41">
+<rect x="487.11" y="313.14" width="706.46" height="138.94" fill="none"/>
+<text x="496.71" y="408.61" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="106.67" fill="#000000"><tspan fill="#000000" font-size="106.67">作品展示模板</tspan></text>
+</g>
+<g id="shape-43" data-name="文本框 42">
+<rect x="497.03" y="430.88" width="642.5" height="54.25" fill="none"/>
+<text x="818.29" y="449.28" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#000000"><tspan fill="#000000" font-size="16">Never forget what you are, for surely the world will not. Make it your </tspan><tspan x="818.29" dy="19.2" fill="#000000" font-size="16">strength. Never forget what you are , for surely the world will not. </tspan></text>
+</g>
+<g id="shape-44" data-name="文本框 43">
+<rect x="670.19" y="513.15" width="288.92" height="54.53" rx="27.26" ry="27.26" fill="#FFFFFF" fill-opacity="0.6"/>
+<text x="814.65" y="546.41" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Regular&quot;, sans-serif" font-size="24" fill="#000000" letter-spacing="8"><tspan fill="#000000" font-size="24" letter-spacing="8">作者：第一</tspan><tspan fill="#000000" font-size="24" letter-spacing="8">PPT</tspan></text>
+</g>
+<g id="shape-45" data-name="组合 44">
+<g id="shape-52" data-name="图片 51">
+<image href="assets/image3.png" x="758.02" y="475.42" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-53" data-name="图片 52">
+<image href="assets/image3.png" x="714.79" y="475.42" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-54" data-name="图片 53">
+<image href="assets/image3.png" x="670.14" y="475.42" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-46" data-name="文本框 45">
+<rect x="487.11" y="245.89" width="239.77" height="87.24" fill="none"/>
+<text x="496.71" y="305.09" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="64" fill="#000000"><tspan fill="#000000" font-size="64">202X</tspan></text>
+</g>
+<g id="shape-47" data-name="组合 46">
+<g id="shape-49" data-name="图片 48">
+<image href="assets/image3.png" x="623.9" y="476.33" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-50" data-name="图片 49">
+<image href="assets/image3.png" x="580.67" y="476.33" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+<g id="shape-51" data-name="图片 50">
+<image href="assets/image3.png" x="536.02" y="476.33" width="44.65" height="42.66" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-48" data-name="文本框 47">
+<rect x="730.35" y="240.43" width="401.26" height="96.94" fill="none"/>
+<text x="739.95" y="306.43" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="72" fill="#000000"><tspan fill="#000000" font-size="72">Portfolio</tspan></text>
+</g>
+</g>
+<g id="shape-70" data-name="文本框 69">
+<rect x="18.22" y="22.13" width="1237.51" height="38.78" fill="none"/>
+<text x="27.82" y="47.33" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">NEVER FORGET WHAT YOU ARE</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2" transform="rotate(90 425.67 615.63)">
+<rect x="-77.41" y="546.16" width="1006.16" height="138.94" fill="none"/>
+<text x="-67.81" y="596.29" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="53.33" fill="#000000"><tspan fill="#000000" font-size="53.33">PHOTOGRAPHY</tspan></text>
+<text x="-67.81" y="660.29" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="53.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="53.33">EXHIBITION OF</tspan></text>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="362.41" y="551.33" width="640.12" height="87.24" fill="none"/>
+<text x="372.01" y="610.53" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="64" fill="#000000"><tspan fill="#000000" font-size="64">WORKS</tspan></text>
+</g>
+<g id="shape-8" data-name="等腰三角形 7">
+<polygon points="1197.02,491.62 1197.02,650.97 951.69,650.97" fill="#FF8627" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-9" data-name="等腰三角形 8" transform="rotate(237.04 395.85 644.81)">
+<polygon points="427.84,604.08 427.84,685.54 363.85,685.54" fill="#FC01D7" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="等腰三角形 9" transform="rotate(170.29 230.18 414.51)">
+<polygon points="245.12,324.71 297.78,504.31 162.57,504.31" fill="#FC01D7" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="矩形: 圆角 10">
+<rect x="18.75" y="313.81" width="4.8" height="405.28" rx="2.4" ry="2.4" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g></svg>

@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="12.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-8" data-name="图片 7">
+<image href="../assets/image2.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-9" data-name="矩形 8">
+<rect x="23.5" y="30.33" width="1233" height="659.33" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-11" data-name="图片 10">
+<image href="../assets/image4.png" x="59.3" y="36.18" width="88.48" height="88.48" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-13" data-name="矩形 12">
+<rect x="147.79" y="57.27" width="665.64" height="61.39" fill="none"/>
+<text x="157.39" y="98.34" text-anchor="start" xml:space="preserve" font-family="&quot;汉仪菱心体简&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#C00000"><tspan fill="#C00000" font-size="42.67">《</tspan><tspan fill="#C00000" font-size="42.67">民法典</tspan><tspan fill="#C00000" font-size="42.67">》</tspan><tspan fill="#C00000" font-size="42.67">是如何守护我们的一生</tspan></text>
+</g>
+<g id="shape-3" data-name="组合 2">
+<g id="shape-19" data-name="Oval 23">
+<rect x="101.26" y="320.5" width="76.21" height="76.21" rx="12.7" ry="12.7" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+<text x="139.37" y="367" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">案例一</tspan></text>
+</g>
+<g id="shape-25" data-name="矩形 24">
+<rect x="194.72" y="307.59" width="535.41" height="162.06" fill="none"/>
+<text x="204.32" y="335.06" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">在网贷之风盛行之时，小明在某网贷平台上</tspan><tspan x="204.32" dy="32" fill="#404040" font-size="26.67">借了一万元用于玩乐消费，一个月后却发现</tspan><tspan x="204.32" dy="32" fill="#404040" font-size="26.67">欠了十万元，于是他向有关部门举报了该平</tspan><tspan x="204.32" dy="32" fill="#404040" font-size="26.67">台。</tspan></text>
+</g>
+</g>
+<g id="shape-6" data-name="组合 5" transform="translate(423.45 560.04) scale(-1 1) translate(-423.45 -560.04)">
+<g id="shape-7" data-name="Oval 7">
+<ellipse cx="139.37" cy="534.26" rx="38.11" ry="38.11" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-8" data-name="Freeform: Shape 9">
+<path d="M 147.71 526.56 C 144.27 525.93 140.82 525.62 137.38 525.62 C 133.94 525.62 130.49 525.93 127.05 526.56 C 126.73 526.56 126.42 526.88 126.11 527.51 C 124.54 532.86 124.54 538.53 126.11 543.88 C 126.42 544.51 126.73 544.83 127.05 544.83 C 130.49 545.46 133.94 545.77 137.38 545.77 C 140.82 545.77 144.27 545.46 147.71 544.83 C 148.02 544.83 148.34 544.51 148.65 543.88 C 150.53 538.53 150.53 532.86 148.65 527.51 C 148.34 526.88 148.02 526.56 147.71 526.56 Z M 147.4 543.57 C 140.82 544.83 134.25 544.83 127.36 543.57 C 125.8 538.21 125.8 533.18 127.36 527.82 C 134.25 526.25 140.82 526.25 147.4 527.82 C 149.28 533.18 149.28 538.21 147.4 543.57 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-9" data-name="Freeform: Shape 10">
+<path d="M 158.72 523.72 C 158.41 522.47 157.47 521.84 156.53 521.84 C 150.88 520.89 145.54 520.58 139.9 520.58 C 134.56 520.58 128.92 520.89 123.58 521.84 C 122.33 521.84 121.7 522.47 121.39 523.72 C 119.5 531.58 119.5 539.75 121.39 547.92 C 121.7 548.86 122.33 549.8 123.58 549.8 C 126.09 550.12 128.6 550.43 131.43 550.74 C 131.11 550.74 131.11 550.74 131.11 550.74 C 131.11 551.69 135.19 552 139.9 552 C 144.92 552 148.68 551.69 148.68 550.74 C 148.68 550.74 148.68 550.74 148.37 550.74 C 151.19 550.43 153.7 550.12 156.53 549.8 C 157.47 549.8 158.41 548.86 158.72 547.92 C 160.6 539.75 160.6 531.58 158.72 523.72 Z M 156.21 547.29 C 145.23 548.54 134.56 548.54 123.9 547.29 C 122.01 539.75 122.01 531.89 123.9 524.35 C 134.56 522.78 145.23 522.78 156.21 524.35 C 158.09 531.89 158.09 539.75 156.21 547.29 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-10" data-name="Freeform: Shape 11">
+<path d="M 153.05 530.66 C 153.98 530.66 154.9 530.02 154.9 528.73 C 154.9 527.77 153.98 526.81 153.05 526.81 C 152.12 526.81 151.19 527.77 151.19 528.73 C 151.19 530.02 152.12 530.66 153.05 530.66 Z M 153.05 528.09 C 153.36 528.09 153.67 528.41 153.67 528.73 C 153.67 529.37 153.36 529.37 153.05 529.37 C 152.74 529.37 152.43 529.37 152.43 528.73 C 152.43 528.41 152.74 528.09 153.05 528.09 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-11" data-name="Freeform: Shape 12">
+<path d="M 154.27 543.25 C 150.5 543.25 150.5 543.25 150.5 543.25 C 150.18 543.25 149.87 543.55 149.87 543.85 C 149.87 544.44 150.18 544.44 150.5 544.44 C 154.27 544.44 154.27 544.44 154.27 544.44 C 154.59 544.44 154.9 544.44 154.9 543.85 C 154.9 543.55 154.59 543.25 154.27 543.25 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-12" data-name="Freeform: Shape 13">
+<path d="M 155.6 539.41 C 151.82 539.41 151.82 539.41 151.82 539.41 C 151.51 539.41 151.19 539.74 151.19 540.07 C 151.19 540.73 151.51 540.73 151.82 540.73 C 155.6 540.73 155.6 540.73 155.6 540.73 C 155.91 540.73 156.23 540.73 156.23 540.07 C 156.23 539.74 155.91 539.41 155.6 539.41 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-13" data-name="Freeform: Shape 14">
+<path d="M 155.6 535.69 C 151.82 535.69 151.82 535.69 151.82 535.69 C 151.51 535.69 151.19 535.99 151.19 536.29 C 151.19 536.89 151.51 536.89 151.82 536.89 C 155.6 536.89 155.6 536.89 155.6 536.89 C 155.91 536.89 156.23 536.89 156.23 536.29 C 156.23 535.99 155.91 535.69 155.6 535.69 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-14" data-name="Freeform: Shape 15">
+<path d="M 136.77 530.66 C 131.11 530.97 131.11 530.97 131.11 530.97 C 130.79 530.97 130.48 531.29 130.16 531.6 C 129.85 535.06 129.85 535.06 129.85 535.06 C 129.85 535.69 130.16 535.69 130.48 535.69 C 130.79 535.69 131.11 535.69 131.11 535.06 C 131.42 532.86 131.42 532.86 131.42 532.86 C 131.42 532.55 131.74 532.23 132.05 532.23 C 136.77 531.92 136.77 531.92 136.77 531.92 C 137.09 531.92 137.4 531.6 137.4 531.29 C 137.4 530.66 137.09 530.66 136.77 530.66 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-29" data-name="组合 28">
+<g id="shape-31" data-name="矩形 30">
+<rect x="192.46" y="549.81" width="553.17" height="84.51" fill="none"/>
+<text x="202.06" y="577.27" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">《</tspan><tspan fill="#404040" font-size="26.67">民法典</tspan><tspan fill="#404040" font-size="26.67">》</tspan><tspan fill="#404040" font-size="26.67">合同编：禁止放高利贷，借款的利</tspan><tspan x="202.06" dy="32" fill="#404040" font-size="26.67">率不得违反国家有关规定。</tspan></text>
+</g>
+<g id="shape-32" data-name="矩形 31">
+<rect x="192.46" y="485.76" width="295.02" height="52.8" fill="none"/>
+<text x="202.06" y="517.76" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">《</tspan><tspan fill="#404040" font-size="32" font-weight="bold">民法典</tspan><tspan fill="#404040" font-size="32" font-weight="bold">》</tspan><tspan fill="#404040" font-size="32" font-weight="bold">合同编</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-5" data-name="Rectangle: Rounded Corners 5">
+<rect x="117.9" y="176.32" width="612.23" height="72.34" rx="36.17" ry="36.17" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-33" data-name="矩形 32">
+<rect x="117.9" y="175.96" width="612.23" height="67.36" fill="none"/>
+<text x="424.02" y="217.02" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">成年之后</tspan></text>
+</g>
+</g>
+<g id="shape-35" data-name="图片 34">
+<image href="../assets/image29.png" x="762.5" y="185.18" width="416.84" height="469.49" preserveAspectRatio="none"/>
+</g></svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g transform="scale(0.5 0.5)"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="-47.14" dy="47.14" stdDeviation="66.67" flood-color="#000000" flood-opacity="0.25" /></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="33.33" dy="57.74" stdDeviation="66.67" flood-color="#000000" flood-opacity="0.25" /></filter></defs><rect x="0" y="0" width="2560" height="1440" fill="#FFFFFF" />
+<g id="shape-2" data-name="图片占位符 1" data-ph-type="pic">
+<image href="assets/image10.jpeg" x="66.67" y="66.67" width="2426.67" height="1306.67" preserveAspectRatio="none" />
+<rect x="66.67" y="66.67" width="2426.67" height="1306.67" fill="none" />
+</g>
+<g id="shape-2355" data-name="Shape">
+<path d="M 1975.59 0 L 1880.44 270.6 C 1941.75 229.87 2012.26 209.4 2092.01 209.4 C 2138.12 209.4 2182.17 216.27 2224.09 229.87 C 2265.96 243.53 2298.23 257.4 2320.81 271.53 C 2343.44 285.67 2368.39 303.53 2395.71 325.2 L 2291.16 480.6 C 2285.51 474.93 2277.27 467.4 2266.46 458 C 2255.61 448.6 2234.19 436.33 2202.22 421.27 C 2170.2 406.2 2139.08 398.67 2108.98 398.67 C 2047.72 398.67 2000.39 419.13 1967.01 460.07 C 1933.57 501.07 1913.11 556.87 1905.59 627.47 C 1966.8 587.93 2031.76 568.13 2100.5 568.13 C 2192.77 568.13 2269.75 598.27 2331.42 658.53 C 2393.09 718.8 2423.95 799.07 2423.95 899.4 C 2423.95 999.67 2390.76 1079.93 2324.4 1140.2 C 2257.98 1200.47 2174.44 1230.6 2073.68 1230.6 C 2003.98 1230.6 1943.47 1217.2 1892.15 1190.4 C 1840.84 1163.53 1801.04 1126.13 1772.81 1078.07 C 1727.5 1003.33 1700.43 913.4 1691.44 808.4 L 1469.46 1440 L 2560.42 1440 L 2560.42 0 L 1975.59 0 Z M 2079.99 754.6 C 2036.2 754.6 1999.48 767.6 1969.83 793.47 C 1940.19 819.4 1925.34 853.07 1925.34 894.47 C 1925.34 935.93 1939.48 971.4 1967.71 1001.07 C 1995.95 1030.73 2031.3 1045.6 2073.68 1045.6 C 2116.05 1045.6 2151.36 1032.4 2179.59 1006.07 C 2207.83 979.67 2221.97 945.53 2221.97 903.6 C 2221.97 861.73 2209.24 826.4 2183.83 797.67 C 2158.43 768.93 2123.78 754.6 2079.99 754.6 Z" fill="#FFFFFF" fill-opacity="0.8" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)" />
+</g>
+<g id="shape-2356" data-name="Shape" transform="rotate(180 644.98 720)">
+<path d="M 506.13 0 L 0 1440 L 1289.95 1440 L 1289.95 0 L 506.13 0 Z" fill="#00152F" fill-opacity="0.9" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx2)" />
+</g>
+<g id="shape-2289" data-name="gathering all the ideas">
+<rect x="193.73" y="323.06" width="625.15" height="106.53" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="199.07" y="403.19" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="88" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="88" font-weight="bold">编号作品展示</tspan></text>
+</g>
+<g id="shape-22" data-name="Rectangle 7">
+<rect x="193.73" y="654.53" width="625.2" height="358.53" fill="none" />
+<text x="203.33" y="677.47" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">Lorem ipsum dolor sit amet, consectetuer adipiscing </tspan><tspan x="203.33" dy="32" fill="#FFFFFF" font-size="21.33">elit, sed diam nonummy nibh euismod tincidunt ut laoreet </tspan><tspan x="203.33" dy="32" fill="#FFFFFF" font-size="21.33">dolore magna aliquam erat volutpat. Ut wisi enim ad minim </tspan><tspan x="203.33" dy="32" fill="#FFFFFF" font-size="21.33">veniam, quis nostrud exerci tation ullamcorper suscipit </tspan><tspan x="203.33" dy="32" fill="#FFFFFF" font-size="21.33">lobortis nisl ut aliquip ex ea commodo consequat. </tspan><tspan fill="#FFFFFF" font-size="21.33"> </tspan><tspan fill="#FFFFFF" font-size="21.33">Ut wisi </tspan><tspan x="203.33" dy="32" fill="#FFFFFF" font-size="21.33">enim ad minim veniam, quis nostrud exerci tation.</tspan></text>
+</g>
+<g id="shape-952" data-name="Rectangle">
+<rect x="193.73" y="469.9" width="100" height="13.33" fill="#A6AAA9" stroke-width="1.333" stroke-linejoin="miter" />
+</g>
+<g id="shape-21" data-name="Subtitle 2">
+<rect x="193.73" y="531.53" width="596.27" height="52.47" fill="none" />
+<text x="203.33" y="581.67" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="53.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="53.33">值得描述的小标题</tspan></text>
+</g></g></svg>

@@ -1,0 +1,102 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#040428" stop-opacity="0.8"/><stop offset="0" stop-color="#020E36" stop-opacity="0.86"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.84" stop-color="#040428" stop-opacity="0.6"/><stop offset="0" stop-color="#020E36" stop-opacity="0.86"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="-6.26" dy="2.28" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.3"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="-6.26" dy="2.28" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.3"/></filter><linearGradient id="txtgrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#FFFFFF"/><stop offset="0" stop-color="#FFFFFF"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="3.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="6.67" result="blurred"/><feFlood flood-color="#FFFFFF" flood-opacity="0.7" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge><feGaussianBlur in="SourceAlpha" stdDeviation="0.33" result="softEdge"/><feComposite in="SourceGraphic" in2="softEdge" operator="in"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-4" data-name="图片 3" transform="translate(109.09 410.21) scale(-1 1) translate(-109.09 -410.21)">
+<image href="assets/image1_fx_865c50a5.png" x="1.28" y="99.92" width="215.61" height="620.58" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2" transform="translate(640 360.96) scale(-1 1) translate(-640 -360.96)">
+<image href="assets/image2.jpeg" x="0" y="0.96" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-12" data-name="图片 11" transform="translate(87.31 384.43) scale(-1 1) translate(-87.31 -384.43)">
+<image href="assets/image1_fx_865c50a5.png" x="-13.57" y="94.06" width="201.77" height="580.72" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="0" y="0" width="1280" height="720.96" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-10" data-name="图片 9" transform="rotate(32.44 1200.83 -71.31)">
+<image href="assets/image3.png" x="671.51" y="-686.57" width="1058.65" height="1230.52" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="图片 3" transform="translate(640 360.96) scale(-1 1) translate(-640 -360.96)">
+<image href="assets/image2.jpeg" x="0" y="0.96" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="shape-24" data-name="图片 23">
+<image href="assets/image5.png" x="716.19" y="310.83" width="98.74" height="200.23" preserveAspectRatio="none"/>
+</g>
+<g id="shape-23" data-name="矩形 22">
+<rect x="0" y="0" width="1280" height="720.96" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-22" data-name="图片 21">
+<image href="assets/image3.png" x="183.05" y="-529.71" width="730.43" height="1230.52" preserveAspectRatio="none"/>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="82.81" y="35.71" width="568.07" height="38.78" fill="none"/>
+<text x="92.41" y="60.91" text-anchor="start" xml:space="preserve" font-family="&quot;华文行楷&quot;, &quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">中国国际第九届</tspan><tspan fill="#FFFFFF" font-size="24"> “</tspan><tspan fill="#FFFFFF" font-size="24">互联网</tspan><tspan fill="#FFFFFF" font-size="24">+”</tspan><tspan fill="#FFFFFF" font-size="24">大学生创新创业大赛</tspan></text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="178.47" y="492.82" width="360.2" height="141.63" fill="none"/>
+<text x="188.07" y="519.15" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="25.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="25.33" font-weight="bold">赛道组别：请输入内容</tspan></text>
+<text x="188.07" y="549.55" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="25.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="25.33" font-weight="bold">申报高校：请输入内容</tspan></text>
+<text x="188.07" y="579.95" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="25.33" fill="#FFFFFF" font-weight="bold" letter-spacing="8.4"><tspan fill="#FFFFFF" font-size="25.33" font-weight="bold" letter-spacing="8.4">负责人</tspan><tspan fill="#FFFFFF" font-size="25.33" font-weight="bold">：第一</tspan><tspan fill="#FFFFFF" font-size="25.33" font-weight="bold">PPT</tspan></text>
+</g>
+<g id="shape-11" data-name="图片 10" transform="translate(87.31 384.43) scale(-1 1) translate(-87.31 -384.43)">
+<image href="assets/image1_fx_865c50a5.png" x="-13.57" y="94.06" width="201.77" height="580.72" preserveAspectRatio="none"/>
+</g>
+<g id="shape-14" data-name="图片 13">
+<image href="assets/image6.png" x="5.12" y="6.85" width="87.6" height="87.6" preserveAspectRatio="none"/>
+</g>
+<g id="shape-33" data-name="Freeform 5" transform="translate(648.04 440.68) scale(-1 1) translate(-648.04 -440.68)">
+<path d="M 617.61 449.11 C 617.61 449.11 617.61 449.11 617.61 449.11 C 617.08 449.11 609.89 447.01 609.89 442.48 C 609.89 437.92 618.34 436.86 620.39 440.03 C 621.77 443.42 617.15 444.41 616.06 443.52 C 615.04 442.65 614.67 440.72 615.04 440.37 C 615.04 440.37 611.64 442.08 612.92 444.83 C 614.67 448.19 618.07 449.11 617.61 449.11 Z M 589.31 439.41 C 589.88 440.1 589.88 440.1 589.88 440.1 C 589.88 440.1 587.83 446.56 594.3 446.93 C 600.28 447.25 600.01 443.32 599.75 441.59 C 598.82 439.75 595.79 440.89 595.79 440.89 C 595.79 440.89 597.54 441.17 597.24 443.24 C 596.78 445.35 591.99 444.66 592.55 441.26 C 593.11 437.85 599.75 438.52 601.4 439.83 C 604.27 442.11 608.86 449.01 608.86 449.01 C 608.86 449.01 617.51 460.1 631.97 456.88 C 631.97 456.88 641.12 455.79 651.52 447.25 C 651.52 447.25 663.71 434.61 682.3 436.34 C 691.44 437.77 698.64 441.49 708.58 447.63 C 709.04 448.05 691.28 434.43 679.62 434.43 C 663.14 433.57 644.88 446.56 644.88 446.56 C 644.88 446.56 634.39 454.43 626.82 448.84 C 621.47 443.17 627.29 439.68 627.29 439.68 C 627.29 439.68 631.18 437.77 634.39 438.89 C 636.89 440.65 635.24 443.52 632.64 443.24 C 630.26 443.07 629.7 441.07 629.7 441.07 C 629.7 441.07 628.21 446.41 634.22 446.93 C 639.83 447.45 642.61 443.24 642.14 440.18 C 642.14 440.18 650.07 440.47 654.2 437.23 C 661.76 432.78 670.61 432.95 670.61 432.95 C 670.61 432.95 663.24 432.06 655.78 434.85 C 648.32 437.68 643.63 438.89 639.83 436.09 C 637.62 434.43 638.61 431.29 638.61 431.29 C 638.61 431.29 640.49 435.67 644.42 434.16 C 648.38 432.7 647.66 429.19 645.81 427.97 C 644.16 426.74 636.89 426.14 634.95 430.77 C 634.95 430.77 633.92 433 634.22 434.43 C 634.22 434.43 627.02 435.2 624.81 437.92 C 624.81 437.92 620.55 438.62 620.55 436.29 C 620.55 433.91 622.86 433.64 624.35 433.64 C 626 433.64 632.73 434.43 632.73 430.25 C 632.73 426.02 625.73 426.39 624.25 427.18 C 624.25 426.74 622.33 421.27 615.04 422.8 C 611.34 423.79 610.71 425.6 610.71 425.6 C 610.71 425.6 603.88 424.98 605.2 431.88 C 607.11 437.23 614.84 434.71 614.84 434.71 C 614.84 434.71 616.79 433.2 615.7 431.12 C 614.31 429.63 612.16 430.82 612.46 431.54 C 612.63 432.26 613.58 433.2 614.84 432.16 C 614.84 432.16 615.4 434.51 611.8 433.64 C 608.14 432.78 608.86 429.26 612.36 428.12 C 615.86 427.01 620.29 430.15 618.54 434.16 C 616.79 438.2 608.56 437.48 606.45 435.92 C 604.64 434.36 598.56 429.19 594.76 434.36 C 594.76 434.36 587.04 433.81 589.31 439.41 Z M 589.31 439.41 C 589.88 440.1 589.88 440.1 589.88 440.1 L 589.31 439.41 Z" fill="#FFFFFF" fill-opacity="0.2" stroke="none" filter="url(#fx1)"/>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="177.53" y="385.84" width="582.79" height="67.86" fill="none"/>
+<text x="187.13" y="431.44" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="48" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="48" font-weight="bold">非遗苗银匠心传承开拓者</tspan></text>
+</g>
+<g id="shape-34" data-name="图片 33">
+<image href="assets/image7_fx_865c50a5.png" x="186.76" y="188.24" width="159.89" height="166.95" preserveAspectRatio="none"/>
+</g>
+<g id="shape-37" data-name="Freeform 5" transform="translate(504.11 335.35) scale(-1 1) translate(-504.11 -335.35)">
+<path d="M 481.09 342.1 C 481.09 342.1 481.09 342.1 481.09 342.1 C 480.69 342.1 475.25 340.42 475.25 336.79 C 475.25 333.14 481.64 332.29 483.19 334.83 C 484.24 337.54 480.74 338.34 479.92 337.62 C 479.14 336.93 478.87 335.38 479.14 335.1 C 479.14 335.1 476.57 336.47 477.54 338.67 C 478.87 341.37 481.44 342.1 481.09 342.1 Z M 459.68 334.33 C 460.11 334.88 460.11 334.88 460.11 334.88 C 460.11 334.88 458.56 340.06 463.45 340.36 C 467.98 340.62 467.78 337.46 467.58 336.07 C 466.88 334.61 464.58 335.52 464.58 335.52 C 464.58 335.52 465.9 335.74 465.68 337.4 C 465.33 339.09 461.7 338.53 462.13 335.82 C 462.55 333.08 467.58 333.62 468.82 334.67 C 471 336.49 474.47 342.02 474.47 342.02 C 474.47 342.02 481.02 350.91 491.96 348.33 C 491.96 348.33 498.88 347.46 506.75 340.62 C 506.75 340.62 515.97 330.48 530.03 331.87 C 536.95 333.02 542.4 336 549.92 340.91 C 550.27 341.25 536.83 330.34 528.01 330.34 C 515.54 329.65 501.73 340.06 501.73 340.06 C 501.73 340.06 493.78 346.37 488.06 341.88 C 484.01 337.34 488.41 334.55 488.41 334.55 C 488.41 334.55 491.36 333.02 493.78 333.91 C 495.68 335.32 494.43 337.62 492.46 337.4 C 490.66 337.26 490.24 335.66 490.24 335.66 C 490.24 335.66 489.11 339.94 493.66 340.36 C 497.91 340.77 500 337.4 499.65 334.94 C 499.65 334.94 505.65 335.18 508.77 332.58 C 514.49 329.01 521.19 329.15 521.19 329.15 C 521.19 329.15 515.62 328.44 509.97 330.68 C 504.33 332.94 500.78 333.91 497.91 331.67 C 496.23 330.34 496.98 327.83 496.98 327.83 C 496.98 327.83 498.41 331.34 501.38 330.13 C 504.38 328.96 503.83 326.14 502.43 325.17 C 501.18 324.18 495.68 323.7 494.21 327.41 C 494.21 327.41 493.43 329.19 493.66 330.34 C 493.66 330.34 488.21 330.96 486.54 333.14 C 486.54 333.14 483.31 333.69 483.31 331.83 C 483.31 329.93 485.06 329.71 486.19 329.71 C 487.44 329.71 492.53 330.34 492.53 326.99 C 492.53 323.6 487.24 323.9 486.11 324.53 C 486.11 324.18 484.66 319.79 479.14 321.02 C 476.34 321.82 475.87 323.26 475.87 323.26 C 475.87 323.26 470.7 322.77 471.7 328.3 C 473.15 332.58 478.99 330.56 478.99 330.56 C 478.99 330.56 480.47 329.35 479.64 327.69 C 478.59 326.5 476.97 327.45 477.19 328.02 C 477.32 328.6 478.04 329.35 478.99 328.52 C 478.99 328.52 479.42 330.4 476.69 329.71 C 473.92 329.01 474.47 326.2 477.12 325.29 C 479.77 324.39 483.12 326.91 481.79 330.13 C 480.47 333.36 474.25 332.78 472.65 331.53 C 471.27 330.28 466.68 326.14 463.8 330.28 C 463.8 330.28 457.96 329.85 459.68 334.33 Z M 459.68 334.33 C 460.11 334.88 460.11 334.88 460.11 334.88 L 459.68 334.33 Z" fill="#FFFFFF" fill-opacity="0.1" stroke="none" filter="url(#fx2)"/>
+</g>
+<g id="shape-56" data-name="圆: 空心 55">
+<rect x="168.87" y="168.53" width="200.31" height="200.31" fill="#FFFFFF" fill-opacity="0.1" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="组合 12">
+<g id="shape-16" data-name="文本框 15">
+<rect x="354.3" y="139.32" width="235.72" height="219.73" fill="none"/>
+<text x="363.9" y="291.45" text-anchor="start" xml:space="preserve" font-family="&quot;华文行楷&quot;, sans-serif" font-size="173.33" fill="#0070C0"><tspan fill="#0070C0" font-size="173.33">钗</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="162.74" y="111.7" width="270.11" height="276.27" fill="none"/>
+<text x="172.34" y="303.5" text-anchor="start" xml:space="preserve" font-family="&quot;华文行楷&quot;, sans-serif" font-size="220" fill="#0070C0"><tspan fill="#0070C0" font-size="220">凤</tspan></text>
+</g>
+<g id="shape-18" data-name="文本框 17">
+<rect x="504.02" y="129.51" width="433.78" height="235.88" fill="none"/>
+<text x="513.62" y="287.31" text-anchor="start" xml:space="preserve" font-family="&quot;华文行楷&quot;, sans-serif" font-size="180" fill="#0070C0"><tspan fill="#0070C0" font-size="180">银</tspan><tspan fill="#0070C0" font-size="186.67">饰</tspan></text>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="文本框 2">
+<rect x="350.04" y="136.12" width="235.72" height="219.73" fill="none"/>
+<text x="359.64" y="288.25" text-anchor="start" xml:space="preserve" font-family="&quot;华文行楷&quot;, sans-serif" font-size="173.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="173.33">钗</tspan></text>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="158.48" y="108.5" width="270.11" height="276.27" fill="none"/>
+<text x="168.08" y="300.3" text-anchor="start" xml:space="preserve" font-family="&quot;华文行楷&quot;, sans-serif" font-size="220" fill="url(#txtgrad3)"><tspan fill="url(#txtgrad3)" font-size="220">凤</tspan></text>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="508.49" y="122.1" width="433.78" height="235.88" fill="none"/>
+<text x="518.09" y="279.9" text-anchor="start" xml:space="preserve" font-family="&quot;华文行楷&quot;, sans-serif" font-size="180" fill="#000000"><tspan fill="#000000" font-size="180">银</tspan><tspan fill="#FFFFFF" font-size="186.67">饰</tspan></text>
+</g>
+</g>
+<g id="shape-12" data-name="圆: 空心 11">
+<rect x="182.55" y="182.4" width="173.86" height="173.86" fill="#FFFFFF" fill-opacity="0.1" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="图片 14" transform="rotate(84.19 327.39 188.71)">
+<image href="assets/image9.png" x="281.86" y="137.73" width="91.05" height="101.95" preserveAspectRatio="none"/>
+</g>
+<g id="shape-19" data-name="组合 18" transform="rotate(352.49 608.56 331.6)">
+<g id="shape-20" data-name="图片 19" transform="rotate(337.28 608.56 331.6)">
+<image href="assets/image10.png" x="566.99" y="290.03" width="83.15" height="83.15" preserveAspectRatio="none"/>
+</g>
+<g id="shape-21" data-name="椭圆 20">
+<ellipse cx="608.44" cy="333.37" rx="2.83" ry="2.83" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+</g></svg>

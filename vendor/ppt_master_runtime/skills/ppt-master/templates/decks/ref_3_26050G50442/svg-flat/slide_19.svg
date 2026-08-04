@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#040428" stop-opacity="0.8"/><stop offset="0" stop-color="#020E36" stop-opacity="0.86"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.525" stop-color="#117DFF" stop-opacity="0.05"/><stop offset="0.05" stop-color="#117DFF" stop-opacity="0.3"/><stop offset="1" stop-color="#117DFF" stop-opacity="0.3"/></linearGradient><linearGradient id="ggrad5" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad7" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad8" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad9" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad10" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx6" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad11" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx7" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad12" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx8" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-4" data-name="图片 3" transform="translate(109.09 410.21) scale(-1 1) translate(-109.09 -410.21)">
+<image href="../assets/image1_fx_865c50a5.png" x="1.28" y="99.92" width="215.61" height="620.58" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-3" data-name="图片 2" transform="translate(640 360.96) scale(-1 1) translate(-640 -360.96)">
+<image href="../assets/image2.jpeg" x="0" y="0.96" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-12" data-name="图片 11" transform="translate(87.31 384.43) scale(-1 1) translate(-87.31 -384.43)">
+<image href="../assets/image1_fx_865c50a5.png" x="-13.57" y="94.06" width="201.77" height="580.72" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="0" y="0" width="1280" height="720.96" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-10" data-name="图片 9" transform="rotate(32.44 1200.83 -71.31)">
+<image href="../assets/image3.png" x="671.51" y="-686.57" width="1058.65" height="1230.52" preserveAspectRatio="none"/>
+</g>
+<g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">社会效益</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="28.39" y="100.39" width="1223.23" height="63.28" fill="none"/>
+<text x="640" y="139.49" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="37.33" fill="url(#txtgrad3)"><tspan fill="url(#txtgrad3)" font-size="37.33">请输入内容</tspan></text>
+</g>
+<g id="shape-10" data-name="组合 9">
+<g id="shape-14" data-name="矩形 13">
+<rect x="0" y="250.14" width="1280" height="418.39" fill="url(#ggrad4)" stroke-width="2.333" stroke="#03B2EF" stroke-opacity="0.1"/>
+</g>
+<g id="shape-30" data-name="图片 29">
+<image href="../assets/image21.png" x="350.93" y="614.63" width="578.14" height="107.76" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="114.23" y="164.76" width="1051.53" height="84.68" fill="none"/>
+<text x="640" y="196.17" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">请输入内容</tspan><tspan fill="#FFC000" font-size="32">请输入内容</tspan></text>
+
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-6" data-name="圆角矩形 26">
+<rect x="144.42" y="288.63" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad5)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+</g>
+<g id="shape-8" data-name="圆角矩形 26">
+<rect x="395.6" y="288.63" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad6)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx2)"/>
+</g>
+<g id="shape-9" data-name="圆角矩形 26">
+<rect x="646.79" y="288.63" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad7)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx3)"/>
+</g>
+<g id="shape-11" data-name="圆角矩形 26">
+<rect x="897.98" y="288.63" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad8)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-16" data-name="组合 15">
+<g id="shape-2" data-name="圆角矩形 26">
+<rect x="144.42" y="472.24" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad9)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx5)"/>
+</g>
+<g id="shape-7" data-name="圆角矩形 26">
+<rect x="395.6" y="472.24" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad10)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx6)"/>
+</g>
+<g id="shape-13" data-name="圆角矩形 26">
+<rect x="646.79" y="472.24" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad11)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx7)"/>
+</g>
+<g id="shape-15" data-name="圆角矩形 26">
+<rect x="897.98" y="472.24" width="237.6" height="161" rx="10.15" ry="10.15" fill="url(#ggrad12)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx8)"/>
+</g>
+</g>
+<g id="shape-12" data-name="TextBox 4">
+<rect x="0" y="0" width="63.5" height="13.99" fill="none"/>
+<text x="9.6" y="6.33" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="1.8" fill="#000000" fill-opacity="0"><tspan fill="#000000" font-size="1.8" fill-opacity="0">行业</tspan><tspan fill="#000000" font-size="1.8" fill-opacity="0">PPT</tspan><tspan fill="#000000" font-size="1.8" fill-opacity="0">模板</tspan><tspan fill="#000000" font-size="1.8" fill-opacity="0">http://www.1ppt.com/hangye/</tspan></text>
+</g></svg>

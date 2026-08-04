@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1209.67" height="907.17" viewBox="0 0 1209.67 907.17"><defs><radialGradient id="ggrad1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#16355B"/><stop offset="0.5" stop-color="#0A2037"/><stop offset="1" stop-color="#000D18"/></radialGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FF6600"/><stop offset="1" stop-color="#FF3300"/></linearGradient><linearGradient id="txtgrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#EACF99"/><stop offset="1" stop-color="#A07621"/></linearGradient><linearGradient id="txtgrad4" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#EACF99"/><stop offset="1" stop-color="#A07621"/></linearGradient><linearGradient id="txtgrad5" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#EACF99"/><stop offset="1" stop-color="#A07621"/></linearGradient><linearGradient id="txtgrad6" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#EACF99"/><stop offset="1" stop-color="#A07621"/></linearGradient><linearGradient id="txtgrad7" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#EACF99"/><stop offset="1" stop-color="#A07621"/></linearGradient><linearGradient id="txtgrad8" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#EACF99"/><stop offset="1" stop-color="#A07621"/></linearGradient></defs><rect x="0" y="0" width="1209.67" height="907.17" fill="#FFFFFF"/>
+<g id="layout-shape-6" data-name="矩形 5">
+<rect x="-2.28" y="110.68" width="1214.5" height="710.65" fill="url(#ggrad1)" stroke-width="2.667" stroke="none"/>
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<image href="../assets/image2.jpeg" x="-0.84" y="-1.89" width="1215.34" height="115.29" preserveAspectRatio="none"/>
+<rect x="-0.84" y="-1.89" width="1215.34" height="115.29" fill="none" stroke-width="0" stroke="none"/>
+</g>
+<g id="layout-shape-8" data-name="图片 11">
+<image href="../assets/image4.png" x="0" y="0.35" width="103.95" height="103.94" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-9" data-name="矩形 8">
+<rect x="623.89" y="44" width="584.74" height="49.37" fill="none"/>
+<text x="916.26" y="76.12" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;Arial Unicode MS&quot;, sans-serif" font-size="30.67" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">『</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">PPT</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">』—</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04"> </tspan><tspan fill="#FFFFFF" font-size="30.67">WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-10" data-name="矩形 9">
+<rect x="-1.05" y="799.23" width="1215.55" height="107.94" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-11" data-name="Picture 6" transform="translate(824.07 857.61) scale(-1 1) translate(-824.07 -857.61)">
+<image href="../assets/image3.png" x="438.49" y="839.34" width="771.16" height="36.54" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-12" data-name="TextBox 11">
+<rect x="442.89" y="839.58" width="708.58" height="41.3" fill="none"/>
+<text x="454.99" y="866.03" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">PPT HTTP://WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-13" data-name="Freeform 2670">
+<path d="M 393.46 879.29 L 393.46 879.29 L 391.33 881.07 L 388.84 882.49 L 385.99 883.2 L 383.15 883.56 L 373.9 883.56 L 371.77 883.2 L 369.99 881.78 L 368.92 880.36 L 368.57 878.22 L 368.57 868.61 L 368.57 865.76 L 369.64 863.27 L 371.06 860.78 L 372.84 858.28 L 397.02 834.07 L 399.15 832.29 L 401.64 830.87 L 404.49 830.16 L 407.33 829.8 L 410.18 830.16 L 413.02 830.87 L 415.51 832.29 L 417.64 834.07 L 419.78 836.57 L 420.84 839.06 L 421.91 841.55 L 421.91 844.75 L 421.91 847.6 L 420.84 850.45 L 419.78 852.94 L 417.64 855.08 L 393.46 879.29 Z M 376.04 862.91 L 376.04 862.91 L 374.97 864.34 L 374.26 865.76 L 373.9 867.18 L 373.9 868.61 L 373.9 870.39 L 375.33 870.03 L 376.39 870.39 L 377.81 870.74 L 378.88 871.1 L 379.95 872.17 L 380.66 873.24 L 381.37 874.3 L 381.73 875.37 L 381.73 876.8 L 381.73 878.22 L 383.15 878.22 L 384.93 877.86 L 386.35 877.51 L 387.77 877.15 L 389.19 876.08 L 389.91 874.66 L 390.62 873.24 L 390.97 871.81 L 391.33 870.03 L 390.97 868.25 L 390.62 866.47 L 389.55 865.05 L 388.48 863.62 L 387.06 862.2 L 385.28 861.49 L 383.86 860.78 L 381.73 860.78 L 380.3 860.78 L 378.88 861.13 L 377.46 861.84 L 376.04 862.91 Z M 396.66 868.61 L 414.09 851.16 L 415.15 849.74 L 415.87 848.31 L 416.58 846.53 L 416.58 844.75 L 416.58 842.62 L 415.87 841.19 L 415.15 839.41 L 414.09 837.99 L 412.67 836.92 L 410.89 835.85 L 409.11 835.5 L 407.33 835.14 L 405.55 835.5 L 403.78 835.85 L 402 836.92 L 400.57 837.99 L 383.15 855.43 L 385.64 855.79 L 388.13 856.86 L 390.26 857.93 L 392.4 859.71 L 393.82 861.84 L 395.24 863.98 L 395.95 866.12 L 396.66 868.61 Z" fill="url(#ggrad2)" stroke-width="1" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-11" data-name="TextBox 50">
+<rect x="181.13" y="480.3" width="211.02" height="52.21" fill="none"/>
+<text x="286.64" y="512.3" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="32" fill="url(#txtgrad3)" font-weight="bold"><tspan fill="url(#txtgrad3)" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-12" data-name="TextBox 51">
+<rect x="181.13" y="527.3" width="241.92" height="77.48" fill="none"/>
+<text x="190.73" y="545.7" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="16" fill="url(#txtgrad4)"><tspan fill="url(#txtgrad4)" font-size="16">您的内容打在这里，或者通过</tspan><tspan x="190.73" dy="19.2" fill="url(#txtgrad4)" font-size="16">复制您的文本后在此框中选择</tspan><tspan x="190.73" dy="19.2" fill="url(#txtgrad4)" font-size="16">粘贴，并选择只保留文字</tspan></text>
+</g>
+<g id="shape-13" data-name="TextBox 50">
+<rect x="469.41" y="480.3" width="211.02" height="52.21" fill="none"/>
+<text x="574.92" y="512.3" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="32" fill="url(#txtgrad5)" font-weight="bold"><tspan fill="url(#txtgrad5)" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-14" data-name="TextBox 51">
+<rect x="468.76" y="527.3" width="241.92" height="77.48" fill="none"/>
+<text x="478.36" y="545.7" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="16" fill="url(#txtgrad6)"><tspan fill="url(#txtgrad6)" font-size="16">您的内容打在这里，或者通过</tspan><tspan x="478.36" dy="19.2" fill="url(#txtgrad6)" font-size="16">复制您的文本后在此框中选择</tspan><tspan x="478.36" dy="19.2" fill="url(#txtgrad6)" font-size="16">粘贴，并选择只保留文字</tspan></text>
+</g>
+<g id="shape-15" data-name="TextBox 50">
+<rect x="740.91" y="480.3" width="211.02" height="52.21" fill="none"/>
+<text x="846.42" y="512.3" text-anchor="middle" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="32" fill="url(#txtgrad7)" font-weight="bold"><tspan fill="url(#txtgrad7)" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-16" data-name="TextBox 51">
+<rect x="740.91" y="527.3" width="241.92" height="77.48" fill="none"/>
+<text x="750.51" y="545.7" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, sans-serif" font-size="16" fill="url(#txtgrad8)"><tspan fill="url(#txtgrad8)" font-size="16">您的内容打在这里，或者通过</tspan><tspan x="750.51" dy="19.2" fill="url(#txtgrad8)" font-size="16">复制您的文本后在此框中选择</tspan><tspan x="750.51" dy="19.2" fill="url(#txtgrad8)" font-size="16">粘贴，并选择只保留文字</tspan></text>
+</g>
+<g id="shape-17" data-name="图片 16">
+<image href="../assets/image17.png" x="181.13" y="295.38" width="227.14" height="184.92" preserveAspectRatio="none"/>
+</g>
+<g id="shape-18" data-name="图片 17">
+<image href="../assets/image18.png" x="460.85" y="294.23" width="227.14" height="184.92" preserveAspectRatio="none"/>
+</g>
+<g id="shape-19" data-name="图片 18">
+<svg x="757.69" y="291.3" width="220.72" height="184.92" viewBox="-0.00001 0 1.00001 1" preserveAspectRatio="none"><image href="../assets/image19.jpeg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g></svg>

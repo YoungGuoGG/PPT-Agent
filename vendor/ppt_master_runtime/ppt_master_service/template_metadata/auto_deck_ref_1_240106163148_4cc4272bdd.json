@@ -1,0 +1,14 @@
+{
+  "template_id": "deck_ref_1_240106163148",
+  "name": "PPT图表 - 手绘风图表 - Design Specification",
+  "description": "PPT图表 - 手绘风图表; 轻量汇报、课程图解、手绘流程图",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "PPT图表 - 手绘风图表; 轻量汇报、课程图解、手绘流程图"
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\decks\\ref_1_240106163148",
+  "kind": "deck",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

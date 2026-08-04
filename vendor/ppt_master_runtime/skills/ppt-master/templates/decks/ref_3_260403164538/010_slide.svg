@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="1" y1="0" x2="0" y2="1"><stop offset="0.03" stop-color="#A3E3FF"/><stop offset="1" stop-color="#00A0E9"/></linearGradient></defs><image href="assets/image9.emf" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="矩形 3">
+<rect x="41.62" y="32.06" width="1201.05" height="650.61" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="图片 4" transform="rotate(352.59 115.63 83.95)">
+<image href="assets/image10.png" x="66.22" y="23.56" width="98.82" height="120.78" preserveAspectRatio="none"/>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-8" data-name="组合 7">
+<g id="shape-12" data-name="直接连接符 11" transform="translate(432.47 383.7) scale(-1 1) translate(-432.47 -383.7)">
+<line x1="432.47" y1="322.07" x2="432.47" y2="445.33" stroke-width="3" stroke="#8C9857" fill="#4472C4"/>
+</g>
+<g id="shape-13" data-name="直接连接符 12" transform="translate(855.61 383.7) scale(-1 1) translate(-855.61 -383.7)">
+<line x1="855.61" y1="322.07" x2="855.61" y2="445.33" stroke-width="3" stroke="#8C9857" fill="#4472C4"/>
+</g>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="66.59" y="296.48" width="340.86" height="259.58" fill="none" stroke="none"/>
+<text x="237.02" y="319.41" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">点击在此输入说明文本点击在此输</tspan><tspan x="237.02" dy="42.67" fill="#404040" font-size="21.33">入说明文本点击在此输入说明文本</tspan><tspan x="237.02" dy="42.67" fill="#404040" font-size="21.33">点击在此输入说明文本点击在此输</tspan><tspan x="237.02" dy="42.67" fill="#404040" font-size="21.33">入说明文本点击在此输入说明文本</tspan><tspan x="237.02" dy="42.67" fill="#404040" font-size="21.33">点击在此输入说明文本</tspan></text>
+</g>
+<g id="shape-10" data-name="文本框 9">
+<rect x="505.94" y="348" width="269.48" height="43.9" fill="none" stroke="none"/>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="883.69" y="296.48" width="337.47" height="260.4" fill="none" stroke="none"/>
+<text x="1052.43" y="319.41" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">点击在此输入说明文本点击在此</tspan><tspan x="1052.43" dy="42.67" fill="#404040" font-size="21.33">输入说明文本点击在此输入说明</tspan><tspan x="1052.43" dy="42.67" fill="#404040" font-size="21.33">文本点击在此输入说明文本点击</tspan><tspan x="1052.43" dy="42.67" fill="#404040" font-size="21.33">在此输入说明文本点击在此输入</tspan><tspan x="1052.43" dy="42.67" fill="#404040" font-size="21.33">说明文本点击在此输入说明文本</tspan></text>
+</g>
+</g>
+<g id="shape-14" data-name="矩形: 圆角 13">
+<rect x="513.96" y="164.58" width="274.13" height="53.87" rx="8.98" ry="8.98" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+<text x="651.02" y="201.12" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="37.33" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="37.33" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-3" data-name="图片 2">
+<image href="assets/image13.png" x="484.04" y="266.27" width="320" height="320" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-15" data-name="图片 14" transform="rotate(352.59 115.6 83.93)">
+<image href="assets/image10.png" x="66.2" y="23.53" width="98.8" height="120.8" preserveAspectRatio="none"/>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="150.13" y="55.93" width="307.2" height="61.4" fill="none"/>
+<text x="159.73" y="81.13" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">露营携带装备</tspan></text>
+</g>
+</g></svg>

@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g transform="scale(0.5 0.5)"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15" /></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15" /></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="20" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.15" /></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="26.67" stdDeviation="28.67" flood-color="#1010DD" flood-opacity="0.5845" /></filter></defs><rect x="0" y="0" width="2560" height="1440" fill="#070E16" />
+<g id="shape-607" data-name="处理的游戏机少年.jpg">
+<image href="assets/image12.jpeg" x="1403.67" y="2.47" width="1156.33" height="1437.53" preserveAspectRatio="none" />
+</g>
+<g id="shape-609" data-name="矩形">
+<rect x="304.31" y="372.23" width="107.82" height="374.22" fill="#1010DD" stroke-width="1.333" stroke-linejoin="miter" />
+</g>
+<g id="shape-610" data-name="Hello I’m Micael, and this is">
+<rect x="350.87" y="401.64" width="1043.36" height="107.71" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)" fill="none" />
+<text x="356.2" y="461.49" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Hello I’m Micael, and this is</tspan></text>
+</g>
+<g id="shape-611" data-name="My PortFolio">
+<rect x="337.05" y="493.65" width="1409.7" height="301.58" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx2)" fill="none" />
+<text x="342.38" y="650.44" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">My PortFolio</tspan></text>
+</g>
+<g id="shape-614" data-name="线条" transform="translate(305.27 876.96) scale(1 -1) translate(-305.27 -876.96)">
+<line x1="305.27" y1="839.57" x2="305.27" y2="914.36" stroke-width="5.333" stroke="#FFFFFF" stroke-linejoin="miter" fill="none" />
+</g>
+<g id="shape-615" data-name="A Product Designer and Visual Developer in SF.,…">
+<rect x="330.42" y="824.97" width="822.96" height="103.99" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx3)" fill="none" />
+<text x="335.75" y="865.76" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">A Product Designer and Visual Developer in SF.,</tspan></text>
+<text x="335.75" y="904.16" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#000000"><tspan fill="#000000" font-size="32">I specialize in UI/UX Design,Responsive Web Design.</tspan></text>
+</g>
+<g id="shape-616" data-name="矩形">
+<rect x="303.27" y="987.87" width="505.27" height="78.87" fill="#1010DD" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx4)" />
+</g>
+<g id="shape-617" data-name="Come to Have a look">
+<rect x="335.22" y="997.92" width="417.37" height="59.24" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="340.55" y="1023.65" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 Medium&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Come to Have a look</tspan></text>
+</g></g></svg>

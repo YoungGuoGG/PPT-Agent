@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-4" data-name="文本框 3">
+<rect x="94.01" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="103.61" y="80.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">南京简介</tspan></text>
+</g>
+<g id="shape-8" data-name="任意多边形: 形状 7">
+<path d="M 0 42.67 L 59.27 42.67 C 77.03 42.67 91.43 57.06 91.43 74.82 C 91.43 92.58 77.03 106.98 59.27 106.98 L 0 106.98 Z" stroke="none" fill="#477E9A" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="文本框 5">
+<rect x="12.19" y="47.24" width="67.86" height="67.86" fill="none"/>
+<text x="21.79" y="92.84" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="48" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="48">壹</tspan></text>
+</g>
+<g id="shape-9" data-name="文本框 8">
+<rect x="817.82" y="26.22" width="426.67" height="95.92" fill="none"/>
+<text x="1234.89" y="80.89" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="58.67" fill="#355E73" letter-spacing="-4"><tspan fill="#355E73" font-size="58.67" letter-spacing="-4">LOGO</tspan></text>
+</g>
+<g id="shape-10" data-name="矩形 9">
+<rect x="88.07" y="152.38" width="550.27" height="509.55" fill="#477E9A" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="矩形 10">
+<image href="../assets/image14.png" x="638.33" y="401.94" width="553.47" height="259.99" preserveAspectRatio="none"/>
+<rect x="638.33" y="401.94" width="553.47" height="259.99" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-14" data-name="文本框 13">
+<rect x="666.82" y="191.53" width="511.73" height="141.78" fill="none"/>
+<text x="676.42" y="214.46" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="21.33" fill="#262626"><tspan fill="#262626" font-size="21.33">南京地处中国东部、长江下游、濒江近海，是中国人</tspan><tspan x="676.42" dy="27.73" fill="#262626" font-size="21.33">民解放军东部战区司令部驻地，国务院规划定位的长</tspan><tspan x="676.42" dy="27.73" fill="#262626" font-size="21.33">三角辐射带动中西部地区发展的重要门户城市 和东</tspan><tspan x="676.42" dy="27.73" fill="#262626" font-size="21.33">部沿海经济带与长江经济带战略交汇的重要节点城市</tspan><tspan x="676.42" dy="27.73" fill="#262626" font-size="21.33">。</tspan></text>
+</g>
+<g id="shape-18" data-name="文本框 17">
+<rect x="121.57" y="451.05" width="456.25" height="170.89" fill="none"/>
+</g>
+<g id="shape-18-text" data-name="文本框 17 text">
+<text x="349.7" y="469.18" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="21.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="21.33">南</tspan><tspan x="349.7" dy="22.4" fill="#FFFFFF" font-size="21.33">京</tspan><tspan x="349.7" dy="22.4" fill="#FFFFFF" font-size="21.33">，</tspan><tspan x="349.7" dy="22.4" fill="#FFFFFF" font-size="21.33">简</tspan><tspan x="349.7" dy="22.4" fill="#FFFFFF" font-size="21.33">称</tspan><tspan x="349.7" dy="22.4" fill="#FFFFFF" font-size="21.33">“</tspan><tspan x="349.7" dy="22.4" fill="#FFFFFF" font-size="21.33">宁</tspan></text>
+</g>
+<g id="shape-19" data-name="矩形 18">
+<image href="../assets/image15.jpeg" x="88.2" y="152.38" width="553.47" height="259.99" preserveAspectRatio="none"/>
+<rect x="88.2" y="152.38" width="553.47" height="259.99" fill="none" stroke="none" stroke-width="1"/>
+</g></svg>

@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-3" data-name="矩形 2">
+<rect x="16.06" y="15.1" width="1247.89" height="689.81" fill="#FFFFFF" stroke="#C4D5FC" stroke-width="1"/>
+</g>
+<g id="layout-shape-32" data-name="矩形 31">
+<rect x="70.24" y="57.46" width="43.96" height="43.96" fill="#0A41BB" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-33" data-name="矩形 32">
+<rect x="92.4" y="79.62" width="32.2" height="32.2" fill="none" stroke="#0A41BB" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-4" data-name="组合 3">
+<g id="shape-5" data-name="文本框 4">
+<rect x="105.6" y="214.55" width="113.09" height="37.7" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="108.27" y="239.4" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#0A41BB"><tspan fill="#0A41BB" font-size="24">输入标题</tspan></text>
+</g>
+<g id="shape-6" data-name="矩形 5">
+<rect x="264.09" y="209.76" width="9.18" height="42.01" fill="#0A41BB" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="矩形 6">
+<rect x="95.26" y="265.8" width="478.1" height="74" fill="none"/>
+<text x="104.86" y="286.47" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">您的内容打在这里，或者通过复制您的文本后，在此框</tspan><tspan x="104.86" dy="28" fill="#404040" font-size="18.67">中选择粘贴，</tspan></text>
+</g>
+<g id="shape-8" data-name="矩形 7">
+<rect x="95.26" y="375.79" width="478.1" height="74" fill="none"/>
+<text x="104.86" y="396.46" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">您的内容打在这里，或者通过复制您的文本后，在此框</tspan><tspan x="104.86" dy="28" fill="#404040" font-size="18.67">中选择粘贴，</tspan></text>
+</g>
+<g id="shape-9" data-name="矩形 8">
+<rect x="95.26" y="485.78" width="478.1" height="74" fill="none"/>
+<text x="104.86" y="506.45" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">您的内容打在这里，或者通过复制您的文本后，在此框</tspan><tspan x="104.86" dy="28" fill="#404040" font-size="18.67">中选择粘贴，</tspan></text>
+</g>
+</g>
+<g id="shape-10" data-name="组合 9">
+<g id="shape-11" data-name="Rectangle 1">
+<rect x="792.52" y="203.71" width="184.89" height="159.73" fill="#0A41BB" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="Freeform 101">
+<path d="M 906.94 272.69 L 863.2 272.69 L 863.2 267.25 L 906.94 267.25 L 906.94 272.69 Z M 900.86 281.77 L 869.23 281.77 L 868.67 276.32 L 901.47 276.32 L 900.86 281.77 Z M 898.58 301.73 L 871.5 301.73 L 869.48 283.58 L 900.66 283.58 L 898.58 301.73 Z M 872.31 308.99 L 871.71 303.55 L 898.43 303.55 L 897.83 308.99 L 872.31 308.99 Z M 868.67 258.17 L 901.47 258.17 L 903.29 263.62 L 866.85 263.62 L 868.67 258.17 Z M 907.14 263.62 L 904.96 257.01 L 904.66 256.51 L 904.41 256 L 904 255.6 L 903.6 255.2 L 903.14 254.94 L 902.58 254.69 L 902.03 254.59 L 901.47 254.54 L 868.67 254.54 L 868.11 254.59 L 867.56 254.69 L 867 254.94 L 866.49 255.2 L 866.14 255.6 L 865.73 256 L 865.43 256.51 L 865.23 257.01 L 862.95 263.62 L 862.65 263.67 L 862.29 263.77 L 861.99 263.87 L 861.63 264.02 L 861.33 264.17 L 861.03 264.32 L 860.77 264.57 L 860.57 264.77 L 860.32 264.98 L 860.11 265.28 L 859.96 265.58 L 859.86 265.88 L 859.76 266.19 L 859.61 266.54 L 859.56 266.89 L 859.56 267.25 L 859.56 272.69 L 859.56 273.04 L 859.61 273.45 L 859.76 273.75 L 859.86 274.1 L 860.01 274.4 L 860.17 274.71 L 860.37 275.01 L 860.62 275.21 L 860.87 275.51 L 861.18 275.66 L 861.48 275.87 L 861.73 276.07 L 862.14 276.17 L 862.49 276.27 L 862.85 276.32 L 863.2 276.32 L 865.08 276.32 L 865.02 276.52 L 865.02 276.72 L 868.72 309.39 L 868.77 309.7 L 868.82 310.05 L 868.92 310.35 L 869.07 310.65 L 869.23 310.96 L 869.43 311.21 L 869.63 311.46 L 869.88 311.71 L 870.14 311.86 L 870.39 312.12 L 870.69 312.27 L 871 312.37 L 871.3 312.47 L 871.66 312.52 L 871.96 312.57 L 872.31 312.62 L 897.83 312.62 L 898.18 312.57 L 898.48 312.52 L 898.84 312.47 L 899.14 312.37 L 899.44 312.27 L 899.75 312.12 L 900 311.86 L 900.25 311.71 L 900.46 311.46 L 900.66 311.21 L 900.91 310.96 L 901.06 310.65 L 901.17 310.35 L 901.27 310.05 L 901.37 309.7 L 901.47 309.39 L 905.11 276.72 L 905.06 276.52 L 905.06 276.32 L 906.94 276.32 L 907.29 276.32 L 907.7 276.27 L 908 276.17 L 908.35 276.07 L 908.66 275.87 L 909.01 275.66 L 909.26 275.51 L 909.52 275.21 L 909.77 275.01 L 909.97 274.71 L 910.13 274.4 L 910.33 274.1 L 910.43 273.75 L 910.53 273.45 L 910.58 273.04 L 910.58 272.69 L 910.58 267.25 L 910.58 266.89 L 910.53 266.54 L 910.43 266.19 L 910.33 265.88 L 910.13 265.58 L 909.97 265.28 L 909.82 264.98 L 909.57 264.77 L 909.32 264.57 L 909.06 264.32 L 908.76 264.12 L 908.51 263.97 L 908.15 263.87 L 907.85 263.77 L 907.49 263.67 L 907.14 263.62 Z" fill="#F2F2F2" stroke="none"/>
+</g>
+<g id="shape-36" data-name="图片 35">
+<image href="../assets/image23.jpeg" x="607.64" y="375.38" width="554.66" height="182.65" preserveAspectRatio="none"/>
+</g>
+<g id="shape-37" data-name="图片 36">
+<image href="../assets/image24.jpeg" x="977.41" y="203.71" width="184.89" height="159.73" preserveAspectRatio="none"/>
+</g>
+<g id="shape-38" data-name="图片 37">
+<image href="../assets/image25.jpeg" x="607.64" y="203.71" width="184.89" height="159.9" preserveAspectRatio="none"/>
+</g>
+</g></svg>

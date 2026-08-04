@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#2684EB"/><stop offset="1" stop-color="#CA18FE"/></linearGradient><linearGradient id="ggrad2" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#368BFF"/><stop offset="1" stop-color="#EC61EA"/></linearGradient><linearGradient id="ggrad3" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#368BFF"/><stop offset="1" stop-color="#EC61EA"/></linearGradient><linearGradient id="ggrad4" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#368BFF"/><stop offset="1" stop-color="#EC61EA"/></linearGradient><linearGradient id="ggrad5" x1="1" y1="1" x2="0" y2="0"><stop offset="0" stop-color="#368BFF"/><stop offset="1" stop-color="#EC61EA"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-12" data-name="图形">
+<g id="shape-4" data-name="图形" transform="rotate(180 1120.3 179.7) translate(1120.3 179.7) scale(1 -1) translate(-1120.3 -179.7)">
+<image href="../assets/image2.png" x="960.6" y="0" width="319.4" height="359.4" preserveAspectRatio="none"/>
+</g>
+<g id="shape-8" data-name="图形">
+<rect x="732.93" y="248.2" width="293.87" height="87.27" fill="none"/>
+<text x="742.53" y="307.4" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="64" fill="#000000"><tspan fill="#000000" font-size="64">PART 02</tspan></text>
+</g>
+<g id="shape-5" data-name="图形" transform="rotate(270 214.17 444.9) translate(214.17 444.9) scale(-1 -1) translate(-214.17 -444.9)">
+<image href="../assets/image10.png" x="-61.27" y="230.73" width="550.87" height="428.33" preserveAspectRatio="none"/>
+</g>
+<g id="shape-9" data-name="图形" transform="translate(428.57 359.97) scale(-1 1) translate(-428.57 -359.97)">
+<image href="../assets/image11.png" x="117.8" y="49.2" width="621.53" height="621.53" preserveAspectRatio="none"/>
+</g>
+<g id="shape-40" data-name="图形" transform="rotate(180 204.33 104.2) translate(204.33 104.2) scale(-1 -1) translate(-204.33 -104.2)">
+<image href="../assets/image6.png" x="80.67" y="38.93" width="247.33" height="130.53" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="图形">
+<rect x="726.73" y="335.13" width="469.27" height="96.53" fill="none"/>
+<text x="736.17" y="401.05" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="72" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="72">作品设计理念</tspan></text>
+</g>
+<g id="shape-3" data-name="图形">
+<line x1="744.13" y1="438.93" x2="1160" y2="438.93" stroke="#EC61EA" fill="#26C6EC" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="图形">
+<polygon points="758.13,475.4 770.53,487.8 758.13,500.2 745.73,487.8" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="图形">
+<rect x="784.2" y="473.8" width="157.93" height="27.07" fill="none"/>
+<text x="793.63" y="490.98" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="14.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="14.67">此处添加小标题</tspan></text>
+</g>
+<g id="shape-10" data-name="图形">
+<polygon points="1011.2,475.4 1023.6,487.8 1011.2,500.2 998.8,487.8" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-11" data-name="图形">
+<rect x="1037.2" y="473.8" width="157.93" height="27.07" fill="none"/>
+<text x="1046.63" y="490.98" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="14.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="14.67">此处添加小标题</tspan></text>
+</g>
+<g id="shape-15" data-name="图形">
+<polygon points="758.13,525.47 770.53,537.87 758.13,550.27 745.73,537.87" fill="url(#ggrad4)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-16" data-name="图形">
+<rect x="784.2" y="523.87" width="157.93" height="27.07" fill="none"/>
+<text x="793.63" y="541.05" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="14.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="14.67">此处添加小标题</tspan></text>
+</g>
+<g id="shape-17" data-name="图形">
+<polygon points="1011.2,525.47 1023.6,537.87 1011.2,550.27 998.8,537.87" fill="url(#ggrad5)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="图形">
+<rect x="1037.2" y="523.87" width="157.93" height="27.07" fill="none"/>
+<text x="1046.63" y="541.05" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="14.67" fill="#0D0D0D"><tspan fill="#0D0D0D" font-size="14.67">此处添加小标题</tspan></text>
+</g>
+<g id="shape-24" data-name="图形">
+<rect x="729.93" y="246.93" width="307.2" height="87.13" fill="none"/>
+<text x="739.53" y="306.13" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="64" fill="#0F1423"><tspan fill="#0F1423" font-size="64">PART 02</tspan></text>
+</g>
+</g></svg>

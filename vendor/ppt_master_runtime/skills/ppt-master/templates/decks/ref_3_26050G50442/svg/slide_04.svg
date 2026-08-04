@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.69" stop-color="#41CCFD" stop-opacity="0"/><stop offset="0" stop-color="#41CCFD" stop-opacity="0.6"/></linearGradient><linearGradient id="ggrad4" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#41CCFD" stop-opacity="0.6"/><stop offset="1" stop-color="#41CCFD" stop-opacity="0"/></linearGradient><linearGradient id="ggrad5" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.69" stop-color="#41CCFD" stop-opacity="0"/><stop offset="0" stop-color="#41CCFD" stop-opacity="0.6"/></linearGradient><linearGradient id="ggrad6" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#41CCFD" stop-opacity="0.6"/><stop offset="1" stop-color="#41CCFD" stop-opacity="0"/></linearGradient><linearGradient id="ggrad7" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.69" stop-color="#41CCFD" stop-opacity="0"/><stop offset="0" stop-color="#41CCFD" stop-opacity="0.6"/></linearGradient><linearGradient id="ggrad8" x1="0.5" y1="1" x2="0.5" y2="0"><stop offset="0" stop-color="#41CCFD" stop-opacity="0.6"/><stop offset="1" stop-color="#41CCFD" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad9" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="txtgrad10" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="txtgrad11" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient></defs><g id="shape-5" data-name="矩形 4">
+<image href="../assets/image13.png" x="10.43" y="634.78" width="155.13" height="74.94" preserveAspectRatio="none"/>
+<rect x="10.43" y="634.78" width="155.13" height="74.94" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">项目优势</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="227.17" y="98.11" width="825.67" height="62.77" fill="none"/>
+<text x="640" y="132.38" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, &quot;微软雅黑&quot;, sans-serif" font-size="34.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="34.67">请输入内容</tspan><tspan fill="url(#txtgrad2)" font-size="37.33">请输入内容</tspan></text>
+</g>
+<g id="shape-79" data-name="组合 78">
+<g id="shape-80" data-name="组合 79">
+<g id="shape-85" data-name="矩形: 圆角 84">
+<rect x="157.3" y="491.33" width="306.88" height="212.02" rx="2.14" ry="2.14" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-86" data-name="组合 85">
+<g id="shape-87" data-name="梯形 86">
+<polygon points="179.05,454.27 442.44,454.27 464.18,492.13 157.3,492.13" fill="url(#ggrad4)" stroke-width="2" stroke="none"/>
+</g>
+<g id="shape-88" data-name="图片 87">
+<image href="../assets/image16_fx_865c50a5.png" x="160.75" y="471.99" width="300.03" height="37.86" preserveAspectRatio="none"/>
+</g>
+</g>
+</g>
+<g id="shape-84" data-name="文本框 83">
+<rect x="163.34" y="507.14" width="294.8" height="121.79" fill="none"/>
+</g>
+</g>
+<g id="shape-89" data-name="组合 88">
+<g id="shape-90" data-name="组合 89">
+<g id="shape-94" data-name="矩形: 圆角 93">
+<rect x="486.56" y="491.33" width="306.88" height="212.02" rx="2.14" ry="2.14" fill="url(#ggrad5)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-95" data-name="组合 94">
+<g id="shape-96" data-name="梯形 95">
+<polygon points="508.31,454.27 771.69,454.27 793.44,492.13 486.56,492.13" fill="url(#ggrad6)" stroke-width="2" stroke="none"/>
+</g>
+<g id="shape-97" data-name="图片 96">
+<image href="../assets/image16_fx_865c50a5.png" x="490.01" y="471.99" width="300.03" height="37.86" preserveAspectRatio="none"/>
+</g>
+</g>
+</g>
+<g id="shape-93" data-name="文本框 92">
+<rect x="492.6" y="507.14" width="294.8" height="122.67" fill="none"/>
+<text x="640" y="527.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="640" y="546.47" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="640" y="565.14" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="640" y="583.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+
+</g>
+</g>
+<g id="shape-98" data-name="组合 97">
+<g id="shape-99" data-name="组合 98">
+<g id="shape-103" data-name="矩形: 圆角 102">
+<rect x="818.9" y="491.33" width="306.88" height="212.02" rx="2.14" ry="2.14" fill="url(#ggrad7)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-104" data-name="组合 103">
+<g id="shape-105" data-name="梯形 104">
+<polygon points="840.65,454.27 1104.03,454.27 1125.78,492.13 818.9,492.13" fill="url(#ggrad8)" stroke-width="2" stroke="none"/>
+</g>
+<g id="shape-106" data-name="图片 105">
+<image href="../assets/image16_fx_865c50a5.png" x="822.35" y="471.99" width="300.03" height="37.86" preserveAspectRatio="none"/>
+</g>
+</g>
+</g>
+<g id="shape-102" data-name="文本框 101">
+<rect x="824.94" y="507.14" width="294.8" height="122.67" fill="none"/>
+<text x="972.34" y="527.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="972.34" y="546.47" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="972.34" y="565.14" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="972.34" y="583.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+
+</g>
+</g>
+<g id="shape-6" data-name="图片 5">
+<image href="../assets/image17.jpeg" x="526.61" y="219.11" width="226.77" height="188.98" preserveAspectRatio="none"/>
+</g>
+<g id="shape-10" data-name="图片 9">
+<image href="../assets/image19.jpeg" x="197.36" y="219.11" width="226.77" height="188.98" preserveAspectRatio="none"/>
+</g>
+<g id="shape-12" data-name="图片 11">
+<image href="../assets/image20.jpeg" x="858.95" y="219.11" width="226.77" height="188.98" preserveAspectRatio="none"/>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="204.1" y="413.26" width="213.28" height="67.86" fill="none" stroke="none"/>
+<text x="310.74" y="463.99" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="48" fill="url(#txtgrad9)"><tspan fill="url(#txtgrad9)" font-size="48">原料创新</tspan></text>
+</g>
+<g id="shape-14" data-name="文本框 13">
+<rect x="531.67" y="413.26" width="216.66" height="67.86" fill="none"/>
+<text x="640" y="463.99" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="48" fill="url(#txtgrad10)"><tspan fill="url(#txtgrad10)" font-size="48">设计创新</tspan></text>
+</g>
+<g id="shape-15" data-name="文本框 14">
+<rect x="864.01" y="413.26" width="216.66" height="67.86" fill="none"/>
+<text x="972.34" y="463.99" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="48" fill="url(#txtgrad11)"><tspan fill="url(#txtgrad11)" font-size="48">工艺创新</tspan></text>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="163.34" y="508" width="294.8" height="121.79" fill="none"/>
+<text x="310.74" y="528.67" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="310.74" y="547.34" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="310.74" y="566" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+<text x="310.74" y="584.67" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">请输入内容请输入内容</tspan></text>
+
+</g></svg>

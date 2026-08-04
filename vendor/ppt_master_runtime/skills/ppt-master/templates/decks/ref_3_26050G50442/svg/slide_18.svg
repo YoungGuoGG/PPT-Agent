@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad5" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">教育维度</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="28.39" y="97.86" width="1223.23" height="63.28" fill="none"/>
+<text x="640" y="134.39" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="37.33" fill="url(#txtgrad2)"><tspan fill="url(#txtgrad2)" font-size="37.33">请输入内容</tspan></text>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="114.23" y="179.46" width="1051.53" height="52.76" fill="none"/>
+<text x="640" y="211.46" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="32" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="32">请输入内容</tspan></text>
+
+</g>
+<g id="shape-38" data-name="组合 37">
+<g id="shape-13" data-name="图片 12">
+<image href="../assets/image64.png" x="780.79" y="276.24" width="379.64" height="330.08" preserveAspectRatio="none"/>
+</g>
+<g id="shape-15" data-name="图片 14">
+<svg x="117.61" y="276.25" width="638.3" height="330.08" viewBox="0.63068 0.0131 0.32618 0.9668" preserveAspectRatio="none"><image href="../assets/image65.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-20" data-name="文本框 19">
+<rect x="781.29" y="508.54" width="381.1" height="80.33" fill="none"/>
+<text x="790.89" y="533.74" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">以赛促学，激励学生双创意识、提</tspan><tspan x="790.89" dy="28.8" fill="#FFFFFF" font-size="24">高学生技能、培养学生工匠精神</tspan></text>
+</g>
+<g id="shape-22" data-name="文本框 21">
+<rect x="137.03" y="524.14" width="182.31" height="90.26" fill="none"/>
+<text x="228.19" y="549.34" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">校地合作</tspan></text>
+
+<text x="228.19" y="578.14" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">专创融合</tspan></text>
+</g>
+<g id="shape-24" data-name="文本框 23">
+<rect x="342.83" y="512.67" width="182.31" height="90.26" fill="none"/>
+<text x="433.99" y="537.87" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">校企合作</tspan></text>
+<text x="433.99" y="564.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">人才培养</tspan></text>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="548.56" y="512.67" width="182.31" height="90.26" fill="none"/>
+<text x="639.72" y="537.87" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">产教融合</tspan></text>
+<text x="639.72" y="564.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;黑体&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">学科交叉</tspan></text>
+
+</g>
+</g>
+<g id="shape-5" data-name="圆角矩形 26">
+<rect x="144.48" y="303.36" width="165.66" height="197.65" rx="10.44" ry="10.44" fill="url(#ggrad3)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+</g>
+<g id="shape-7" data-name="圆角矩形 26">
+<rect x="350.7" y="303.48" width="165.66" height="197.6" rx="10.44" ry="10.44" fill="url(#ggrad4)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx2)"/>
+</g>
+<g id="shape-12" data-name="圆角矩形 26">
+<rect x="556.89" y="303.35" width="165.66" height="197.6" rx="10.44" ry="10.44" fill="url(#ggrad5)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx3)"/>
+</g>
+<g id="shape-14" data-name="圆角矩形 26">
+<rect x="806.18" y="303.36" width="329.41" height="197.65" rx="12.46" ry="12.46" fill="url(#ggrad6)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx4)"/>
+</g></svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="0" refY="5" markerWidth="5" markerHeight="5" orient="auto-start-reverse" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#FFFFFF"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><circle cx="5" cy="5" r="4" fill="#FFFFFF"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-4" data-name="图片 3">
+<image href="assets/image1.jpeg" x="0.13" y="0" width="1279.67" height="719.93" preserveAspectRatio="none"/>
+</g>
+<g id="shape-5" data-name="图形">
+<rect x="428.13" y="25.93" width="423.8" height="52.33" fill="none" stroke-width="1.333" stroke-linecap="round" stroke="none" stroke-linejoin="round"/>
+<text x="437.73" y="62.47" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">输入标题内容</tspan></text>
+</g>
+<g id="shape-12" data-name="圆角矩形 5">
+<rect x="64.8" y="93.6" width="1156.47" height="571.8" rx="95.3" ry="95.3" fill="#FFFFFF" stroke="#3367E0" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-9" data-name="TextBox 8">
+<rect x="305.25" y="185.84" width="332.67" height="125.87" fill="none" stroke="none"/>
+<text x="314.85" y="208.78" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">单击此处添加本章节的简要内容</tspan><tspan x="314.85" dy="32" fill="#404040" font-size="21.33">。本模板精心设计，模板所有素</tspan><tspan x="314.85" dy="32" fill="#404040" font-size="21.33">材均可自由编辑替换移动。</tspan></text>
+</g>
+<g id="shape-10" data-name="直接连接符 9">
+<line x1="191.91" y1="408.31" x2="637.91" y2="408.31" fill="none" stroke-width="1" stroke="#FFFFFF" stroke-linejoin="round" marker-start="url(#marrow1)" marker-end="url(#marrow2)"/>
+</g>
+<g id="shape-11" data-name="TextBox 10">
+<rect x="305.25" y="425.84" width="332.67" height="125.87" fill="none" stroke="none"/>
+<text x="314.85" y="448.78" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="21.33" fill="#404040"><tspan fill="#404040" font-size="21.33">单击此处添加本章节的简要内容</tspan><tspan x="314.85" dy="32" fill="#404040" font-size="21.33">。本模板精心设计，模板所有素</tspan><tspan x="314.85" dy="32" fill="#404040" font-size="21.33">材均可自由编辑替换移动。</tspan></text>
+</g>
+<g id="shape-15" data-name="Group 7">
+<g id="shape-16" data-name="等腰三角形 2" transform="rotate(50.6 241.08 250.28)">
+<path d="M 241.08 180.37 L 253.04 200.53 C 281.44 205.93 302.86 230.4 302.86 259.77 C 302.86 293.13 275.2 320.18 241.08 320.18 C 206.96 320.18 179.3 293.13 179.3 259.77 C 179.3 230.4 200.72 205.93 229.13 200.53 L 241.08 180.37 Z" stroke="none" fill="none"/>
+</g>
+<g id="shape-17" data-name="TextBox 16">
+<rect x="187.21" y="233.78" width="96.8" height="54.93" stroke="none" fill="none"/>
+<text x="196.81" y="270.31" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#F8F8F8" font-weight="bold"><tspan fill="#F8F8F8" font-size="37.33" font-weight="bold">标题</tspan></text>
+</g>
+</g>
+<g id="shape-20" data-name="Group 7">
+<g id="shape-21" data-name="等腰三角形 2" transform="rotate(50.6 235.25 482.49)">
+<path d="M 235.25 412.58 L 247.2 432.74 C 275.61 438.14 297.03 462.61 297.03 491.98 C 297.03 525.34 269.37 552.39 235.25 552.39 C 201.13 552.39 173.46 525.34 173.46 491.98 C 173.46 462.61 194.89 438.14 223.29 432.74 L 235.25 412.58 Z" fill="#FFC000" stroke="none"/>
+</g>
+<g id="shape-22" data-name="TextBox 16">
+<rect x="181.38" y="465.99" width="96.8" height="54.93" fill="none" stroke="none"/>
+<text x="190.98" y="502.52" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;思源黑体 CN Regular&quot;, sans-serif" font-size="37.33" fill="#F8F8F8" font-weight="bold"><tspan fill="#F8F8F8" font-size="37.33" font-weight="bold">标题</tspan></text>
+</g>
+</g>
+<g id="shape-14" data-name="图片 13">
+<image href="assets/image10.png" x="637.08" y="142.5" width="478.24" height="478.24" preserveAspectRatio="none"/>
+</g></svg>

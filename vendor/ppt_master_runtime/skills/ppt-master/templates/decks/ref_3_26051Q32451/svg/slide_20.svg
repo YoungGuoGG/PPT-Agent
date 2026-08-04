@@ -1,0 +1,185 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><marker id="marrow1" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#008112"/></marker><marker id="marrow2" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#008112"/></marker><marker id="marrow3" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#008112"/></marker><marker id="marrow4" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#008112"/></marker><marker id="marrow5" viewBox="0 0 10 10" refX="10" refY="5" markerWidth="5" markerHeight="5" orient="auto" markerUnits="strokeWidth"><path d="M 0 0 L 10 5 L 0 10" fill="#008112"/></marker></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-110" data-name="肘形连接符 109" transform="rotate(180 780.63 239.88)">
+<rect x="377.85" y="144.72" width="805.57" height="190.32" stroke="#008112" marker-end="url(#marrow1)" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-32" data-name="矩形 31">
+<rect x="216.58" y="484.28" width="144.23" height="58.42" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-30" data-name="矩形 29">
+<rect x="218.23" y="275.67" width="144.17" height="76.9" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-6" data-name="矩形 5">
+<rect x="203.37" y="211.27" width="174.43" height="388.81" fill="none" stroke-width="1.667" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-7" data-name="下箭头 6">
+<polygon points="278.86,369.74 278.86,395.35 267.11,395.35 290.61,420.97 314.11,395.35 302.36,395.35 302.36,369.74" fill="#72C86C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="217.76" y="507.72" width="145.7" height="32.2" fill="none"/>
+<text x="290.61" y="528.38" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">“</tspan><tspan fill="#FFFFFF" font-size="18.67">XXXX</tspan><tspan fill="#FFFFFF" font-size="18.67">”</tspan><tspan fill="#FFFFFF" font-size="18.67">品牌</tspan></text>
+</g>
+<g id="shape-29" data-name="文本框 28">
+<rect x="216.58" y="283.47" width="147.93" height="54.79" fill="none"/>
+<text x="290.55" y="304.13" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">XXXX农业发展有限公司</tspan></text>
+</g>
+<g id="shape-11" data-name="矩形 10">
+<rect x="52.91" y="211.27" width="61.92" height="378.06" fill="#9ADFBF" fill-opacity="0.3" stroke-width="2" stroke="none" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-42" data-name="文本框 41">
+<rect x="53.44" y="256.92" width="61.39" height="266.69" fill="none"/>
+</g>
+<g id="shape-42-text" data-name="文本框 41 text">
+<text x="84.13" y="271.65" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#404040"><tspan fill="#404040" font-size="17.33">X</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">X</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">X</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">X</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">研</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">发</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">中</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">心</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">(</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">华</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">中</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">农</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">业</tspan><tspan x="84.13" dy="18.2" fill="#404040" font-size="17.33">大</tspan></text>
+</g>
+<g id="shape-45" data-name="文本框 44">
+<rect x="114.83" y="363.94" width="105.63" height="74.19" fill="none"/>
+<text x="124.43" y="380.08" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="13.33" fill="#000000"><tspan fill="#000000" font-size="13.33">技术及人才</tspan></text>
+
+
+</g>
+<g id="shape-49" data-name="右箭头 48">
+<polygon points="123.53,391.69 155.04,391.69 155.04,386.62 186.56,396.75 155.04,406.89 155.04,401.82 123.53,401.82" fill="#72C86C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-53" data-name="矩形 52">
+<rect x="468.74" y="489.36" width="174.43" height="48.05" fill="#9ADFBF" fill-opacity="0.3" stroke-width="2" stroke="none" stroke-dasharray="1 3"/>
+<text x="555.95" y="507.78" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">XX观光农业公司</tspan></text>
+<text x="555.95" y="526.98" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">（观光、旅游、休闲）</tspan></text>
+</g>
+<g id="shape-54" data-name="右箭头 53">
+<polygon points="394.18,391.57 425.7,391.57 425.7,386.5 457.22,396.63 425.7,406.77 425.7,401.7 394.18,401.7" fill="#72C86C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-71" data-name="矩形 70">
+<rect x="468.74" y="551.98" width="170.36" height="48.11" fill="#9ADFBF" fill-opacity="0.3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-72" data-name="文本框 71">
+<rect x="476.3" y="552.04" width="166.68" height="48.34" fill="none"/>
+<text x="559.64" y="570.44" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">客服中心</tspan></text>
+<text x="559.64" y="589.64" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">(</tspan><tspan fill="#404040" font-size="16">售后及咨询服务</tspan><tspan fill="#404040" font-size="16">)</tspan></text>
+</g>
+<g id="shape-58" data-name="矩形 57">
+<rect x="468.74" y="211.27" width="174.43" height="265.98" fill="none" stroke-width="1.667" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-57" data-name="矩形 56">
+<rect x="483.89" y="230" width="144.17" height="25.33" fill="#9ADFBF" fill-opacity="0.3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-61" data-name="文本框 60">
+<rect x="482.01" y="226.61" width="147.93" height="28.93" fill="none"/>
+<text x="555.98" y="245.01" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">企业合作社</tspan></text>
+</g>
+<g id="shape-65" data-name="矩形 64">
+<rect x="483.89" y="268.43" width="144.17" height="25.33" fill="#9ADFBF" fill-opacity="0.3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-66" data-name="文本框 65">
+<rect x="482.01" y="265.04" width="147.93" height="28.93" fill="none"/>
+<text x="555.98" y="283.44" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">家庭农场</tspan></text>
+</g>
+<g id="shape-74" data-name="矩形 73">
+<rect x="483.89" y="306.91" width="144.17" height="36.66" fill="#9ADFBF" fill-opacity="0.3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-75" data-name="文本框 74">
+<rect x="482.01" y="300.91" width="147.93" height="48.35" fill="none"/>
+<text x="555.98" y="319.31" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">XXXX</tspan><tspan fill="#404040" font-size="16">牛肉制品有限公司</tspan></text>
+</g>
+<g id="shape-77" data-name="矩形 76">
+<rect x="483.89" y="356.71" width="144.17" height="22.69" fill="#9ADFBF" fill-opacity="0.3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-78" data-name="文本框 77">
+<rect x="482.01" y="350.92" width="147.93" height="28.93" fill="none"/>
+<text x="555.98" y="369.32" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">肉牛屠宰加工厂</tspan></text>
+</g>
+<g id="shape-80" data-name="矩形 79">
+<rect x="483.89" y="392.54" width="144.17" height="22.69" fill="#9ADFBF" fill-opacity="0.3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-81" data-name="文本框 80">
+<rect x="476.31" y="386.75" width="159.33" height="28.93" fill="none"/>
+<text x="555.98" y="405.15" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">长河商品牛养殖场</tspan></text>
+</g>
+<g id="shape-83" data-name="矩形 82">
+<rect x="483.89" y="428.37" width="144.17" height="25.33" fill="#9ADFBF" fill-opacity="0.3" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-84" data-name="文本框 83">
+<rect x="482.01" y="424.98" width="147.93" height="28.93" fill="none"/>
+<text x="555.98" y="443.38" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#404040"><tspan fill="#404040" font-size="16">XX种牛场</tspan></text>
+</g>
+<g id="shape-87" data-name="右箭头 86">
+<polygon points="661.2,391.69 692.72,391.69 692.72,386.62 724.24,396.75 692.72,406.89 692.72,401.82 661.2,401.82" fill="#72C86C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-88" data-name="矩形 87">
+<rect x="732.52" y="335.87" width="95.58" height="108.79" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-89" data-name="文本框 88">
+<rect x="732.52" y="369.7" width="95.58" height="51.58" fill="none"/>
+<text x="780.31" y="389.23" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="17.33">牛肉及相关产品</tspan></text>
+</g>
+<g id="shape-90" data-name="肘形连接符 89" transform="rotate(270 836.62 283.64)">
+<rect x="784.4" y="227.36" width="104.44" height="112.56" stroke="#008112" marker-end="url(#marrow2)" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-91" data-name="矩形 90">
+<rect x="891.85" y="211.27" width="159.15" height="45.58" fill="#008112" stroke="none" stroke-width="1"/>
+<text x="971.42" y="238.07" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">京东、淘宝等</tspan><tspan fill="#FFFFFF" font-size="16">O2O</tspan><tspan fill="#FFFFFF" font-size="16">线上平台</tspan></text>
+</g>
+<g id="shape-93" data-name="肘形连接符 92" transform="rotate(90 835.57 496.88) translate(835.57 496.88) scale(1 -1) translate(-835.57 -496.88)">
+<rect x="783.34" y="440.6" width="104.44" height="112.56" stroke="#008112" marker-end="url(#marrow3)" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-92" data-name="矩形 91">
+<rect x="915.93" y="501.46" width="126.02" height="21.03" fill="#008112" stroke="none" stroke-width="1"/>
+<text x="978.94" y="519.86" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">城市合伙人</tspan></text>
+</g>
+<g id="shape-94" data-name="矩形 93">
+<rect x="915.93" y="531.01" width="126.02" height="21.03" fill="#008112" stroke="none" stroke-width="1"/>
+<text x="978.94" y="549.41" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">商超</tspan></text>
+</g>
+<g id="shape-95" data-name="矩形 94">
+<rect x="915.93" y="562.08" width="126.02" height="21.03" fill="#008112" stroke="none" stroke-width="1"/>
+<text x="978.94" y="580.48" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">专卖店</tspan></text>
+</g>
+<g id="shape-96" data-name="矩形 95">
+<rect x="906.83" y="484.25" width="144.17" height="115.84" fill="none" stroke-width="1.667" stroke="#008112" stroke-dasharray="1 3"/>
+</g>
+<g id="shape-98" data-name="文本框 97">
+<rect x="779.28" y="203.05" width="117.44" height="32.19" fill="none"/>
+<text x="788.88" y="223.72" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">线上渠道</tspan></text>
+</g>
+<g id="shape-99" data-name="文本框 98">
+<rect x="774.41" y="552.04" width="117.44" height="32.19" fill="none"/>
+<text x="784.01" y="572.7" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">线下渠道</tspan></text>
+</g>
+<g id="shape-100" data-name="肘形连接符 99" transform="rotate(90 1107.28 283.64) translate(1107.28 283.64) scale(-1 1) translate(-1107.28 -283.64)">
+<rect x="1055.06" y="227.36" width="104.44" height="112.56" stroke="#008112" marker-end="url(#marrow4)" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-101" data-name="肘形连接符 100" transform="rotate(270 1107.28 496.88) translate(1107.28 496.88) scale(-1 -1) translate(-1107.28 -496.88)">
+<rect x="1055.06" y="440.6" width="104.44" height="112.56" stroke="#008112" marker-end="url(#marrow5)" fill="#6096E6" stroke-width="1"/>
+</g>
+<g id="shape-107" data-name="右箭头 106" transform="rotate(90 288.61 186.98) translate(288.61 186.98) scale(-1 -1) translate(-288.61 -186.98)">
+<polygon points="272.57,183.27 288.61,183.27 288.61,179.55 304.65,186.98 288.61,194.42 288.61,190.7 272.57,190.7" fill="#72C86C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-109" data-name="矩形 108">
+<rect x="203.42" y="120.69" width="174.43" height="48.05" fill="#9ADFBF" fill-opacity="0.3" stroke-width="2" stroke="none" stroke-dasharray="1 3"/>
+<text x="290.64" y="149.39" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">XX商学院</tspan></text>
+</g>
+<g id="shape-105" data-name="矩形 104">
+<rect x="1118.15" y="336.51" width="95.58" height="108.79" fill="#008112" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-106" data-name="文本框 105">
+<rect x="1118.15" y="362.89" width="95.58" height="51.58" fill="none"/>
+<text x="1165.94" y="382.42" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="17.33">C</tspan><tspan fill="#FFFFFF" font-size="17.33">端</tspan></text>
+<text x="1165.94" y="403.22" text-anchor="middle" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="17.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="17.33">消费者</tspan></text>
+</g>
+<g id="shape-111" data-name="右箭头 110">
+<polygon points="394.18,515.1 425.7,515.1 425.7,510.04 457.22,520.17 425.7,530.3 425.7,525.24 394.18,525.24" fill="#72C86C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-112" data-name="右箭头 111">
+<polygon points="394.18,570.97 425.7,570.97 425.7,565.9 457.22,576.03 425.7,586.17 425.7,581.1 394.18,581.1" fill="#72C86C" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-113" data-name="文本框 112">
+<rect x="391.89" y="106.42" width="726.26" height="37.83" fill="none"/>
+<text x="401.49" y="127.09" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="18.67" fill="#000000"><tspan fill="#000000" font-size="18.67">增加</tspan><tspan fill="#404040" font-size="18.67">用户粘度及品牌</tspan><tspan fill="#000000" font-size="18.67">知识</tspan><tspan fill="#404040" font-size="18.67">认知</tspan></text>
+</g>
+<g id="shape-69" data-name="文本框 68">
+<rect x="94.14" y="16.37" width="198.93" height="48.47" fill="none"/>
+<text x="103.74" y="48.37" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;汉仪粗简黑简&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">核心优势</tspan></text>
+</g>
+<g id="shape-86" data-name="文本框 85">
+<rect x="94.14" y="57.95" width="265.77" height="22.62" fill="none"/>
+<text x="103.74" y="71.82" text-anchor="start" xml:space="preserve" font-family="&quot;Source Han Sans CN Regular&quot;, sans-serif" font-size="10.67" fill="#808080"><tspan fill="#808080" font-size="10.67">FILL IN THE TEXT OF THE DOCUMENT TITLE HERE</tspan></text>
+</g></svg>

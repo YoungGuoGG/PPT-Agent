@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="0.1" flood-color="#000000" flood-opacity="1"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-3" data-name="Rectangle 2">
+<rect x="0" y="0.05" width="644" height="719.91" fill="#FD8525" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="图片 18" transform="rotate(90 322 360)">
+<image href="assets/image33.jpeg" x="-1.27" y="144.49" width="646.54" height="431.03" preserveAspectRatio="none"/>
+</g>
+<g id="shape-20" data-name="乘号">
+<rect x="148.12" y="108" width="124.33" height="124.33" fill="#FC01D7" stroke="#FC01D7" stroke-width="1"/>
+</g>
+<g id="shape-21" data-name="文本框 20" transform="translate(773.84 481.57) scale(-1 1) translate(-773.84 -481.57)">
+<rect x="669.09" y="457.03" width="209.5" height="49.07" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+<text x="669.09" y="484.23" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">单击键入标题 </tspan></text>
+</g>
+<g id="shape-22" data-name="文本框 22" transform="translate(886.55 583.54) scale(-1 1) translate(-886.55 -583.54)">
+<rect x="669.09" y="534.64" width="434.91" height="97.79" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx2)"/>
+<text x="669.09" y="550.51" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">本模板精心设计，模板所有素材均可自由编辑替换移</tspan><tspan x="669.09" dy="28" fill="#262626" font-size="18.67">动。单击此处添加本章节的简要内容。本模板精心设</tspan><tspan x="669.09" dy="28" fill="#262626" font-size="18.67">计，模板所有素材均可自由编辑替换移动</tspan></text>
+</g>
+<g id="shape-23" data-name="文本框 20" transform="translate(773.84 215.98) scale(-1 1) translate(-773.84 -215.98)">
+<rect x="669.09" y="191.44" width="209.5" height="49.07" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx3)"/>
+<text x="669.09" y="218.64" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">单击键入标题 </tspan></text>
+</g>
+<g id="shape-24" data-name="文本框 22" transform="translate(877.21 317.95) scale(-1 1) translate(-877.21 -317.95)">
+<rect x="669.09" y="269.05" width="416.24" height="97.79" fill="none" stroke-width="1" stroke="none" stroke-linejoin="miter" filter="url(#fx4)"/>
+<text x="669.09" y="284.92" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">本模板精心设计，模板所有素材均可自由编辑替换</tspan><tspan x="669.09" dy="28" fill="#262626" font-size="18.67">移动。单击此处添加本章节的简要内容。本模板精</tspan><tspan x="669.09" dy="28" fill="#262626" font-size="18.67">心设计，模板所有素材均可自由编辑替换移动</tspan></text>
+</g>
+<g id="shape-25" data-name="文本框 24">
+<rect x="709.95" y="31.6" width="570.05" height="151.87" fill="none"/>
+<text x="719.55" y="136.13" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="117.33" fill="#FF8627"><tspan fill="#FF8627" font-size="117.33">Portfolio</tspan></text>
+</g></svg>

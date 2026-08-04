@@ -1,0 +1,53 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-32" data-name="组合 31">
+<g id="shape-33" data-name="矩形: 圆角 32">
+<rect x="526.62" y="242.21" width="207.9" height="187.23" rx="0" ry="0" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-34" data-name="Freeform: Shape 31">
+<path d="M 616.35 286.82 C 615.85 286.82 615.44 287.27 615.44 287.83 C 615.44 288.38 615.85 288.83 616.35 288.83 C 616.86 288.83 617.27 288.38 617.27 287.83 C 617.27 287.27 616.86 286.82 616.35 286.82 Z M 644.33 277.83 C 643.67 277.83 643.14 278.36 643.14 279.02 C 643.14 279.68 643.67 280.21 644.33 280.21 C 644.99 280.21 645.52 279.68 645.52 279.02 C 645.52 278.36 644.99 277.83 644.33 277.83 Z M 613.23 275.63 L 613.23 284.62 L 619.47 284.62 L 619.47 275.63 Z M 612.42 272.87 C 612.42 272.87 612.42 272.87 620.44 272.87 C 621.06 272.87 621.67 273.48 621.67 274.24 C 621.67 274.24 621.67 274.24 621.67 288.2 C 621.67 288.96 621.06 289.57 620.44 289.57 C 620.44 289.57 620.44 289.57 612.42 289.57 C 611.65 289.57 611.03 288.96 611.03 288.2 C 611.03 288.2 611.03 288.2 611.03 274.24 C 611.03 273.48 611.65 272.87 612.42 272.87 Z M 617.39 266.09 C 617.39 266.09 617.39 266.09 631.28 266.09 C 632.5 266.09 633.41 267 633.41 268.07 C 633.41 268.07 633.41 268.07 633.41 287.59 C 633.41 288.65 632.5 289.57 631.28 289.57 C 631.28 289.57 631.28 289.57 623.49 289.57 C 623.65 289.26 623.65 288.96 623.65 288.5 C 623.65 288.5 623.65 288.5 623.65 288.2 C 623.8 288.2 624.1 288.35 624.41 288.35 C 625.02 288.35 625.48 287.89 625.48 287.13 C 625.48 286.52 625.02 285.91 624.41 285.91 C 624.1 285.91 623.8 286.06 623.65 286.21 C 623.65 286.21 623.65 286.21 623.65 283.77 C 623.65 283.77 623.65 283.77 630.51 283.77 C 630.51 283.77 630.51 283.77 630.51 269.29 C 630.51 269.29 630.51 269.29 618.15 269.29 C 618.15 269.29 618.15 269.29 618.15 271.12 C 618.15 271.12 618.15 271.12 615.25 271.12 C 615.25 271.12 615.25 271.12 615.25 268.07 C 615.25 267 616.32 266.09 617.39 266.09 Z M 622.9 256.55 C 622.9 256.55 622.9 256.55 646.31 256.55 C 648.44 256.55 650.11 258.37 650.11 260.5 C 650.11 260.5 650.11 260.5 650.11 278.31 C 650.11 280.44 648.44 282.11 646.31 282.11 C 646.31 282.11 646.31 282.11 638.1 282.11 C 638.1 282.11 638.1 282.11 638.1 284.7 C 638.1 284.7 638.1 284.7 641.75 284.7 C 642.51 284.7 643.12 285.46 643.12 286.22 C 643.12 286.22 643.12 286.22 643.12 288.05 C 643.12 288.96 642.51 289.57 641.75 289.57 C 641.75 289.57 641.75 289.57 634.76 289.57 C 635.06 288.96 635.21 288.35 635.37 287.74 C 635.37 287.59 635.37 281.2 635.37 281.2 C 635.37 281.2 635.37 281.2 635.37 276.48 C 635.37 276.48 635.37 276.48 645.25 276.48 C 646.16 276.48 646.77 275.72 646.77 274.96 C 646.77 274.96 646.77 274.96 646.77 261.11 C 646.77 260.35 646.16 259.74 645.25 259.74 C 645.25 259.74 645.25 259.74 623.82 259.74 C 623.06 259.74 622.45 260.35 622.45 261.11 C 622.45 261.11 622.45 261.11 622.45 264.16 C 622.45 264.16 622.45 264.16 619.1 264.16 C 619.1 264.16 619.1 264.16 619.1 260.5 C 619.1 258.37 620.78 256.55 622.9 256.55 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-35" data-name="文本框 34">
+<rect x="538.64" y="293.05" width="189.98" height="74" fill="none"/>
+<text x="633.63" y="313.72" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF" letter-spacing="1.33"><tspan fill="#FFFFFF" font-size="18.67" letter-spacing="1.33">单击此处添加您的文本或者复制您</tspan></text>
+</g>
+</g>
+<g id="shape-37" data-name="矩形: 圆角 36">
+<rect x="748.93" y="242.21" width="395.45" height="187.23" rx="0" ry="0" fill="#F2F2F2" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-44" data-name="文本框 43">
+<rect x="253.74" y="515.47" width="776.09" height="73.55" fill="none"/>
+<text x="641.79" y="536.14" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="18.67" fill="#262626" letter-spacing="1.33"><tspan fill="#262626" font-size="18.67" letter-spacing="1.33">单击此处添加您的文本或者复制您适合的内容粘贴到此以填充文本框。单击此处添加您的文</tspan><tspan x="641.79" dy="28" fill="#262626" font-size="18.67" letter-spacing="1.33">本粘贴到此以填充文本框。</tspan></text>
+</g>
+<g id="shape-45" data-name="文本框 44">
+<rect x="106.62" y="247.54" width="207.9" height="48.47" fill="none"/>
+<text x="116.22" y="279.54" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="32" fill="#262626" letter-spacing="1.33"><tspan fill="#262626" font-size="32" letter-spacing="1.33">请输入标题</tspan></text>
+</g>
+<g id="shape-46" data-name="文本框 45">
+<rect x="106.62" y="296.01" width="374.72" height="141.86" fill="none"/>
+<text x="116.22" y="316.67" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂105号-简雅黑&quot;, sans-serif" font-size="18.67" fill="#262626" letter-spacing="1.33"><tspan fill="#262626" font-size="18.67" letter-spacing="1.33">单击此处添加您的文本或者复制您适合的内</tspan><tspan x="116.22" dy="28" fill="#262626" font-size="18.67" letter-spacing="1.33">容粘贴到此以填充您的文本或者复制您适合</tspan><tspan x="116.22" dy="28" fill="#262626" font-size="18.67" letter-spacing="1.33">的内容粘贴到此以填充文本框。</tspan></text>
+
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g>
+<g id="shape-6" data-name="图片 5">
+<image href="assets/image13.png" x="777.17" y="172.74" width="314.62" height="314.62" preserveAspectRatio="none"/>
+</g></svg>

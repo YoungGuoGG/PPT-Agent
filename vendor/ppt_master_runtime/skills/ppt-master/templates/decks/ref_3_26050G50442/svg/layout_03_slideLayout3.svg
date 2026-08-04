@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="1" stop-color="#040B38" stop-opacity="0.8"/><stop offset="0.63" stop-color="#050530" stop-opacity="0.75"/><stop offset="0" stop-color="#02103F" stop-opacity="0.8"/></linearGradient></defs><g id="layout-shape-2" data-name="图片 1" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="../assets/image4.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-4" data-name="图片 3" transform="translate(109.09 410.21) scale(-1 1) translate(-109.09 -410.21)">
+<image href="../assets/image1_fx_865c50a5.png" x="1.28" y="99.92" width="215.61" height="620.58" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-9" data-name="矩形 8">
+<rect x="0" y="0" width="1280" height="721.96" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-10" data-name="图片 9" transform="rotate(32.44 1200.83 -71.31)">
+<image href="../assets/image3.png" x="671.51" y="-686.57" width="1058.65" height="1230.52" preserveAspectRatio="none"/>
+</g></svg>

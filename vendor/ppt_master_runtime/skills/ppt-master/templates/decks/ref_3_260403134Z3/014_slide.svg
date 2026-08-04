@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="shape-9" data-name="组合 8">
+<g id="shape-11" data-name="平行四边形 10">
+<polygon points="113,82.06 118.2,82.06 116.47,112.36 111.27,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-15" data-name="平行四边形 14">
+<polygon points="128.88,82.06 134.08,82.06 132.35,112.36 127.15,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="平行四边形 18">
+<polygon points="144.76,82.06 149.96,82.06 148.22,112.36 143.02,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="平行四边形 19">
+<polygon points="160.63,82.06 165.83,82.06 164.1,112.36 158.9,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-12" data-name="矩形 11" transform="rotate(346.74 950.54 325.09)">
+<rect x="767.26" y="151" width="366.56" height="348.19" fill="#DCDCDC" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-10" data-name="图片 9" transform="rotate(346.74 950.54 325.09)">
+<image href="assets/image35.jpeg" x="789.47" y="180.56" width="322.15" height="289.06" preserveAspectRatio="none"/>
+</g>
+<g id="shape-24" data-name="组合 23">
+<g id="shape-22" data-name="矩形 21">
+<rect x="160.82" y="432.39" width="214.96" height="208.38" fill="#DCDCDC" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-21" data-name="图片 20">
+<image href="assets/image36.jpeg" x="175.13" y="443.41" width="186.33" height="186.33" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-29" data-name="组合 28">
+<g id="shape-23" data-name="矩形 22">
+<rect x="468" y="477.39" width="172" height="163.38" fill="#DCDCDC" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-28" data-name="图片 27">
+<image href="assets/image37.jpeg" x="476.62" y="491.15" width="154.77" height="135.87" preserveAspectRatio="none"/>
+</g>
+</g>
+<g id="shape-30" data-name="文本框 29">
+<rect x="103.3" y="264.24" width="514.22" height="100.78" fill="none"/>
+<text x="112.9" y="282.64" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16"> 忙碌的都市生活让我疲惫不堪，我渴望一个属于自己的冒险，于是决</tspan><tspan x="112.9" dy="19.2" fill="#808080" font-size="16">定一个人踏上旅行的征程。如果你也厌倦了繁忙的生活，不妨放下一</tspan><tspan x="112.9" dy="19.2" fill="#808080" font-size="16">切，勇敢踏上属于自己的旅行。旅行不仅是一种体验，更是一种心灵</tspan><tspan x="112.9" dy="19.2" fill="#808080" font-size="16">的疗愈和成长！</tspan></text>
+</g>
+<g id="shape-31" data-name="文本框 30">
+<rect x="111.13" y="202.99" width="322.07" height="51.7" fill="none"/>
+<text x="111.13" y="239.26" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="42.67">漫步霞光之中</tspan></text>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="675.13" y="604.17" width="515.83" height="58.16" fill="none"/>
+<text x="1190.97" y="624.57" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, sans-serif" font-size="24" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="24">A journey through time, my encounter with </tspan><tspan x="1190.97" dy="28.8" fill="#9AAFC2" font-size="24">beautiful scenery</tspan></text>
+</g></svg>

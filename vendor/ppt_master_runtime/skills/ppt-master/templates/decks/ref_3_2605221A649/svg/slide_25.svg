@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="12.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-3" data-name="组合 2">
+<g id="shape-19" data-name="Oval 23">
+<rect x="67.61" y="287.36" width="76.21" height="76.21" rx="12.7" ry="12.7" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+<text x="105.72" y="333.87" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">案例一</tspan></text>
+</g>
+<g id="shape-25" data-name="矩形 24">
+<rect x="161.07" y="274.46" width="535.41" height="123.29" fill="none"/>
+<text x="170.67" y="301.93" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">小明年近</tspan><tspan fill="#404040" font-size="26.67">80</tspan><tspan fill="#404040" font-size="26.67">，身体每况愈下，他决定立下遗</tspan><tspan x="170.67" dy="32" fill="#404040" font-size="26.67">嘱，打印遗嘱时，他需要邀请两名医护人员</tspan><tspan x="170.67" dy="32" fill="#404040" font-size="26.67">来当见证人。</tspan></text>
+</g>
+</g>
+<g id="shape-6" data-name="组合 5">
+<g id="shape-7" data-name="Oval 7">
+<ellipse cx="105.72" cy="497.64" rx="38.11" ry="38.11" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-8" data-name="Freeform: Shape 9">
+<path d="M 114.06 489.94 C 110.61 489.31 107.17 488.99 103.73 488.99 C 100.28 488.99 96.84 489.31 93.39 489.94 C 93.08 489.94 92.77 490.25 92.46 490.88 C 90.89 496.24 90.89 501.9 92.46 507.26 C 92.77 507.89 93.08 508.2 93.39 508.2 C 96.84 508.83 100.28 509.15 103.73 509.15 C 107.17 509.15 110.61 508.83 114.06 508.2 C 114.37 508.2 114.68 507.89 115 507.26 C 116.87 501.9 116.87 496.24 115 490.88 C 114.68 490.25 114.37 489.94 114.06 489.94 Z M 113.74 506.94 C 107.17 508.2 100.59 508.2 93.71 506.94 C 92.14 501.59 92.14 496.55 93.71 491.2 C 100.59 489.62 107.17 489.62 113.74 491.2 C 115.62 496.55 115.62 501.59 113.74 506.94 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-9" data-name="Freeform: Shape 10">
+<path d="M 125.07 487.1 C 124.75 485.84 123.81 485.21 122.87 485.21 C 117.23 484.27 111.89 483.96 106.24 483.96 C 100.91 483.96 95.26 484.27 89.93 485.21 C 88.68 485.21 88.05 485.84 87.73 487.1 C 85.85 494.95 85.85 503.12 87.73 511.29 C 88.05 512.24 88.68 513.18 89.93 513.18 C 92.44 513.49 94.95 513.81 97.77 514.12 C 97.46 514.12 97.46 514.12 97.46 514.12 C 97.46 515.06 101.54 515.38 106.24 515.38 C 111.26 515.38 115.03 515.06 115.03 514.12 C 115.03 514.12 115.03 514.12 114.72 514.12 C 117.54 513.81 120.05 513.49 122.87 513.18 C 123.81 513.18 124.75 512.24 125.07 511.29 C 126.95 503.12 126.95 494.95 125.07 487.1 Z M 122.56 510.66 C 111.58 511.92 100.91 511.92 90.24 510.66 C 88.36 503.12 88.36 495.27 90.24 487.73 C 100.91 486.16 111.58 486.16 122.56 487.73 C 124.44 495.27 124.44 503.12 122.56 510.66 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-10" data-name="Freeform: Shape 11">
+<path d="M 119.39 494.03 C 120.32 494.03 121.25 493.39 121.25 492.11 C 121.25 491.15 120.32 490.19 119.39 490.19 C 118.47 490.19 117.54 491.15 117.54 492.11 C 117.54 493.39 118.47 494.03 119.39 494.03 Z M 119.39 491.47 C 119.7 491.47 120.01 491.79 120.01 492.11 C 120.01 492.75 119.7 492.75 119.39 492.75 C 119.08 492.75 118.78 492.75 118.78 492.11 C 118.78 491.79 119.08 491.47 119.39 491.47 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-11" data-name="Freeform: Shape 12">
+<path d="M 120.62 506.63 C 116.84 506.63 116.84 506.63 116.84 506.63 C 116.53 506.63 116.21 506.93 116.21 507.22 C 116.21 507.82 116.53 507.82 116.84 507.82 C 120.62 507.82 120.62 507.82 120.62 507.82 C 120.94 507.82 121.25 507.82 121.25 507.22 C 121.25 506.93 120.94 506.63 120.62 506.63 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-12" data-name="Freeform: Shape 13">
+<path d="M 121.95 502.78 C 118.17 502.78 118.17 502.78 118.17 502.78 C 117.85 502.78 117.54 503.11 117.54 503.45 C 117.54 504.11 117.85 504.11 118.17 504.11 C 121.95 504.11 121.95 504.11 121.95 504.11 C 122.26 504.11 122.58 504.11 122.58 503.45 C 122.58 503.11 122.26 502.78 121.95 502.78 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-13" data-name="Freeform: Shape 14">
+<path d="M 121.95 499.07 C 118.17 499.07 118.17 499.07 118.17 499.07 C 117.85 499.07 117.54 499.37 117.54 499.67 C 117.54 500.26 117.85 500.26 118.17 500.26 C 121.95 500.26 121.95 500.26 121.95 500.26 C 122.26 500.26 122.58 500.26 122.58 499.67 C 122.58 499.37 122.26 499.07 121.95 499.07 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-14" data-name="Freeform: Shape 15">
+<path d="M 103.12 494.03 C 97.45 494.35 97.45 494.35 97.45 494.35 C 97.14 494.35 96.82 494.66 96.51 494.98 C 96.19 498.44 96.19 498.44 96.19 498.44 C 96.19 499.07 96.51 499.07 96.82 499.07 C 97.14 499.07 97.45 499.07 97.45 498.44 C 97.77 496.24 97.77 496.24 97.77 496.24 C 97.77 495.92 98.08 495.61 98.4 495.61 C 103.12 495.29 103.12 495.29 103.12 495.29 C 103.43 495.29 103.75 494.98 103.75 494.66 C 103.75 494.03 103.43 494.03 103.12 494.03 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-29" data-name="组合 28">
+<g id="shape-31" data-name="矩形 30">
+<rect x="143.83" y="513.18" width="1050.32" height="84.51" fill="none"/>
+<text x="153.43" y="540.65" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">《</tspan><tspan fill="#404040" font-size="26.67">民法典</tspan><tspan fill="#404040" font-size="26.67">》</tspan><tspan fill="#404040" font-size="26.67">继承编：打印遗嘱应当有两个以上见证人在场见证。遗嘱人和见证人应当在</tspan><tspan x="153.43" dy="32" fill="#404040" font-size="26.67">遗嘱每一页签名，注明年、月、日。</tspan></text>
+</g>
+<g id="shape-32" data-name="矩形 31">
+<rect x="152.27" y="457.49" width="372.25" height="52.94" fill="none"/>
+<text x="161.87" y="489.49" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">《</tspan><tspan fill="#404040" font-size="32" font-weight="bold">民法典</tspan><tspan fill="#404040" font-size="32" font-weight="bold">》</tspan><tspan fill="#404040" font-size="32" font-weight="bold">继承编：</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-5" data-name="Rectangle: Rounded Corners 5">
+<rect x="67.61" y="147.72" width="612.23" height="72.34" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-33" data-name="矩形 32">
+<rect x="67.61" y="147.36" width="612.23" height="67.36" fill="none"/>
+<text x="373.73" y="188.43" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">养老继承</tspan></text>
+</g>
+</g>
+<g id="shape-35" data-name="图片 34">
+<image href="../assets/image36.png" x="755.47" y="116.48" width="372.25" height="419.27" preserveAspectRatio="none"/>
+</g></svg>

@@ -1,0 +1,14 @@
+{
+  "template_id": "layout_academic_defense",
+  "name": "Academic Defense Template - Design Specification",
+  "description": "Thesis defense, academic presentations, research progress reports, grant applications.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Thesis defense, academic presentations, research progress reports, grant applications."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\layouts\\academic_defense",
+  "kind": "layout",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

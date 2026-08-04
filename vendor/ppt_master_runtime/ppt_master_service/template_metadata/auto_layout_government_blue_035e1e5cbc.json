@@ -1,0 +1,14 @@
+{
+  "template_id": "layout_government_blue",
+  "name": "Government Blue Style Template - Design Specification",
+  "description": "Key project briefings, Five-Year Plan presentations, work summaries, investment promotion, policy interpretation.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Key project briefings, Five-Year Plan presentations, work summaries, investment promotion, policy interpretation."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\layouts\\government_blue",
+  "kind": "layout",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

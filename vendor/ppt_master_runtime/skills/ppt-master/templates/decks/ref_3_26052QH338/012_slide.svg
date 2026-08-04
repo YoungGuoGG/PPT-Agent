@@ -1,0 +1,106 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feMorphology operator="dilate" radius="5.33" in="SourceAlpha" result="dilated"/><feGaussianBlur in="dilated" stdDeviation="10.67" result="blurred"/><feFlood flood-color="#0E8EE7" flood-opacity="0.28" result="flood"/><feComposite in="flood" in2="blurred" operator="in" result="glow"/><feMerge><feMergeNode in="glow"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad2" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad3" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient><linearGradient id="ggrad4" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0.24" stop-color="#0E8EE7" stop-opacity="0"/><stop offset="1" stop-color="#11B5F2"/></linearGradient></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-18" data-name="图片 17">
+<image href="assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-7" data-name="组合 6">
+<g id="layout-shape-82" data-name="图形">
+<line x1="317" y1="115.6" x2="462.07" y2="115.6" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-83" data-name="图形" transform="rotate(270 311.57 115.53)">
+<ellipse cx="311.57" cy="115.53" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+</g>
+<g id="layout-shape-8" data-name="组合 7" transform="translate(918.7 115.6) scale(-1 1) translate(-918.7 -115.6)">
+<g id="layout-shape-9" data-name="图形">
+<line x1="851.6" y1="115.67" x2="996.67" y2="115.67" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-10" data-name="图形" transform="rotate(270 846.17 115.6)">
+<ellipse cx="846.17" cy="115.6" rx="5.43" ry="5.4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+</g>
+<g id="layout-shape-11" data-name="文本框 10">
+<rect x="493.17" y="81.67" width="317.27" height="67.86" fill="none"/>
+<text x="502.77" y="106.87" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">业绩数据展示</tspan></text>
+</g>
+<g id="layout-shape-12" data-name="组合 11">
+<g id="layout-shape-15" data-name="图形">
+<line x1="352.71" y1="134.38" x2="453" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-16" data-name="图形" transform="rotate(270 348.96 134.33)">
+<ellipse cx="348.96" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+</g>
+<g id="layout-shape-17" data-name="组合 16" transform="translate(894.77 134.33) scale(-1 1) translate(-894.77 -134.33)">
+<g id="layout-shape-20" data-name="图形">
+<line x1="848.38" y1="134.38" x2="948.67" y2="134.38" stroke-width="1.667" stroke="#0E8EE7" fill="#0E8EE7"/>
+</g>
+<g id="layout-shape-21" data-name="图形" transform="rotate(270 844.62 134.33)">
+<ellipse cx="844.62" cy="134.33" rx="3.76" ry="4" fill="#22FDFA" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+</g>
+<g id="shape-16" data-name="矩形: 圆角 2">
+<rect x="54.56" y="225.57" width="257.05" height="352.52" rx="42.84" ry="42.84" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-17" data-name="矩形: 圆角 16">
+<rect x="359.17" y="225.57" width="257.05" height="352.52" rx="42.84" ry="42.84" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-18" data-name="矩形: 圆角 17">
+<rect x="663.78" y="225.57" width="257.05" height="352.52" rx="42.84" ry="42.84" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-28" data-name="矩形: 圆角 27">
+<rect x="968.39" y="225.57" width="257.05" height="352.52" rx="42.84" ry="42.84" fill="url(#ggrad4)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-29" data-name="矩形 28">
+<rect x="90.59" y="349.21" width="184.99" height="42.01" fill="none"/>
+<text x="183.08" y="376.67" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">添加文字内容</tspan></text>
+</g>
+<g id="shape-30" data-name="文本框 29">
+<rect x="63.58" y="396.6" width="239.01" height="145.27" fill="none"/>
+<text x="183.08" y="417.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">您的内容打在这里，或者</tspan><tspan x="183.08" dy="28" fill="#FFFFFF" font-size="18.67">通过复制您的文本后，在</tspan><tspan x="183.08" dy="28" fill="#FFFFFF" font-size="18.67">此框中选择粘贴，并选择</tspan><tspan x="183.08" dy="28" fill="#FFFFFF" font-size="18.67">只保留文字。</tspan></text>
+</g>
+<g id="shape-31" data-name="矩形 30">
+<rect x="395.2" y="349.21" width="184.99" height="42.01" fill="none"/>
+<text x="487.69" y="376.67" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">添加文字内容</tspan></text>
+</g>
+<g id="shape-32" data-name="文本框 31">
+<rect x="368.19" y="396.6" width="239.01" height="145.27" fill="none"/>
+<text x="487.69" y="417.27" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">您的内容打在这里，或者</tspan><tspan x="487.69" dy="28" fill="#FFFFFF" font-size="18.67">通过复制您的文本后，在</tspan><tspan x="487.69" dy="28" fill="#FFFFFF" font-size="18.67">此框中选择粘贴，并选择</tspan><tspan x="487.69" dy="28" fill="#FFFFFF" font-size="18.67">只保留文字。</tspan></text>
+</g>
+<g id="shape-33" data-name="矩形 32">
+<rect x="699.81" y="351.77" width="184.99" height="42.01" fill="none"/>
+<text x="792.31" y="379.24" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">添加文字内容</tspan></text>
+</g>
+<g id="shape-34" data-name="文本框 33">
+<rect x="672.8" y="399.16" width="239.01" height="145.27" fill="none"/>
+<text x="792.31" y="419.83" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">您的内容打在这里，或者</tspan><tspan x="792.31" dy="28" fill="#FFFFFF" font-size="18.67">通过复制您的文本后，在</tspan><tspan x="792.31" dy="28" fill="#FFFFFF" font-size="18.67">此框中选择粘贴，并选择</tspan><tspan x="792.31" dy="28" fill="#FFFFFF" font-size="18.67">只保留文字。</tspan></text>
+</g>
+<g id="shape-35" data-name="矩形 34">
+<rect x="1004.42" y="351.77" width="184.99" height="42.01" fill="none"/>
+<text x="1096.92" y="379.24" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">添加文字内容</tspan></text>
+</g>
+<g id="shape-36" data-name="文本框 35">
+<rect x="977.42" y="399.16" width="239.01" height="145.27" fill="none"/>
+<text x="1096.92" y="419.83" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="18.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="18.67">您的内容打在这里，或者</tspan><tspan x="1096.92" dy="28" fill="#FFFFFF" font-size="18.67">通过复制您的文本后，在</tspan><tspan x="1096.92" dy="28" fill="#FFFFFF" font-size="18.67">此框中选择粘贴，并选择</tspan><tspan x="1096.92" dy="28" fill="#FFFFFF" font-size="18.67">只保留文字。</tspan></text>
+</g>
+<g id="shape-37" data-name="AutoShape 59">
+<path d="M 1116.43 336.55 L 1098.35 329.35 C 1097.91 329.18 1097.47 329.12 1097.03 329.1 L 1124.87 286.12 C 1124.87 286.12 1116.43 336.55 1116.43 336.55 Z M 1084.61 324.86 C 1084.61 324.86 1084.6 324.85 1084.6 324.85 L 1124.7 282.11 L 1090.51 335.14 C 1090.51 335.14 1084.61 324.86 1084.61 324.86 Z M 1069.68 317.93 L 1118.74 285.37 L 1083.07 323.38 C 1082.89 323.27 1082.72 323.12 1082.51 323.04 C 1082.51 323.04 1069.68 317.93 1069.68 317.93 Z M 1129.82 274.48 C 1129.47 274.25 1129.07 274.14 1128.67 274.14 C 1128.26 274.14 1127.85 274.25 1127.49 274.49 L 1063.99 316.65 C 1063.33 317.08 1062.97 317.84 1063.06 318.62 C 1063.13 319.4 1063.64 320.07 1064.37 320.36 L 1080.94 326.96 L 1088.72 340.52 C 1089.1 341.18 1089.79 341.58 1090.54 341.59 L 1090.56 341.59 C 1091.31 341.59 1092 341.19 1092.38 340.56 L 1096.78 333.26 L 1117.3 341.44 C 1117.55 341.54 1117.82 341.59 1118.08 341.59 C 1118.44 341.59 1118.8 341.5 1119.12 341.31 C 1119.68 341 1120.07 340.46 1120.17 339.82 L 1130.76 276.59 C 1130.89 275.77 1130.53 274.93 1129.82 274.48" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-38" data-name="Group 112">
+<g id="shape-39" data-name="AutoShape 110">
+<path d="M 815.47 316.32 L 769.13 316.32 L 769.13 286.72 L 815.47 286.72 C 815.47 286.72 815.47 316.32 815.47 316.32 Z M 815.47 284.61 L 769.13 284.62 C 767.97 284.62 767.03 285.55 767.03 286.72 L 767.03 316.31 C 767.03 317.48 767.97 318.42 769.13 318.42 L 815.47 318.42 C 816.64 318.42 817.58 317.48 817.58 316.31 L 817.58 286.72 C 817.58 285.55 816.64 284.61 815.47 284.61" stroke="none" fill="none"/>
+</g>
+<g id="shape-40" data-name="AutoShape 111">
+<path d="M 821.89 324.77 C 821.89 325.93 820.94 326.88 819.78 326.88 L 800.76 326.88 L 783.85 326.88 L 764.83 326.88 C 763.66 326.88 762.71 325.93 762.71 324.77 L 762.71 282.52 C 762.71 281.35 763.66 280.41 764.83 280.41 L 819.78 280.41 C 820.94 280.41 821.89 281.35 821.89 282.52 C 821.89 282.52 821.89 324.77 821.89 324.77 Z M 819.78 276.18 L 764.83 276.18 C 761.32 276.18 758.49 279.02 758.49 282.52 L 758.49 324.77 C 758.49 328.26 761.32 331.09 764.81 331.1 L 785.96 331.1 L 785.96 333.67 L 772.77 335.38 C 771.83 335.62 771.17 336.46 771.17 337.43 C 771.17 338.6 772.11 339.54 773.28 339.54 L 811.33 339.54 C 812.5 339.54 813.44 338.6 813.44 337.43 C 813.44 336.46 812.78 335.62 811.84 335.38 L 798.64 333.67 L 798.64 331.1 L 819.8 331.1 C 823.29 331.09 826.12 328.26 826.12 324.77 L 826.12 282.52 C 826.12 279.02 823.28 276.18 819.78 276.18" stroke="none" fill="none"/>
+</g>
+</g>
+<g id="shape-41" data-name="AutoShape 112">
+<path d="M 514.56 298.95 L 511 302.53 C 511 302.05 511.05 301.6 511.01 301.11 C 510.64 297.03 508.73 293.09 505.63 290 C 502.18 286.57 497.6 284.6 493.08 284.59 L 496.58 281.07 C 498.34 279.32 500.79 278.36 503.46 278.36 C 506.87 278.36 510.37 279.89 513.06 282.56 C 515.59 285.07 517.09 288.19 517.31 291.35 C 517.51 294.29 516.53 296.99 514.56 298.95 M 472.6 334.5 C 472.56 331.67 471.4 328.73 469.07 326.41 C 466.86 324.21 463.97 322.94 461.1 322.83 L 463.2 315.22 C 463.36 314.72 463.66 314.22 464.03 313.78 C 468.28 310.76 474.81 311.65 479.35 316.17 C 484.15 320.95 484.89 327.94 481.19 332.12 C 480.95 332.25 480.7 332.37 480.43 332.45 C 480.43 332.45 472.6 334.5 472.6 334.5 Z M 462.64 337.1 C 462.41 337.16 461.69 337.34 461.21 337.37 C 459.46 337.35 458.05 335.94 458.05 334.21 C 458.08 333.86 458.22 333.25 458.27 333.02 L 460.5 324.99 C 462.92 324.92 465.52 325.86 467.57 327.9 C 469.65 329.97 470.63 332.61 470.52 335.04 C 470.52 335.04 462.64 337.1 462.64 337.1 Z M 476.02 309.05 C 474.06 308.26 472 307.81 469.95 307.78 L 486.25 291.43 C 488.75 289 492.39 288.31 495.97 289.19 C 495.97 289.19 476.02 309.05 476.02 309.05 Z M 485.14 316.83 C 484.35 315.54 483.45 314.29 482.34 313.19 C 481.05 311.9 479.56 310.89 478.02 310.04 L 498.19 289.95 C 499.78 290.65 501.29 291.65 502.63 292.99 C 503.78 294.12 504.66 295.39 505.35 296.71 C 505.35 296.71 485.14 316.83 485.14 316.83 Z M 487.72 324.29 C 487.55 322.39 487.01 320.52 486.2 318.76 L 506.22 298.83 C 507.44 302.68 506.81 306.71 504.13 309.38 C 504.11 309.4 504.09 309.4 504.08 309.42 L 504.1 309.45 L 487.74 325.87 C 487.75 325.34 487.77 324.83 487.72 324.29 M 516.05 279.58 C 512.57 276.12 507.98 274.14 503.46 274.14 C 499.65 274.14 496.14 275.55 493.58 278.09 L 483.27 288.43 C 483.24 288.46 483.21 288.48 483.18 288.51 C 483.16 288.53 483.15 288.55 483.13 288.57 L 483.14 288.57 L 461.27 310.51 C 460.26 311.51 459.53 312.75 459.12 314.1 L 454.15 332.04 C 454.14 332.09 453.82 333.49 453.82 334.21 C 453.82 338.28 457.14 341.59 461.24 341.59 C 462.05 341.59 463.63 341.2 463.69 341.19 L 481.63 336.5 C 483 336.09 484.24 335.36 485.24 334.35 L 517.56 301.93 C 523.44 296.07 522.77 286.26 516.05 279.58" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-45" data-name="组合 44">
+<g id="shape-46" data-name="AutoShape 113">
+<path d="M 192.93 318.43 L 173.25 318.43 C 172.2 316.15 170.94 313.86 169.7 311.63 C 166.94 306.7 164.1 301.59 164.1 297.3 C 164.1 286.81 172.61 278.27 183.08 278.27 C 193.55 278.27 202.06 286.81 202.06 297.3 C 202.06 301.56 199.22 306.69 196.46 311.66 C 195.23 313.89 193.98 316.16 192.93 318.43 M 183.08 337.45 C 180.94 337.45 179.96 337.21 178.87 334.81 L 187.81 333.69 C 186.51 337.19 185.57 337.45 183.08 337.45 M 176.2 326.69 C 175.82 325.42 175.38 324.08 174.9 322.66 L 191.28 322.66 C 191.02 323.42 190.76 324.18 190.54 324.9 C 190.54 324.9 176.2 326.69 176.2 326.69 Z M 188.55 331.48 L 178.09 332.8 C 177.72 331.71 177.32 330.44 176.83 328.79 C 176.82 328.77 176.82 328.75 176.81 328.73 L 189.86 327.09 C 189.68 327.72 189.48 328.37 189.31 328.96 C 189.03 329.91 188.78 330.74 188.55 331.48 M 183.08 274.05 C 170.27 274.05 159.88 284.46 159.88 297.3 C 159.88 305.82 167.66 314.84 170.49 322.78 C 174.72 334.6 174.25 341.68 183.08 341.68 C 192.04 341.68 191.44 334.63 195.67 322.82 C 198.51 314.88 206.28 305.75 206.28 297.3 C 206.28 284.46 195.89 274.05 183.08 274.05" stroke="none" fill="none"/>
+</g>
+<g id="shape-47" data-name="AutoShape 114">
+<path d="M 183.06 284.67 C 176.07 284.67 170.39 290.35 170.39 297.34 C 170.39 297.93 170.86 298.4 171.44 298.4 C 172.03 298.4 172.5 297.93 172.5 297.34 C 172.5 291.52 177.24 286.78 183.06 286.78 C 183.65 286.78 184.12 286.31 184.12 285.72 C 184.12 285.14 183.65 284.67 183.06 284.67" stroke="none" fill="none"/>
+</g>
+</g></svg>

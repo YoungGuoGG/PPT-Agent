@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="../assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-3" data-name="矩形 2">
+<rect x="16.06" y="15.1" width="1247.89" height="689.81" fill="#FFFFFF" stroke="#C4D5FC" stroke-width="1"/>
+</g>
+<g id="layout-shape-32" data-name="矩形 31">
+<rect x="70.24" y="57.46" width="43.96" height="43.96" fill="#0A41BB" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-33" data-name="矩形 32">
+<rect x="92.4" y="79.62" width="32.2" height="32.2" fill="none" stroke="#0A41BB" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-21" data-name="图片占位符 35">
+<image href="../assets/image33.jpeg" x="73.76" y="212.03" width="629.14" height="353.89" preserveAspectRatio="none"/>
+</g>
+<g id="shape-22" data-name="组合 21">
+<g id="shape-23" data-name="文本框 22">
+<rect x="751.37" y="277.24" width="456.55" height="277.95" fill="none"/>
+<text x="760.97" y="297.91" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">用户可以在投影仪或者计算机上进行演示也可以将演</tspan><tspan x="760.97" dy="28" fill="#404040" font-size="18.67">示文稿打印出来制作成胶片以便应用到更广泛的</tspan><tspan fill="#404040" font-size="18.67">...</tspan></text>
+
+<text x="760.97" y="389.91" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">用户可以在投影仪或者计算机上进行演示也可以将演</tspan><tspan x="760.97" dy="28" fill="#404040" font-size="18.67">示文稿打印出来制作成胶片以便应用到更广泛的</tspan><tspan fill="#404040" font-size="18.67">...</tspan></text>
+
+<text x="760.97" y="481.91" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">用户可以在投影仪或者计算机上进行演示也可以将演</tspan><tspan x="760.97" dy="28" fill="#404040" font-size="18.67">示文稿打印出来制作成胶片以便应用到更广泛的</tspan><tspan fill="#404040" font-size="18.67">...</tspan></text>
+</g>
+<g id="shape-24" data-name="矩形: 圆角 23">
+<rect x="756.8" y="212.12" width="222.9" height="42.01" rx="21" ry="21" fill="#0A41BB" stroke="none" stroke-width="1"/>
+<text x="868.25" y="239.79" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;思源黑体 CN Medium&quot;, sans-serif" font-size="26.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="26.67">添加标题</tspan></text>
+</g>
+</g>
+<g id="shape-8" data-name="TextBox 4">
+<rect x="0" y="0" width="63.5" height="13.99" fill="none"/>
+<text x="9.6" y="6.33" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="1.8" fill="#000000" fill-opacity="0"><tspan fill="#000000" font-size="1.8" fill-opacity="0">行业</tspan><tspan fill="#000000" font-size="1.8" fill-opacity="0">PPT</tspan><tspan fill="#000000" font-size="1.8" fill-opacity="0">模板</tspan><tspan fill="#000000" font-size="1.8" fill-opacity="0">http://www.1ppt.com/hangye/</tspan></text>
+</g></svg>

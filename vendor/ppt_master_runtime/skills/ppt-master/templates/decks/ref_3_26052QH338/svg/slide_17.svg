@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.15" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5" stop-opacity="0"/></linearGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.15" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5" stop-opacity="0"/></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.15" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5" stop-opacity="0"/></linearGradient><linearGradient id="ggrad4" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.15" stop-color="#0E8EE7"/><stop offset="1" stop-color="#1EE8F5" stop-opacity="0"/></linearGradient></defs><g id="shape-9" data-name="图形">
+<g id="shape-12" data-name="图形">
+<g id="shape-13" data-name="组合 12">
+<g id="shape-2" data-name="图形">
+<polygon points="502.4,315.36 574.2,568 430.6,568" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-19" data-name="图形">
+<polygon points="601.62,248.47 673.43,568 529.82,568" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="图形">
+<polygon points="699.28,356.57 759.34,567.89 639.22,567.89" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-21" data-name="图形">
+<polygon points="811.46,291.45 912.93,567.89 709.98,567.89" fill="url(#ggrad4)" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-14" data-name="图形">
+<rect x="448.1" y="258.07" width="108.6" height="42.01" fill="none"/>
+<text x="502.4" y="285.54" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">52%</tspan></text>
+</g>
+<g id="shape-15" data-name="图形">
+<rect x="547.33" y="195.67" width="108.6" height="42.01" fill="none"/>
+<text x="601.62" y="223.13" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">74%</tspan></text>
+</g>
+<g id="shape-16" data-name="图形">
+<rect x="647.65" y="299.32" width="108.6" height="42.01" fill="none"/>
+<text x="701.95" y="326.79" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">21%</tspan></text>
+</g>
+<g id="shape-17" data-name="图形">
+<rect x="755.15" y="234.41" width="108.6" height="42.01" fill="none"/>
+<text x="809.45" y="261.88" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="26.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="26.67" font-weight="bold">62%</tspan></text>
+</g>
+</g>
+<g id="shape-33" data-name="图形">
+<rect x="897.47" y="267.8" width="306.67" height="81.4" fill="none"/>
+<text x="908.88" y="284.84" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">在此处添加您的文本内容在此处添加您的文本内</tspan><tspan x="908.88" dy="20" fill="#FFFFFF" font-size="13.33">容此处添加您的文本内容添加文本在此处添加您</tspan><tspan x="908.88" dy="20" fill="#FFFFFF" font-size="13.33">的文本内容在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-34" data-name="图形">
+<rect x="897.67" y="236.07" width="163.2" height="38.67" fill="none"/>
+<text x="979.27" y="263.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">预设标题文本</tspan></text>
+</g>
+<g id="shape-3" data-name="图形">
+<rect x="897.47" y="430.2" width="306.67" height="81.4" fill="none"/>
+<text x="908.88" y="447.24" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">在此处添加您的文本内容在此处添加您的文本内</tspan><tspan x="908.88" dy="20" fill="#FFFFFF" font-size="13.33">容此处添加您的文本内容添加文本在此处添加您</tspan><tspan x="908.88" dy="20" fill="#FFFFFF" font-size="13.33">的文本内容在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-4" data-name="图形">
+<rect x="897.67" y="398.47" width="163.2" height="38.67" fill="none"/>
+<text x="979.27" y="426.2" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">预设标题文本</tspan></text>
+</g>
+<g id="shape-5" data-name="图形">
+<rect x="122.93" y="267.8" width="306.67" height="81.4" fill="none"/>
+<text x="134.35" y="284.84" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">在此处添加您的文本内容在此处添加您的文本内</tspan><tspan x="134.35" dy="20" fill="#FFFFFF" font-size="13.33">容此处添加您的文本内容添加文本在此处添加您</tspan><tspan x="134.35" dy="20" fill="#FFFFFF" font-size="13.33">的文本内容在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-6" data-name="图形">
+<rect x="123.13" y="236.07" width="163.2" height="38.67" fill="none"/>
+<text x="204.73" y="263.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">预设标题文本</tspan></text>
+</g>
+<g id="shape-7" data-name="图形">
+<rect x="122.93" y="430.2" width="306.67" height="81.4" fill="none"/>
+<text x="134.35" y="447.24" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="13.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="13.33">在此处添加您的文本内容在此处添加您的文本内</tspan><tspan x="134.35" dy="20" fill="#FFFFFF" font-size="13.33">容此处添加您的文本内容添加文本在此处添加您</tspan><tspan x="134.35" dy="20" fill="#FFFFFF" font-size="13.33">的文本内容在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-8" data-name="图形">
+<rect x="123.13" y="398.47" width="163.2" height="38.67" fill="none"/>
+<text x="204.73" y="426.2" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="24" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="24">预设标题文本</tspan></text>
+</g>
+</g></svg>

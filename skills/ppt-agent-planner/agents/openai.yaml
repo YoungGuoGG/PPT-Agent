@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Agent Planner"
+  short_description: "Plan executable end-to-end presentation workflows"
+  default_prompt: "Use $ppt-agent-planner to create a validated execution plan for this presentation request."

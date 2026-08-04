@@ -1,0 +1,14 @@
+{
+  "template_id": "deck_重庆大学",
+  "name": "Chongqing University (重庆大学) Template - Design Specification",
+  "description": "Academic defense, research reports, teaching presentations, scholarly exchange.",
+  "scenes": [],
+  "styles": [],
+  "best_for": [
+    "Academic defense, research reports, teaching presentations, scholarly exchange."
+  ],
+  "avoid_for": [],
+  "source_path": "E:\\OfficeAgent\\ppt-master\\skills\\ppt-master\\templates\\decks\\重庆大学",
+  "kind": "deck",
+  "generated_by": "ppt_master_service.template_tools.scan_templates"
+}

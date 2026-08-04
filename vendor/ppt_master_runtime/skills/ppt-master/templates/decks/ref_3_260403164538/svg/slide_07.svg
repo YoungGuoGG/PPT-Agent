@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#C0C8A0"/><stop offset="0.62" stop-color="#8C9857"/></linearGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#A3E3FF"/><stop offset="0.62" stop-color="#00A0E9"/></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#A3E3FF"/><stop offset="0.62" stop-color="#00A0E9"/></linearGradient><linearGradient id="ggrad4" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#C0C8A0"/><stop offset="0.62" stop-color="#8C9857"/></linearGradient></defs><image href="../assets/image9.emf" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<g id="shape-4" data-name="矩形 3">
+<rect x="41.62" y="32.06" width="1201.05" height="650.61" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-32" data-name="图片 31">
+<image href="../assets/image12.png" x="75.91" y="46.43" width="433.94" height="650.61" preserveAspectRatio="none"/>
+</g>
+<g id="shape-7" data-name="文本框 6">
+<rect x="490.05" y="172.41" width="204.33" height="48.47" fill="none"/>
+<text x="592.22" y="204.41" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">添加标题</tspan></text>
+</g>
+<g id="shape-8" data-name="文本框 7">
+<rect x="490.05" y="223.98" width="688.22" height="91.8" fill="none"/>
+<text x="499.65" y="249.18" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">点击在此输入说明文本点击在此输入说明文本点击在此输入说</tspan><tspan x="499.65" dy="36" fill="#404040" font-size="24">明文本点击在此输入说明文本点击在此输入说明文本</tspan></text>
+</g>
+<g id="shape-9" data-name="组合 8">
+<g id="shape-10" data-name="组合 9">
+<g id="shape-15" data-name="Group 14">
+<g id="shape-27" data-name="Freeform 7">
+<path d="M 539.32 385.61 C 538.92 385.61 538.73 385.81 538.73 386.22 C 538.73 386.42 538.73 386.42 538.73 386.42 C 538.73 386.82 538.92 387.03 539.32 387.03 C 540.89 387.03 540.89 387.03 540.89 387.03 C 541.28 387.03 541.48 386.82 541.48 386.42 C 541.48 386.22 541.48 386.22 541.48 386.22 C 541.48 385.81 541.28 385.61 540.89 385.61 L 539.32 385.61 Z" stroke-width="1" stroke="#72A2ED" stroke-linejoin="bevel" fill="none"/>
+</g>
+<g id="shape-28" data-name="Freeform 8">
+<path d="M 539.32 388.03 C 538.92 388.03 538.73 388.42 538.73 388.62 C 538.73 389.02 538.73 389.02 538.73 389.02 C 538.73 389.21 538.92 389.61 539.32 389.61 C 540.89 389.61 540.89 389.61 540.89 389.61 C 541.28 389.61 541.48 389.21 541.48 389.02 C 541.48 388.62 541.48 388.62 541.48 388.62 C 541.48 388.42 541.28 388.03 540.89 388.03 L 539.32 388.03 Z" stroke-width="1" stroke="#72A2ED" stroke-linejoin="bevel" fill="none"/>
+</g>
+</g>
+<g id="shape-16" data-name="矩形 15">
+<rect x="556.54" y="360" width="250.27" height="91.8" fill="none"/>
+<text x="566.14" y="385.2" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">点击在此输入说明文本点击在此输入</tspan></text>
+</g>
+<g id="shape-17" data-name="Group 14">
+<g id="shape-25" data-name="Freeform 7">
+<path d="M 910.92 385.61 C 910.53 385.61 910.33 385.81 910.33 386.22 C 910.33 386.42 910.33 386.42 910.33 386.42 C 910.33 386.82 910.53 387.03 910.92 387.03 C 912.49 387.03 912.49 387.03 912.49 387.03 C 912.88 387.03 913.08 386.82 913.08 386.42 C 913.08 386.22 913.08 386.22 913.08 386.22 C 913.08 385.81 912.88 385.61 912.49 385.61 L 910.92 385.61 Z" stroke-width="1" stroke="#72A2ED" stroke-linejoin="bevel" fill="none"/>
+</g>
+<g id="shape-26" data-name="Freeform 8">
+<path d="M 910.92 388.03 C 910.53 388.03 910.33 388.42 910.33 388.62 C 910.33 389.02 910.33 389.02 910.33 389.02 C 910.33 389.21 910.53 389.61 910.92 389.61 C 912.49 389.61 912.49 389.61 912.49 389.61 C 912.88 389.61 913.08 389.21 913.08 389.02 C 913.08 388.62 913.08 388.62 913.08 388.62 C 913.08 388.42 912.88 388.03 912.49 388.03 L 910.92 388.03 Z" stroke-width="1" stroke="#72A2ED" stroke-linejoin="bevel" fill="none"/>
+</g>
+</g>
+<g id="shape-18" data-name="矩形 17">
+<rect x="928.21" y="360" width="250.27" height="91.8" fill="none"/>
+<text x="937.81" y="385.2" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">点击在此输入说明文本点击在此输入</tspan></text>
+</g>
+<g id="shape-19" data-name="Freeform 8">
+<path d="M 539.32 515.86 C 538.92 515.86 538.73 516.25 538.73 516.45 C 538.73 516.84 538.73 516.84 538.73 516.84 C 538.73 517.04 538.92 517.44 539.32 517.44 C 540.89 517.44 540.89 517.44 540.89 517.44 C 541.28 517.44 541.48 517.04 541.48 516.84 C 541.48 516.45 541.48 516.45 541.48 516.45 C 541.48 516.25 541.28 515.86 540.89 515.86 L 539.32 515.86 Z" fill="#72A2ED" stroke-width="1" stroke="#72A2ED" stroke-linejoin="bevel"/>
+</g>
+<g id="shape-20" data-name="矩形 19">
+<rect x="556.61" y="487.83" width="250.27" height="91.8" fill="none"/>
+<text x="566.21" y="513.03" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">点击在此输入说明文本点击在此输入</tspan></text>
+</g>
+<g id="shape-21" data-name="Group 14">
+<g id="shape-23" data-name="Freeform 7">
+<path d="M 910.92 513.44 C 910.53 513.44 910.33 513.64 910.33 514.05 C 910.33 514.25 910.33 514.25 910.33 514.25 C 910.33 514.65 910.53 514.86 910.92 514.86 C 912.49 514.86 912.49 514.86 912.49 514.86 C 912.88 514.86 913.08 514.65 913.08 514.25 C 913.08 514.05 913.08 514.05 913.08 514.05 C 913.08 513.64 912.88 513.44 912.49 513.44 L 910.92 513.44 Z" stroke-width="1" stroke="#72A2ED" stroke-linejoin="bevel" fill="none"/>
+</g>
+<g id="shape-24" data-name="Freeform 8">
+<path d="M 910.92 515.86 C 910.53 515.86 910.33 516.25 910.33 516.45 C 910.33 516.84 910.33 516.84 910.33 516.84 C 910.33 517.04 910.53 517.44 910.92 517.44 C 912.49 517.44 912.49 517.44 912.49 517.44 C 912.88 517.44 913.08 517.04 913.08 516.84 C 913.08 516.45 913.08 516.45 913.08 516.45 C 913.08 516.25 912.88 515.86 912.49 515.86 L 910.92 515.86 Z" stroke-width="1" stroke="#72A2ED" stroke-linejoin="bevel" fill="none"/>
+</g>
+</g>
+<g id="shape-22" data-name="矩形 21">
+<rect x="928.21" y="487.83" width="250.27" height="91.8" fill="none"/>
+<text x="937.81" y="513.03" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#404040"><tspan fill="#404040" font-size="24">点击在此输入说明文本点击在此输入</tspan></text>
+</g>
+</g>
+<g id="shape-11" data-name="箭头: 虚尾 10">
+<rect x="509.2" y="365.95" width="50.85" height="54.72" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-12" data-name="箭头: 虚尾 11">
+<rect x="509.2" y="493.32" width="50.85" height="54.72" fill="url(#ggrad2)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="箭头: 虚尾 12">
+<rect x="877.66" y="365.95" width="50.85" height="54.72" fill="url(#ggrad3)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-14" data-name="箭头: 虚尾 13">
+<rect x="877.66" y="493.32" width="50.85" height="54.72" fill="url(#ggrad4)" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-3" data-name="图片 2" transform="rotate(352.59 115.6 83.93)">
+<image href="../assets/image10.png" x="66.2" y="23.53" width="98.8" height="120.8" preserveAspectRatio="none"/>
+</g>
+<g id="shape-29" data-name="文本框 28">
+<rect x="150.13" y="55.93" width="307.2" height="61.4" fill="none"/>
+<text x="159.73" y="81.13" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">露营地点选择</tspan></text>
+</g>
+</g></svg>

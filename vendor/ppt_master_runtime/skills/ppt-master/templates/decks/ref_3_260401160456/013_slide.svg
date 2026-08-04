@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><g transform="scale(0.5 0.5)"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="9.89" stdDeviation="14" flood-color="#000000" flood-opacity="0.5769" /></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="-23.72" dy="19.19" stdDeviation="20" flood-color="#A5271B" flood-opacity="0.7552" /></filter></defs><rect x="0" y="0" width="2560" height="1440" fill="#010101" />
+<g id="shape-1134" data-name="Photo by Auguste Lefou on May 13, 2019..jpg">
+<image href="assets/image13.jpeg" x="3184.54" y="-455.79" width="1152" height="1440" preserveAspectRatio="none" />
+</g>
+<g id="shape-1135" data-name="Journey to 365  July on Behance.jpg">
+<image href="assets/image17.jpeg" x="1120" y="0" width="1440" height="1440" preserveAspectRatio="none" />
+</g>
+<g id="shape-1136" data-name="情感化与人格化">
+<rect x="244.86" y="375.1" width="1365.33" height="276" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)" fill="none" />
+<text x="250.19" y="519.1" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">情感化与人格化</tspan></text>
+</g>
+<g id="shape-1137" data-name="将人们日常体验和操作习惯，转化为线上产品的功能逻辑和流程设计，并符合普通用户的认知，让用户自然无意识的进行操作">
+<rect x="224.19" y="784.49" width="1365.33" height="260" stroke-width="1.333" stroke-linejoin="miter" fill="none" />
+<text x="229.53" y="878.23" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="42.67" fill="#000000"><tspan fill="#000000" font-size="42.67">将人们</tspan><tspan fill="#000000" font-size="42.67">日常体验和操作习惯</tspan><tspan fill="#000000" font-size="42.67">，转化为线上产品的</tspan><tspan fill="#000000" font-size="42.67">功能逻辑</tspan><tspan fill="#000000" font-size="42.67">和</tspan><tspan fill="#000000" font-size="42.67">流程设计</tspan><tspan fill="#000000" font-size="42.67">，</tspan><tspan x="229.53" dy="72.53" fill="#000000" font-size="42.67">并符合普通用户的认知，让用户自然无意识的进行操作</tspan></text>
+</g>
+<g id="shape-1138" data-name="Emotional">
+<rect x="224.18" y="499.94" width="1388" height="208.47" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx2)" fill="none" />
+<text x="229.51" y="610.17" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">Emotional</tspan></text>
+</g></g></svg>

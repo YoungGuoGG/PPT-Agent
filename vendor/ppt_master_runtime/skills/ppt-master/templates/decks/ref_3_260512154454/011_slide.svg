@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="17.91" dy="17.91" stdDeviation="24" flood-color="#0A41BB" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-57" data-name="矩形 56" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<image href="assets/image1.jpeg" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+<rect x="0" y="0" width="1280" height="720" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-3" data-name="矩形 2">
+<rect x="16.06" y="15.1" width="1247.89" height="689.81" fill="#FFFFFF" stroke="#C4D5FC" stroke-width="1"/>
+</g>
+<g id="layout-shape-32" data-name="矩形 31">
+<rect x="70.24" y="57.46" width="43.96" height="43.96" fill="#0A41BB" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-33" data-name="矩形 32">
+<rect x="92.4" y="79.62" width="32.2" height="32.2" fill="none" stroke="#0A41BB" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-2" data-name="文本框 1">
+<rect x="137.05" y="67.16" width="245.58" height="54.93" fill="none"/>
+<text x="146.65" y="92.36" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">添加标题文字</tspan></text>
+</g>
+<g id="shape-18" data-name="图片 17">
+<image href="assets/image13.jpeg" x="0" y="176.82" width="1280" height="282.31" preserveAspectRatio="none"/>
+</g>
+<g id="shape-19" data-name="组合 18">
+<g id="shape-20" data-name="组合 19">
+<g id="shape-29" data-name="任意多边形: 形状 28">
+<path d="M 238.88 273.87 L 1044.27 273.87 C 1053.84 273.87 1061.6 279.81 1061.6 287.13 L 1061.6 291.06 L 1066.22 291.06 C 1074 291.06 1080.31 295.89 1080.31 301.85 L 1080.31 609.84 C 1080.31 615.8 1074 620.63 1066.22 620.63 L 1061.6 620.63 L 1061.6 624.56 C 1061.6 631.88 1053.84 637.82 1044.27 637.82 L 238.88 637.82 C 229.3 637.82 221.55 631.88 221.55 624.56 L 221.55 620.63 L 216.93 620.63 C 209.15 620.63 202.84 615.8 202.84 609.84 L 202.84 301.85 C 202.84 295.89 209.15 291.06 216.93 291.06 L 221.55 291.06 L 221.55 287.13 C 221.55 279.81 229.3 273.87 238.88 273.87 Z" fill="none" stroke-width="2" stroke="#0A41BB"/>
+</g>
+<g id="shape-30" data-name="任意多边形: 形状 29">
+<path d="M 254.68 288.1 L 271.92 288.1 L 1011.22 288.1 L 1028.47 288.1 C 1037.46 288.1 1044.75 293.57 1044.75 300.32 L 1044.75 303.94 L 1049.08 303.94 C 1056.39 303.94 1062.32 308.4 1062.32 313.89 L 1062.32 597.8 C 1062.32 603.29 1056.39 607.74 1049.08 607.74 L 1044.75 607.74 L 1044.75 611.37 C 1044.75 618.12 1037.46 623.59 1028.47 623.59 L 1011.22 623.59 L 271.92 623.59 L 254.68 623.59 C 245.69 623.59 238.4 618.12 238.4 611.37 L 238.4 607.74 L 234.07 607.74 C 226.75 607.74 220.83 603.29 220.83 597.8 L 220.83 313.89 C 220.83 308.4 226.75 303.94 234.07 303.94 L 238.4 303.94 L 238.4 300.32 C 238.4 293.57 245.69 288.1 254.68 288.1 Z" fill="#FFFFFF" stroke-width="2" stroke="#0A41BB"/>
+</g>
+</g>
+<g id="shape-21" data-name="组合 20">
+<g id="shape-22" data-name="组合 21">
+<g id="shape-25" data-name="文本框 24">
+<rect x="963.38" y="328.24" width="58.16" height="184" fill="none"/>
+</g>
+<g id="shape-25-text" data-name="文本框 24 text">
+<text x="992.46" y="380.24" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">添</tspan><tspan x="992.46" dy="33.6" fill="#262626" font-size="32">加</tspan><tspan x="992.46" dy="33.6" fill="#262626" font-size="32">标</tspan><tspan x="992.46" dy="33.6" fill="#262626" font-size="32">题</tspan></text>
+</g>
+<g id="shape-26" data-name="文本框 15">
+<rect x="682.05" y="328.24" width="256.88" height="262.65" fill="none"/>
+</g>
+<g id="shape-26-text" data-name="文本框 15 text">
+<text x="810.49" y="344.11" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">单</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">击</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">此</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">处</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">输</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">入</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">你</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">的</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">正</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">，</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="810.49" dy="19.6" fill="#404040" font-size="18.67">字</tspan></text>
+</g>
+<g id="shape-27" data-name="文本框 26">
+<rect x="563.6" y="328.24" width="58.16" height="184" fill="none"/>
+</g>
+<g id="shape-27-text" data-name="文本框 26 text">
+<text x="592.68" y="380.24" text-anchor="middle" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">添</tspan><tspan x="592.68" dy="33.6" fill="#262626" font-size="32">加</tspan><tspan x="592.68" dy="33.6" fill="#262626" font-size="32">标</tspan><tspan x="592.68" dy="33.6" fill="#262626" font-size="32">题</tspan></text>
+</g>
+<g id="shape-28" data-name="文本框 27">
+<rect x="282.29" y="328.24" width="256.9" height="262.65" fill="none"/>
+</g>
+<g id="shape-28-text" data-name="文本框 27 text">
+<text x="410.74" y="344.11" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;阿里巴巴普惠体&quot;, sans-serif" font-size="18.67" fill="#404040"><tspan fill="#404040" font-size="18.67">单</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">击</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">此</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">处</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">输</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">入</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">你</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">的</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">正</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">，</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">文</tspan><tspan x="410.74" dy="19.6" fill="#404040" font-size="18.67">字</tspan></text>
+</g>
+</g>
+<g id="shape-23" data-name="直接连接符 22" transform="translate(944.99 453.07) scale(-1 1) translate(-944.99 -453.07)">
+<line x1="944.99" y1="331.39" x2="944.99" y2="574.76" stroke-width="1.333" stroke="#0A41BB" fill="#0A41BB"/>
+</g>
+<g id="shape-24" data-name="直接连接符 23" transform="translate(545.3 453.07) scale(-1 1) translate(-545.3 -453.07)">
+<line x1="545.3" y1="331.39" x2="545.3" y2="574.76" stroke-width="1.333" stroke="#0A41BB" fill="#0A41BB"/>
+</g>
+</g>
+</g></svg>

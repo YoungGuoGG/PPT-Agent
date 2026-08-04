@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2560" height="1440" viewBox="0 0 2560 1440"><rect x="0" y="0" width="2560" height="1440" fill="#FFFFFF"/>
+<g id="master-shape-2" data-name="Slide Number" data-ph-type="sldNum">
+<rect x="2380.26" y="66.67" width="113.07" height="60" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="2388.26" y="84.67" font-size="12" fill="#64748B">ph sldNum idx=2</text>
+</g>
+<g id="master-shape-3" data-name="Title Text" data-ph-type="title">
+<rect x="186.67" y="241.33" width="2186.67" height="488" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="194.67" y="259.33" font-size="12" fill="#64748B">ph title</text>
+</g>
+<g id="master-shape-4" data-name="Body Level One…" data-ph-type="body">
+<rect x="186.67" y="742.67" width="2186.67" height="166.67" fill="#F8FAFC" fill-opacity="0.18" stroke="#94A3B8" stroke-dasharray="6 4" stroke-width="1"/><text x="194.67" y="760.67" font-size="12" fill="#64748B">ph body idx=1</text>
+</g></svg>

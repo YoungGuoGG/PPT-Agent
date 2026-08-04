@@ -1,0 +1,4 @@
+interface:
+  display_name: "PPT Design"
+  short_description: "Compose and repair presentation visual designs"
+  default_prompt: "Use $ppt-design to compose a coherent visual design for this presentation."

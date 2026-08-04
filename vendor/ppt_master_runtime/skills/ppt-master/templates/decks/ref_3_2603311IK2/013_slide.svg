@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="rotate(90 640 360)">
+<image href="assets/image1.png" x="280" y="-280" width="720" height="1280" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="图片 4">
+<image href="assets/image3.png" x="717.91" y="0" width="562.09" height="457.92" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-6" data-name="图片 5">
+<image href="assets/image10.png" x="902.75" y="0" width="377.25" height="292" preserveAspectRatio="none"/>
+</g>
+<g id="shape-2" data-name="矩形 1">
+<image href="assets/image13.jpeg" x="68.85" y="203.64" width="460.61" height="330.67" preserveAspectRatio="none"/>
+<rect x="68.85" y="203.64" width="460.61" height="330.67" fill="none" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-5" data-name="TextBox 11">
+<rect x="583.86" y="250.57" width="274.95" height="32.42" fill="none"/>
+<text x="583.86" y="270.97" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;Open Sans&quot;, sans-serif" font-size="24" fill="#181717" font-weight="bold"><tspan fill="#181717" font-size="24" font-weight="bold">输入您的标题文字</tspan></text>
+</g>
+<g id="shape-7" data-name="Group 1">
+<g id="shape-8" data-name="TextBox 8">
+<rect x="579.21" y="401.95" width="142.12" height="28.31" fill="none"/>
+<text x="579.21" y="422.35" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;Open Sans&quot;, sans-serif" font-size="24" fill="#181717"><tspan fill="#181717" font-size="24">Creativity</tspan></text>
+</g>
+<g id="shape-9" data-name="Rounded Rectangle 12">
+<rect x="749.88" y="407.02" width="400.21" height="10.13" rx="5.07" ry="5.07" fill="#D9D9D9" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+<g id="shape-10" data-name="Rounded Rectangle 14">
+<rect x="749.88" y="407.02" width="363.93" height="10.13" rx="5.07" ry="5.07" fill="#262626" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+<g id="shape-11" data-name="TextBox 20">
+<rect x="579.21" y="434.04" width="142.12" height="59.28" fill="none"/>
+<text x="579.21" y="454.44" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;Open Sans&quot;, sans-serif" font-size="24" fill="#181717"><tspan fill="#181717" font-size="24">Leading a team</tspan></text>
+</g>
+<g id="shape-12" data-name="Rounded Rectangle 21">
+<rect x="749.88" y="439.1" width="400.21" height="10.13" rx="5.07" ry="5.07" fill="#D9D9D9" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+<g id="shape-13" data-name="Rounded Rectangle 22">
+<rect x="749.88" y="439.1" width="335.39" height="10.13" rx="5.07" ry="5.07" fill="#3B3B3B" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+<g id="shape-14" data-name="TextBox 24">
+<rect x="579.21" y="466.12" width="142.12" height="28.31" fill="none"/>
+<text x="579.21" y="486.52" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;Open Sans&quot;, sans-serif" font-size="24" fill="#181717"><tspan fill="#181717" font-size="24">Management</tspan></text>
+</g>
+<g id="shape-15" data-name="Rounded Rectangle 25">
+<rect x="749.88" y="471.19" width="400.21" height="10.13" rx="5.07" ry="5.07" fill="#D9D9D9" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+<g id="shape-16" data-name="Rounded Rectangle 26">
+<rect x="749.88" y="471.19" width="306.85" height="10.13" rx="5.07" ry="5.07" fill="#262626" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+<g id="shape-17" data-name="TextBox 28">
+<rect x="579.21" y="498.21" width="142.12" height="28.31" fill="none"/>
+<text x="579.21" y="518.61" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;Open Sans&quot;, sans-serif" font-size="24" fill="#181717"><tspan fill="#181717" font-size="24">Experience</tspan></text>
+</g>
+<g id="shape-18" data-name="Rounded Rectangle 29">
+<rect x="749.88" y="503.27" width="400.21" height="10.13" rx="5.07" ry="5.07" fill="#D9D9D9" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+<g id="shape-19" data-name="Rounded Rectangle 30">
+<rect x="749.88" y="503.27" width="278.3" height="10.13" rx="5.07" ry="5.07" fill="#3B3B3B" stroke-width="1" stroke="#FFFFFF"/>
+</g>
+</g>
+<g id="shape-20" data-name="TextBox 31">
+<rect x="587.74" y="202.19" width="425.59" height="28.86" fill="none"/>
+<text x="587.74" y="222.59" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;Open Sans&quot;, sans-serif" font-size="24" fill="#181717" font-weight="bold"><tspan fill="#181717" font-size="24" font-weight="bold">John Harrison </tspan><tspan fill="#181717" font-size="24" font-style="italic">/ Executive Director</tspan></text>
+</g>
+<g id="shape-21" data-name="Isosceles Triangle 19" transform="rotate(90 457.65 197.77)">
+<polygon points="457.65,194.73 463.52,200.8 451.78,200.8" fill="#F2F2F2" stroke-width="1.333" stroke="none"/>
+</g>
+<g id="shape-28" data-name="文本框 27">
+<rect x="572.82" y="280.43" width="600.51" height="43.79" fill="none"/>
+<text x="582.42" y="303.37" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, &quot;Hiragino Sans GB W3&quot;, sans-serif" font-size="21.33" fill="#181717"><tspan fill="#181717" font-size="21.33">输入替换内容输入替换输入替换内容输入替换</tspan></text>
+</g>
+<g id="shape-23" data-name="文本框 22">
+<rect x="45.61" y="22.38" width="227.3" height="54.93" fill="none"/>
+<text x="55.21" y="58.91" text-anchor="start" xml:space="preserve" font-family="&quot;三极春联字体简&quot;, sans-serif" font-size="37.33" fill="#000000"><tspan fill="#000000" font-size="37.33">添加标题</tspan></text>
+</g></svg>

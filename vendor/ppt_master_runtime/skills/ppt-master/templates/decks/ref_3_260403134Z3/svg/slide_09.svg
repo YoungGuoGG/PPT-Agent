@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="4.71" dy="4.71" stdDeviation="3.33" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="txtgrad1" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient><linearGradient id="txtgrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0.03" stop-color="#A0BBD0"/><stop offset="0.95" stop-color="#4A5A72"/></linearGradient></defs><g id="shape-3" data-name="矩形 2">
+<rect x="91.17" y="146.79" width="545.79" height="346" fill="#DCDCDC" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="shape-25" data-name="图片 24">
+<image href="../assets/image19.jpeg" x="91.17" y="148" width="545.79" height="305.15" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="文本框 3">
+<rect x="88.17" y="566.54" width="540.79" height="54.25" fill="none"/>
+<text x="97.77" y="584.94" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16">徒步探险米尔福德峡湾，感受壮丽的山水之间，心灵得到了真正的洗涤与</tspan><tspan x="97.77" dy="19.2" fill="#808080" font-size="16">启迪。</tspan></text>
+</g>
+<g id="shape-5" data-name="文本框 4">
+<rect x="98.17" y="513.57" width="322.07" height="51.7" fill="none"/>
+<text x="98.17" y="549.83" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad1)"><tspan fill="url(#txtgrad1)" font-size="42.67">山川河流</tspan></text>
+</g>
+<g id="shape-12" data-name="组合 11">
+<g id="shape-6" data-name="直接连接符 5">
+<line x1="135.69" y1="426.25" x2="162.43" y2="426.25" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+<g id="shape-7" data-name="直接连接符 6">
+<line x1="172.5" y1="426.25" x2="238.98" y2="426.25" stroke="#8AA2B8" fill="#4472C4" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-19" data-name="组合 18">
+<g id="shape-8" data-name="Rectangle 35">
+<rect x="775.6" y="409.82" width="219.93" height="51.33" fill="none" stroke-width="0.333" stroke="#9AAFC2"/>
+</g>
+<g id="shape-10" data-name="TextBox 36">
+<rect x="799.22" y="427.09" width="186" height="22.62" fill="none"/>
+<text x="808.82" y="441.07" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="10.67" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="10.67">THE SIGNIFICANCE OF TRAVEL</tspan></text>
+</g>
+</g>
+<g id="shape-16" data-name="文本框 15">
+<rect x="687.23" y="319.58" width="320.96" height="77.52" fill="none"/>
+<text x="998.59" y="337.98" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑&quot;, Arial, sans-serif" font-size="16" fill="#808080"><tspan fill="#808080" font-size="16"> 忙碌的都市生活让我疲惫不堪，我渴望一</tspan><tspan x="998.59" dy="19.2" fill="#808080" font-size="16">个属于自己的冒险，于是决定一个人踏上</tspan><tspan x="998.59" dy="19.2" fill="#808080" font-size="16">旅行的征程</tspan><tspan fill="#808080" font-size="16">.</tspan></text>
+</g>
+<g id="shape-17" data-name="文本框 16">
+<rect x="673.46" y="265.24" width="322.07" height="51.7" fill="none"/>
+<text x="995.53" y="301.51" text-anchor="end" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="42.67" fill="url(#txtgrad2)"><tspan fill="url(#txtgrad2)" font-size="42.67">爱自己</tspan></text>
+</g>
+<g id="shape-21" data-name="图片 20">
+<image href="../assets/image20.jpeg" x="1022.46" y="147.7" width="168.37" height="353.09" preserveAspectRatio="none"/>
+</g>
+<g id="shape-22" data-name="组合 21">
+<g id="shape-23" data-name="平行四边形 22">
+<polygon points="62.62,82.06 67.82,82.06 66.08,112.36 60.88,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-24" data-name="平行四边形 23">
+<polygon points="78.49,82.06 83.69,82.06 81.96,112.36 76.76,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-26" data-name="平行四边形 25">
+<polygon points="94.37,82.06 99.57,82.06 97.84,112.36 92.64,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-27" data-name="平行四边形 26">
+<polygon points="110.25,82.06 115.45,82.06 113.72,112.36 108.52,112.36" fill="#8AA2B8" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-28" data-name="文本框 27">
+<rect x="675.13" y="604.17" width="515.83" height="58.16" fill="none"/>
+<text x="1190.97" y="624.57" text-anchor="end" xml:space="preserve" font-family="&quot;微软雅黑 Light&quot;, sans-serif" font-size="24" fill="#9AAFC2"><tspan fill="#9AAFC2" font-size="24">A journey through time, my encounter with </tspan><tspan x="1190.97" dy="28.8" fill="#9AAFC2" font-size="24">beautiful scenery</tspan></text>
+</g></svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="2560" height="1440" viewBox="0 0 2560 1440"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#000000" stop-opacity="0"/><stop offset="1" stop-color="#000000"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="9.89" stdDeviation="14" flood-color="#000000" flood-opacity="0.5769"/></filter></defs><g id="shape-1126" data-name="Photo by Auguste Lefou on August 18, 2019..jpg" transform="translate(1802.44 720) scale(-1 1) translate(-1802.44 -720)">
+<image href="../assets/image16.jpeg" x="1044.91" y="0" width="1515.07" height="1440" preserveAspectRatio="none"/>
+</g>
+<g id="shape-1127" data-name="矩形" transform="translate(1228.94 720) scale(-1 1) translate(-1228.94 -720)">
+<rect x="1027.35" y="0" width="403.18" height="1440" fill="url(#ggrad1)" stroke-width="1.333" stroke-linejoin="miter"/>
+</g>
+<g id="shape-1128" data-name="矩形 2">
+<rect x="169.44" y="612.66" width="1873.93" height="349.33" stroke-width="1.333" stroke-linejoin="miter" filter="url(#fx1)" fill="none"/>
+<text x="174.77" y="749.99" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, sans-serif" font-size="106.67" fill="#000000"><tspan fill="#000000" font-size="106.67">狡猾的谎言</tspan></text>
+<text x="174.77" y="877.99" text-anchor="start" xml:space="preserve" font-family="&quot;优设标题黑&quot;, sans-serif" font-size="106.67" fill="#000000"><tspan fill="#000000" font-size="106.67">如何防止被数字欺骗</tspan></text>
+</g>
+<g id="shape-1129" data-name="文本框 7">
+<rect x="174.09" y="492.23" width="225.88" height="100.27" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="178.89" y="517.43" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">TOPIC</tspan></text>
+</g>
+<g id="shape-1130" data-name="文本框 8">
+<rect x="2240.88" y="1073.67" width="179.85" height="88.27" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="2245.68" y="1098.87" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">TIME</tspan></text>
+</g>
+<g id="shape-1131" data-name="矩形 9">
+<rect x="2240.88" y="1160.2" width="191.17" height="102.93" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="2245.68" y="1185.4" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">09/11</tspan></text>
+</g>
+<g id="shape-1132" data-name="矩形 10">
+<rect x="2240.88" y="1261.46" width="181.07" height="50.93" stroke-width="1.333" stroke-linejoin="miter" fill="none"/>
+<text x="2245.68" y="1286.66" text-anchor="start" xml:space="preserve" font-family="sans-serif" font-size="24" fill="#000000"><tspan fill="#000000" font-size="24">16:00-17:00</tspan></text>
+</g></svg>

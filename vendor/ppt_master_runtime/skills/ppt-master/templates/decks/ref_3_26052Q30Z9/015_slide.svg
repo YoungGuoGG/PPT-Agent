@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="master-shape-7" data-name="图片 6" transform="translate(640 360) scale(-1 1) translate(-640 -360)">
+<svg x="0" y="0" width="1280" height="720" viewBox="0 0.05026 1 0.89948" preserveAspectRatio="none"><image href="assets/image1.jpeg" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-3" data-name="图片 2">
+<svg x="-6.4" y="17.2" width="769.11" height="702.47" viewBox="0.33259 0 0.66741 0.67649" preserveAspectRatio="none"><image href="assets/image2.png" x="0" y="0" width="1" height="1" preserveAspectRatio="none"/></svg>
+</g>
+<g id="shape-12" data-name="文本框 11">
+<rect x="495.17" y="308.63" width="755.33" height="96.94" fill="none"/>
+<text x="872.83" y="374.63" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, &quot;思源宋体 CN Heavy&quot;, sans-serif" font-size="72" fill="#FFFFFF" letter-spacing="2.27"><tspan fill="#FFFFFF" font-size="72" letter-spacing="2.27">功能使用</tspan></text>
+</g>
+<g id="shape-13" data-name="文本框 12">
+<rect x="524.5" y="396.63" width="696.67" height="48.33" fill="none"/>
+<text x="872.83" y="428.63" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" letter-spacing="6.67"><tspan fill="#FFFFFF" font-size="32" letter-spacing="6.67">PRODUCT INTRODUCTION</tspan></text>
+</g>
+<g id="shape-63" data-name="矩形 62">
+<rect x="623" y="444.97" width="499.67" height="71.22" fill="none"/>
+<text x="872.83" y="463.37" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="16" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="16">在此处添加详细描述文本，尽量与标题文本语言风格相符，语言描述</tspan><tspan x="872.83" dy="27.2" fill="#FFFFFF" font-size="16">尽量简洁生动，尽可能概括出段落内容。</tspan></text>
+</g>
+<g id="shape-11" data-name="文本框 10">
+<rect x="524.5" y="212.48" width="696.67" height="80.78" fill="none"/>
+<text x="872.83" y="267.15" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪长美黑简&quot;, sans-serif" font-size="58.67" fill="#FFFFFF" letter-spacing="6.67"><tspan fill="#FFFFFF" font-size="58.67" letter-spacing="6.67">PART 04</tspan></text>
+</g></svg>

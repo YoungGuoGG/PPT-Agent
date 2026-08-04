@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><linearGradient id="ggrad1" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="1" stop-color="#1D86A3" stop-opacity="0"/><stop offset="0.5" stop-color="#085C74" stop-opacity="0.32"/><stop offset="0" stop-color="#1D86A3" stop-opacity="0"/></linearGradient><linearGradient id="txtgrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FFC000"/><stop offset="1" stop-color="#ED7D31"/></linearGradient><radialGradient id="ggrad3" cx="0.5" cy="0.5" r="0.5"><stop offset="0.63" stop-color="#052248" stop-opacity="0"/><stop offset="1" stop-color="#0376FF" stop-opacity="0.6"/></radialGradient><radialGradient id="ggrad4" cx="0.5" cy="0.5" r="0.5"><stop offset="0.63" stop-color="#052248" stop-opacity="0"/><stop offset="1" stop-color="#0376FF" stop-opacity="0.6"/></radialGradient><radialGradient id="ggrad5" cx="0.5" cy="0.5" r="0.5"><stop offset="0.07" stop-color="#3BBFFD"/><stop offset="1" stop-color="#0376FF" stop-opacity="0.6"/></radialGradient><linearGradient id="ggrad6" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad7" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter><linearGradient id="ggrad8" x1="0" y1="0.5" x2="1" y2="0.5"><stop offset="0" stop-color="#4BBCE1"/><stop offset="1" stop-color="#5BB8C5"/></linearGradient><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="2.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-62" data-name="图片 61">
+<image href="../assets/image30.png" x="857.79" y="206.69" width="276.39" height="478.53" preserveAspectRatio="none"/>
+</g>
+<g id="shape-26" data-name="矩形 25">
+<rect x="115.78" y="104.76" width="1048.43" height="58.58" fill="url(#ggrad1)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-40" data-name="图片 39" transform="rotate(270 250.93 55.43)">
+<image href="../assets/image11.png" x="205.78" y="-185.07" width="90.29" height="481" preserveAspectRatio="none"/>
+</g>
+<g id="shape-41" data-name="文本框 40">
+<rect x="36.35" y="21.91" width="170.18" height="64.68" fill="none"/>
+<text x="45.95" y="58.45" text-anchor="start" xml:space="preserve" font-family="&quot;思源宋体 CN Heavy&quot;, &quot;等线&quot;, sans-serif" font-size="37.33" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="37.33">工艺创新</tspan></text>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="123.29" y="98.11" width="1033.42" height="62.77" fill="none"/>
+<text x="640" y="132.38" text-anchor="middle" xml:space="preserve" font-family="&quot;汉仪秦川飞影W&quot;, sans-serif" font-size="34.67" fill="#FFFFFF"><tspan fill="#FFFFFF" font-size="34.67">请输入内容</tspan><tspan fill="url(#txtgrad2)" font-size="37.33">请输入内容</tspan></text>
+</g>
+<g id="shape-20" data-name="图片 19">
+<image href="../assets/image31.png" x="475.72" y="136.23" width="310.88" height="267.03" preserveAspectRatio="none"/>
+</g>
+<g id="shape-22" data-name="图片 21">
+<image href="../assets/image32.png" x="514.71" y="487.73" width="229.67" height="137.4" preserveAspectRatio="none"/>
+</g>
+<g id="shape-50" data-name="组合 49">
+<g id="shape-48" data-name="矩形: 圆角 47">
+<rect x="525.76" y="626.11" width="207.57" height="41.16" rx="20.58" ry="20.58" fill="url(#ggrad3)" stroke-width="1.333" stroke="#0299CE" stroke-opacity="0.5"/>
+</g>
+<g id="shape-49" data-name="文本框 48">
+<rect x="546.65" y="628.27" width="165.8" height="38.8" fill="none"/>
+<text x="629.55" y="653.47" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">元素调和工艺</tspan></text>
+</g>
+</g>
+<g id="shape-51" data-name="组合 50">
+<g id="shape-52" data-name="矩形: 圆角 51">
+<rect x="524.78" y="365.76" width="207.57" height="41.16" rx="20.58" ry="20.58" fill="url(#ggrad4)" stroke-width="1.333" stroke="#0299CE" stroke-opacity="0.5"/>
+</g>
+<g id="shape-53" data-name="文本框 52">
+<rect x="545.67" y="367.92" width="165.8" height="38.8" fill="none"/>
+<text x="628.57" y="393.12" text-anchor="middle" xml:space="preserve" font-family="&quot;钉钉进步体&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">非遗技艺</tspan></text>
+</g>
+</g>
+<g id="shape-61" data-name="十字形 60">
+<rect x="601.2" y="420.49" width="56.69" height="56.69" fill="url(#ggrad5)" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-63" data-name="图片 62">
+<image href="../assets/image30.png" x="126.87" y="206.69" width="276.39" height="478.53" preserveAspectRatio="none"/>
+</g>
+<g id="shape-67" data-name="图片 66">
+<image href="../assets/image33.png" x="708.13" y="426.38" width="97.96" height="44.91" preserveAspectRatio="none"/>
+</g>
+<g id="shape-69" data-name="图片 68">
+<image href="../assets/image33.png" x="450.03" y="426.38" width="97.96" height="44.91" preserveAspectRatio="none"/>
+</g>
+<g id="shape-4" data-name="圆角矩形 26">
+<rect x="150.98" y="222" width="225.77" height="448.01" rx="14.23" ry="14.23" fill="url(#ggrad6)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx1)"/>
+</g>
+<g id="shape-5" data-name="圆角矩形 26">
+<rect x="884.06" y="471.24" width="234.33" height="178.39" rx="11.24" ry="11.24" fill="url(#ggrad7)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx2)"/>
+</g>
+<g id="shape-2" data-name="圆角矩形 26">
+<rect x="884.06" y="229.64" width="234.33" height="178.39" rx="11.24" ry="11.24" fill="url(#ggrad8)" stroke-width="1.333" stroke-linecap="butt" stroke="none" stroke-linejoin="miter" filter="url(#fx3)"/>
+</g></svg>

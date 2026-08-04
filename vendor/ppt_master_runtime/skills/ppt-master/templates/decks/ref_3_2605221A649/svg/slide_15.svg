@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="12.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-3" data-name="组合 2">
+<g id="shape-19" data-name="Oval 23">
+<rect x="566.03" y="313.29" width="76.21" height="76.21" rx="12.7" ry="12.7" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+<text x="604.13" y="359.8" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">案例一</tspan></text>
+</g>
+<g id="shape-25" data-name="矩形 24">
+<rect x="659.49" y="300.39" width="535.41" height="84.51" fill="none"/>
+<text x="669.09" y="327.85" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">当小明仍是胎儿时，姥姥姥爷把祖传手镯送</tspan><tspan x="669.09" dy="32" fill="#404040" font-size="26.67">给他，而他也有继承、接受赠与等权利</tspan></text>
+</g>
+</g>
+<g id="shape-6" data-name="组合 5" transform="translate(888.21 534.02) scale(-1 1) translate(-888.21 -534.02)">
+<g id="shape-7" data-name="Oval 7">
+<ellipse cx="604.13" cy="488.86" rx="38.11" ry="38.11" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-8" data-name="Freeform: Shape 9">
+<path d="M 612.47 481.16 C 609.03 480.53 605.58 480.22 602.14 480.22 C 598.7 480.22 595.25 480.53 591.81 481.16 C 591.5 481.16 591.18 481.47 590.87 482.1 C 589.3 487.46 589.3 493.12 590.87 498.48 C 591.18 499.11 591.5 499.42 591.81 499.42 C 595.25 500.05 598.7 500.37 602.14 500.37 C 605.58 500.37 609.03 500.05 612.47 499.42 C 612.79 499.42 613.1 499.11 613.41 498.48 C 615.29 493.12 615.29 487.46 613.41 482.1 C 613.1 481.47 612.79 481.16 612.47 481.16 Z M 612.16 498.16 C 605.58 499.42 599.01 499.42 592.12 498.16 C 590.56 492.81 590.56 487.77 592.12 482.42 C 599.01 480.84 605.58 480.84 612.16 482.42 C 614.04 487.77 614.04 492.81 612.16 498.16 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-9" data-name="Freeform: Shape 10">
+<path d="M 623.48 478.32 C 623.17 477.06 622.23 476.43 621.29 476.43 C 615.64 475.49 610.31 475.18 604.66 475.18 C 599.33 475.18 593.68 475.49 588.35 476.43 C 587.09 476.43 586.46 477.06 586.15 478.32 C 584.27 486.17 584.27 494.34 586.15 502.51 C 586.46 503.46 587.09 504.4 588.35 504.4 C 590.86 504.71 593.37 505.03 596.19 505.34 C 595.88 505.34 595.88 505.34 595.88 505.34 C 595.88 506.28 599.95 506.6 604.66 506.6 C 609.68 506.6 613.44 506.28 613.44 505.34 C 613.44 505.34 613.44 505.34 613.13 505.34 C 615.95 505.03 618.46 504.71 621.29 504.4 C 622.23 504.4 623.17 503.46 623.48 502.51 C 625.37 494.34 625.37 486.17 623.48 478.32 Z M 620.97 501.88 C 609.99 503.14 599.33 503.14 588.66 501.88 C 586.78 494.34 586.78 486.49 588.66 478.95 C 599.33 477.38 609.99 477.38 620.97 478.95 C 622.86 486.49 622.86 494.34 620.97 501.88 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-10" data-name="Freeform: Shape 11">
+<path d="M 617.81 485.25 C 618.74 485.25 619.67 484.61 619.67 483.33 C 619.67 482.37 618.74 481.41 617.81 481.41 C 616.88 481.41 615.95 482.37 615.95 483.33 C 615.95 484.61 616.88 485.25 617.81 485.25 Z M 617.81 482.69 C 618.12 482.69 618.43 483.01 618.43 483.33 C 618.43 483.97 618.12 483.97 617.81 483.97 C 617.5 483.97 617.19 483.97 617.19 483.33 C 617.19 483.01 617.5 482.69 617.81 482.69 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-11" data-name="Freeform: Shape 12">
+<path d="M 619.04 497.85 C 615.26 497.85 615.26 497.85 615.26 497.85 C 614.94 497.85 614.63 498.15 614.63 498.44 C 614.63 499.04 614.94 499.04 615.26 499.04 C 619.04 499.04 619.04 499.04 619.04 499.04 C 619.35 499.04 619.67 499.04 619.67 498.44 C 619.67 498.15 619.35 497.85 619.04 497.85 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-12" data-name="Freeform: Shape 13">
+<path d="M 620.36 494 C 616.58 494 616.58 494 616.58 494 C 616.27 494 615.95 494.33 615.95 494.67 C 615.95 495.33 616.27 495.33 616.58 495.33 C 620.36 495.33 620.36 495.33 620.36 495.33 C 620.68 495.33 620.99 495.33 620.99 494.67 C 620.99 494.33 620.68 494 620.36 494 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-13" data-name="Freeform: Shape 14">
+<path d="M 620.36 490.29 C 616.58 490.29 616.58 490.29 616.58 490.29 C 616.27 490.29 615.95 490.59 615.95 490.89 C 615.95 491.48 616.27 491.48 616.58 491.48 C 620.36 491.48 620.36 491.48 620.36 491.48 C 620.68 491.48 620.99 491.48 620.99 490.89 C 620.99 490.59 620.68 490.29 620.36 490.29 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-14" data-name="Freeform: Shape 15">
+<path d="M 601.54 485.25 C 595.87 485.57 595.87 485.57 595.87 485.57 C 595.55 485.57 595.24 485.88 594.92 486.2 C 594.61 489.66 594.61 489.66 594.61 489.66 C 594.61 490.29 594.92 490.29 595.24 490.29 C 595.55 490.29 595.87 490.29 595.87 489.66 C 596.18 487.46 596.18 487.46 596.18 487.46 C 596.18 487.14 596.5 486.83 596.81 486.83 C 601.54 486.51 601.54 486.51 601.54 486.51 C 601.85 486.51 602.16 486.2 602.16 485.88 C 602.16 485.25 601.85 485.25 601.54 485.25 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-29" data-name="组合 28">
+<g id="shape-31" data-name="矩形 30">
+<rect x="657.22" y="504.4" width="553.17" height="123.29" fill="none"/>
+<text x="666.82" y="531.87" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">涉及遗产继承、接受赠与等胎儿利益保护的，</tspan><tspan x="666.82" dy="32" fill="#404040" font-size="26.67">胎儿视为具有民事权利能力。但是胎儿娩出时</tspan><tspan x="666.82" dy="32" fill="#404040" font-size="26.67">为死体的，其民事权利能力自始不存在。</tspan></text>
+</g>
+<g id="shape-32" data-name="矩形 31">
+<rect x="657.22" y="440.36" width="295.02" height="52.8" fill="none"/>
+<text x="666.82" y="472.36" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">《</tspan><tspan fill="#404040" font-size="32" font-weight="bold">民法典</tspan><tspan fill="#404040" font-size="32" font-weight="bold">》</tspan><tspan fill="#404040" font-size="32" font-weight="bold">总则编</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-5" data-name="Rectangle: Rounded Corners 5">
+<rect x="582.67" y="169.11" width="612.23" height="72.34" rx="36.17" ry="36.17" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-33" data-name="矩形 32">
+<rect x="582.67" y="168.75" width="612.23" height="67.36" fill="none"/>
+<text x="888.78" y="209.81" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">《</tspan><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">民法典</tspan><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">》</tspan><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">总则编</tspan></text>
+</g>
+</g>
+<g id="shape-35" data-name="图片 34">
+<image href="../assets/image26.png" x="85.1" y="158.32" width="440.69" height="496.35" preserveAspectRatio="none"/>
+</g></svg>

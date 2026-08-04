@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="14.67" flood-color="#000000" flood-opacity="0.4"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="2.83" dy="2.83" stdDeviation="12.67" flood-color="#000000" flood-opacity="0.4"/></filter></defs><g id="shape-3" data-name="组合 2">
+<g id="shape-19" data-name="Oval 23">
+<rect x="67.61" y="287.36" width="76.21" height="76.21" rx="12.7" ry="12.7" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+<text x="105.72" y="333.87" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="24" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="24" font-weight="bold">案例三</tspan></text>
+</g>
+<g id="shape-25" data-name="矩形 24">
+<rect x="161.07" y="274.46" width="535.41" height="123.29" fill="none"/>
+<text x="170.67" y="301.93" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">小明买了一套房，但电梯广告收益却全被物</tspan><tspan x="170.67" dy="32" fill="#404040" font-size="26.67">业收走，小明和其他业主共同向物业主张权</tspan><tspan x="170.67" dy="32" fill="#404040" font-size="26.67">利，拿回了属于自己的收益。</tspan></text>
+</g>
+</g>
+<g id="shape-6" data-name="组合 5">
+<g id="shape-7" data-name="Oval 7">
+<ellipse cx="105.72" cy="490.14" rx="38.11" ry="38.11" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="shape-8" data-name="Freeform: Shape 9">
+<path d="M 114.06 482.44 C 110.61 481.81 107.17 481.49 103.73 481.49 C 100.28 481.49 96.84 481.81 93.39 482.44 C 93.08 482.44 92.77 482.75 92.46 483.38 C 90.89 488.73 90.89 494.4 92.46 499.75 C 92.77 500.38 93.08 500.7 93.39 500.7 C 96.84 501.33 100.28 501.64 103.73 501.64 C 107.17 501.64 110.61 501.33 114.06 500.7 C 114.37 500.7 114.68 500.38 115 499.75 C 116.87 494.4 116.87 488.73 115 483.38 C 114.68 482.75 114.37 482.44 114.06 482.44 Z M 113.74 499.44 C 107.17 500.7 100.59 500.7 93.71 499.44 C 92.14 494.09 92.14 489.05 93.71 483.7 C 100.59 482.12 107.17 482.12 113.74 483.7 C 115.62 489.05 115.62 494.09 113.74 499.44 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-9" data-name="Freeform: Shape 10">
+<path d="M 125.07 479.6 C 124.75 478.34 123.81 477.71 122.87 477.71 C 117.23 476.77 111.89 476.45 106.24 476.45 C 100.91 476.45 95.26 476.77 89.93 477.71 C 88.68 477.71 88.05 478.34 87.73 479.6 C 85.85 487.45 85.85 495.62 87.73 503.79 C 88.05 504.73 88.68 505.67 89.93 505.67 C 92.44 505.99 94.95 506.3 97.77 506.62 C 97.46 506.62 97.46 506.62 97.46 506.62 C 97.46 507.56 101.54 507.87 106.24 507.87 C 111.26 507.87 115.03 507.56 115.03 506.62 C 115.03 506.62 115.03 506.62 114.72 506.62 C 117.54 506.3 120.05 505.99 122.87 505.67 C 123.81 505.67 124.75 504.73 125.07 503.79 C 126.95 495.62 126.95 487.45 125.07 479.6 Z M 122.56 503.16 C 111.58 504.42 100.91 504.42 90.24 503.16 C 88.36 495.62 88.36 487.77 90.24 480.22 C 100.91 478.65 111.58 478.65 122.56 480.22 C 124.44 487.77 124.44 495.62 122.56 503.16 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-10" data-name="Freeform: Shape 11">
+<path d="M 119.39 486.53 C 120.32 486.53 121.25 485.89 121.25 484.61 C 121.25 483.65 120.32 482.68 119.39 482.68 C 118.47 482.68 117.54 483.65 117.54 484.61 C 117.54 485.89 118.47 486.53 119.39 486.53 Z M 119.39 483.97 C 119.7 483.97 120.01 484.29 120.01 484.61 C 120.01 485.25 119.7 485.25 119.39 485.25 C 119.08 485.25 118.78 485.25 118.78 484.61 C 118.78 484.29 119.08 483.97 119.39 483.97 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-11" data-name="Freeform: Shape 12">
+<path d="M 120.62 499.12 C 116.84 499.12 116.84 499.12 116.84 499.12 C 116.53 499.12 116.21 499.42 116.21 499.72 C 116.21 500.32 116.53 500.32 116.84 500.32 C 120.62 500.32 120.62 500.32 120.62 500.32 C 120.94 500.32 121.25 500.32 121.25 499.72 C 121.25 499.42 120.94 499.12 120.62 499.12 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-12" data-name="Freeform: Shape 13">
+<path d="M 121.95 495.28 C 118.17 495.28 118.17 495.28 118.17 495.28 C 117.85 495.28 117.54 495.61 117.54 495.94 C 117.54 496.61 117.85 496.61 118.17 496.61 C 121.95 496.61 121.95 496.61 121.95 496.61 C 122.26 496.61 122.58 496.61 122.58 495.94 C 122.58 495.61 122.26 495.28 121.95 495.28 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-13" data-name="Freeform: Shape 14">
+<path d="M 121.95 491.57 C 118.17 491.57 118.17 491.57 118.17 491.57 C 117.85 491.57 117.54 491.87 117.54 492.16 C 117.54 492.76 117.85 492.76 118.17 492.76 C 121.95 492.76 121.95 492.76 121.95 492.76 C 122.26 492.76 122.58 492.76 122.58 492.16 C 122.58 491.87 122.26 491.57 121.95 491.57 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-14" data-name="Freeform: Shape 15">
+<path d="M 103.12 486.53 C 97.45 486.84 97.45 486.84 97.45 486.84 C 97.14 486.84 96.82 487.16 96.51 487.47 C 96.19 490.94 96.19 490.94 96.19 490.94 C 96.19 491.57 96.51 491.57 96.82 491.57 C 97.14 491.57 97.45 491.57 97.45 490.94 C 97.77 488.73 97.77 488.73 97.77 488.73 C 97.77 488.42 98.08 488.1 98.4 488.1 C 103.12 487.79 103.12 487.79 103.12 487.79 C 103.43 487.79 103.75 487.47 103.75 487.16 C 103.75 486.53 103.43 486.53 103.12 486.53 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-29" data-name="组合 28">
+<g id="shape-31" data-name="矩形 30">
+<rect x="143.83" y="505.68" width="535.41" height="123.29" fill="none"/>
+<text x="153.43" y="533.15" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="26.67" fill="#404040"><tspan fill="#404040" font-size="26.67">建设单位、物业服务企业或者其他管理人等</tspan><tspan x="153.43" dy="32" fill="#404040" font-size="26.67">利用业主的共有部分产生的收入，在扣除合</tspan><tspan x="153.43" dy="32" fill="#404040" font-size="26.67">理成本之后，属于业主共有。</tspan></text>
+</g>
+<g id="shape-32" data-name="矩形 31">
+<rect x="152.27" y="449.98" width="372.25" height="52.94" fill="none"/>
+<text x="161.87" y="481.98" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="32" fill="#404040" font-weight="bold"><tspan fill="#404040" font-size="32" font-weight="bold">《</tspan><tspan fill="#404040" font-size="32" font-weight="bold">民法典</tspan><tspan fill="#404040" font-size="32" font-weight="bold">》</tspan><tspan fill="#404040" font-size="32" font-weight="bold">物权编：</tspan></text>
+</g>
+</g>
+</g>
+<g id="shape-2" data-name="组合 1">
+<g id="shape-5" data-name="Rectangle: Rounded Corners 5">
+<polygon points="67.61,147.72 643.68,147.72 679.85,183.89 643.68,220.06 67.61,220.06" fill="#C00000" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-33" data-name="矩形 32">
+<polygon points="67.61,147.36 646.17,147.36 679.85,181.04 646.17,214.72 67.61,214.72" fill="none"/>
+<text x="373.73" y="188.43" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;思源黑体 CN&quot;, sans-serif" font-size="42.67" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="42.67" font-weight="bold">成家置业</tspan></text>
+</g>
+</g>
+<g id="shape-35" data-name="图片 34">
+<image href="../assets/image34.png" x="741.29" y="269.38" width="435.21" height="292.5" preserveAspectRatio="none"/>
+</g></svg>

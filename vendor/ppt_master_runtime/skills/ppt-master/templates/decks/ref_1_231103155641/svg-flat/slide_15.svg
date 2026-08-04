@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1209.67" height="907.17" viewBox="0 0 1209.67 907.17"><defs><radialGradient id="ggrad1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#16355B"/><stop offset="0.5" stop-color="#0A2037"/><stop offset="1" stop-color="#000D18"/></radialGradient><linearGradient id="ggrad2" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="0" stop-color="#FF6600"/><stop offset="1" stop-color="#FF3300"/></linearGradient><linearGradient id="ggrad3" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="1" stop-color="#CDAD6B"/><stop offset="0.29" stop-color="#EACF99"/><stop offset="1" stop-color="#A5A5A5"/></linearGradient><linearGradient id="ggrad4" x1="0.5" y1="0" x2="0.5" y2="1"><stop offset="1" stop-color="#CDAD6B"/><stop offset="0.29" stop-color="#EACF99"/><stop offset="1" stop-color="#A5A5A5"/></linearGradient></defs><rect x="0" y="0" width="1209.67" height="907.17" fill="#FFFFFF"/>
+<g id="layout-shape-6" data-name="矩形 5">
+<rect x="-2.28" y="110.68" width="1214.5" height="710.65" fill="url(#ggrad1)" stroke-width="2.667" stroke="none"/>
+</g>
+<g id="layout-shape-7" data-name="矩形 6">
+<image href="../assets/image2.jpeg" x="-0.84" y="-1.89" width="1215.34" height="115.29" preserveAspectRatio="none"/>
+<rect x="-0.84" y="-1.89" width="1215.34" height="115.29" fill="none" stroke-width="0" stroke="none"/>
+</g>
+<g id="layout-shape-8" data-name="图片 11">
+<image href="../assets/image4.png" x="0" y="0.35" width="103.95" height="103.94" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-9" data-name="矩形 8">
+<rect x="623.89" y="44" width="584.74" height="49.37" fill="none"/>
+<text x="916.26" y="76.12" text-anchor="middle" xml:space="preserve" font-family="&quot;微软雅黑&quot;, &quot;Arial Unicode MS&quot;, sans-serif" font-size="30.67" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">『</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">PPT</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04">』—</tspan><tspan fill="#FFFFFF" font-size="30.67" letter-spacing="5.04"> </tspan><tspan fill="#FFFFFF" font-size="30.67">WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-10" data-name="矩形 9">
+<rect x="-1.05" y="799.23" width="1215.55" height="107.94" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+<g id="layout-shape-11" data-name="Picture 6" transform="translate(824.07 857.61) scale(-1 1) translate(-824.07 -857.61)">
+<image href="../assets/image3.png" x="438.49" y="839.34" width="771.16" height="36.54" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-12" data-name="TextBox 11">
+<rect x="442.89" y="839.58" width="708.58" height="41.3" fill="none"/>
+<text x="454.99" y="866.03" text-anchor="start" xml:space="preserve" font-family="&quot;微软雅黑&quot;, sans-serif" font-size="24" fill="#FFFFFF" letter-spacing="5.04"><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">第一</tspan><tspan fill="#FFFFFF" font-size="24" letter-spacing="5.04">PPT HTTP://WWW.1PPT.COM</tspan></text>
+</g>
+<g id="layout-shape-13" data-name="Freeform 2670">
+<path d="M 393.46 879.29 L 393.46 879.29 L 391.33 881.07 L 388.84 882.49 L 385.99 883.2 L 383.15 883.56 L 373.9 883.56 L 371.77 883.2 L 369.99 881.78 L 368.92 880.36 L 368.57 878.22 L 368.57 868.61 L 368.57 865.76 L 369.64 863.27 L 371.06 860.78 L 372.84 858.28 L 397.02 834.07 L 399.15 832.29 L 401.64 830.87 L 404.49 830.16 L 407.33 829.8 L 410.18 830.16 L 413.02 830.87 L 415.51 832.29 L 417.64 834.07 L 419.78 836.57 L 420.84 839.06 L 421.91 841.55 L 421.91 844.75 L 421.91 847.6 L 420.84 850.45 L 419.78 852.94 L 417.64 855.08 L 393.46 879.29 Z M 376.04 862.91 L 376.04 862.91 L 374.97 864.34 L 374.26 865.76 L 373.9 867.18 L 373.9 868.61 L 373.9 870.39 L 375.33 870.03 L 376.39 870.39 L 377.81 870.74 L 378.88 871.1 L 379.95 872.17 L 380.66 873.24 L 381.37 874.3 L 381.73 875.37 L 381.73 876.8 L 381.73 878.22 L 383.15 878.22 L 384.93 877.86 L 386.35 877.51 L 387.77 877.15 L 389.19 876.08 L 389.91 874.66 L 390.62 873.24 L 390.97 871.81 L 391.33 870.03 L 390.97 868.25 L 390.62 866.47 L 389.55 865.05 L 388.48 863.62 L 387.06 862.2 L 385.28 861.49 L 383.86 860.78 L 381.73 860.78 L 380.3 860.78 L 378.88 861.13 L 377.46 861.84 L 376.04 862.91 Z M 396.66 868.61 L 414.09 851.16 L 415.15 849.74 L 415.87 848.31 L 416.58 846.53 L 416.58 844.75 L 416.58 842.62 L 415.87 841.19 L 415.15 839.41 L 414.09 837.99 L 412.67 836.92 L 410.89 835.85 L 409.11 835.5 L 407.33 835.14 L 405.55 835.5 L 403.78 835.85 L 402 836.92 L 400.57 837.99 L 383.15 855.43 L 385.64 855.79 L 388.13 856.86 L 390.26 857.93 L 392.4 859.71 L 393.82 861.84 L 395.24 863.98 L 395.95 866.12 L 396.66 868.61 Z" fill="url(#ggrad2)" stroke-width="1" stroke="none" stroke-linejoin="round"/>
+</g>
+<g id="shape-11" data-name="图片 10">
+<image href="../assets/image16.jpeg" x="595.64" y="272.15" width="364.51" height="294.84" preserveAspectRatio="none"/>
+</g>
+<g id="shape-12" data-name="椭圆 11">
+<ellipse cx="222.45" cy="339.47" rx="30.93" ry="30.93" fill="url(#ggrad3)" stroke-width="0.667" stroke-linecap="butt" stroke="none"/>
+</g>
+<g id="shape-13" data-name="Freeform 13">
+<path d="M 222.77 335.77 L 218.44 340.11 C 218.88 340.35 219.27 340.63 219.63 340.98 L 222.77 337.88 L 226.14 341.26 L 230.9 336.49 L 231.62 338.32 L 233.13 333.14 L 227.97 334.65 L 229.87 335.41 L 226.14 339.15 L 222.77 335.77 Z M 237.65 331.19 L 237.65 331.19 L 237.65 329.28 L 225.7 329.28 L 225.7 328.01 L 224.59 328.01 L 224.59 329.28 L 213.36 329.28 L 213.36 331.19 L 214.19 331.19 L 214.19 332.86 C 214.79 332.94 215.3 333.1 215.82 333.38 L 215.82 331.19 L 235.27 331.19 L 235.27 343.69 L 221.34 343.69 C 221.38 343.89 221.46 344.09 221.5 344.33 L 235.27 344.33 L 235.27 345 L 221.57 345 C 221.57 345.12 221.61 345.28 221.61 345.44 L 221.61 347.03 L 224.59 347.03 L 224.59 351.69 L 225.7 351.69 L 225.7 347.03 L 229.47 347.03 L 231.18 351.57 L 232.29 351.29 L 230.7 347.03 L 237.65 347.03 L 237.65 345 L 236.9 345 L 236.9 331.19 L 237.65 331.19 Z M 213.64 340.35 L 213.64 340.35 C 215.26 340.35 216.57 339.03 216.57 337.4 C 216.57 335.73 215.26 334.42 213.64 334.42 C 211.97 334.42 210.66 335.73 210.66 337.4 C 210.66 339.03 211.97 340.35 213.64 340.35 Z M 215.5 340.94 L 215.5 340.94 L 214.43 340.94 L 214.59 341.06 C 214.71 341.18 214.79 341.38 214.71 341.5 L 214.31 342.54 L 215.02 348.31 L 213.72 349.5 L 212.37 348.31 L 213.08 342.54 L 212.68 341.5 C 212.6 341.38 212.68 341.18 212.8 341.06 L 213 340.94 L 211.69 340.94 C 209.23 340.94 207.24 342.97 207.24 345.44 L 207.24 351.89 L 209.86 351.89 L 209.86 345.2 L 210.78 345.2 L 210.78 351.89 L 216.37 351.89 L 216.37 345.2 L 217.29 345.2 L 217.29 351.89 L 219.99 351.89 L 219.99 345.44 C 219.99 342.97 218 340.94 215.5 340.94 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-14" data-name="TextBox 145">
+<rect x="258.84" y="327.75" width="317.7" height="57.45" fill="none"/>
+<text x="271.64" y="347.75" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, Calibri, sans-serif" font-size="16" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="16">单击此处添加文字，添加具体文字内容，</tspan><tspan x="271.64" dy="19.2" fill="#EDD5A5" font-size="16">您的说明文字在此处添加</tspan></text>
+</g>
+<g id="shape-15" data-name="TextBox 148">
+<rect x="255.53" y="287.27" width="232.08" height="42.52" fill="none"/>
+<text x="268.33" y="314.47" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, Calibri, sans-serif" font-size="32" fill="#EDD5A5" font-weight="bold"><tspan fill="#EDD5A5" font-size="32" font-weight="bold">点击添加标题</tspan></text>
+</g>
+<g id="shape-16" data-name="椭圆 15">
+<ellipse cx="221.91" cy="498.57" rx="30.93" ry="30.93" fill="url(#ggrad4)" stroke-width="0.667" stroke-linecap="butt" stroke="none"/>
+</g>
+<g id="shape-17" data-name="Freeform 13">
+<path d="M 222.23 494.86 L 217.9 499.2 C 218.34 499.44 218.74 499.72 219.1 500.08 L 222.23 496.97 L 225.61 500.36 L 230.37 495.58 L 231.08 497.41 L 232.59 492.24 L 227.43 493.75 L 229.34 494.5 L 225.61 498.25 L 222.23 494.86 Z M 237.12 490.28 L 237.12 490.28 L 237.12 488.37 L 225.17 488.37 L 225.17 487.1 L 224.06 487.1 L 224.06 488.37 L 212.82 488.37 L 212.82 490.28 L 213.66 490.28 L 213.66 491.96 C 214.25 492.04 214.77 492.2 215.28 492.47 L 215.28 490.28 L 234.74 490.28 L 234.74 502.78 L 220.8 502.78 C 220.84 502.98 220.92 503.18 220.96 503.42 L 234.74 503.42 L 234.74 504.1 L 221.04 504.1 C 221.04 504.22 221.08 504.38 221.08 504.54 L 221.08 506.13 L 224.06 506.13 L 224.06 510.78 L 225.17 510.78 L 225.17 506.13 L 228.94 506.13 L 230.65 510.67 L 231.76 510.39 L 230.17 506.13 L 237.12 506.13 L 237.12 504.1 L 236.36 504.1 L 236.36 490.28 L 237.12 490.28 Z M 213.1 499.44 L 213.1 499.44 C 214.73 499.44 216.04 498.13 216.04 496.49 C 216.04 494.82 214.73 493.51 213.1 493.51 C 211.43 493.51 210.12 494.82 210.12 496.49 C 210.12 498.13 211.43 499.44 213.1 499.44 Z M 214.97 500.04 L 214.97 500.04 L 213.9 500.04 L 214.05 500.16 C 214.17 500.28 214.25 500.47 214.17 500.59 L 213.78 501.63 L 214.49 507.4 L 213.18 508.6 L 211.83 507.4 L 212.55 501.63 L 212.15 500.59 C 212.07 500.47 212.15 500.28 212.27 500.16 L 212.47 500.04 L 211.16 500.04 C 208.7 500.04 206.71 502.07 206.71 504.54 L 206.71 510.98 L 209.33 510.98 L 209.33 504.3 L 210.24 504.3 L 210.24 510.98 L 215.84 510.98 L 215.84 504.3 L 216.75 504.3 L 216.75 510.98 L 219.45 510.98 L 219.45 504.54 C 219.45 502.07 217.47 500.04 214.97 500.04 Z" fill="#FFFFFF" stroke="none"/>
+</g>
+<g id="shape-18" data-name="TextBox 145">
+<rect x="258.31" y="486.84" width="325.18" height="57.45" fill="none"/>
+<text x="271.1" y="506.84" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, Calibri, sans-serif" font-size="16" fill="#EDD5A5"><tspan fill="#EDD5A5" font-size="16">单击此处添加文字，添加具体文字内容，</tspan><tspan x="271.1" dy="19.2" fill="#EDD5A5" font-size="16">您的说明文字在此处添加</tspan></text>
+</g>
+<g id="shape-19" data-name="TextBox 148">
+<rect x="255" y="446.36" width="232.08" height="42.52" fill="none"/>
+<text x="267.8" y="473.56" text-anchor="start" xml:space="preserve" font-family="Arial, &quot;微软雅黑&quot;, Calibri, sans-serif" font-size="32" fill="#EDD5A5" font-weight="bold"><tspan fill="#EDD5A5" font-size="32" font-weight="bold">点击添加标题</tspan></text>
+</g></svg>

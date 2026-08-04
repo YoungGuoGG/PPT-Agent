@@ -1,0 +1,118 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="1280" height="720" viewBox="0 0 1280 720"><defs><filter id="fx1" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#000000" flood-opacity="0.2"/></filter><filter id="fx2" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="5.33" stdDeviation="13.33" flood-color="#A92C24" flood-opacity="0.2"/></filter><filter id="fx3" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3.33" flood-color="#A92C24" flood-opacity="0.4"/></filter><filter id="fx4" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3.33" flood-color="#A92C24" flood-opacity="0.4"/></filter><filter id="fx5" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3.33" flood-color="#A92C24" flood-opacity="0.4"/></filter><filter id="fx6" x="-25%" y="-25%" width="150%" height="150%"><feDropShadow dx="0" dy="0" stdDeviation="3.33" flood-color="#A92C24" flood-opacity="0.4"/></filter></defs><rect x="0" y="0" width="1280" height="720" fill="#FFFFFF"/>
+<g id="layout-shape-10" data-name="图片 9">
+<image href="assets/image1.png" x="0" y="0" width="1280" height="720" preserveAspectRatio="none"/>
+</g>
+<g id="layout-shape-5" data-name="矩形 4">
+<rect x="37.82" y="35" width="1204.35" height="650" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx1)"/>
+</g>
+<g id="layout-shape-6" data-name="组合 5">
+<g id="layout-shape-7" data-name="矩形: 圆角 6">
+<rect x="88.49" y="76.27" width="73.38" height="48.47" rx="24.23" ry="24.23" stroke="none" fill="#A92C24" stroke-width="1" filter="url(#fx2)"/>
+</g>
+<g id="layout-shape-8" data-name="等腰三角形 7" transform="rotate(90 126.87 98.82)">
+<polygon points="126.87,90.4 136.64,107.24 117.1,107.24" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="layout-shape-9" data-name="直接连接符 8">
+<line x1="178.18" y1="129.46" x2="1139.6" y2="129.46" stroke="#D9D9D9" fill="#A92C24" stroke-width="1"/>
+</g>
+<g id="shape-3" data-name="文本框 2">
+<rect x="174.92" y="77.62" width="229.42" height="51.7" fill="none"/>
+<text x="184.52" y="111.89" text-anchor="start" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, sans-serif" font-size="34.67" fill="#262626"><tspan fill="#262626" font-size="34.67">添加标题文字</tspan></text>
+</g>
+<g id="shape-6" data-name="图形">
+<rect x="127.8" y="171.9" width="1006.2" height="70.47" fill="none"/>
+<text x="630.9" y="192.57" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此处添加您的文本内容在此处添加文本内容添加文本内容添加文本内容在此处添加您的文本内容在此处添加您的文本</tspan><tspan x="630.9" dy="28" fill="#262626" font-size="18.67">内容在此处添加文本内容添加文本内容添加文本内容在此处添加您的文本内容</tspan></text>
+</g>
+<g id="shape-7" data-name="组合 6">
+<g id="shape-8" data-name="图形">
+<rect x="171" y="291.9" width="190.53" height="272" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx3)"/>
+</g>
+<g id="shape-9" data-name="图形">
+<path d="M 266.23 515.3 C 293.06 515.3 314.8 537.05 314.8 563.87 C 314.8 590.69 293.06 612.43 266.23 612.43 C 239.41 612.43 217.67 590.69 217.67 563.87 C 217.67 537.05 239.41 515.3 266.23 515.3 Z" fill="#A92C24" stroke-width="7.333" stroke="#F4CFCD"/>
+<text x="266.23" y="571.87" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="32" font-weight="bold">01</tspan></text>
+</g>
+<g id="shape-10" data-name="图形">
+<rect x="185.2" y="419.9" width="159.8" height="78.53" fill="none"/>
+<text x="265.1" y="461.03" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此处添加您的文本内容在此处</tspan></text>
+</g>
+<g id="shape-11" data-name="图形">
+<rect x="190.67" y="388.37" width="147.2" height="48.33" fill="none"/>
+<text x="264.27" y="420.37" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">预设标题</tspan></text>
+</g>
+<g id="shape-12" data-name="图形">
+<ellipse cx="266.27" cy="351.5" rx="19.67" ry="19.67" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-13" data-name="图形">
+<ellipse cx="267.1" cy="352.33" rx="7.17" ry="7.17" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-14" data-name="组合 13">
+<g id="shape-15" data-name="图形">
+<rect x="421.67" y="291.9" width="190.53" height="272" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx4)"/>
+</g>
+<g id="shape-16" data-name="图形">
+<path d="M 516.97 515.3 C 543.79 515.3 565.53 537.05 565.53 563.87 C 565.53 590.69 543.79 612.43 516.97 612.43 C 490.14 612.43 468.4 590.69 468.4 563.87 C 468.4 537.05 490.14 515.3 516.97 515.3 Z" fill="#A92C24" stroke-width="7.333" stroke="#F4CFCD"/>
+<text x="516.97" y="571.87" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="32" font-weight="bold">02</tspan></text>
+</g>
+<g id="shape-17" data-name="图形">
+<rect x="436.13" y="419.9" width="159.8" height="78.53" fill="none"/>
+<text x="516.03" y="461.03" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此处添加您的文本内容在</tspan></text>
+</g>
+<g id="shape-18" data-name="图形">
+<rect x="442.8" y="388.37" width="147.2" height="48.33" fill="none"/>
+<text x="516.4" y="420.37" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">预设标题</tspan></text>
+</g>
+<g id="shape-19" data-name="图形">
+<ellipse cx="516" cy="351.5" rx="19.67" ry="19.67" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-20" data-name="图形">
+<ellipse cx="516.83" cy="352.33" rx="7.17" ry="7.17" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-21" data-name="组合 20">
+<g id="shape-22" data-name="图形">
+<rect x="675.07" y="291.9" width="190.53" height="272" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx5)"/>
+</g>
+<g id="shape-23" data-name="图形">
+<path d="M 764.37 515.3 C 791.19 515.3 812.93 537.05 812.93 563.87 C 812.93 590.69 791.19 612.43 764.37 612.43 C 737.54 612.43 715.8 590.69 715.8 563.87 C 715.8 537.05 737.54 515.3 764.37 515.3 Z" fill="#A92C24" stroke-width="7.333" stroke="#F4CFCD"/>
+<text x="764.37" y="571.87" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="32" font-weight="bold">03</tspan></text>
+</g>
+<g id="shape-24" data-name="图形">
+<rect x="688.93" y="419.7" width="159.8" height="78.53" fill="none"/>
+<text x="768.83" y="460.83" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此处添加您的文本内容在</tspan></text>
+</g>
+<g id="shape-25" data-name="图形">
+<rect x="696.07" y="388.37" width="147.2" height="48.33" fill="none"/>
+<text x="769.67" y="420.37" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">预设标题</tspan></text>
+</g>
+<g id="shape-26" data-name="图形">
+<ellipse cx="770.33" cy="351.5" rx="19.67" ry="19.67" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-27" data-name="图形">
+<ellipse cx="771.17" cy="352.33" rx="7.17" ry="7.17" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g>
+<g id="shape-28" data-name="组合 27">
+<g id="shape-29" data-name="图形">
+<rect x="928.47" y="291.9" width="190.53" height="272" fill="#FFFFFF" stroke="none" stroke-width="1" filter="url(#fx6)"/>
+</g>
+<g id="shape-30" data-name="图形">
+<path d="M 1021.17 515.3 C 1047.99 515.3 1069.73 537.05 1069.73 563.87 C 1069.73 590.69 1047.99 612.43 1021.17 612.43 C 994.34 612.43 972.6 590.69 972.6 563.87 C 972.6 537.05 994.34 515.3 1021.17 515.3 Z" fill="#A92C24" stroke-width="7.333" stroke="#F4CFCD"/>
+<text x="1021.17" y="571.87" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#FFFFFF" font-weight="bold"><tspan fill="#FFFFFF" font-size="32" font-weight="bold">04</tspan></text>
+</g>
+<g id="shape-31" data-name="图形">
+<rect x="939.87" y="419.7" width="159.8" height="78.53" fill="none"/>
+<text x="1019.77" y="460.83" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="18.67" fill="#262626"><tspan fill="#262626" font-size="18.67">在此处添加您的文本内容在</tspan></text>
+</g>
+<g id="shape-32" data-name="图形">
+<rect x="948.2" y="388.37" width="147.2" height="48.33" fill="none"/>
+<text x="1021.8" y="420.37" text-anchor="middle" xml:space="preserve" font-family="&quot;思源黑体 CN Medium&quot;, &quot;字魂58号-创中黑&quot;, sans-serif" font-size="32" fill="#262626"><tspan fill="#262626" font-size="32">预设标题</tspan></text>
+</g>
+<g id="shape-33" data-name="图形">
+<ellipse cx="1020.07" cy="351.5" rx="19.67" ry="19.67" fill="#A92C24" stroke="none" stroke-width="1"/>
+</g>
+<g id="shape-34" data-name="图形">
+<ellipse cx="1020.9" cy="352.33" rx="7.17" ry="7.17" fill="#FFFFFF" stroke="none" stroke-width="1"/>
+</g>
+</g></svg>
