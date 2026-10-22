@@ -47,9 +47,9 @@ export interface WorkflowCapability {
   issues: Array<{ code: string; message: string }>;
 }
 export interface Snapshot {
-  session: { id: string; conversation_id: string; status: Status; workflow_id: string; prompt: string; error?: Record<string, unknown> };
+  session: { id: string; conversation_id: string; status: Status; workflow_id: string; prompt: string; updated_at: string; error?: Record<string, unknown> };
   plan: { steps: Step[]; style_selection?: { style_id: string; mode: string; reason: string; design_version: string; design_hash: string } };
   versions: Version[];
   artifacts: Artifact[];
-  events: Array<{ seq: number; type: string; payload: Record<string, unknown> }>;
+  events?: Array<{ seq: number; type: string; payload: Record<string, unknown> }>;
 }

@@ -9,7 +9,7 @@ from pathlib import Path
 from typing import Any
 from uuid import uuid4
 
-from fastapi import BackgroundTasks, FastAPI, HTTPException, UploadFile
+from fastapi import BackgroundTasks, FastAPI, Header, HTTPException, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse, StreamingResponse
 
@@ -19,6 +19,7 @@ from .schemas import ConversationCreate, MessageCreate, RevisionCreate, StyleImp
 
 
 TERMINAL = {"review_ready", "succeeded", "failed", "cancelled"}
+MAX_EVENT_SEQUENCE = (1 << 63) - 1
 
 
 def create_app(runtime: AgentRuntime | None = None) -> FastAPI:
@@ -90,19 +91,33 @@ def create_app(runtime: AgentRuntime | None = None) -> FastAPI:
         return snapshot
 
     @app.get("/v1/sessions/{session_id}")
-    def get_session(session_id: str) -> dict[str, Any]:
+    def get_session(session_id: str, include_events: bool = True) -> dict[str, Any]:
         try:
-            return agent.snapshot(session_id)
+            return agent.snapshot(session_id, include_events=include_events)
         except KeyError as exc:
             raise HTTPException(status_code=404, detail=str(exc)) from exc
 
     @app.get("/v1/sessions/{session_id}/events")
-    async def stream_events(session_id: str, after: int = 0) -> StreamingResponse:
+    async def stream_events(
+        session_id: str,
+        after: int = 0,
+        last_event_id: str | None = Header(default=None, alias="Last-Event-ID"),
+    ) -> StreamingResponse:
         if agent.store.get_session(session_id) is None:
             raise HTTPException(status_code=404, detail="session not found")
 
+        after_cursor = min(max(0, after), MAX_EVENT_SEQUENCE)
+        header_cursor: int | None = None
+        if last_event_id is not None:
+            try:
+                parsed_cursor = int(last_event_id)
+                if 0 <= parsed_cursor <= MAX_EVENT_SEQUENCE:
+                    header_cursor = parsed_cursor
+            except ValueError:
+                pass
+
         async def generate():
-            cursor = after
+            cursor = max(after_cursor, header_cursor or 0)
             while True:
                 events = agent.store.list_events(session_id, cursor)
                 for event in events:

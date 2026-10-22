@@ -24,6 +24,28 @@ import { downloadDeckArtifact, suggestedDeckName } from "./platform/download";
 import type { Conversation, Snapshot, StyleCase, StyleImport, WorkflowCapability } from "./types";
 
 const terminal = new Set(["review_ready", "succeeded", "failed", "cancelled"]);
+const streamEvents = [
+  "step_started",
+  "step_succeeded",
+  "subworkflow_failed",
+  "revision_started",
+  "review_ready",
+  "session_failed",
+  "session_cancelled",
+  "revision_ready",
+  "revision_failed",
+  "version_accepted",
+  "version_rolled_back",
+] as const;
+const streamEndingEvents = new Set<string>([
+  "review_ready",
+  "session_failed",
+  "session_cancelled",
+  "revision_ready",
+  "revision_failed",
+  "version_accepted",
+  "version_rolled_back",
+]);
 
 export default function App() {
   const [conversations, setConversations] = useState<Conversation[]>([]);
@@ -31,6 +53,7 @@ export default function App() {
   const [styles, setStyles] = useState<StyleCase[]>([]);
   const [workflows, setWorkflows] = useState<WorkflowCapability[]>([]);
   const [snapshot, setSnapshot] = useState<Snapshot | null>(null);
+  const [eventStreamSessionId, setEventStreamSessionId] = useState("");
   const [prompt, setPrompt] = useState("");
   const [files, setFiles] = useState<Array<{ name: string; path: string; size: number }>>([]);
   const [selectedStyle, setSelectedStyle] = useState("");
@@ -52,24 +75,51 @@ export default function App() {
   const fileInput = useRef<HTMLInputElement>(null);
   const styleFileInput = useRef<HTMLInputElement>(null);
   const historyRequest = useRef(0);
+  const conversationIdRef = useRef("");
+  const eventCursors = useRef(new Map<string, number>());
+  const revisionStates = useRef(new Map<string, { pending: boolean; sawStart: boolean; baselineUpdatedAt: string }>());
 
   useEffect(() => {
     void boot();
   }, []);
 
   useEffect(() => {
-    const id = snapshot?.session.id;
-    if (!id || terminal.has(snapshot.session.status)) return;
-    const source = new EventSource(api.eventUrl(id));
-    for (const event of ["step_started", "step_succeeded", "subworkflow_failed", "review_ready", "session_failed", "revision_ready", "revision_failed"]) {
-      source.addEventListener(event, () => void refresh(id));
+    const session = snapshot?.session;
+    const id = eventStreamSessionId;
+    if (!id || session?.id !== id) return;
+    const after = eventCursors.current.get(id) ?? 0;
+    const source = new EventSource(api.eventUrl(id, after));
+    let reconnectRefreshPending = false;
+    const onOpen = () => { reconnectRefreshPending = false; };
+    const closeIfFinished = (updated: Snapshot | null) => {
+      if (!updated || ["queued", "running", "revising"].includes(updated.session.status)) return;
+      const revision = revisionStates.current.get(id);
+      if (revision?.pending && !revision.sawStart) return;
+      source.close();
+      revisionStates.current.delete(id);
+      setEventStreamSessionId((current) => current === id ? "" : current);
+    };
+    source.addEventListener("open", onOpen);
+    for (const eventName of streamEvents) {
+      source.addEventListener(eventName, (event) => {
+        const eventId = Number.parseInt((event as MessageEvent).lastEventId, 10);
+        if (Number.isSafeInteger(eventId) && eventId >= 0) {
+          eventCursors.current.set(id, Math.max(eventCursors.current.get(id) ?? 0, eventId));
+        }
+        if (streamEndingEvents.has(eventName)) {
+          void refresh(id).then(closeIfFinished);
+        } else {
+          void refresh(id);
+        }
+      });
     }
     source.onerror = () => {
-      source.close();
-      window.setTimeout(() => void refresh(id), 1200);
+      if (reconnectRefreshPending) return;
+      reconnectRefreshPending = true;
+      void refresh(id).then(closeIfFinished);
     };
     return () => source.close();
-  }, [snapshot?.session.id, snapshot?.session.status]);
+  }, [eventStreamSessionId, snapshot?.session.id]);
 
   async function boot(): Promise<boolean> {
     setGatewayLoading(true);
@@ -97,6 +147,7 @@ export default function App() {
       }
       selected ??= first;
       setConversationId(selected.id);
+      conversationIdRef.current = selected.id;
       setStyles(styleCases);
       setWorkflows(workflowCatalog);
       await restoreConversation(selected.id);
@@ -114,23 +165,40 @@ export default function App() {
 
   async function refresh(sessionId: string) {
     try {
-      setSnapshot(await api.snapshot(sessionId));
+      const updated = await api.snapshot(sessionId);
+      if (updated.session.conversation_id !== conversationIdRef.current) return null;
+      const revision = revisionStates.current.get(sessionId);
+      if (revision?.pending && updated.session.updated_at !== revision.baselineUpdatedAt) revision.sawStart = true;
+      setSnapshot(updated);
+      return updated;
     } catch (cause) {
       setError(messageOf(cause, "无法更新运行状态"));
+      return null;
     }
   }
 
   async function restoreConversation(id: string) {
     const requestId = ++historyRequest.current;
+    conversationIdRef.current = id;
+    setEventStreamSessionId("");
     setHistoryLoading(true);
     setError("");
     try {
       const sessions = await api.sessions(id);
       const restored = sessions[0] ? await api.snapshot(sessions[0].id) : null;
-      if (historyRequest.current === requestId) setSnapshot(restored);
+      if (historyRequest.current === requestId) {
+        setSnapshot(restored);
+        if (restored?.session.status === "revising") {
+          revisionStates.current.set(restored.session.id, { pending: true, sawStart: true, baselineUpdatedAt: restored.session.updated_at });
+        } else if (restored) {
+          revisionStates.current.delete(restored.session.id);
+        }
+        setEventStreamSessionId(restored && !terminal.has(restored.session.status) ? restored.session.id : "");
+      }
     } catch (cause) {
       if (historyRequest.current === requestId) {
         setSnapshot(null);
+        setEventStreamSessionId("");
         setError(messageOf(cause, "无法恢复历史任务"));
       }
     } finally {
@@ -139,6 +207,7 @@ export default function App() {
   }
 
   async function selectConversation(id: string) {
+    conversationIdRef.current = id;
     setConversationId(id);
     await restoreConversation(id);
   }
@@ -147,6 +216,8 @@ export default function App() {
     const conversation = await api.createConversation("新建演示文稿");
     setConversations((current) => [conversation, ...current]);
     setConversationId(conversation.id);
+    conversationIdRef.current = conversation.id;
+    setEventStreamSessionId("");
     historyRequest.current += 1;
     setHistoryLoading(false);
     setSnapshot(null);
@@ -182,6 +253,7 @@ export default function App() {
         style_id: selectedStyle || undefined,
       });
       setSnapshot(result);
+      setEventStreamSessionId(terminal.has(result.session.status) ? "" : result.session.id);
     } catch (cause) {
       setError(messageOf(cause, "生成任务创建失败"));
     } finally {
@@ -241,6 +313,7 @@ export default function App() {
 
   async function revise() {
     if (!snapshot || !reviewInstruction.trim()) return;
+    const sessionId = snapshot.session.id;
     const pageNumbers = reviewScope === "selected_pages"
       ? reviewPages.split(/[，,\s]+/).map(Number).filter((value) => Number.isInteger(value) && value > 0)
       : [];
@@ -249,14 +322,31 @@ export default function App() {
       return;
     }
     setBusy(true);
+    revisionStates.current.set(sessionId, { pending: true, sawStart: false, baselineUpdatedAt: snapshot.session.updated_at });
     try {
-      await api.revise(snapshot.session.id, reviewScope, reviewInstruction.trim(), pageNumbers);
+      await api.revise(sessionId, reviewScope, reviewInstruction.trim(), pageNumbers);
       setReviewInstruction("");
-      window.setTimeout(() => void refresh(snapshot.session.id), 600);
+      setEventStreamSessionId(sessionId);
+      window.setTimeout(() => void refresh(sessionId), 600);
     } catch (cause) {
+      if (!revisionStates.current.get(sessionId)?.sawStart) revisionStates.current.delete(sessionId);
       setError(messageOf(cause, "修订任务创建失败"));
     } finally {
       setBusy(false);
+    }
+  }
+
+  async function resolveVersionAction(versionId: string, action: "accept" | "rollback") {
+    if (!snapshot) return;
+    const sessionId = snapshot.session.id;
+    setEventStreamSessionId(sessionId);
+    try {
+      const updated = action === "accept"
+        ? await api.accept(sessionId, versionId)
+        : await api.rollback(sessionId, versionId);
+      setSnapshot(updated);
+    } catch (cause) {
+      setError(messageOf(cause, action === "accept" ? "无法采用此版本" : "无法回到此版本"));
     }
   }
 
@@ -420,7 +510,7 @@ export default function App() {
           {snapshot?.plan?.style_selection && <div className="style-selection"><strong>本次采用：{styles.find((style) => style.id === snapshot.plan.style_selection?.style_id)?.name ?? snapshot.plan.style_selection.style_id}</strong><span>{snapshot.plan.style_selection.reason}</span><code>{snapshot.plan.style_selection.design_hash.slice(0, 10)}</code></div>}
         </div>
         <div className="inspector-section"><div className="section-title"><SlidersHorizontal size={17} /><h2>生成设置</h2></div><dl><div><dt>输出</dt><dd>可编辑 PPTX</dd></div><div><dt>画布</dt><dd>16:9</dd></div><div><dt>交互</dt><dd>仅评审阶段</dd></div><div><dt>工作流</dt><dd>{gatewayLoading ? "连接中" : serviceConnected ? workflows.length ? `${executableCount}/${workflows.length} 已验收` : "暂无可用能力" : <button className="inline-retry" onClick={() => void boot()}>重新连接</button>}</dd></div></dl></div>
-        {snapshot && <div className="inspector-section versions"><div className="section-title"><RotateCcw size={17} /><h2>版本</h2></div>{snapshot.versions.map((version) => <div className="version-row" key={version.id}><div><strong>V{version.version}</strong><span>{version.pages.length ? `第 ${version.pages.join('、')} 页` : '整份'}</span></div><span className={`version-status ${version.status}`}>{version.status === 'accepted' ? '已采用' : '候选'}</span>{reviewReady && version.status !== 'accepted' && <div className="version-actions"><button onClick={() => void api.rollback(snapshot.session.id, version.id).then(setSnapshot)}>回到此版</button><button onClick={() => void api.accept(snapshot.session.id, version.id).then(setSnapshot)}><Check size={14} />采用</button></div>}</div>)}</div>}
+          {snapshot && <div className="inspector-section versions"><div className="section-title"><RotateCcw size={17} /><h2>版本</h2></div>{snapshot.versions.map((version) => <div className="version-row" key={version.id}><div><strong>V{version.version}</strong><span>{version.pages.length ? `第 ${version.pages.join('、')} 页` : '整份'}</span></div><span className={`version-status ${version.status}`}>{version.status === 'accepted' ? '已采用' : '候选'}</span>{reviewReady && version.status !== 'accepted' && <div className="version-actions"><button onClick={() => void resolveVersionAction(version.id, "rollback")}>回到此版</button><button onClick={() => void resolveVersionAction(version.id, "accept")}><Check size={14} />采用</button></div>}</div>)}</div>}
       </aside>
       {settingsOpen && <div className="modal-backdrop" role="presentation" onMouseDown={() => setSettingsOpen(false)}><section className="settings-modal" role="dialog" aria-modal="true" aria-labelledby="settings-title" onMouseDown={(event) => event.stopPropagation()}><div className="modal-title"><div><span className="eyebrow">Windows 凭据管理器</span><h2 id="settings-title">模型连接设置</h2></div><button aria-label="关闭" onClick={() => setSettingsOpen(false)}><X size={18} /></button></div><p>桌面版会安全保存密钥并重启本地 Agent 服务；不会把密钥写入前端文件。</p><label className="field-label">API Key<input type="password" autoComplete="off" value={modelSettings.apiKey} onChange={(event) => setModelSettings({ ...modelSettings, apiKey: event.target.value })} placeholder="仅在需要更新时填写" /></label><label className="field-label">Base URL<input value={modelSettings.baseUrl} onChange={(event) => setModelSettings({ ...modelSettings, baseUrl: event.target.value })} placeholder="https://api.openai.com/v1" /></label><label className="field-label">模型<input value={modelSettings.model} onChange={(event) => setModelSettings({ ...modelSettings, model: event.target.value })} placeholder="模型名称" /></label><div className="modal-actions"><button onClick={() => setSettingsOpen(false)}>取消</button><button className="primary-button" disabled={busy} onClick={() => void saveSettings()}>{busy ? <LoaderCircle className="spin" size={17} /> : <Check size={17} />}保存并重启服务</button></div></section></div>}
       {styleImport && <div className="modal-backdrop" role="presentation"><section className="style-review-modal" role="dialog" aria-modal="true" aria-labelledby="style-review-title">
