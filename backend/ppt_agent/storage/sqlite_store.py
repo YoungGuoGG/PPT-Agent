@@ -30,6 +30,7 @@ CREATE TABLE IF NOT EXISTS events (
   seq INTEGER PRIMARY KEY AUTOINCREMENT, session_id TEXT NOT NULL, type TEXT NOT NULL,
   payload_json TEXT NOT NULL, created_at TEXT NOT NULL
 );
+CREATE INDEX IF NOT EXISTS idx_events_session_seq ON events(session_id, seq);
 CREATE TABLE IF NOT EXISTS artifacts (
   id TEXT PRIMARY KEY, session_id TEXT NOT NULL, role TEXT NOT NULL, path TEXT NOT NULL,
   sha256 TEXT NOT NULL, size INTEGER NOT NULL, created_at TEXT NOT NULL

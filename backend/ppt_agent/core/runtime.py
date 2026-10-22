@@ -327,11 +327,19 @@ class AgentRuntime:
         self.store.append_event(session_id, "session_cancelled", {"execution_id": execution_id})
         return self.snapshot(session_id)
 
-    def snapshot(self, session_id: str) -> dict[str, Any]:
+    def snapshot(self, session_id: str, *, include_events: bool = True) -> dict[str, Any]:
         session = self.store.get_session(session_id)
         if session is None:
             raise KeyError(f"session not found: {session_id}")
-        return {"session": session, "plan": self.store.get_plan_for_session(session_id), "versions": self.store.list_versions(session_id), "artifacts": self.store.list_artifacts(session_id), "events": self.store.list_events(session_id)}
+        snapshot: dict[str, Any] = {
+            "session": session,
+            "plan": self.store.get_plan_for_session(session_id),
+            "versions": self.store.list_versions(session_id),
+            "artifacts": self.store.list_artifacts(session_id),
+        }
+        if include_events:
+            snapshot["events"] = self.store.list_events(session_id)
+        return snapshot
 
     def list_workflows(self) -> list[dict[str, Any]]:
         return self.workflow_catalog.list() if self.workflow_catalog is not None else []

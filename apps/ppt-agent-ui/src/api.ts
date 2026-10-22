@@ -39,7 +39,7 @@ export const api = {
   sessions: (conversationId: string) => request<Snapshot["session"][]>(`/v1/conversations/${conversationId}/sessions`),
   createConversation: (title: string) => request<Conversation>("/v1/conversations", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ title }) }),
   submit: (conversationId: string, prompt: string, attachments: string[], options: Record<string, unknown>) => request<Snapshot>(`/v1/conversations/${conversationId}/messages`, { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ prompt, attachments, options }) }),
-  snapshot: (sessionId: string) => request<Snapshot>(`/v1/sessions/${sessionId}`),
+  snapshot: (sessionId: string) => request<Snapshot>(`/v1/sessions/${sessionId}?include_events=false`),
   upload: async (file: File) => {
     const body = new FormData();
     body.append("file", file);
@@ -56,5 +56,9 @@ export const api = {
   styleImportReferenceUrl: (importId: string, name: string) => `${API}/v1/style-imports/${importId}/references/${encodeURIComponent(name)}${TOKEN ? `?access_token=${encodeURIComponent(TOKEN)}` : ""}`,
   artifactBlob: (sessionId: string, artifactId: string) => requestBlob(`/v1/sessions/${sessionId}/artifacts/${artifactId}`),
   artifactUrl: (sessionId: string, artifactId: string) => `${API}/v1/sessions/${sessionId}/artifacts/${artifactId}${TOKEN ? `?access_token=${encodeURIComponent(TOKEN)}` : ""}`,
-  eventUrl: (sessionId: string) => `${API}/v1/sessions/${sessionId}/events${TOKEN ? `?access_token=${encodeURIComponent(TOKEN)}` : ""}`,
+  eventUrl: (sessionId: string, after = 0) => {
+    const query = new URLSearchParams({ after: String(after) });
+    if (TOKEN) query.set("access_token", TOKEN);
+    return `${API}/v1/sessions/${sessionId}/events?${query}`;
+  },
 };
